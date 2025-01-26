@@ -3,6 +3,7 @@ name: Update subscriptions
 on:
   schedule:
     - cron: '*/65 * * * *'
+  workflow_dispatch:
 
 jobs:
   update-subscriptions:
