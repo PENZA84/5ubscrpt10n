@@ -17,6 +17,7 @@ jobs:
           cd working
           npm install axios atob btoa
           node index.js
+          rm -rf node_modules
 
       - name: Move files to directories
         run: |
