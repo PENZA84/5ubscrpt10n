@@ -14,8 +14,9 @@ jobs:
 
       - name: Install and run script
         run: |
-          cd working && npm install axios atob btoa
-          node app.js
+          cd working
+          npm install axios atob btoa
+          node index.js
 
       - name: Move files to directories
         run: |
