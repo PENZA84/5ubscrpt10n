@@ -1,2 +1,0 @@
-# 5ubscrpt10n
-⚡ Free configs VLESS/VMESS/TROJAN/SHADOWSOCKS
