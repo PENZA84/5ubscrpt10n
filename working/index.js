@@ -92,10 +92,10 @@ function splitFile(inputPath) {
     let part = 1;
     for (let i = 0; i < data.length; i += 10000) {
         const chunk = data.slice(i, i + 10000).join('\n');
-        fs.writeFileSync(`mini-subscription-${part}.txt`, chunk);
+        fs.writeFileSync(`m1n1-5ub-${part}.txt`, chunk);
         part++;
     }
-    console.log('Файл успешно разбит на части!');
+    console.log('The file is split into parts successfully');
 }
 
 main();
