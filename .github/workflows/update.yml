@@ -29,6 +29,7 @@ jobs:
           mv working/ss.txt protocols/
           mv working/tr.txt protocols/
           mv working/m1n1-5ub-*.txt mini/
+          MINI_SUBS=$(ls mini/m1n1-5ub-*.txt | sort -V | awk '{print "https://raw.githubusercontent.com/${{ github.repository }}/main/"$0}')
           cat <<EOF > README.md
           ```
           ** The Subscriptions updating every hour **
@@ -56,7 +57,7 @@ jobs:
           https://raw.githubusercontent.com/${{ github.repository }}/main/protocols/ss.txt
 
           ** Subscriptions in parts (10k lines per file) **
-          $(ls mini/m1n1-5ub-*.txt | sort -V | awk '{print "https://raw.githubusercontent.com/${{ github.repository }}/main/"$0}')
+          $MINI_SUBS
           ```
           EOF
 
