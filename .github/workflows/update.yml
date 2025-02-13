@@ -30,38 +30,38 @@ jobs:
           mv working/tr.txt protocols/
           mv working/m1n1-5ub-*.txt mini/
 
-          MINI_SUBS=$(ls mini/m1n1-5ub-*.txt | sort -V | awk '{print "https://raw.githubusercontent.com/${{ github.repository }}/main/"$0}')
+      MINI_SUBS=$(ls mini/m1n1-5ub-*.txt | sort -V | awk '{print "https://raw.githubusercontent.com/${{ github.repository }}/main/"$0}')
 
-          cat <<EOF > README.md
-\`\`\`
-** The Subscriptions updating every hour **
-** Found a new source to obtain subscriptions? Tell it in Repository Issues **
+      cat <<EOF > README.md
+      ```
+      ** The Subscriptions updating every hour **
+      ** Found a new source to obtain subscriptions? Tell it in Repository Issues **
 
-** You need a software that supports these protocols and has a Subscription function **
-** Just copy the needed link and paste it into the program **
+      ** You need a software that supports these protocols and has a Subscription function **
+      ** Just copy the needed link and paste it into the program **
 
-** Some software/hardware might not import these subscriptions because they are too large **
+      ** Some software/hardware might not import these subscriptions because they are too large **
 
-** Full Subscription (VLESS/VMESS/Shadowsocks/Trojan) **
-https://raw.githubusercontent.com/${{ github.repository }}/main/full/5ubscrpt10n.txt
+      ** Full Subscription (VLESS/VMESS/Shadowsocks/Trojan) **
+      https://raw.githubusercontent.com/${{ github.repository }}/main/full/5ubscrpt10n.txt
 
-** Full Subscription ~ Base64 ~ (VLESS/VMESS/Shadowsocks/Trojan) **
-https://raw.githubusercontent.com/${{ github.repository }}/main/full/5ubscrpt10n-b64.txt
+      ** Full Subscription ~ Base64 ~ (VLESS/VMESS/Shadowsocks/Trojan) **
+      https://raw.githubusercontent.com/${{ github.repository }}/main/full/5ubscrpt10n-b64.txt
 
-** Subscriptions by protocols **
-[VLESS]
-https://raw.githubusercontent.com/${{ github.repository }}/main/protocols/vl.txt
-[VMESS]
-https://raw.githubusercontent.com/${{ github.repository }}/main/protocols/vm.txt
-[TROJAN]
-https://raw.githubusercontent.com/${{ github.repository }}/main/protocols/tr.txt
-[SHADOWSOCKS]
-https://raw.githubusercontent.com/${{ github.repository }}/main/protocols/ss.txt
+      ** Subscriptions by protocols **
+      [VLESS]
+      https://raw.githubusercontent.com/${{ github.repository }}/main/protocols/vl.txt
+      [VMESS]
+      https://raw.githubusercontent.com/${{ github.repository }}/main/protocols/vm.txt
+      [TROJAN]
+      https://raw.githubusercontent.com/${{ github.repository }}/main/protocols/tr.txt
+      [SHADOWSOCKS]
+      https://raw.githubusercontent.com/${{ github.repository }}/main/protocols/ss.txt
 
-** Subscriptions in parts (10k lines per file) **
-$MINI_SUBS
-\`\`\`
-EOF
+      ** Subscriptions in parts (10k lines per file) **
+      $MINI_SUBS
+      ```
+      EOF
 
       - name: Commit and push changes
         run: |
