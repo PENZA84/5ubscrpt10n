@@ -28,7 +28,7 @@ jobs:
           mv working/vl.txt protocols/
           mv working/ss.txt protocols/
           mv working/tr.txt protocols/
-          mv working/mini-subscription-*.txt mini/
+          mv working/m1n1-5ub-*.txt mini/
           cat <<EOF > README.md
           ** The Subscriptions updating every hour **
           ** Found a new source to obtain subscriptions? Tell it in Repository Issues **
