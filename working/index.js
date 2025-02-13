@@ -8,16 +8,16 @@ async function main() {
     const onlineSourcesPath = 'online-sources.json';
     const linksPath = 'links.json';
     const outputPath = '5ubscrpt10n.txt';
-    const outputB64Path = '5ubscrpt10n_b64.txt';
+    const outputB64Path = '5ubscrpt10n-b64.txt';
 
     const onlineSources = JSON.parse(fs.readFileSync(onlineSourcesPath, 'utf8'));
 
     const protocols = ['vmess://', 'vless://', 'ss://', 'trojan://'];
     const protocolFiles = {
-        'vmess://': 'vmess.txt',
-        'vless://': 'vless.txt',
-        'ss://': 'shadowsocks.txt',
-        'trojan://': 'trojan.txt'
+        'vmess://': 'vm.txt',
+        'vless://': 'vl.txt',
+        'ss://': 'ss.txt',
+        'trojan://': 'tr.txt'
     };
 
     let allLinks = new Set();
@@ -47,7 +47,6 @@ async function main() {
             const response = await axios.get(link);
             let data = response.data;
 
-            // Decode base64 if detected
             if (/^[A-Za-z0-9+/=]+$/.test(data.replace(/\s/g, ''))) {
                 try {
                     data = atob(data);
@@ -56,7 +55,7 @@ async function main() {
 
             data.split('\n').forEach(line => {
                 if (!line.includes('@127.0.0.1:1080?')) {
-                    configs.add(line.trim());
+                    configs.add(sanitizeText(line.trim()));
                 }
             });
         } catch {}
@@ -80,6 +79,23 @@ async function main() {
     }
 
     process.stdout.write("Done!\n");
+
+    splitFile(outputPath);
+}
+
+function sanitizeText(text) {
+    return text.replace(/[^\x20-\x7E]/g, '');
+}
+
+function splitFile(inputPath) {
+    const data = fs.readFileSync(inputPath, 'utf8').split('\n');
+    let part = 1;
+    for (let i = 0; i < data.length; i += 10000) {
+        const chunk = data.slice(i, i + 10000).join('\n');
+        fs.writeFileSync(`mini-subscription-${part}.txt`, chunk);
+        part++;
+    }
+    console.log('Файл успешно разбит на части!');
 }
 
 main();
