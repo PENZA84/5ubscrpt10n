@@ -5,7 +5,7 @@
 ** You need a software that can works with this protocols and have function subscription **
 ** Just copy the links and the paste in the software **
 
-** Some softwares/hardwares can't import this subscriptions, because subscription is too large (40+ mb) ** 
+** Some softwares/hardwares can't import this subscriptions, because subscription is too large ** 
 
 ** Full Subscription (VLESS/VMESS/Shadowsocks/Trojan) **
 https://raw.githubusercontent.com/sevcator/5ubscrpt10n/refs/heads/main/full/5ubscrpt10n.txt
