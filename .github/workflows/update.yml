@@ -30,6 +30,7 @@ jobs:
           mv working/tr.txt protocols/
           mv working/m1n1-5ub-*.txt mini/
           cat <<EOF > README.md
+          ```
           ** The Subscriptions updating every hour **
           ** Found a new source to obtain subscriptions? Tell it in Repository Issues **
 
@@ -55,7 +56,8 @@ jobs:
           https://raw.githubusercontent.com/${{ github.repository }}/main/protocols/ss.txt
 
           ** Subscriptions in parts (10k lines per file) **
-          $(ls mini/m1n1-5ub-*.txt | awk '{print "https://raw.githubusercontent.com/${{ github.repository }}/main/"$0}')
+          $(ls mini/m1n1-5ub-*.txt | sort -V | awk '{print "https://raw.githubusercontent.com/${{ github.repository }}/main/"$0}')
+          ```
           EOF
 
       - name: Commit and push changes
