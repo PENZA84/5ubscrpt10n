@@ -59,7 +59,6 @@ jobs:
           https://raw.githubusercontent.com/${{ github.repository }}/main/protocols/ss.txt
           
           ** Subscriptions in parts (10k lines per file) **
-          $MINI_SUBS
           ```
           EOF
 
