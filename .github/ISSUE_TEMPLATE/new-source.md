@@ -7,5 +7,5 @@ assignees: ''
 
 ---
 
-Hello! I found the new source for get configs:
+Hello! I found the new source for get configs
 Link:
