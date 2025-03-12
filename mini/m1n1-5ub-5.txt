@@ -1,7 +1,3 @@
-trojan://telegram-id-privatevpns@13.37.163.155:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[]t.me/ConfigsHub
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.175.37.209:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[]t.me/MoftConfig
-vless://07ddb7bd-d2c5-4e17-a48e-7879d92faac5@s1.nimhub.ir:2053?encryption=none&type=tcp&path=%2F&host=myket.ir,tamin.ir,rubika.ir,varzesh3.com,cafebazaar.ir&headerType=http&security=none#[]t.me/ConfigsHub
-trojan://telegram-id-directvpn@52.16.43.87:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[]t.me/MoftConfig
 trojan://telegram-id-directvpn@52.16.43.87:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[]t.me/ConfigsHub
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%2FTelegram%40proxy_mtm%2F%3Fed%3D2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#[]t.me/MoftConfig
 trojan://telegram-id-privatevpns@13.37.163.155:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S106)@MoftConfig
@@ -9998,3 +9994,7 @@ vless://44f25206-4241-4ef0-a528-4366299b2719@104.18.190.52:443?security=tls&sni=
 vless://cc3a15eb-0a63-486c-8e12-c7be717ebcd4@66.235.200.146:443?security=tls&sni=bpB005.paGeS.DEv&type=ws&host=bpB005.paGeS.DEv&path=%2F1bd7yey9071nu9bu%2Fmtuyljy3ljiznc40oq%3D%3D%3Fed%3D2560# VL-WS-TLS  US-66.235.200.146:443
 vless://34346165-3362-4438-b936-316163383631@94.182.95.38:2087?security=none&type=ws&host=either-hollow-new.nic.ir&path=%2Fl%2Fw%2F43miogc%3Fed%3D2048&allowInsecure=1# VL-WS-NONE  IR-94.182.95.38:2087
 vless://cc6567db-1163-4e6f-a01f-b40a84fb3519@188.114.96.1:8880?security=none&type=ws&host=worker-dark-surf-af73.8b4fbd65a482a3.workers.dev&path=%2FTelegram+channel+%3A+%40pandavpntc# VL-WS-NONE  NA-188.114.96.1:8880
+vless://62aee310-ce43-440c-ba43-bd5cd43185dc@104.16.35.9:443?security=tls&sni=DAilY-COnFiGs-chaNneL.pagES.dev&type=ws&host=daily-configs-channel.pages.dev&path=%2FTelegram%2CDAILY_CONFIGS%3Fed%3D8080&fp=randomized&alpn=h2%2Chttp%2F1.1# VL-WS-TLS  NA-104.16.35.9:443
+vless://2584c143-e25d-4b72-a134-377a58388c5a@104.16.246.91:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2# VL-WS-TLS  NA-104.16.246.91:443
+vless://4c3f503f-1edf-5e23-ab44-b0a0b6637b0b@172.67.73.174:443?security=tls&sni=ArzDigital.com&path=vless-ws%2F%3Fed%3D8880&allowInsecure=1# VL-TCP-TLS  NA-172.67.73.174:443
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.138:443?security=tls&sni=lu.ylks01.eu.org&type=ws&host=lu.ylks01.eu.org&path=%2Fblue&fp=chrome# VL-WS-TLS  US-69.84.182.138:443
