@@ -1,13 +1,3 @@
-vless://d7da7d54-1fdd-48b7-bf22-89efef5a2478@151.101.0.155:80?mode=auto&path=/Parsashonam?ed=2048&security=none&encryption=none&host=ParsashonamTestXhttp.global.ssl.fastly.net&type=xhttp#US_10593_@Surfboardv2ray
-vless://d7e9f1a3-1b2c-3d4e-5f6a-8b9c0d1e2f3a@149.102.130.107:8443?security=tls&type=ws&host=v2ray-config.sohala.uk&path=/ws#GB_10594_@Surfboardv2ray
-vless://d7fe8020-c70e-5c5c-9869-e591b36ab7eb@138.124.15.83:443?path=/vless&security=tls&encryption=none&host=138.124.15.83&fp=chrome&type=ws&sni=138.124.15.83#FI_10595_@Surfboardv2ray
-vless://d7fe8020-c70e-5c5c-9869-e591b36ab7eb@138.124.15.83:443?path=/vless&security=tls&encryption=none&host=138.124.15.83&fp=chrome&type=ws&sni=138.124.15.83#FI_10596_@Surfboardv2ray
-vless://d80186bd-2fa4-4908-95a0-95d56516f038@warden.microsof.click:33508?path=/&security=none&encryption=none&type=ws#IR_10597_@Surfboardv2ray
-vless://d8337e0c-e456-4b8c-b7a6-7f9c8cef7e7f@142.132.227.65:33036?security=&encryption=none&headerType=none&type=tcp#DE_10598_@Surfboardv2ray
-vless://d8337e0c-e456-4b8c-b7a6-7f9c8cef7e7f@142.132.227.65:33036?security=none&encryption=none&headerType=none&type=tcp#DE_10599_@Surfboardv2ray
-vless://d8337e0c-e456-4b8c-b7a6-7f9c8cef7e7f@142.132.227.65:33036?security=none&encryption=none&headerType=none&type=tcp#DE_10600_@Surfboardv2ray
-vless://d8337e0c-e456-4b8c-b7a6-7f9c8cef7e7f@142.132.227.65:33036?security=none&encryption=none&headerType=none&type=tcp#DE_10601_@Surfboardv2ray
-vless://d8337e0c-e456-4b8c-b7a6-7f9c8cef7e7f@142.132.227.65:33036?security=none&encryption=none&headerType=none&type=tcp#DE_10602_@Surfboardv2ray
 vless://d8337e0c-e456-4b8c-b7a6-7f9c8cef7e7f@142.132.227.65:33036?security=none&encryption=none&headerType=none&type=tcp#DE_10603_@Surfboardv2ray
 vless://d8337e0c-e456-4b8c-b7a6-7f9c8cef7e7f@142.132.227.65:33036?security=none&encryption=none&headerType=none&type=tcp#DE_10604_@Surfboardv2ray
 vless://d8337e0c-e456-4b8c-b7a6-7f9c8cef7e7f@142.132.227.65:33036?security=none&encryption=none&headerType=none&type=tcp#DE_10605_@Surfboardv2ray
@@ -9998,3 +9988,13 @@ vless://c4519e5e-d091-444e-bfe4-55e0dfa9b429@syd5.vpntype.dev:443?security=tls&e
 trojan://04f8b43b-70b7-4b26-94b5-2486e86d9eb0@t39.emoyes.top:27555/?type=tcp&security=tls&sni=www.python.org&allowInsecure=1#Telegram:@IP_CF
 vless://telegram,,,ISVvpn@151.101.64.155:80?path=/telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn?ed=2048&security=none&encryption=none&host=www.speedtest.net.12.isvpython.onlinE.&type=ws#[]t.me/ConfigsHub
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.210.96.127:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 
+vless://88548306-51ab-4990-9367-c530b64bb5f0@sin5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#%20Singapore
+trojan://telegram-id-privatevpns@34.255.75.80:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S109)@MoftConfig
+trojan://telegram-id-privatevpns@52.208.171.203:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S110)@MoftConfig
+vless://4acff57a-3747-40d9-acb3-191754772041@tel5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#%20Israel
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.51.20.228:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram:@IP_CF
+trojan://telegram-id-privatevpns@34.255.75.80:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[]t.me/MoftConfig
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.134.127.95:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram:@IP_CF
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiODkuNDcuMjAwLjIwMiIsInBvcnQiOiIyMDgzIiwiaWQiOiI5MmM2YTZlNi1lMTFmLTQ3NDMtYTE4Mi0yZDNkNjE4ODBlNDMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwiaG9zdCI6IiIsInBhdGgiOiJcLyIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.21.81.194:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[]t.me/MoftConfig
+trojan://telegram-id-privatevpns@16.171.229.171:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S111)@MoftConfig
