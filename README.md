@@ -7,11 +7,14 @@
 
 ** Some software/hardware might not import these subscriptions because they are too large **
 
-** Full Subscription (VLESS/VMESS/Shadowsocks/Trojan) **
-https://raw.githubusercontent.com/sevcator/5ubscrpt10n/main/full/5ubscrpt10n.txt
+** Full Subscription (VLESS/VMESS/Shadowsocks/Trojan) [split into parts] **
+https://raw.githubusercontent.com/sevcator/5ubscrpt10n/main/full/5ubscrpt10n-part-aa
+https://raw.githubusercontent.com/sevcator/5ubscrpt10n/main/full/5ubscrpt10n-part-ab
 
-** Full Subscription ~ Base64 ~ (VLESS/VMESS/Shadowsocks/Trojan) **
-https://raw.githubusercontent.com/sevcator/5ubscrpt10n/main/full/5ubscrpt10n-b64.txt
+** Full Subscription ~ Base64 ~ (VLESS/VMESS/Shadowsocks/Trojan) [split into parts] **
+https://raw.githubusercontent.com/sevcator/5ubscrpt10n/main/full/5ubscrpt10n-b64-part-aa
+https://raw.githubusercontent.com/sevcator/5ubscrpt10n/main/full/5ubscrpt10n-b64-part-ab
+https://raw.githubusercontent.com/sevcator/5ubscrpt10n/main/full/5ubscrpt10n-b64-part-ac
 
 ** Subscriptions by protocols **
 [VLESS]
@@ -58,4 +61,6 @@ https://raw.githubusercontent.com/sevcator/5ubscrpt10n/main/mini/m1n1-5ub-31.txt
 https://raw.githubusercontent.com/sevcator/5ubscrpt10n/main/mini/m1n1-5ub-32.txt
 https://raw.githubusercontent.com/sevcator/5ubscrpt10n/main/mini/m1n1-5ub-33.txt
 https://raw.githubusercontent.com/sevcator/5ubscrpt10n/main/mini/m1n1-5ub-34.txt
+https://raw.githubusercontent.com/sevcator/5ubscrpt10n/main/mini/m1n1-5ub-35.txt
+https://raw.githubusercontent.com/sevcator/5ubscrpt10n/main/mini/m1n1-5ub-36.txt
 ```
