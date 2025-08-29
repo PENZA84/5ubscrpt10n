@@ -22,8 +22,11 @@ jobs:
       - name: Organize files
         run: |
           mkdir -p full protocols mini
-          mv working/5ubscrpt10n.txt full/
-          mv working/5ubscrpt10n-b64.txt full/
+
+          # Разбиваем full подписку на части по 50MB (чтобы не превысить 100MB лимит)
+          split -b 50M working/5ubscrpt10n.txt full/5ubscrpt10n-part-
+          split -b 50M working/5ubscrpt10n-b64.txt full/5ubscrpt10n-b64-part-
+
           mv working/vm.txt protocols/
           mv working/vl.txt protocols/
           mv working/ss.txt protocols/
@@ -31,23 +34,25 @@ jobs:
           mv working/m1n1-5ub-*.txt mini/
 
           MINI_SUBS=$(ls mini/m1n1-5ub-*.txt | sort -V | awk '{print "https://raw.githubusercontent.com/${{ github.repository }}/main/"$0}')
+          FULL_SUBS=$(ls full/5ubscrpt10n-part-* | sort -V | awk '{print "https://raw.githubusercontent.com/${{ github.repository }}/main/"$0}')
+          FULL_B64_SUBS=$(ls full/5ubscrpt10n-b64-part-* | sort -V | awk '{print "https://raw.githubusercontent.com/${{ github.repository }}/main/"$0}')
 
           cat <<EOF > README.md
           \`\`\`
           ** The Subscriptions updating every hour **
           ** Found a new source to obtain subscriptions? Tell it in Repository Issues **
-          
+
           ** You need a software that supports these protocols and has a Subscription function **
           ** Just copy the needed link and paste it into the program **
-          
+
           ** Some software/hardware might not import these subscriptions because they are too large **
 
-          ** Full Subscription (VLESS/VMESS/Shadowsocks/Trojan) **
-          https://raw.githubusercontent.com/${{ github.repository }}/main/full/5ubscrpt10n.txt
-          
-          ** Full Subscription ~ Base64 ~ (VLESS/VMESS/Shadowsocks/Trojan) **
-          https://raw.githubusercontent.com/${{ github.repository }}/main/full/5ubscrpt10n-b64.txt
-          
+          ** Full Subscription (VLESS/VMESS/Shadowsocks/Trojan) [split into parts] **
+          $FULL_SUBS
+
+          ** Full Subscription ~ Base64 ~ (VLESS/VMESS/Shadowsocks/Trojan) [split into parts] **
+          $FULL_B64_SUBS
+
           ** Subscriptions by protocols **
           [VLESS]
           https://raw.githubusercontent.com/${{ github.repository }}/main/protocols/vl.txt
@@ -57,7 +62,7 @@ jobs:
           https://raw.githubusercontent.com/${{ github.repository }}/main/protocols/tr.txt
           [SHADOWSOCKS]
           https://raw.githubusercontent.com/${{ github.repository }}/main/protocols/ss.txt
-          
+
           ** Subscriptions in parts (10k lines per file) **
           $MINI_SUBS
           \`\`\`
@@ -68,7 +73,7 @@ jobs:
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
           git add .
-          git commit -m "⚡ $(date -u +"%Y-%m-%d %H:%M:%S UTC")"
+          git commit -m "⚡ $(date -u +"%Y-%m-%d %H:%M:%S UTC")" || echo "No changes to commit"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
