@@ -75,17 +75,19 @@ async function main() {
             const response = await get(link);
             let data = response.data;
 
-            if (/^[A-Za-z0-9+/=]+$/.test(data.replace(/\s/g, ''))) {
+            if (/^[A-Za-z0-9+/=\r\n]+$/.test(data)) {
                 try {
                     data = decodeBase64(data);
                 } catch {}
             }
 
-            data.split('\n').forEach(line => {
+            for (const rawLine of data.split('\n')) {
+                const line = rawLine.trim();
+                if (!line) continue;
                 if (!line.includes('@127.0.0.1:1080?')) {
-                    configs.add(sanitizeText(line.trim()));
+                    configs.add(sanitizeText(line));
                 }
-            });
+            }
         } catch {}
     }
     process.stdout.write("Done!\n");
@@ -100,7 +102,7 @@ async function main() {
     }, {});
 
     for (const [proto, filename] of Object.entries(protocolFiles)) {
-        fs.writeFileSync(filename, protocolContent[proto].join('\n'));
+        fs.writeFileSync(filename, (protocolContent[proto] || []).join('\n'));
     }
 
     const countryContent = {};
@@ -150,6 +152,17 @@ function splitConfigs(configs) {
     console.log('The file is split into parts successfully');
 }
 
+function safeDecodeTag(tag) {
+    if (!tag) return tag;
+    let t = String(tag).replace(/\+/g, ' ');
+    t = t.replace(/%(?![0-9A-Fa-f]{2})/g, '%25');
+    try {
+        return decodeURIComponent(t);
+    } catch {
+        return String(tag).replace(/\+/g, ' ');
+    }
+}
+
 function extractCountry(line, countriesMap) {
     let tag = '';
     const idx = line.indexOf('#');
@@ -164,11 +177,12 @@ function extractCountry(line, countriesMap) {
 
     if (!tag) return null;
 
-    tag = decodeURIComponent(tag.replace(/\+/g, ' '));
+    tag = safeDecodeTag(tag);
     tag = sanitizeText(tag);
 
     const parts = tag.split(/[^A-Za-z]/);
     for (const part of parts) {
+        if (!part) continue;
         const upper = part.toUpperCase();
         if (countriesMap[upper]) return countriesMap[upper];
     }
