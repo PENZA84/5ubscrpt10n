@@ -21,18 +21,14 @@ jobs:
 
       - name: Organize files
         run: |
-          mkdir -p full protocols mini
+          mkdir -p full protocols mini countries
 
-          # Разбиваем full подписку на части по 50MB (чтобы не превысить 100MB лимит)
-          split -b 50M working/5ubscrpt10n.txt full/5ubscrpt10n-part-
-          split -b 50M working/5ubscrpt10n-b64.txt full/5ubscrpt10n-b64-part-
-
-          # Копируем протоколы и мини-версии
           mv working/vm.txt protocols/
           mv working/vl.txt protocols/
           mv working/ss.txt protocols/
           mv working/tr.txt protocols/
           mv working/m1n1-5ub-*.txt mini/
+          mv working/*.txt countries/
 
           # Удаляем исходные большие файлы, чтобы их не пытался пушить git
           rm -f working/5ubscrpt10n.txt working/5ubscrpt10n-b64.txt
