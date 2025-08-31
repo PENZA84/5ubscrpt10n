@@ -7,15 +7,6 @@
 
 ** Some software/hardware might not import these subscriptions because they are too large **
 
-** Full Subscription (VLESS/VMESS/Shadowsocks/Trojan) [split into parts] **
-https://raw.githubusercontent.com/sevcator/5ubscrpt10n/main/full/5ubscrpt10n-part-aa
-https://raw.githubusercontent.com/sevcator/5ubscrpt10n/main/full/5ubscrpt10n-part-ab
-
-** Full Subscription ~ Base64 ~ (VLESS/VMESS/Shadowsocks/Trojan) [split into parts] **
-https://raw.githubusercontent.com/sevcator/5ubscrpt10n/main/full/5ubscrpt10n-b64-part-aa
-https://raw.githubusercontent.com/sevcator/5ubscrpt10n/main/full/5ubscrpt10n-b64-part-ab
-https://raw.githubusercontent.com/sevcator/5ubscrpt10n/main/full/5ubscrpt10n-b64-part-ac
-
 ** Subscriptions by protocols **
 [VLESS]
 https://raw.githubusercontent.com/sevcator/5ubscrpt10n/main/protocols/vl.txt
