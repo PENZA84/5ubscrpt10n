@@ -21,17 +21,13 @@ jobs:
 
       - name: Organize files
         run: |
-          mkdir -p full protocols mini countries
+          mkdir -p protocols mini
 
           mv working/vm.txt protocols/
           mv working/vl.txt protocols/
           mv working/ss.txt protocols/
           mv working/tr.txt protocols/
           mv working/m1n1-5ub-*.txt mini/
-          mv working/*.txt countries/
-
-          # Удаляем исходные большие файлы, чтобы их не пытался пушить git
-          rm -f working/5ubscrpt10n.txt working/5ubscrpt10n-b64.txt
 
           MINI_SUBS=$(ls mini/m1n1-5ub-*.txt | sort -V | awk '{print "https://raw.githubusercontent.com/${{ github.repository }}/main/"$0}')
           FULL_SUBS=$(ls full/5ubscrpt10n-part-* | sort -V | awk '{print "https://raw.githubusercontent.com/${{ github.repository }}/main/"$0}')
@@ -46,12 +42,6 @@ jobs:
           ** Just copy the needed link and paste it into the program **
 
           ** Some software/hardware might not import these subscriptions because they are too large **
-
-          ** Full Subscription (VLESS/VMESS/Shadowsocks/Trojan) [split into parts] **
-          $FULL_SUBS
-
-          ** Full Subscription ~ Base64 ~ (VLESS/VMESS/Shadowsocks/Trojan) [split into parts] **
-          $FULL_B64_SUBS
 
           ** Subscriptions by protocols **
           [VLESS]
