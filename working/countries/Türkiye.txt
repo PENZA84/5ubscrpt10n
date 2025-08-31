@@ -10,8 +10,8 @@ vless://tr0JXYME5xdoqpxCUAQKbN@193.57.136.223:443?security=reality&encryption=no
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3Yk84YWtvUm9NMk0=@83.217.9.120:443#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%92%20SS%20%7C%20%40argo_vpn1%20%5B16%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkb0dBejlsUGZMaFM=@62.60.233.152:443#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%92%20SS%20%7C%20%40dalton_ping%20%5B6%5D
 vless://ff0e767c-747e-4a6d-b3c9-ba0d602ec939@tu.a.speedgloobalontop.ir:2088?security=none&type=tcp&headerType=&path=&host=#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40drvpn_net%20%5B3%5D
+vless://f342dad4-457e-45dd-8acd-56441fc55fa5@217.60.244.234:8085?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40fastfreeconfig%20%5B55%5D
 ss://YWVzLTI1Ni1nY206aGc0OSRXSDg5NDNnMw==@212.68.55.11:18760#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%92%20SS%20%7C%20%40proxy_net_meli%20%5B9%5D
-vless://f342dad4-457e-45dd-8acd-56441fc55fa5@217.60.244.234:8085?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40pusyvpn%20%5B8%5D
 ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg==@45.89.52.66:9031#%F0%9F%87%B9%F0%9F%87%B7TR-45.89.52.66-4873
 ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ==@45.89.52.66:9042#%F0%9F%87%B9%F0%9F%87%B7TR-45.89.52.66-4982
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.123.101.241:990#%F0%9F%87%B9%F0%9F%87%B7TR-185.123.101.241-0315
@@ -1313,13 +1313,13 @@ trojan://dba20dcb635e430fa4d3bfc303a149d2@104.16.159.3:443?security=tls&sni=bang
 trojan://telegram-id-privatevpns@13.36.134.198:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&type=tcp&headerType=none#%F0%9F%94%92%20TR-TCP-TLS%20%F0%9F%87%AB%F0%9F%87%B7%20FR-13.36.134.198%3A22222
 trojan://qj1Dz1CJmFQRhWr1SP80aA@172.67.204.84:443?security=tls&sni=cdn-21.gsmxreality.com&type=grpc&serviceName=443trojan&mode=gun#%F0%9F%94%92%20TR-GRPC-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-172.67.204.84%3A443
 trojan://984e400bf5d541b7b0815913fe0c432a@104.19.171.7:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=6b777a91#%F0%9F%94%92%20TR-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.19.171.7%3A443
+vless://f342dad4-457e-45dd-8acd-56441fc55fa5@217.60.244.234:8085?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40pusyvpn%20%5B8%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppdzhHb040MmRjaU54REJkMFJ3QWRM@193.46.56.185:6683#%f0%9f%87%b9%f0%9f%87%b7%20TR%201
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@83.217.9.128:2222#%f0%9f%87%b9%f0%9f%87%b7%20TR%202
 ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg==@45.89.52.66:9040#%f0%9f%87%b9%f0%9f%87%b7%20TR%203
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkb0dBejlsUGZMaFM=@62.60.233.152:443#%f0%9f%87%b9%f0%9f%87%b7%20TR%204
 vless://2b25cdb0-ecb2-4caa-910d-b2e5b2309ca3@185.234.66.94:443?path=%2Ftqjkmwws&security=tls&encryption=none&type=ws#[openproxylist.com] vless-TR
 vless://d4992ec8-d781-45f5-9f59-ef8c769f46f9@185.234.66.101:443?path=%2Fhfwsxtws&security=tls&encryption=none&host=TELEGRAM--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY---V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY&type=ws#[openproxylist.com] vless-TR
-vless://fd0cdd44-2361-11f0-9970-45e1d80c4039@62.60.233.250:443?security=reality&encryption=none&pbk=MFsbnsNQsSpZwP-_Ohzako6aHpfK4-rbssxhr3eywWw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=images.apple.com&sid=4476a3#[openproxylist.com] vless-TR
 vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HufCfh7dUUi0yLjU5LjE4MS4zNy01MjQ3IiwgImFkZCI6ICJ0azAyLm5iMS5mciIsICJwb3J0IjogNDQzLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogInRscyIsICJpZCI6ICJjYjcwMDFjNy1lNDk1LTQxYWMtYjk0Mi1mMjVmNjA1MjM0MTQiLCAic25pIjogIiIsICJob3N0IjogInRrMDIubmIxLmZyIiwgInBhdGgiOiAiL2NsaWVudGFyZWEifQ==
 vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HufCfh7dUUihBemFkTmV0LnQubWUpXzEiLCAiYWRkIjogInRyMS5kaWdpc3BvcnQuc2hvcCIsICJwb3J0IjogIjIwNTM1IiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjUzYTg0ODE5LTRjODEtNDZjMS1kOTNlLThiMGIxMTI4N2FjMyIsICJzbmkiOiAiIn0=
 vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HufCfh7dUUi0xNTIuODkuMTkzLjIyNS0wMTQ3IiwgImFkZCI6ICIxNTIuODkuMTkzLjIyNSIsICJwb3J0IjogODAsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjhjNTU3YTUxLTgwYjktNDliZS1kNzRhLTE0NTBjM2UyYjc3ZiIsICJzbmkiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLyJ9
@@ -3252,7 +3252,6 @@ vless://c33b1535-1557-4e0b-aa2b-f326c6151436@31.40.205.42:32223?security=reality
 vless://3a559234-bb5f-4db7-95da-f65c43f8ad88@45.89.52.169:22482?security=none&type=tcp&host=amirzaplus.com&headerType=http#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%B9%F0%9F%87%B7%20TR-45.89.52.169:22482
 vless://a93352eb-6c60-4c08-9160-5c82a661c2fd@62.133.63.97:443?security=reality&sni=google.com&type=tcp&fp=chrome&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c#%F0%9F%94%92%20VL-TCP-RLT%20%F0%9F%87%B9%F0%9F%87%B7%20TR-62.133.63.97:443
 vless://7eaf26cc-e139-4569-93e6-8ed3de909de8@62.60.233.176:443?security=reality&sni=google.com&type=tcp&fp=chrome&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c#%F0%9F%94%92%20VL-TCP-RLT%20%F0%9F%87%B9%F0%9F%87%B7%20TR-62.60.233.176:443
-vless://fd0cdd44-2361-11f0-9970-45e1d80c4039@62.60.233.250:443?security=reality&encryption=none&pbk=MFsbnsNQsSpZwP-_Ohzako6aHpfK4-rbssxhr3eywWw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=images.apple.com&sid=4476a3#%F0%9F%87%B9%F0%9F%87%B7%5Bopenproxylist.com%5D%20vless-TR
 vless://4a26ec41-cda4-4ff8-aac0-00cf232ca21c@77.92.154.200:443?security=reality&sni=wordpress.org&type=grpc&fp=chrome&pbk=dUCso1FAr-zors9NhECIqYI3fEjyfLvRqksj9lmxw&sid=f99c4b933314ec6d#%F0%9F%94%92%20VL-GRPC-RLT%20%F0%9F%87%B9%F0%9F%87%B7%20TR-77.92.154.200:443
 vless://c5fcc6d2-aa4a-4c1c-a9d8-cea6e5a30dd5@80.253.255.104:9536?type=tcp&headerType=http&host=vkvd127.mycdn.me&packetEncoding=xudp&fp=chrome#%F0%9F%92%B0%F0%9F%87%B9%F0%9F%87%B7%20TR%2080.253.255.104%20%E2%97%88%20tcp%3A9536%20%E2%97%88%20Teknosos%20Bilisim%20Hizmetleri%20VE%20Tic.%20Ltd.%20Sti.%20%E2%97%88%20d4c24
 vless://c120b4fe-9aae-4973-a296-81bda70d21da@83.217.9.122:443?security=reality&sni=google.com&type=tcp&host=%2FJOKERRVPNJoin_Bade_Channel@JOKERRVPN&fp=chrome&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c#%F0%9F%94%92%20VL-TCP-RLT%20%F0%9F%87%B9%F0%9F%87%B7%20TR-83.217.9.122:443
@@ -3265,6 +3264,7 @@ vless://428287e2-0a51-42d5-89a5-d07f5f10a481@91.206.71.202:8080?security=none&ty
 vless://4d2f4a48-c525-419e-97ac-317ff398aa7b@93.180.134.171:8880?security=none&type=tcp&host=eN.TwiTtER.cOM.%3A8880&headerType=http#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%B9%F0%9F%87%B7%20TR-93.180.134.171:8880
 vless://b3df4ad2-c2be-4e76-a5fe-37bf49ffe60c@94.131.108.106:1700?security=tls&sni=xray1.wizardxray.shop&type=tcp&fp=chrome&alpn=h3,h2,http/1.1#%F0%9F%94%92%20VL-TCP-TLS%20%F0%9F%87%B9%F0%9F%87%B7%20TR-94.131.108.106:1700
 vless://d895495c-d1ed-46e4-9235-35c54c9ed901@94.131.123.241:443?security=reality&flow=xtls-rprx-vision&sni=google.com&type=tcp&fp=chrome&pbk=0hH6R90pSxwm7nZPGtJJcJFhwCXU3Rvf-wcEHE7hczo#%F0%9F%94%92%20VL-TCP-RLT%20%F0%9F%87%B9%F0%9F%87%B7%20TR-94.131.123.241:443
+vless://93bb84dc-694d-4ef3-8bac-9140c68ca402@Mehrdad.Zargar.VIP.mehrdadsadaf.com:7594?mode=gun&security=reality&encryption=none&pbk=0Hz2Aww1M8i4a3jIa9bFipfL_0x-kfcHVZEJzDcssGg&fp=chrome&spx=/&type=grpc&serviceName=@Mehrdad_Zargar,@Mehrdad_Zargar,@Mehrdad_Zargar,@Mehrdad_Zargar,@Mehrdad_Zargar,@Mehrdad_Zargar,@Mehrdad_Zargar,@Mehrdad_Zargar,@Mehrdad_Zargar&sni=dash.cloudflare.com&sid=20#%F0%9F%87%B9%F0%9F%87%B7TR_5842_@Surfboardv2ray
 vless://789f523d-3929-4ade-969c-41ae1fc494a7@b2n.ir.irsf100.nic.stp.debian.org.ubuntu.ir.rahyabzamin.online:2010?security=&encryption=none&headerType=none&type=tcp#%F0%9F%9A%80%20%F0%9F%87%B9%F0%9F%87%B7%20TR-116
 vless://c5fcc6d2-aa4a-4c1c-a9d8-cea6e5a30dd5@mmd.12.isovpn.shop:9536?type=tcp&headerType=http&host=godping.ir&packetEncoding=xudp&fp=chrome#%F0%9F%87%B9%F0%9F%87%B7%20TR%2080.253.255.104%20%E2%97%88%20tcp%3A9536%20%E2%97%88%20Teknosos%20Bilisim%20Hizmetleri%20VE%20Tic.%20Ltd.%20Sti.%20%E2%97%88%20f337d
 vless://5ec8aebb-acd2-4b4b-958b-85a5d360e606@passer02.ultranumber.top:19381?type=tcp&headerType=http&host=vkvd127.mycdn.me&fp=chrome#%F0%9F%92%B0%F0%9F%87%B9%F0%9F%87%B7%20TR%2045.136.5.116%20%E2%97%88%20tcp%3A19381%20%E2%97%88%20Online%20Server%20Telekomunikasyon%20Limited%20Sirketi%20%E2%97%88%2046ffc
@@ -3281,7 +3281,6 @@ ss://aes-256-cfb:BNmAXXxAHYpTRdzu@45.89.52.66:9020#%F0%9F%9A%AB%F0%9F%87%B9%F0%9
 ss://aes-256-cfb:XPtzA9sCug3SPR4c@45.89.52.66:9025#%F0%9F%9A%AB%F0%9F%87%B9%F0%9F%87%B7%20TR%2045.89.52.66%20%E2%97%88%20tcp%3A9025%20%E2%97%88%20Stark%20Industries%20%E2%97%88%20ea6fc
 ss://YWVzLTI1Ni1jZmI6ZFUzRFNOUzh3WVBYekVLdw@45.89.52.66:9029#%F0%9F%87%B9%F0%9F%87%B7TR-45.89.52.66-0340
 ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg@45.89.52.66:9031#%F0%9F%87%B9%F0%9F%87%B7TR-45.89.52.66-8084
-ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg@45.89.52.66:9040#%F0%9F%87%B9%F0%9F%87%B7TR-45.89.52.66-0336
 ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg@45.89.52.66:9041#%F0%9F%87%B9%F0%9F%87%B7TR-45.89.52.66-8092
 ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ@45.89.52.66:9042#%F0%9F%87%B9%F0%9F%87%B7TR-45.89.52.66-8091
 ss://aes-256-cfb:ueLXVkvh4hckhErQ@45.89.52.66:9060#%F0%9F%9A%AB%F0%9F%87%B9%F0%9F%87%B7%20TR%2045.89.52.66%20%E2%97%88%20tcp%3A9060%20%E2%97%88%20Stark%20Industries%20%E2%97%88%2003ccc
