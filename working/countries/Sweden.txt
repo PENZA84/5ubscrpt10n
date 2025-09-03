@@ -414,14 +414,14 @@ trojan://telegram-id-privatevpns@13.49.54.20:22222?peer=trojan.burgerip.co.uk#Sw
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@121.127.46.147:989#%F0%9F%87%B8%F0%9F%87%AASE-121.127.46.147-0732
 vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vlse.g2ray.com:443?encryption=none&security=tls&type=tcp&headerType=none#TLS-N-Sweden
 vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vlse.g2ray.com:443?encryption=none&flow=xtls-rprx-direct&security=xtls&type=tcp&headerType=none#XTLS-N-Sweden
-vless://48b81d34-df01-4c94-9e34-0ccb4c40c547@185.36.145.227:8888?allowInsecure=0&sni=speedtest.net#SE_speednode_0014
+vless://2d14c894-aca5-4854-bcdb-75d4505486c2@185.146.173.39:2052?allowInsecure=0&sni=michalde.lemoex.ir&type=ws&host=michalde.lemoex.ir&path=/wsmmad#SE_speednode_0014
+vless://d7b157a3-c463-4bd6-909b-64bfbaa379bb@james2.evovpn.ru:443?allowInsecure=0&sni=speedtest.net&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#SE_speednode_0015
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@77.221.141.255:8443?encryption=none&security=tls&sni=jv.ylka.dpdns.org&alpn=h3&fp=random&allowInsecure=1&type=ws&host=jv.ylka.dpdns.org&path=%2F%3Fed%3D2560#SE
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@77.221.141.255:8443?encryption=none&security=tls&sni=fv.ylka.dpdns.org&alpn=h3&fp=random&allowInsecure=1&type=ws&host=fv.ylka.dpdns.org&path=%2F%3Fed%3D2560#SE
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@212.113.100.146:8443?encryption=none&security=tls&sni=fv.ylka.dpdns.org&alpn=h3&fp=random&allowInsecure=1&type=ws&host=fv.ylka.dpdns.org&path=%2F%3Fed%3D2560#SE
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@212.113.100.146:8443?encryption=none&security=tls&sni=jv.ylka.dpdns.org&alpn=h3&fp=random&allowInsecure=1&type=ws&host=jv.ylka.dpdns.org&path=%2F%3Fed%3D2560#SE
 trojan://2ee85121-31de-4581-a492-eb00f606e392@45.91.171.116:443?security=tls&sni=sto.freeguard.org&path=%2f#%f0%9f%87%b8%f0%9f%87%aa%20SE%201
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-13.cristiano.name.ng:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com&sid=f5#[openproxylist.com] vless-SE
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-13.cristiano.name.ng:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com&sid=f5#[openproxylist.com] vless-SE
 trojan://2ee85121-31de-4581-a492-eb00f606e392@45.91.171.116:443?security=tls&sni=sto.freeguard.org&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AASE-45.91.171.116-4967
 vless://Parsashonam-49@185.146.173.39:8880?encryption=none&host=Search.DigiKala.CYoU.&path=%2F&security=none&type=httpupgrade# | VLESS | @Parsashonam | SE | 01
 vless://Parsashonam-48@185.146.173.39:8880?encryption=none&host=Search.DigiKala.CYoU.&path=%2F&security=none&type=httpupgrade# | VLESS | @Parsashonam | SE | 02
@@ -501,6 +501,7 @@ vless://telegram-deli-servers@185.146.173.59:80/?type=ws&encryption=none&host=ki
 vless://f6f0196d-4484-4a17-9553-0c4b646cde7c@185.146.173.95:2095/?type=ws&encryption=none&host=V2ray-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&path=%2F#%F0%9F%87%B8%F0%9F%87%AA%20SE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40meli_v2rayng%20%5B26%5D
 vless://48b81d34-df01-4c94-9e34-0ccb4c40c547@185.36.145.227:123?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B8%F0%9F%87%AASE_3836_@Surfboardv2ray
 vless://48b81d34-df01-4c94-9e34-0ccb4c40c547@185.36.145.227:3040?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B8%F0%9F%87%AASE_3837_@Surfboardv2ray
+vless://48b81d34-df01-4c94-9e34-0ccb4c40c547@185.36.145.227:8888?allowInsecure=0&sni=speedtest.net#SE_speednode_0014
 vless://428287e2-0a51-42d5-89a5-d07f5f10a481@192.71.82.103:8080?security=none&type=httpupgrade&host=DE-sNaPp.aCaDeMiGrOuP.ir.#%F0%9F%94%92%20VL-HTTPUPGRADE-NONE%20%F0%9F%87%B8%F0%9F%87%AA%20SE-192.71.82.103:8080
 vless://428287e2-0a51-42d5-89a5-d07f5f10a481@192.71.82.53:8080?security=none&type=httpupgrade&host=DE-sNaPp.aCaDeMiGrOuP.ir.#%F0%9F%94%92%20VL-HTTPUPGRADE-NONE%20%F0%9F%87%B8%F0%9F%87%AA%20SE-192.71.82.53:8080
 vless://428287e2-0a51-42d5-89a5-d07f5f10a481@192.71.82.7:8080?security=none&type=httpupgrade&host=DE-sNaPp.aCaDeMiGrOuP.ir.#%F0%9F%94%92%20VL-HTTPUPGRADE-NONE%20%F0%9F%87%B8%F0%9F%87%AA%20SE-192.71.82.7:8080
