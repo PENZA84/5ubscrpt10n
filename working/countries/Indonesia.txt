@@ -121,7 +121,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppdzhHb040MmRjaU54REJkMFJ3QWRM@193.46.56.185:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuWVJoVENaZFFMRXhLNmV3VkhnSFMybWx2NEZDeXNLeWV5VFRmaFJkRWdkZWVSTjA=@5.188.36.93:31348#Channel id: @ShadowProxy66 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.177:8080#Channel id: @ShadowProxy66 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@83.217.9.125:2222#Channel id: @ShadowProxy66 
-trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/Stupid-World/103.106.228.126-2053#Join---MARAMBASHI---Join---MARAMBASHI?ed=2560&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#  : @V2Gatee
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/Stupid-World/103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#Channel id: @singbox1 
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/Stupid-World/103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&type=ws&sni=vpn.stupidworld.web.id#Channel id: @ShadowProxy66 
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/Stupid-World/103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&type=ws&sni=vpn.stupidworld.web.id#Channel id: @singbox1 
@@ -694,7 +693,6 @@ vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@185.162.229.253:2053/?type=ws&encry
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@185.176.26.134:2053/?type=ws&encryption=none&host=dl1-tr-cdn.easy-upload.org&path=%2F&security=tls&sni=dl1-tr-cdn.easy-upload.org#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B9%F0%9F%87%B7
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880/?type=grpc&encryption=none#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%B7
 vless://b5e8bfe7-6cdb-402d-b243-1e0f53ebb582@185.234.66.82:443/?type=ws&encryption=none&path=%2Fjzmdpvws&security=tls#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B9%F0%9F%87%B7
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.240:8880?flow=&type=grpc#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
 vless://7e296434-2d17-48d3-928d-19eaa34aecb1@185.33.24.229:28495?flow=&fp=chrome&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&security=reality&sid=0ecc2c1392&sni=dl.google.com&type=tcp#Channel%20id:%20@ShadowProxy66%20
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@188.114.98.117:443/?type=ws&encryption=none&path=%2F&security=tls&sni=dl1-de-cdn.easy-upload.org#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@188.42.88.243:2053/?type=ws&encryption=none&host=dl1-uk-cdn.easy-upload.org&path=%2F&security=tls&sni=dl1-uk-cdn.easy-upload.org#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AC%F0%9F%87%A7
@@ -721,6 +719,7 @@ vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@31.43.179.234:2053/?type=ws&encrypt
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@31.43.179.34:2053/?type=ws&encryption=none&host=dl1-fr-cdn.easy-upload.org&path=%2F&security=tls&sni=dl1-fr-cdn.easy-upload.org#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AB%F0%9F%87%B7
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@31.43.179.83:2053/?type=ws&encryption=none&host=dl1-pl-cdn.easy-upload.org&path=%2F&security=tls&sni=dl1-pl-cdn.easy-upload.org&alpn=h2%2Chttp%2F1.1&fp=random#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B5%F0%9F%87%B1
 vless://376b9861-2fc6-4647-959c-18185cd9c95a@32--join.outline-vpn.cloud:443?path=/fflsws&security=tls&encryption=none&host=lmn37.sbs&type=ws&sni=lmn37.sbs#OU+65+ID(@Outline_Vpn)
+vless://6035325d-399a-5148-9126-29cedfd5966a@38.244.147.39:443?security=reality&encryption=none&pbk=8x8r6WEMWvjJ-oxlSP090sQvy1VAWKz88JV4qpIwMRA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=outlook.office.com&sid=b19dbf4d#Indonesia%201%20%F0%9F%87%AE%F0%9F%87%A9%20@vpnAndroid2
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.12.30.133:2053/?type=ws&encryption=none&host=dl1-tr-cdn.easy-upload.org&path=%2F&security=tls&sni=dl1-tr-cdn.easy-upload.org#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B9%F0%9F%87%B7
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.12.30.170:2053/?type=ws&encryption=none&host=dl1-uk-cdn.easy-upload.org&path=%2F&security=tls&sni=dl1-uk-cdn.easy-upload.org#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AC%F0%9F%87%A7
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.12.30.232:2053/?type=ws&encryption=none&host=dl1-fr-cdn.easy-upload.org&path=%2F&security=tls&sni=dl1-fr-cdn.easy-upload.org#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AB%F0%9F%87%B7
@@ -839,7 +838,6 @@ vless://03852aa6-db01-4137-972d-14ebfb202f09@95.164.6.214:443/?type=ws&encryptio
 vless://fa72a38c-56bf-4f3b-9735-e96e9840ae54@app.chandplus.com:443/?type=tcp&encryption=none&security=tls&sni=app.chandplus.com&alpn=h3%2Ch2%2Chttp%2F1.1&fp=random#Channel%20id%3A%20%40ShadowProxy66%20
 vless://464ec76e-fd60-4ad4-993e-d2c262f88ed1@fr.pixvpn.app:8443/?type=grpc&encryption=none&flow=&serviceName=grpc-jd&sni=jd.com&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=41a4cee2c50c4fc3#Channel%20id%3A%20%40v2rayng_021
 vless://e3b665fd-0329-47dc-bc05-3474b14bcaf6@ipe3.alighan.ir:8443/?type=ws&encryption=none&host=s.alighan.ir&path=%2F%3Fed&security=tls&sni=ipe4.alighan.ir&alpn=http%2F1.1&fp=chrome#Channel%20id%3A%20%40ShadowProxy66%20
-vless://7d645ab8-e8e5-4810-ae5f-4bd6659ac42c@ir.fxgoldensignals.com:8081/?encryption=none&flow=&host=zula.ir&type=tcp&headerType=http#Channel%20id%3A%20%40v2rayng_021
 vless://004ba5d4-d448-4960-a762-e5190ab415f2@www.indyskipass.com:443/?type=ws&encryption=none&host=albedoalbedochan.violetchaan.ip-ddns.com&security=tls&sni=albedoalbedochan.violetchaan.ip-ddns.com&alpn=http%2F1.1&fp=chrome#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3Y0k4RFplMGVYU1MzdXBvcDFRalZC@128.199.236.104:57384#Channel%20id:%20%20%F0%9F%87%B8%F0%9F%87%AC
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWMnhFTXB3WGp2eTQxcThGakZ0Y2ZmVnBiS1lHZmJIaTBxUGxFSklnajdFPQ==@13.48.44.73:8080#Channel%20id:%20@armin
@@ -873,6 +871,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoNnZaQk5wYm40MG1KMVpneGw0djZi@64.227.60.3:44
 ss://YWVzLTEyOC1nY206MTYyNjI5ZDctY2IxNy00M2IxLTgyYzktZjljN2FlNmNiYTcw@82.180.146.173:30607#Channel%20id%3A%20%40ShadowProxy66%20
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwVm5UellBcVhFSHc=@89.23.103.229:443#Channel%20id:%20%20%F0%9F%87%B3%F0%9F%87%B1
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206aklGZzU5MWNyQVdpYmI5cDNFL3Q5V2NzUjFxWjhsalVyMC85c0RhUmZ2MD06eWM4MnlSZWVQTmtvcWxIaTdOQUdkclRkSFRsRWJNN0h5TUJuWGRCVG0xST0=@91.107.134.230:50796#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowUnNyY0ZKMXZPc1dFcWczUDU1aHZhYWNLZnVTaFQwY2MxaDB0OEFEME5BOHUxdVI=@92.38.171.215:31348#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AA%F0%9F%87%B8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyREdxM2p2VlJnNW4zQ2N4bXlzR0sya21yZ0plU05vZjEyQTc2Y1p2VnhxUHBldHlDMVhFY2lDRnVmcTV4S3ZSV0dHbktWZW1icFRodVVTUWhiWjdHTXNaWTRVVnhFQnc@backup.fleetfoxi.link:44884#Channel%20id%3A%20%40ShadowProxy66%20
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGdnl2VVBRRkRJbHorNE9wKzIzNlFtREwxdjc2VHN2cERTWmdxakowZ253PQ==@david2.lemoex.blog:2083#Channel%20id:%20%20%F0%9F%87%A9%F0%9F%87%AA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUalR4Z0JGVEdIckhTNngyUlZKbVZOM3dQY28xZ2NKYVI0aG5vZkxCdDlnR0E5a0c3MjRUQ0FBUmZWeEJLQTFmRXE1bUt0cWk2OHVnTUw4WFZmUDE2RVU0RXRjdGZBNUU=@old.afoothabs.monster:55330#Channel%20id:%20%20%F0%9F%87%AB%F0%9F%87%AE
