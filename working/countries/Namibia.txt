@@ -1064,6 +1064,7 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.141:8880?security=none&al
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.163:8880?security=none&allowInsecure=1&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#%F0%9F%87%A8%F0%9F%87%BE%20Cyprus%20-%20NA%20%F0%9F%8C%8F%20VL-GRPC-NONE%204%E2%83%A3
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.166:8880?type=grpc#%F0%9F%94%92%20VL-GRPC-NA%20%F0%9F%87%BA%F0%9F%87%B8%20US-45.82.251.166:8880
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.171:8880?security=none&allowInsecure=1&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#%F0%9F%87%A8%F0%9F%87%BE%20Cyprus%20-%20NA%20%F0%9F%8C%8F%20VL-GRPC-NONE%204%E2%83%A3
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.179:8880?type=grpc#%F0%9F%94%92%20VL-GRPC-NA%20%F0%9F%87%BA%F0%9F%87%B8%20US-45.82.251.179:8880
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.181:8880?sni=pqh36v3.economy36top.shop&type=grpc#%F0%9F%94%92%20VL-GRPC-NA%20%F0%9F%87%BA%F0%9F%87%B8%20US-45.82.251.181:8880
 vless://c7c922da-ab54-433c-8046-1f9bf9d95c23@45.82.251.68:1001?security=reality&sni=telewebion.com&allowInsecure=1&fp=chrome&pbk=8Gunn8hjWbit5yLtTPcvLph0u2ovHLsGoXX4IJS1EQ0&sid=5fab0deb&type=tcp&packetEncoding=xudp&encryption=none#%F0%9F%87%A8%F0%9F%87%BE%20Cyprus%20-%20NA%20%F0%9F%8C%8F%20VL-TCP-RLT%204%E2%83%A3
 vless://c7c922da-ab54-433c-8046-1f9bf9d95c23@45.82.251.83:1001?security=reality&sni=telewebion.com&allowInsecure=1&fp=chrome&pbk=8Gunn8hjWbit5yLtTPcvLph0u2ovHLsGoXX4IJS1EQ0&sid=5fab0deb&type=tcp&packetEncoding=xudp&encryption=none#%F0%9F%87%A8%F0%9F%87%BE%20Cyprus%20-%20NA%20%F0%9F%8C%8F%20VL-TCP-RLT%204%E2%83%A3
@@ -1177,7 +1178,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@64.176.184.129:1866#%F
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMkFIWm14N1ZTZU1QY0d5UHp2UTNSUnhzMms0QVlhalo1NUFFVFJNaG1GRHJIWHFEOE4zYm9kVE1SS0RRMUtiUDY3MldmQVlUVFR6N3RFUXVyWlJTTDlNMVM2ODlBYjU=@94.156.79.244:40934#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20NA%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
 vmess://eyJhZGQiOiAiNTEuMzguNjQuMjA5IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI3ZGE0NTdkYS1lZDBmLTQzN2QtYzgxZC02YzM1ODg1YmJlYTMiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjQ0MDIzIiwgInBzIjogIlx1ZDgzZFx1ZGQxMiBWTS1UQ1AtTkEgXHVkODNjXHVkZGVjXHVkODNjXHVkZGU3IEdCLTUxLjM4LjY0LjIwOTo0NDAyMyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?type=grpc# VL-GRPC-NA  FR-185.231.205.99:8880
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.125:8880?type=grpc# VL-GRPC-NA  FR-195.42.233.125:8880
 vless://661f6f25-1b51-4782-b2d2-994c6b97c158@91.98.64.81:443?type=xhttp&path=%2Fxhttp# VL-XHTTP-NA  DE-91.98.64.81:443
 vless://5ca1c236-ead9-40c5-88ec-4ff8e450bdd9@109.95.65.216:642?type=tcp&host=p30afzar.com&headerType=http# VL-TCP-NA  IR-109.95.65.216:642
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.125:8880?type=grpc# VL-GRPC-NA  FR-195.42.233.125:8880
-vless://bbef1e1b-4061-45ce-a6e0-4cec2fe38cc4@5.75.194.181:33801?type=tcp&host=varzesh3.ir&headerType=http# VL-TCP-NA  DE-5.75.194.181:33801
