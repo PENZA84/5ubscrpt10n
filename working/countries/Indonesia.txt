@@ -277,6 +277,9 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.188:8880?security=&encr
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?encryption=none&security=tls&sni=YjF03nNq0B.sOlEnTrAa.InFo&alpn=h3%2Ch2&fp=chrome&type=ws&host=YjF03nNq0B.sOlEnTrAa.InFo&path=%2F#Channel%20id%3A%20%40mobilesignal%20%20%F0%9F%87%B8%F0%9F%87%AA
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?security=&encryption=none&fp=chrome&type=grpc#Channel%20id%3A%20%40singbox1%20%F0%9F%87%AB%F0%9F%87%B7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.158.171.146:8080#Channel%20ID%3A%20%40v2ray_confignet
+trojan://slch2024@185.148.104.195:2096?security=tls&type=ws&sni=ocost-dy.wmlefl.cc#Channel%20ID%3A%20%40v2ray_confignet
+trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443?security=tls&headerType=none&type=tcp&sni=rc8.freeguard.org#Channel%20ID%3A%20%40v2ray_confignet
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.126.237.38:990#Channel%20ID%3A%20%40v2ray_confignet
 trojan://vvip-periantara@38.9.140.66:443?security=tls&sni=id3tr.jagoan.vip#%F0%9F%87%AE%F0%9F%87%A9ID-38.9.140.66-4210
 trojan://idc117okt@103.176.78.153:443?security=tls#%F0%9F%87%AE%F0%9F%87%A9ID-103.176.78.153-4634
 vmess://ewogICAgImFkZCI6ICJsbXMudWluLWFudGFzYXJpLmFjLmlkIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiZXhhLm5leHR2cG4uY2MiLAogICAgImlkIjogIjQ2YmZkYjU5LTgzYzYtNDcxMC04NzdlLWM4MDliNWE5MGRmZiIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA4MCwKICAgICJwcyI6ICLwn4eu8J+HqUlELTEwMy4xODAuOTUuMjktNDc0MyIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
@@ -771,7 +774,6 @@ vless://464ec76e-fd60-4ad4-993e-d2c262f88ed1@fr.pixvpn.app:8443/?type=grpc&encry
 vless://e3b665fd-0329-47dc-bc05-3474b14bcaf6@ipe3.alighan.ir:8443/?type=ws&encryption=none&host=s.alighan.ir&path=%2F%3Fed&security=tls&sni=ipe4.alighan.ir&alpn=http%2F1.1&fp=chrome#Channel%20id%3A%20%40ShadowProxy66%20
 vless://7d645ab8-e8e5-4810-ae5f-4bd6659ac42c@ir.fxgoldensignals.com:8081/?encryption=none&flow=&host=zula.ir&type=tcp&headerType=http#Channel%20id%3A%20%40v2rayng_021
 vless://bbef1e1b-4061-45ce-a6e0-4cec2fe38cc4@m41a.vip784.com:33801?security=&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
-vless://0ec8c120-33fa-4658-9bed-3a51cb04c55c@net2026.zanddynastyofpersia.org:443?path=%2FeJsVXFVZ6iavNx1EFxOyH861WH&security=tls&encryption=none&host=net2026.zanddynastyofpersia.org&fp=chrome&type=ws&sni=net2026.zanddynastyofpersia.org#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
 vless://004ba5d4-d448-4960-a762-e5190ab415f2@www.indyskipass.com:443/?type=ws&encryption=none&host=albedoalbedochan.violetchaan.ip-ddns.com&security=tls&sni=albedoalbedochan.violetchaan.ip-ddns.com&alpn=http%2F1.1&fp=chrome#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3Y0k4RFplMGVYU1MzdXBvcDFRalZC@128.199.236.104:57384#Channel%20id:%20%20%F0%9F%87%B8%F0%9F%87%AC
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWMnhFTXB3WGp2eTQxcThGakZ0Y2ZmVnBiS1lHZmJIaTBxUGxFSklnajdFPQ==@13.48.44.73:8080#Channel%20id:%20@armin
