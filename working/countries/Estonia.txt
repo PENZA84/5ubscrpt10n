@@ -51,3 +51,5 @@ vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@45.80.110.77:8880?allowInsecure=0&s
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.80.110.89:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#%F0%9F%94%92%20VL-HTTPUPGRADE-NONE%20%F0%9F%87%AA%F0%9F%87%AA%20EE-45.80.110.89:8880
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.80.110.8:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#%F0%9F%94%92%20VL-HTTPUPGRADE-NONE%20%F0%9F%87%AA%F0%9F%87%AA%20EE-45.80.110.8:8880
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.80.110.91:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2F#%F0%9F%94%92%20VL-HTTPUPGRADE-NONE%20%F0%9F%87%AA%F0%9F%87%AA%20EE-45.80.110.91:8880
+vless://37208d52-8823-412d-944e-0a8ef08a5079@ee01.abvpn.ru:443?path=%2Fwebsocket&security=tls&encryption=none&fp=chrome&type=ws&sni=ee01.abvpn.ru#%20@MoftConfigEstonia
+vless://37208d52-8823-412d-944e-0a8ef08a5079@ee02.abvpn.ru:443?path=%2Fwebsocket&security=tls&encryption=none&fp=chrome&type=ws&sni=ee02.abvpn.ru#%20@MoftConfigEstonia
