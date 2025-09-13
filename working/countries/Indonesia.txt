@@ -184,17 +184,16 @@ vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIi
 vmess://eyJhZGQiOiJmYXBlbmcub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJmYXBlbmcub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiQ2hhbm5lbCBpZDogQFNoYWRvd1Byb3h5NjYg8J+HqfCfh6oiLCJzY3kiOiJhdXRvIiwic25pIjoiZmFwZW5nLm9yZyIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiJmYXBlbmcub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJmYXBlbmcub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiQ2hhbm5lbCBpZDogQFNoYWRvd1Byb3h5NjYg8J+HqfCfh6oiLCJzY3kiOiJhdXRvIiwic25pIjoiZmFwZW5nLm9yZyIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiJsYW1tYWxhbmQub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJsYW1tYWxhbmQub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiQ2hhbm5lbCBpZDogQFNoYWRvd1Byb3h5NjYg8J+HqfCfh6oiLCJzY3kiOiJhdXRvIiwic25pIjoibGFtbWFsYW5kLm9yZyIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.205.159.100:990#%F0%9F%87%AE%F0%9F%87%A9ID-154.205.159.100-0344
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.205.159.100:990#%F0%9F%87%AE%F0%9F%87%A9ID-154.205.159.100-0395
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?encryption=none&security=tls&sni=YjF03nNq0B.sOlEnTrAa.InFo&alpn=h3%2Ch2&fp=chrome&type=ws&host=YjF03nNq0B.sOlEnTrAa.InFo&path=%2F#Channel%20id%3A%20%40mobilesignal%20%20%F0%9F%87%B8%F0%9F%87%AA
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.188:8880?security=&encryption=none&type=grpc#Channel%20id%3A%20%40singbox1%20%F0%9F%87%AB%F0%9F%87%B7
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?security=&encryption=none&fp=chrome&type=grpc#Channel%20id%3A%20%40singbox1%20%F0%9F%87%AB%F0%9F%87%B7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.158.171.146:8080#Channel%20ID%3A%20%40v2ray_confignet
-trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443?security=tls&headerType=none&type=tcp&sni=rc8.freeguard.org#Channel%20ID%3A%20%40v2ray_confignet
-trojan://vvip-periantara@38.9.140.66:443?security=tls&sni=id3tr.jagoan.vip#%F0%9F%87%AE%F0%9F%87%A9ID-38.9.140.66-4407
-trojan://idc117okt@103.176.78.153:443?security=tls#%F0%9F%87%AE%F0%9F%87%A9ID-103.176.78.153-4831
-vmess://ewogICAgImFkZCI6ICJsbXMudWluLWFudGFzYXJpLmFjLmlkIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiZXhhLm5leHR2cG4uY2MiLAogICAgImlkIjogIjQ2YmZkYjU5LTgzYzYtNDcxMC04NzdlLWM4MDliNWE5MGRmZiIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA4MCwKICAgICJwcyI6ICLwn4eu8J+HqUlELTEwMy4xODAuOTUuMjktNDk0MCIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
-trojan://274c1b23-2bfe-40ac-943c-ebc1aa044b22@41.216.177.41:443?security=tls#%F0%9F%87%AE%F0%9F%87%A9ID-41.216.177.41-4989
-trojan://idc117okt@103.226.139.201:443?security=tls#%F0%9F%87%AE%F0%9F%87%A9ID-103.226.139.201-7217
+trojan://vvip-periantara@38.9.140.66:443?security=tls&sni=id3tr.jagoan.vip#%F0%9F%87%AE%F0%9F%87%A9ID-38.9.140.66-4432
+trojan://idc117okt@103.176.78.153:443?security=tls#%F0%9F%87%AE%F0%9F%87%A9ID-103.176.78.153-4856
+vmess://ewogICAgImFkZCI6ICJsbXMudWluLWFudGFzYXJpLmFjLmlkIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiZXhhLm5leHR2cG4uY2MiLAogICAgImlkIjogIjQ2YmZkYjU5LTgzYzYtNDcxMC04NzdlLWM4MDliNWE5MGRmZiIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA4MCwKICAgICJwcyI6ICLwn4eu8J+HqUlELTEwMy4xODAuOTUuMjktNDk2NSIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
+trojan://274c1b23-2bfe-40ac-943c-ebc1aa044b22@41.216.177.41:443?security=tls#%F0%9F%87%AE%F0%9F%87%A9ID-41.216.177.41-5014
+trojan://idc117okt@103.226.139.201:443?security=tls#%F0%9F%87%AE%F0%9F%87%A9ID-103.226.139.201-7449
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@223.165.4.173:990#%F0%9F%87%AE%F0%9F%87%A9%20ID_64
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.205.159.100:990#ID-154.205.159.100-5001%20%7C%200.013MB
 vmess://eyJhZGQiOiJkZW5jMzYueHRvb2x0ZWNoLmNmZCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiYWRlbmMzNnYueHRvb2x0ZWNoLmNmZCIsImlkIjoiYjMyMWZkNWQtZTZlYy00MjkzLWE2NDQtMTY0ZTM4ODVmNTJlIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt3cyIsInBvcnQiOiI0NDMiLCJwcyI6IvCflJBjaGFubmVsIGlkOkBzdXJmYm9hcmRjIPCfh6jwn4emIiwic2N5IjoiYXV0byIsInNuaSI6ImFkZW5jMzZ2Lnh0b29sdGVjaC5jZmQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
@@ -336,7 +335,6 @@ trojan://Aimer@46.254.92.201:2053?security=tls&headerType=&type=tcp&sni=ngepx.am
 vless://41abecd9-8096-4142-a75c-4e1d36d990bd@46.254.92.33:443?security=tls&sni=mmdserver.us.kg&type=ws&host=mmdserver.us.kg&path=%2F%3Fed%3D2048fp%3Dios# @MoftConfigIndonesia
 vmess://eyJ2IjoiMiIsInBzIjoiSURfMTQ3LjEzOS4xNjAuMTMwXzAzMTUyMDIzYjdmZC00ODd2bWVzcyIsImFkZCI6IjE0Ny4xMzkuMTYwLjEzMCIsInBvcnQiOiI4MCIsInR5cGUiOiJub25lIiwiaWQiOiJiOWY2ZWYwMS1hNGE2LTRhOTUtOGMyMi01OTY2NmJlMTQ1OTkiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.205.159.100:990#%f0%9f%87%ae%f0%9f%87%a9%20ID%201
-vmess://eyJhZGQiOiIxNTQuOTAuNDkuNTciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZmJmZmViNmItYjVlNS00Zjc3LTg4ODgtYzc5MTlmYmViMGFkIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1ODg2OCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwicHMiOiJcdWQ4M2NcdWRkZWVcdWQ4M2NcdWRkZTkgSUQgfCBcdWQ4M2RcdWRkMTMgVk1FU1MgfCBAdnBuZmFpbF92MnJheSBbMTddIn0
 vless://cac07fc1-9c38-42af-b26f-421eaca2cd65@94.183.158.13:1190?path=%2F%3Fed%3D2560&security=&encryption=none&type=ws#Channel%20id%3A%40ShadowProxy66%20%F0%9F%87%AE%F0%9F%87%B7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4ZDczZTA4OC1kYzVhLTRkZmUtODkyNy01NjM1MWVlODA0MDc%3D@144.126.146.38:30789#Channel%20id%3A%20%40ShadowProxy66%20
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NDFkZGNlZC1lNmVlLTQxNzUtOWMxYS1lNTI0MDA5ZjkwNDU%3D@144.126.146.38:30100#Channel%20id%3A%20%40ShadowProxy66%20
@@ -701,6 +699,7 @@ vless://3528af1b-878e-407a-b2c0-38643dbb791e@64.227.118.75:443?mode=auto&path=%2
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@66.81.247.247:2053/?type=ws&encryption=none&host=dl1-pl-cdn.easy-upload.org&path=%2F&security=tls&sni=dl1-pl-cdn.easy-upload.org&alpn=h2%2Chttp%2F1.1&fp=random#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B5%F0%9F%87%B1
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@89.116.250.49:2053/?type=ws&encryption=none&host=dl1-tr-cdn.easy-upload.org&path=%2F&security=tls&sni=dl1-tr-cdn.easy-upload.org#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B9%F0%9F%87%B7
 vless://82b252cf-e2e9-48f8-864b-4b5efe1c3367@91.236.168.126:5151?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AE%F0%9F%87%B7
+vless://03852aa6-db01-4137-972d-14ebfb202f09@95.164.6.214:443/?type=ws&encryption=none&path=%2Fkcknkyws&security=tls#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%B7
 vless://fa72a38c-56bf-4f3b-9735-e96e9840ae54@app.chandplus.com:443/?type=tcp&encryption=none&security=tls&sni=app.chandplus.com&alpn=h3%2Ch2%2Chttp%2F1.1&fp=random#Channel%20id%3A%20%40ShadowProxy66%20
 vless://464ec76e-fd60-4ad4-993e-d2c262f88ed1@fr.pixvpn.app:8443/?type=grpc&encryption=none&flow=&serviceName=grpc-jd&sni=jd.com&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=41a4cee2c50c4fc3#Channel%20id%3A%20%40v2rayng_021
 vless://e3b665fd-0329-47dc-bc05-3474b14bcaf6@ipe3.alighan.ir:8443/?type=ws&encryption=none&host=s.alighan.ir&path=%2F%3Fed&security=tls&sni=ipe4.alighan.ir&alpn=http%2F1.1&fp=chrome#Channel%20id%3A%20%40ShadowProxy66%20
@@ -790,3 +789,4 @@ ss://YWVzLTEyOC1nY206NzlmNThlNDgtMTViMi00ZTgxLWE3ZjMtNzZkZjkwMjRmODU2@vip.fbclou
 ss://YWVzLTEyOC1nY206NzlmNThlNDgtMTViMi00ZTgxLWE3ZjMtNzZkZjkwMjRmODU2@vip.fbcloud.link:57148#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%B3
 ss://YWVzLTEyOC1nY206NzlmNThlNDgtMTViMi00ZTgxLWE3ZjMtNzZkZjkwMjRmODU2@vip.fbcloud.link:58003#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%B3
 ss://YWVzLTEyOC1nY206NzlmNThlNDgtMTViMi00ZTgxLWE3ZjMtNzZkZjkwMjRmODU2@vip.fbcloud.link:58084#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%B3
+vmess://ewogICAgImFkZCI6ICJsbXMudWluLWFudGFzYXJpLmFjLmlkIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiZXhhLm5leHR2cG4uY2MiLAogICAgImlkIjogIjQ2YmZkYjU5LTgzYzYtNDcxMC04NzdlLWM4MDliNWE5MGRmZiIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA4MCwKICAgICJwcyI6ICLwn4eu8J+HqUlELTEwMy4xODAuOTUuMjktNDk0MCIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
