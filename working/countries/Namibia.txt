@@ -1221,6 +1221,7 @@ vless://6bfe29b6-6b37-4186-a9c1-377503f5ea0d@212.16.71.16:41577?type=tcp#%F0%9F%
 vless://3e566c97-78f4-4b7d-bcfb-8e67106ddbae@212.80.8.157:45764?type=tcp&host=nobitex.ir&headerType=http#%20VL-TCP-NA%20%20IR-212.80.8.157:45764
 vless://67525da1-a606-4725-98f3-513c13904d9d@213.142.133.184:11928?type=tcp#%F0%9F%94%92%20VL-TCP-NA%20%F0%9F%87%B9%F0%9F%87%B7%20TR-213.142.133.184:11928
 vless://e5f6a7b8-c9d0-1234-ef01-56789abcdef0@216.227.168.157:45258?type=tcp#%F0%9F%94%92%20VL-TCP-NA%20%F0%9F%87%BA%F0%9F%87%B8%20US-216.227.168.157:45258
+vless://b327d2bf-a1d4-530f-bf85-5f7033483334@23.230.179.92:80?type=httpupgrade&host=ee1.xvless.online&path=%2Fhttpupgrade#%20VL-HTTPUPGRADE-NA%20%20EE-23.230.179.92:80
 vless://401374e6-df77-41fb-f638-dad8184f175b@31.12.75.179:443?security=tls&sni=vp28.hiddendom.shop&allowInsecure=1&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20-%20NA%20%F0%9F%8C%8D%20VL-GRPC-TLS%204%E2%83%A3
 vless://4d91916f-a7fd-419b-8b90-640bb8d4b3f2@31.43.179.228:443?security=tls&sni=mypHOtoGRAPICpIctUre.iR&alpn=http/1.1&allowInsecure=1&fp=chrome&type=ws&path=/fJBvsL0uR2MtzRig&host=myphotograpicpicture.ir&packetEncoding=xudp&encryption=none#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20-%20NA%20%F0%9F%8C%8F%20VL-WS-TLS%204%E2%83%A3
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@31.43.179.72:2096?security=tls&sni=LhCgBjGr29.vElTrIxS.OrG&allowInsecure=1&fp=chrome&type=ws&host=LhCgBjGr29.vElTrIxS.OrG&packetEncoding=xudp&encryption=none#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20-%20NA%20%F0%9F%8C%8F%20VL-WS-TLS%204%E2%83%A3
@@ -1388,6 +1389,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.173
 ss://YWVzLTI1Ni1nY206VlhOYmFKN3JDZDY1aVBkYw==@51.161.164.74:8388#%F0%9F%87%A6%F0%9F%87%BA%20Australia%20-%20NA%20%F0%9F%8C%8F%20SS-TCP-NA%204%E2%83%A3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@64.176.184.129:1866#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20NA%20%F0%9F%8C%8E%20SS-TCP-NA%204%E2%83%A3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMkFIWm14N1ZTZU1QY0d5UHp2UTNSUnhzMms0QVlhalo1NUFFVFJNaG1GRHJIWHFEOE4zYm9kVE1SS0RRMUtiUDY3MldmQVlUVFR6N3RFUXVyWlJTTDlNMVM2ODlBYjU=@94.156.79.244:40934#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20NA%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.128:8880?type=grpc# VL-GRPC-NA  FR-185.242.87.128:8880
 vless://b327d2bf-a1d4-530f-bf85-5f7033483334@23.230.179.92:80?type=httpupgrade&host=ee1.xvless.online&path=%2Fhttpupgrade# VL-HTTPUPGRADE-NA  EE-23.230.179.92:80
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.160:8880?type=grpc# VL-GRPC-NA  FR-185.242.87.160:8880
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.128:8880?type=grpc# VL-GRPC-NA  FR-185.242.87.128:8880
