@@ -1,3 +1,6 @@
+trojan://telegram-id-directvpn@63.178.27.188:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.178.27.188:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.193.140.121:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 
 vless://1b368bf6-5aac-413c-a77c-229fb984d5ae@cloudgetservice.mcloudservice.site:443?path=%2Flinkws&security=tls&encryption=none&host=maxnetvipap-cloud76.netkh3.site&type=ws#[]t.me/ConfigsHub
 vless://4d52c5bf-dd6d-4335-8c26-5eac773914d7@cloudgetservice.mcloudservice.site:443?path=%2Flinkws&security=tls&encryption=none&host=maxnetvipap-us83.maxnetservices.online&type=ws#[]t.me/ConfigsHub
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.7.0:80?path=%2F193.123.81.105%3D443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#[]t.me/ConfigsHub
@@ -9995,6 +9998,3 @@ vless://ef7316a9-f531-40f8-9f13-d2f1dcb46e83@142.93.238.52:14045?path=%2F&securi
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.147.74:8880?mode=gun&security=none&encryption=none&type=grpc#[]t.me/ConfigsHub
 vless://308fcfe5-b3ea-4d20-bce0-684332ce43d7@209.38.42.122:2027?security=none&encryption=none&headerType=none&type=tcp#[]t.me/ConfigsHub
 vless://f1a5abe9-dba7-4989-8996-469470477c30@65.108.251.124:58996?security=none&encryption=none&headerType=none&type=tcp#[]t.me/ConfigsHub
-vless://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096?path=%2F&security=tls&encryption=none&host=D32.alanHiaHo.Com&type=ws&sni=D32.alanHiaHo.Com#[]t.me/ConfigsHub
-vless://83082070-6b71-4e48-937a-3e4bf304fe68@199.232.7.181:443?allowInsecure=1&sni=ELeNa-JOinBede-ELiV2rAY.ir&type=ws&host=ELeNa-JOinBede-ELiV2rAY.ir&path=/fp=qqfp=qq&security=tls#[]t.me/ConfigsHub
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@167.82.97.248:443?security=tls&sni=backtory.com&type=ws&host=backtory.com&alpn=h2,http%2F1.1&allowInsecure=1#[]t.me/ConfigsHub
