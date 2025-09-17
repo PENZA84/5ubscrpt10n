@@ -611,6 +611,7 @@ vless://ad4a8fe9-2a32-49c4-a532-e4eef253f148@104.19.54.50:443?security=tls&sni=a
 vless://3407d572-2d0b-43f2-9ee8-0d84c0fe13bd@104.20.1.252:8443?security=tls&sni=prx11.proxystore11.news&type=xhttp&host=prx11.proxystore11.news&path=prx11-prx11-prx11-prx11-prx11-prx11-prx11-prx11-prx11-prx11-prx11-prx11-prx11-prx11-prx11-prx11&fp=chrome&alpn=h2#%F0%9F%94%92%20VL-XHTTP-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.20.1.252:8443
 vless://2c480d4d-17d6-48d8-a1e6-bae137bb45c0@104.20.103.144:2087?security=tls&sni=g4.ferdowsi.shop&type=grpc&serviceName=Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA#%20VL-GRPC-TLS%20%20NA-104.20.103.144:2087
 vless://6babb657-1524-43bb-b421-11bda27bc9de@104.20.103.42:2087?security=tls&sni=smart.titimoji-f6.fun&type=grpc#%20VL-GRPC-TLS%20%20NA-104.20.103.42:2087
+vless://d26009b6-d347-403f-95ce-1816bb8b8ca4@104.20.18.168:8880?security=none&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2048&host=v2raylandd.werokac991.workers.Dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
 vless://affd5a9a-22fa-11ee-be56-0242ac120002@104.20.224.95:443?security=tls&sni=vpn870.tutorials26858.workers.dev&allowInsecure=1&fp=chrome&type=ws&path=/&host=vpn870.tutorials26858.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3
 vless://2c480d4d-17d6-48d8-a1e6-bae137bb45c0@104.20.241.161:2087?security=tls&sni=g4.ferdowsi.shop&type=grpc&serviceName=Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA#%20VL-GRPC-TLS%20%20NA-104.20.241.161:2087
 vless://2514586b-2e1e-4f05-b7c2-b08a62f2147d@104.20.248.56:2053?security=tls&sni=uk1.rustx.ir&type=grpc#%20VL-GRPC-TLS%20%20NA-104.20.248.56:2053
@@ -1387,13 +1388,13 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.173
 ss://YWVzLTI1Ni1nY206VlhOYmFKN3JDZDY1aVBkYw==@51.161.164.74:8388#%F0%9F%87%A6%F0%9F%87%BA%20Australia%20-%20NA%20%F0%9F%8C%8F%20SS-TCP-NA%204%E2%83%A3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@64.176.184.129:1866#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20NA%20%F0%9F%8C%8E%20SS-TCP-NA%204%E2%83%A3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMkFIWm14N1ZTZU1QY0d5UHp2UTNSUnhzMms0QVlhalo1NUFFVFJNaG1GRHJIWHFEOE4zYm9kVE1SS0RRMUtiUDY3MldmQVlUVFR6N3RFUXVyWlJTTDlNMVM2ODlBYjU=@94.156.79.244:40934#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20NA%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
-vless://3e3cec72-9eb4-4aa2-834d-b3c641ef1e6d@165.22.200.45:45323?type=tcp# VL-TCP-NA  NL-165.22.200.45:45323
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.125:8880?type=grpc# VL-GRPC-NA  FR-195.42.233.125:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.48:8880?type=grpc# VL-GRPC-NA  LT-94.131.14.48:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.213:8880?type=grpc# VL-GRPC-NA  FR-185.242.87.213:8880
-vless://b327d2bf-a1d4-530f-bf85-5f7033483334@23.230.179.92:80?type=httpupgrade&host=ee1.xvless.online&path=%2Fhttpupgrade# VL-HTTPUPGRADE-NA  EE-23.230.179.92:80
-vless://d4437242-7039-4e88-b83b-f383fa5ffda2@91.107.244.28:33801?type=tcp&host=varzesh3.ir&headerType=http# VL-TCP-NA  DE-91.107.244.28:33801
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.154:8880?type=grpc# VL-GRPC-NA  FR-185.242.87.154:8880
 vless://4bb35928-40bb-4bf3-95f1-9efdc4169147@159.223.209.139:46964?type=tcp# VL-TCP-NA  NL-159.223.209.139:46964
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.160:8880?type=grpc# VL-GRPC-NA  FR-185.242.87.160:8880
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.125:8880?type=grpc# VL-GRPC-NA  FR-195.42.233.125:8880
+vless://b327d2bf-a1d4-530f-bf85-5f7033483334@23.230.179.92:80?type=httpupgrade&host=ee1.xvless.online&path=%2Fhttpupgrade# VL-HTTPUPGRADE-NA  EE-23.230.179.92:80
+vless://3e3cec72-9eb4-4aa2-834d-b3c641ef1e6d@165.22.200.45:45323?type=tcp# VL-TCP-NA  NL-165.22.200.45:45323
+vless://d4437242-7039-4e88-b83b-f383fa5ffda2@91.107.244.28:33801?type=tcp&host=varzesh3.ir&headerType=http# VL-TCP-NA  DE-91.107.244.28:33801
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.213:8880?type=grpc# VL-GRPC-NA  FR-185.242.87.213:8880
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.128:8880?type=grpc# VL-GRPC-NA  FR-185.242.87.128:8880
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.154:8880?type=grpc# VL-GRPC-NA  FR-185.242.87.154:8880
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.48:8880?type=grpc# VL-GRPC-NA  LT-94.131.14.48:8880
