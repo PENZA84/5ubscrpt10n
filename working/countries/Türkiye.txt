@@ -1262,9 +1262,9 @@ trojan://telegram-id-privatevpns@13.36.134.198:22222?security=tls&sni=trojan.bur
 trojan://qj1Dz1CJmFQRhWr1SP80aA@172.67.204.84:443?security=tls&sni=cdn-21.gsmxreality.com&type=grpc&serviceName=443trojan&mode=gun#%F0%9F%94%92%20TR-GRPC-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-172.67.204.84%3A443
 trojan://984e400bf5d541b7b0815913fe0c432a@104.19.171.7:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=6b777a91#%F0%9F%94%92%20TR-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.19.171.7%3A443
 trojan://vpn@2.59.162.145:2025?security=tls&type=ws&host=dns.google.com&path=%2F#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20-%20Vilnius%20%F0%9F%8C%8D%20TR-WS-NONE%204%E2%83%A3
-vless://3c7a1227-5383-3a19-7084-76624ec8f84f@5.181.168.10:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=speed.cloudflare.com&fp=chrome&pbk=pFIyqIJ6RKofhtXRZJ0kcxPIolBHtDIcDYd5KvttUSY&type=tcp&path=%2f#%f0%9f%87%b9%f0%9f%87%b7%20TR%201
-vless://ee5650fd-4ca0-4518-8dfc-93171868af01@1e69d8vr0rg.country-17.eu-ffast.com:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=tr.eu-ffast.com&fp=chrome&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&spx=%2f&type=tcp&path=%2f#%f0%9f%87%b9%f0%9f%87%b7%20TR%202
-vless://7e296434-2d17-48d3-928d-19eaa34aecb1@185.33.24.229:28495?security=reality&encryption=none&sni=dl.google.com&fp=chrome&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&sid=0ecc2c1392&type=tcp&path=%2f#%f0%9f%87%b9%f0%9f%87%b7%20TR%203
+vless://b062ed1b-8927-41e2-a0a6-34a4432b51b6@164.138.202.139:10777?security=none&path=%2f#%f0%9f%87%b9%f0%9f%87%b7%20TR%201
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.123.101.241:989#%f0%9f%87%b9%f0%9f%87%b7%20TR%202
+ss://YWVzLTI1Ni1jZmI6YTNHRll0MzZTbTgyVnlzOQ==@45.89.52.66:9000#%f0%9f%87%b9%f0%9f%87%b7%20TR%203
 vless://6e812804-b0e8-4eff-9c2e-96c6fed96f1b@185.234.66.81:443?path=%2Flkjdasws&security=tls&encryption=none&type=ws#[openproxylist.com] vless-TR
 vless://2b25cdb0-ecb2-4caa-910d-b2e5b2309ca3@185.234.66.94:443?path=%2Ftqjkmwws&security=tls&encryption=none&type=ws#[openproxylist.com] vless-TR
 vless://d4992ec8-d781-45f5-9f59-ef8c769f46f9@185.234.66.101:443?path=%2Fhfwsxtws&security=tls&encryption=none&host=TELEGRAM--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY---V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY&type=ws#[openproxylist.com] vless-TR
@@ -2859,7 +2859,6 @@ trojan://Aimer@199.34.228.143:2096?security=tls&sni=ngepy.ambercc.filegear-sg.me
 trojan://Aimer@199.34.228.48:2087?sni=epmf.ambercc.filegear-sg.me#%F0%9F%94%92%20TR-TCP-NA%20%F0%9F%87%BA%F0%9F%87%B8%20US-199.34.228.48:2087
 trojan://Aimer@199.34.228.66:2053?security=tls&sni=epmo.ambercc.filegear-sg.me&type=ws&host=epmo.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#%F0%9F%94%92%20TR-WS-TLS%20%F0%9F%87%BA%F0%9F%87%B8%20US-199.34.228.66:2053
 trojan://4d048fc6-d944-41dd-b327-10856adcc82d@199.59.243.228:443?security=tls&sni=zi.you.usdtvfk.top#%F0%9F%94%92%20TR-TCP-TLS%20%F0%9F%87%BA%F0%9F%87%B8%20US-199.59.243.228:443
-trojan://vpn@2.56.125.113:2025?security=none&allowInsecure=1&fp=chrome&type=ws&path=/&host=dns.google.com#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20-%20Warsaw%20%F0%9F%8C%8D%20TR-WS-NONE%204%E2%83%A3
 trojan://vpn@2.59.162.145:2025?security=none&fp=chrome&type=ws&path=/&host=dns.google.com#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20-%20Vilnius%20%F0%9F%8C%8D%20TR-WS-NONE%204%E2%83%A3
 trojan://9bb27128-e6d2-4cac-bbd3-beb46c4417f8@20.2.156.164:443?security=tls&sni=hk01.trojanyyds.xyz&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20-%20Hong%20Kong%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
 trojan://5586eb05-1e5c-4b27-a276-86311547b95e@20.2.156.167:443?security=tls&sni=waphk.mjt000.com&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20-%20Hong%20Kong%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
@@ -3240,9 +3239,7 @@ vless://5ec8aebb-acd2-4b4b-958b-85a5d360e606@passer02.ultranumber.top:19381?type
 vless://b8e8897d-41c9-5f3a-8476-e94ff3ed7c52@speedtest2.sbs.tr1.vless.sitespeedtest.net:443?security=tls&type=ws&sni=vkvd127.mycdn.me&alpn=http%2F1.1&allowInsecure=1&host=speedtest2.sbs.tr1.vless.sitespeedtest.net&path=%2Fvless%23%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL&ed=2048&eh=Sec-Websocket-Protocol&fp=chrome#%F0%9F%92%B0%F0%9F%92%A5%F0%9F%87%B9%F0%9F%87%B7%20TR%20176.120.73.104%20%E2%97%88%20ws%3A443%20%E2%97%88%20Stark%20Industries%20%E2%97%88%2067c7c
 vless://b8e8897d-41c9-5f3a-8476-e94ff3ed7c52@speedtest2.sbs.tr1.vless.sitespeedtest.net:80?type=ws&host=vkvd127.mycdn.me&path=%2Fvless&ed=2048&eh=Sec-Websocket-Protocol&fp=chrome#%F0%9F%92%B0%F0%9F%87%B9%F0%9F%87%B7%20TR%20176.120.73.104%20%E2%97%88%20ws%3A80%20%E2%97%88%20Stark%20Industries%20%E2%97%88%2076eb9
 vless://ff0e767c-747e-4a6d-b3c9-ba0d602ec939@tu.a.speedgloobalontop.ir:2088/?type=tcp&encryption=none#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40drvpn_net%20%5B3%5D
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.123.101.241:989#%F0%9F%87%B9%F0%9F%87%B7TR-185.123.101.241-0308
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.123.101.241:990#%F0%9F%87%B9%F0%9F%87%B7TR-185.123.101.241-0297
-ss://YWVzLTI1Ni1jZmI6YTNHRll0MzZTbTgyVnlzOQ@45.89.52.66:9000#%F0%9F%87%B9%F0%9F%87%B7TR-45.89.52.66-4830
 ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg@45.89.52.66:9031#%F0%9F%87%B9%F0%9F%87%B7TR-45.89.52.66-8057
 ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ@45.89.52.66:9037#%F0%9F%87%B9%F0%9F%87%B7TR-45.89.52.66-8404
 ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg@45.89.52.66:9040#%F0%9F%87%B9%F0%9F%87%B7TR-45.89.52.66-8403
