@@ -140,7 +140,7 @@ vless://b1c801ec-1c5e-4d12-8b53-8da11c64a21b@216.173.70.95:443?security=reality&
 vless://bda9c538-7e4d-47ca-ae17-b74f5013f4e0@45.130.215.125:8443?encryption=none&security=tls&sni=gorsee.store&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%B1%F0%9F%87%BB%20LV-267
 vless://0fa53d34-5f21-4d66-bb5f-6f37c2a8c4e1@62.192.174.205:443?security=reality&flow=xtls-rprx-vision&sni=lv.wikipedia.org&type=tcp&fp=firefox&pbk=Lb1Gi0VcVuytLf_gb846u7iKkHVywpG8IC9wdZslwUA&sid=102707ab31571a93#%F0%9F%94%92%20VL-TCP-RLT%20%F0%9F%87%B1%F0%9F%87%BB%20LV-62.192.174.205:443
 vless://0cc9d390-42ee-461e-94ae-e4370883dc48@77.73.238.191:29505?security=&type=ws&path=%2F&encryption=none#%F0%9F%87%B1%F0%9F%87%BB%5Bopenproxylist.com%5D%20vless-LV
-vless://393044fb-755a-4623-965e-3ae4fe39d730@83.222.20.64:53299?type=ws&path=%2f#%5BOpenRay%5D%20%F0%9F%87%B1%F0%9F%87%BB%20LV-372
+vless://393044fb-755a-4623-965e-3ae4fe39d730@83.222.20.64:53299?security=none&encryption=none&fp=chrome&type=ws&path=%2f#%5BOpenRay%5D%20%F0%9F%87%B1%F0%9F%87%BB%20LV-368
 vless://b1c801ec-1c5e-4d12-8b53-8da11c64a21b@94.158.219.203:443?security=reality&flow=xtls-rprx-vision&sni=video.intfreed.ru&type=tcp&fp=chrome&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&sid=7755e972daf8eec8#%F0%9F%94%92%20VL-TCP-RLT%20%F0%9F%87%B1%F0%9F%87%BB%20LV-94.158.219.203:443
 vless://e28c47f0-d2bd-47c2-a443-2d3c05cee0ee@gorsee.store:12026?security=tls&sni=gorsee.store&type=tcp&path=%2f#%5BOpenRay%5D%20%F0%9F%87%B1%F0%9F%87%BB%20LV-385
 vless://id8127942053@s2.nodu10.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=edge&security=reality&pbk=BSLYXa-gOix_3BBelaROYqH4u_kAiyfcN5-VE9qkmHE&sid=a61d6960f49e#%F0%9F%87%B1%F0%9F%87%BB%20LV%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40prrofile_purple%20%5B130%5D
