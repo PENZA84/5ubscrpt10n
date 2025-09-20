@@ -400,11 +400,19 @@ vless://a38bd72a-c5ef-4353-a5e2-eeaac71c26b8@139.162.84.132:18836?encryption=non
 vless://12345678-1234-1234-1234-123456789123@103.245.229.249:80?encryption=none&security=none&sni=yaya.web.id&type=ws&host=yaya.web.id&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#JP%E6%97%A5%E6%9C%AC%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 vless://12345678-1234-1234-1234-123456789123@156.238.19.249:80?encryption=none&security=none&sni=yaya.web.id&type=ws&host=yaya.web.id&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#JP%E6%97%A5%E6%9C%AC%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 vless://12345678-1234-1234-1234-123456789123@103.245.228.249:80?encryption=none&security=none&sni=yaya.web.id&type=ws&host=yaya.web.id&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#JP%E6%97%A5%E6%9C%AC%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#%f0%9f%87%af%f0%9f%87%b5%20JP%201
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#%f0%9f%87%af%f0%9f%87%b5%20JP%202
-ss://YWVzLTEyOC1nY206MTAwODY=@160.16.123.124:10087#%f0%9f%87%af%f0%9f%87%b5%20JP%203
-vless://747c62da-109f-4add-8e67-c66e1af7d255@kb.aws5.yydjc.top:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=iosapps.itunes.apple.com&fp=ios&pbk=yzIdIf5RpR-rTzlULRjJoCgcQdx3-yXKl7eT7IuThn4&sid=bb9ab0d5242d53e9&type=tcp&headerType=none&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%204
-vless://ed242313-b502-4a4a-97f4-336da621a837@45.12.134.217:80?security=none&encryption=none&type=ws&path=%2fvless%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%205
+trojan://253bc477d4e43c209f2d427272968280@160.16.70.180:447?sni=www.nintendogames.net&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%201
+trojan://253bc477d4e43c209f2d427272968280@160.16.130.66:2045?sni=www.nintendogames.net&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%202
+trojan://253bc477d4e43c209f2d427272968280@160.16.117.182:4397?security=tls&sni=www.nintendogames.net&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%203
+trojan://253bc477d4e43c209f2d427272968280@153.121.73.102:3294?security=tls&sni=www.nintendogames.net&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%204
+trojan://253bc477d4e43c209f2d427272968280@160.16.117.182:4397?sni=www.nintendogames.net&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%205
+trojan://253bc477d4e43c209f2d427272968280@160.16.130.66:2045?security=tls&sni=www.nintendogames.net&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%206
+trojan://253bc477d4e43c209f2d427272968280@153.121.73.102:3296?security=tls&sni=www.nintendogames.net&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%207
+trojan://253bc477d4e43c209f2d427272968280@153.121.73.102:3296?sni=www.nintendogames.net&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%208
+trojan://253bc477d4e43c209f2d427272968280@160.16.72.33:1924?security=tls&sni=www.nintendogames.net&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%209
+trojan://253bc477d4e43c209f2d427272968280@160.16.70.180:447?security=tls&sni=www.nintendogames.net&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%2010
+trojan://253bc477d4e43c209f2d427272968280@153.121.73.102:3294?sni=www.nintendogames.net&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%2011
+trojan://253bc477d4e43c209f2d427272968280@160.16.72.33:1924?sni=www.nintendogames.net&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%2012
+trojan://253bc477d4e43c209f2d427272968280@153.121.45.139:327?allowInsecure=0&sni=www.nintendogames.net#[openproxylist.com] trojan-JP
 vless://a0a866bd-8c0c-464c-9b96-c6dafa154419@5.253.41.223:80?path=/vless/?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&security=none&encryption=none&type=ws#[openproxylist.com] vless-JP
 vless://ed242313-b502-4a4a-97f4-336da621a837@45.12.134.217:80?type=ws&path=/vless/?ed=2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#[openproxylist.com] vless-JP
 vmess://eyJhZGQiOiIxNzIuMTExLjE0Ni42NCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwNWI4Yzc4My03ZjU5LTQ3ZjktOTkyMy0wNmE0NjU2NzlmNmEiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3ZtZXNzXC8iLCJwb3J0IjoiODAiLCJwcyI6Ilx1ZDgzY1x1ZGRlZlx1ZDgzY1x1ZGRmNVtvcGVucHJveHlsaXN0LmNvbV0gdm1lc3MtSlAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
