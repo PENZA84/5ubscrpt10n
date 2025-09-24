@@ -1,3 +1,9 @@
+trojan://telegram-id-directvpn@35.181.137.27:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.16.149.162:443?security=tls&sni=edcch.ambercc.filegear-sg.me&type=ws&host=edcch.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#@MoftConfigCanadaTorontoping:7.98ms
+vless://d0298536-d670-4045-bbb1-ddd5ea68683e@ipinfo.in:443?path=%2Fazadnet-btq.pages.dev%2F%3Fed%3D2560%26PROT_TYPE%3Dvless&security=tls&encryption=none&host=azadnet-btq.pages.dev&fp=randomized&type=ws&sni=azadnet-btq.pages.dev#@MoftConfigCanadaTorontoping:8.81ms
+vless://a685b264-42b6-4ecd-92e2-d8dd402e5f6b@104.19.222.79:2053?security=tls&sni=Frall.sabinhosting.ir&type=ws&host=Frall.sabinhosting.ir#@MoftConfigCanadaTorontoping:8.06ms
+vless://c572ef1b-da14-4dd5-8798-726ced5ee82f@151.101.0.223:80?security=none&type=xhttp&host=biyatovistavdoray.com&path=%2F%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%3Fed%3D2048#@MoftConfigUnited StatesSan Franciscoping:7.5ms
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTU2LjIyOS4xNjQuMTg1IiwicG9ydCI6IjYxNjUiLCJ0eXBlIjoibm9uZSIsImlkIjoiYjZmYjM4MTYtYWYwMy00YjIxLWIxZmMtY2IyYjcwZmEyNzA1IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwiaG9zdCI6InB1bGwuZnJlZS52aWRlby4xMDAxMC5jb20iLCJ0bHMiOiIifQ==
 vless://0e1ed58f-1920-49e7-b8bc-201ffd112a31@172.67.24.121:2052?security=none&type=ws&host=mosiv2.eliii.mosiv2.mosiv2.www.speedtest.net.mosiv2.mosic7.info.#@MoftConfigCanadaTorontoping:8.11ms
 vless://fac834ec-7ad6-48cb-9a52-0dbb9ab7498e@vip-82.f-sub.cfd:5969?security=none&type=tcp&headerType=http&path=%2F&host=speedtest.net#@MoftConfigGermanyNurembergping:14.15ms
 vless://cd2e9541-3fce-4d95-9bec-919d884f911e@141.144.253.109:443?security=tls&sni=piqie.justin-lifeistooshort.info&type=ws&host=piqie.justin-lifeistooshort.info&path=%2Ftiger#@MoftConfigGermanyEschbornping:28.15ms
@@ -9992,9 +9998,3 @@ trojan://telegram-id-directvpn@13.36.105.66:22223?security=tls&alpn=http/1.1&hea
 vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.19.245.206:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=kawaiifreevpn-7ds.pages.dev&fp=random&type=ws&sni=kawaiifreevpn-7ds.pages.dev#[]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.154.136.176:9101#[]t.me/ConfigsHub
 vless://f480fb21-d461-4d74-a70f-78226a5e83ec@usa-vip.digitalldns.net:8060?path=%2F&security=none&encryption=none&type=ws#[]t.me/ConfigsHub
-trojan://6557bf4a-852b-4a69-ad35-d53293386a13@52.193.85.187:443?security=tls&type=tcp&sni=it.mjt000.com#[]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvMzh5dXZ6U2UzbTVhRE5wSHRVUEgxekd3YkdFWFhNRHNHd1ZhdWIyU1lFbUhVYTJXR1pVamllelgzVnZ2YTlDQ3pwanhZdHVKTGdLc1Nuc3lLQmY5Y2lQVmJhM3k0bzM@94.131.21.174:54075#[]t.me/ConfigsHub
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.38:38388#[]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.23:8388#[]t.me/ConfigsHub
-vmess://eyJhZGQiOiJlOWRjMzcyMi1zdjJzZzAtc3lsZmlsLTFnY3EyLmhrLnA1cHYuY29tIiwiYWlkIjoiMiIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJlOWRjMzcyMi1zdjJzZzAtc3lsZmlsLTFnY3EyLmhrLnA1cHYuY29tIiwiaWQiOiI3NTliZjAwNC02MTM3LTExZWMtYmQ3Yy1mMjNjOTEzYzhkMmIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiJb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
-vmess://eyJhZGQiOiI5MmIxZTAwZS1zdjB4czAtdGIyMjRnLTFoMHI5LmhrLnA1cHYuY29tIiwiYWlkIjoiMiIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiI5MmIxZTAwZS1zdjB4czAtdGIyMjRnLTFoMHI5LmhrLnA1cHYuY29tIiwiaWQiOiI5YmZkMGRkZS05NTdlLTExZWMtYThiZi1mMjNjOTFjZmJiYzkiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiJb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
