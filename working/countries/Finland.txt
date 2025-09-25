@@ -269,12 +269,6 @@ vless://b65f4df7-f6af-42b2-877a-cef33f21675e@91.108.241.188:443?allowInsecure=0&
 vless://d6d16b83-e7e3-486a-aa82-a649ef73cbfa@65.109.211.159:2053?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AB%F0%9F%87%AE%20FI-65.109.211.159%3A2053
 vless://99785b25-5b68-40c7-be5c-199cac21c838@65.109.211.159:2093?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AB%F0%9F%87%AE%20FI-65.109.211.159%3A2093
 vless://723eb4ef-b933-494e-8b6f-c4b4c580dcca@65.109.211.159:2096?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AB%F0%9F%87%AE%20FI-65.109.211.159%3A2096
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptWkdVRldNQWxmV3FJNHZQNTh6dzlEQUh4UjhUWkxuZEtrdlJnSEhGYTllcVdkbng=@65.21.243.22:31348#%f0%9f%87%ab%f0%9f%87%ae%20FI%201
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1VFpud1BiMjNwUVMzOWxJdWNzcEp3@89.35.119.87:5904#%f0%9f%87%ab%f0%9f%87%ae%20FI%202
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGM25ZNzNkaTVvbldWM2dvdGJwSTBR@83.147.216.70:64519#%f0%9f%87%ab%f0%9f%87%ae%20FI%203
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVbFQ4OUQwcnZjcjA1dEtmdDFOQjVh@83.147.216.70:64519#%f0%9f%87%ab%f0%9f%87%ae%20FI%204
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSTGZhN0lsem1tcnd5QnRJNEJPSnMz@83.147.216.70:64519#%f0%9f%87%ab%f0%9f%87%ae%20FI%205
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXbURoVlNpRGlqN1IyWFJPcjNDbTU1@83.147.216.70:64519#%f0%9f%87%ab%f0%9f%87%ae%20FI%206
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkZJIiwNCiAgImFkZCI6ICIzNy4xNDMuMTI5LjQ0IiwNCiAgInBvcnQiOiAiODA4MCIsDQogICJpZCI6ICJiZGQyMjg0MS1jNGQyLTRhYTgtYWNmMi05NWFhOTEyNWYxNTkiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImZpLTMudHJvbGxmdW5ueS5uZXQiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiZmktMy50cm9sbGZ1bm55Lm5ldCIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICJjaHJvbWUiDQp9
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkZJIiwNCiAgImFkZCI6ICIzNy4xNDMuMTI5LjE0NSIsDQogICJwb3J0IjogIjgwODAiLA0KICAiaWQiOiAiYmRkMjI4NDEtYzRkMi00YWE4LWFjZjItOTVhYTkxMjVmMTU5IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJmaS0xLnRyb2xsZnVubnkubmV0IiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogImZpLTEudHJvbGxmdW5ueS5uZXQiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiY2hyb21lIg0KfQ==
 vless://fa72a38c-56bf-4f3b-9735-e96e9840ae54@65.109.118.175:443?encryption=none&security=tls&sni=app.chandplus.com&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%AE%5Bopenproxylist.com%5D%20vless-FI
@@ -306,4 +300,7 @@ vless://2c3b3e80-a2ec-459e-b898-206ead4edc9d@46.62.139.162:29752?type=tcp&securi
 vless://95b0f8b6-8373-4398-893f-782af287e2fe@static.50.146.62.46.clients.your-server.de:443?hiddify=1&sni=www.speedtest.net&type=grpc&alpn=h2&muxtype=smux&muxmaxc=4&mux=4&muxsmax=0&muxpad=False&path=0VTuTCdLL8WUYSwaz2OnC5y&serviceName=0VTuTCdLL8WUYSwaz2OnC5y&mode=gun&encryption=none&fp=chrome&headerType=None&security=reality&pbk=L4ja73hdU_P-euK_ikOs623oM4u3PpDS5IwzXOrCjnE&sid=15cf0914947a4379# FI | 46.62.146.50
 vless://c9d7d163-748c-4725-bdd0-1921b1e2fd0a@mpl.marana.sbs:16937?type=grpc&serviceName=&authority=&security=none# FI | 2a01:4f9:c013:c662::1
 vless://754fbb53-1198-4b7f-9394-88e0f36fb938@mpl.marana.sbs:16937?type=grpc&serviceName=&authority=&security=none# FI | 2a01:4f9:c013:c662::1
+vless://d09c7283-6a69-4c8e-b633-e3927166e07f@65.109.217.125:7601?security=reality&encryption=none&pbk=d0MTB2pELj6kUMwYkDZCyf65mA9TbEa45bNJIqgRHTU&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=9f54d072d0c27dc6# FI | 65.109.217.125
+vless://d09c7283-6a69-4c8e-b633-e3927166e07f@65.109.217.125:7601?security=reality&encryption=none&pbk=d0MTB2pELj6kUMwYkDZCyf65mA9TbEa45bNJIqgRHTU&headerType=none&fp=chrome&type=tcp&sni=www.yahoo.com&sid=9f54d072d0c27dc6# FI | 65.109.217.125
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dlgxdiNOU0ZQX0xHX2JK@46.62.152.84:808# FI | 46.62.152.84
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1VFpud1BiMjNwUVMzOWxJdWNzcEp3@fin.outlinebot1.ru:5904# FI | 89.35.119.87
