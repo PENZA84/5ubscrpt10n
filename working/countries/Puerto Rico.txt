@@ -1,8 +1,6 @@
-vless://07b804cf-beaf-4f8b-b664-5dc675636a78@217.114.40.8:6100?security=none&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#@UCIRANIR - @pr_vpn #3
-vless://8106b4c2-d457-4834-9842-e60720bbf359@217.114.40.9:6500?security=none&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#@UCIRANIR - @pr_vpn #2
-vmess://eyJhZGQiOiIyMTcuMTE0LjQwLjEwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQ4N2VlZDY2LWQ1OTctNGVmZC1hYmUxLWE5NzUxMWJkNzI5OCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiOTA5MCIsInBzIjoiQFVDSVJBTklSIC0gQHByX3ZwbiAjMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.255.22:990#%F0%9F%87%B5%F0%9F%87%B7PR-185.47.255.22-0329
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.47.255.219:989#%F0%9F%87%B5%F0%9F%87%B7PR-185.47.255.219-8697
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.255.22:990#%F0%9F%87%B5%F0%9F%87%B7PR-185.47.255.22-0383
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.47.255.219:989#%F0%9F%87%B5%F0%9F%87%B7PR-185.47.255.219-8832
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.255.22:990#%F0%9F%87%B5%F0%9F%87%B7%20PR%20-%20Puerto%20Rico
 vmess://eyJhZGQiOiIxMDQuMjEuODIuMTciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Imd3ZGVmLnNicyIsImlkIjoiYmM4NjQwNzgtZGNmMy00YmY0LThkYmYtY2E5ZjIwMGI1NmJlIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt3cyIsInBvcnQiOiI0NDMiLCJwcyI6IkBQUl9HVUFSRCIsInNjeSI6ImF1dG8iLCJzbmkiOiJnd2RlZi5zYnMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiIxNzIuNjcuMTc1LjU2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJvYmRpaS5jZmQiLCJpZCI6IjA1NjQxY2Y1LTU4ZDItNGJhNC1hOWYxLWIzY2RhMGIxZmIxZCIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rd3MiLCJwb3J0IjoiNDQzIiwicHMiOiJAUFJfR1VBUkQiLCJzY3kiOiJhdXRvIiwic25pIjoib2JkaWkuY2ZkIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
@@ -22,5 +20,8 @@ vmess://eyJhZGQiOiIxMDQuMjEuNTUuMjM0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 ss://54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.74.153:443?encryption=none&security=tls&sni=147135004002.sec20org.com&allowInsecure=1&type=tcp&headerType=none# @MoftConfigPuerto Rico
 vless://54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.74.147:443?encryption=none&security=tls&sni=147135004002.sec20org.com&allowInsecure=1&type=tcp&headerType=none# @MoftConfigPuerto Rico
 vless://54694a33-a8dc-47dd-bc38-acd3971e0055@147135004002.sec20org.com:443?security=tls&encryption=none&headerType=none&type=tcp# @MoftConfigPuerto Rico
+vless://07b804cf-beaf-4f8b-b664-5dc675636a78@217.114.40.8:6100?security=none&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#@UCIRANIR - @pr_vpn #3
+vless://8106b4c2-d457-4834-9842-e60720bbf359@217.114.40.9:6500?security=none&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#@UCIRANIR - @pr_vpn #2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.255.22:990#%f0%9f%87%b5%f0%9f%87%b7%20PR%201
+vmess://eyJhZGQiOiIyMTcuMTE0LjQwLjEwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQ4N2VlZDY2LWQ1OTctNGVmZC1hYmUxLWE5NzUxMWJkNzI5OCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiOTA5MCIsInBzIjoiQFVDSVJBTklSIC0gQHByX3ZwbiAjMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.255.22:990#%F0%9F%87%B5%F0%9F%87%B7PR-185.47.255.22-5045
