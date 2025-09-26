@@ -3,7 +3,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.28:8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.171:8080#LT
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.178:8080#LT
 vmess://eyJhZGQiOiI0NS4xMi4xMjkuMTA2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjZG4uemlmZnN0YXRpYy5jb20iLCJpZCI6IjVjMWJiMGY5LWFhYmUtNGUyZC05YTVmLTAzYzYwMGViMjYwNyIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjgwMDAiLCJwcyI6Ilvwn4ex8J+HuUxUXSBAR2Vla19TcG90Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
-vless://3a14c90d-2f36-4fab-82c9-fae2897ff43b@hield.ru:8443?type=tcp&security=reality&pbk=c7pmEcOmq_DP_i2LVMrBi85FQ-ueco4teFc2IJb8zVE&fp=chrome&sni=yahoo.com&sid=4ddc&spx=%2F&flow=xtls-rprx-vision#%F0%9F%87%B1%F0%9F%87%B9%20LT%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40config_proxy%20%5B62%5D
 vless://bfc791d7-0ff4-4a9a-8215-118c496a7cd1@vip.360store.info:443?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%87%B1%F0%9F%87%B9%20LT%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40dargiiriis%20%5B3%5D
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.163:8880?encryption=none&security=none&type=grpc#%F0%9F%87%B1%F0%9F%87%B9%20LT%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40mtproxy22_v2ray%20%5B12%5D
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.207:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%B1%F0%9F%87%B9%20LT%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40prrofile_purple%20%5B151%5D
@@ -117,7 +116,7 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638932111805004627.rasht-drc-dcrabj
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930359207602168.dublin-drc-dcrabj.info:8880?encryption=none&type=grpc&path=%2f#%f0%9f%87%b1%f0%9f%87%b9%20LT%204
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638932111805004627.rasht-drc-dcrabj.info:8880?security=none&encryption=none&type=grpc&path=%2f#%f0%9f%87%b1%f0%9f%87%b9%20LT%205
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.195:8880?encryption=none&type=grpc&path=%2f#%f0%9f%87%b1%f0%9f%87%b9%20LT%206
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.163:8880?encryption=none&security=none&type=grpc#[openproxylist.com] vless-LT
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.163:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#[openproxylist.com] vless-LT
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.195:8880?mode=gun&security=none&encryption=none&type=grpc#[openproxylist.com] vless-LT
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.171:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.171-0316
 vless://7d4e9491-4eb4-42da-926c-2c7c201e99e2@UK.IPCLOUD.SHOP:443?encryption=none&host=uk-cdn.pop-up-pool.xyz&path=%2Fnet%3Fed%3D2048&security=tls&sni=uk-cdn.pop-up-pool.xyz&type=ws# | VLESS | @CUSTOMVPNSERVER | LT | 04
