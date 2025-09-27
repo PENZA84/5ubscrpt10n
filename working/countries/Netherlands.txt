@@ -42,6 +42,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1UVM1bnRWcUMwMHNTS2tlTnpVaUQz@89.23.103.125:
 vless://7da05388-1749-417d-90f3-e7d980565471@net-server1-panyous.tap30.sbs:2560?security=reality&encryption=none&pbk=2hoQE6WBJlr4DHrp7TxqPOT8i24iodEaCQp-qugbD3U&host=---join---skypro_vpn---join---skypro_vpn---join---skypro_vpn--join---skypro_vpn--&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=cloudflare.com&sid=e41865e506628f44#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40v2rayopen%20%5B11%5D
 vless://42c102ba-f4a6-4c9d-8d78-7e8f64bc5c3d@68.183.3.107:21790?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vmesskhodam%20%5B14%5D
 vless://e5979603-c215-4d5f-811a-316b45f6df17@167.71.8.192:23313?flow=&type=ws&host=&path=%2F&security=none#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vmessorg%20%5B7%5D
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.208.110.205:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vpn_ioss%20%5B17%5D
 vless://0559a3a8-9102-4cde-91cd-af091bbfb875@sangarshakan.vip-sangar.sbs:49881?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vpnplusee_free%20%5B13%5D
 vless://e5979603-c215-4d5f-811a-316b45f6df17@167.71.8.192:23313?flow=&type=ws&host=&path=/&security=none#%3E%3E%40vmessorg%3A%3ANL
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.60:8080#%3E%3E%40V2rayNG3%3A%3ANL
@@ -737,39 +738,30 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh7Pwn4exIE5ldGhlcmxhbmRzIDI2IiwNCiAg
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh7Pwn4exIE5ldGhlcmxhbmRzIDIyIiwNCiAgImFkZCI6ICIxODguMTE0Ljk3LjEiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwNCiAgImFpZCI6ICIxIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJvZGVsaWEuYXV0b3MiLA0KICAicGF0aCI6ICJsaW5rdndzIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogIm9kZWxpYS5hdXRvcyIsDQogICJhbHBuIjogIiINCn0=
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh7Pwn4exIE5ldGhlcmxhbmRzIDI5IiwNCiAgImFkZCI6ICIxODguMTE0Ljk5LjAiLA0KICAicG9ydCI6ICI4NDQzIiwNCiAgImlkIjogImFhMGM0NzQ0LTk1NjgtNGJlZS1hMDhiLTczNjY4YTliMmE0MiIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiY2xvdWRjb25lYmJiLmdvcmdvcmNoaWNrZW4ub25lIiwNCiAgInBhdGgiOiAiL2Nsb3VkY29uZWJiYiIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJjbG91ZGNvbmViYmIuZ29yZ29yY2hpY2tlbi5vbmUiLA0KICAiYWxwbiI6ICIiDQp9
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh7Pwn4exIE5ldGhlcmxhbmRzIDI4IiwNCiAgImFkZCI6ICI5NS4xNzkuMTI4LjExNCIsDQogICJwb3J0IjogIjgwIiwNCiAgImlkIjogImE2MjkyMDkwLWFmZTEtNDY0MC05N2E3LTRmMWQxZDg3N2NmMSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiOTUuMTc5LjEyOC4xMTQiLA0KICAicGF0aCI6ICIvQXY4Y3pvcklsWWljVTZEMzQ5YnJXVXc2YSIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
-vless://22c8c0a3-8b16-4585-8792-09f9f24fad49@am.unibot.monster:443?security=reality&encryption=none&pbk=aFjX3HZJZr6IjvKuTp1s3ZrwkNRj3w-7U1adUROktGM&host=%40TAKV2RAY_ORG-%40TAKV2RAY_ORG-%40TAKV2RAY_ORG-%40TAKV2RAY_ORG-%40TAKV2RAY_ORG-%40TAKV2RAY_ORG-%40TAKV2RAY_ORG-%40TAKV2RAY_ORG&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=119ac400e658d256#%E2%9A%A1%40Takv2ray_org%20%7C%20NL%20%F0%9F%87%B3%F0%9F%87%B1
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@51.15.17.169:989#%f0%9f%87%b3%f0%9f%87%b1%20NL%201
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@ltnl13.saint.ydns.eu:8080#%f0%9f%87%b3%f0%9f%87%b1%20NL%202
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.141:8080#%f0%9f%87%b3%f0%9f%87%b1%20NL%201
+vless://nothing_88147cqsru@188.253.26.39:442?flow=xtls-rprx-vision&security=reality&encryption=none&sni=yahoo.com&fp=chrome&pbk=T_gyZwngrYUe24q6-mieGT9WJfzja0PQad_y_SnhBk0&sid=6ac998b514&type=tcp&path=%2f#%f0%9f%87%b3%f0%9f%87%b1%20NL%202
 vless://3691b39b-4aa7-4f68-8304-902e4734e2f4@45.128.232.102:16798?security=reality&encryption=none&sni=yahoo.com&fp=chrome&pbk=UGm82qoVVxxTkwGLniA8C004EYPW52VG7GmdgHzwSXU&sid=229b2a94&type=tcp&path=%2f#%f0%9f%87%b3%f0%9f%87%b1%20NL%203
 vless://a23288ae-4c36-4822-a021-e4963addfaaa@141.11.250.143:52222?encryption=none&type=tcp&headerType=http&host=speedtest.net%2f%3fBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&path=%2f#%f0%9f%87%b3%f0%9f%87%b1%20NL%204
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@ltnl16.saint.ydns.eu:8080#%f0%9f%87%b3%f0%9f%87%b1%20NL%205
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@ltnl12.saint.ydns.eu:8080#%f0%9f%87%b3%f0%9f%87%b1%20NL%206
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.147.142:8880?encryption=none&type=grpc&path=%2f#%f0%9f%87%b3%f0%9f%87%b1%20NL%207
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@ltnl10.saint.ydns.eu:8080#%f0%9f%87%b3%f0%9f%87%b1%20NL%208
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638936661878829611.ahvaz-drc-tusacae.info:8880?encryption=none&type=grpc&path=%2f#%f0%9f%87%b3%f0%9f%87%b1%20NL%209
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@2.ilgm.saint.ydns.eu:8080#%f0%9f%87%b3%f0%9f%87%b1%20NL%2010
-vless://ac93caa8-fc75-4bc8-bbb9-f09d964b5d69@updatem.faraservice.space:3209?security=reality&encryption=none&sni=dash.cloudflare.com&fp=chrome&pbk=22YtANl_6-2LKrTdIfArHahVa1L0lo86Y8jhHVU-Iis&sid=3679c72c&type=grpc&path=%2f#%f0%9f%87%b3%f0%9f%87%b1%20NL%2011
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@ltnl15.saint.ydns.eu:8080#%f0%9f%87%b3%f0%9f%87%b1%20NL%2012
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638932639207611953.kish-drc-dcrabj.info:8880?encryption=none&type=grpc&path=%2f#%f0%9f%87%b3%f0%9f%87%b1%20NL%2013
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930316257411243.neyshabur-drc-tusabt.info:8880?encryption=none&type=grpc&path=%2f#%f0%9f%87%b3%f0%9f%87%b1%20NL%2014
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@51.15.23.63:989#%f0%9f%87%b3%f0%9f%87%b1%20NL%2015
-vless://4914cac8-d4f7-4ffe-9c58-1117c9cb1887@192.142.53.38:37321?encryption=none&type=grpc&path=%2f#%f0%9f%87%b3%f0%9f%87%b1%20NL%2016
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.154:8080#%f0%9f%87%b3%f0%9f%87%b1%20NL%2017
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.147.74:8880?encryption=none&type=grpc&path=%2f#%f0%9f%87%b3%f0%9f%87%b1%20NL%2018
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4ak9TbWZreXZHYTlTUVkzZUp1em1h@178.208.91.118:19805#%f0%9f%87%b3%f0%9f%87%b1%20NL%2019
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930382260455538.ahvaz-drc-tusabt.info:8880?encryption=none&type=grpc&path=%2f#%f0%9f%87%b3%f0%9f%87%b1%20NL%2020
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.142.89:8880?encryption=none&type=grpc&path=%2f#%f0%9f%87%b3%f0%9f%87%b1%20NL%2021
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638928668169310838.rasht-drc-tusabp.info:8880?encryption=none&type=grpc&path=%2f#%f0%9f%87%b3%f0%9f%87%b1%20NL%2022
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.164:8080#%f0%9f%87%b3%f0%9f%87%b1%20NL%2023
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.130.190:8880?encryption=none&type=grpc&path=%2f#%f0%9f%87%b3%f0%9f%87%b1%20NL%205
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.147.74:8880?encryption=none&type=grpc&path=%2f#%f0%9f%87%b3%f0%9f%87%b1%20NL%206
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.142.89:8880?encryption=none&type=grpc&path=%2f#%f0%9f%87%b3%f0%9f%87%b1%20NL%207
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638932639207611953.kish-drc-dcrabj.info:8880?encryption=none&type=grpc&path=%2f#%f0%9f%87%b3%f0%9f%87%b1%20NL%208
+vless://ac93caa8-fc75-4bc8-bbb9-f09d964b5d69@updatem.faraservice.space:3209?security=reality&encryption=none&sni=dash.cloudflare.com&fp=chrome&pbk=22YtANl_6-2LKrTdIfArHahVa1L0lo86Y8jhHVU-Iis&sid=3679c72c&type=grpc&path=%2f#%f0%9f%87%b3%f0%9f%87%b1%20NL%209
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@80.92.206.253:8880?encryption=none&type=grpc&path=%2f#%f0%9f%87%b3%f0%9f%87%b1%20NL%2010
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638936661878829611.ahvaz-drc-tusacae.info:8880?encryption=none&type=grpc&path=%2f#%f0%9f%87%b3%f0%9f%87%b1%20NL%2011
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638928668169310838.rasht-drc-tusabp.info:8880?encryption=none&type=grpc&path=%2f#%f0%9f%87%b3%f0%9f%87%b1%20NL%2012
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.208.110.205:8880?encryption=none&type=grpc&path=%2f#%f0%9f%87%b3%f0%9f%87%b1%20NL%2013
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.147.142:8880?encryption=none&type=grpc&path=%2f#%f0%9f%87%b3%f0%9f%87%b1%20NL%2014
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930316257411243.neyshabur-drc-tusabt.info:8880?encryption=none&type=grpc&path=%2f#%f0%9f%87%b3%f0%9f%87%b1%20NL%2015
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638936661878829611.ahvaz-drc-tusacae.info:8880?encryption=none&security=none&type=grpc#[openproxylist.com] vless-NL
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638935255461296821.paris-drc-tusabz.info:8880?encryption=none&security=none&type=grpc#[openproxylist.com] vless-NL
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.144.28.5:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#[openproxylist.com] vless-NL
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930382260455538.ahvaz-drc-tusabt.info:8880?mode=gun&security=none&encryption=none&type=grpc#[openproxylist.com] vless-NL
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930382260455538.ahvaz-drc-tusabt.info:8880?encryption=none&type=grpc&mode=gun&security=none#[openproxylist.com] vless-NL
 vless://7d645ab8-e8e5-4810-ae5f-4bd6659ac42c@ir.fxgoldensignals.com:8081?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#[openproxylist.com] vless-NL
-vless://6f8923d9-f812-4ca6-b93a-8f9227bf2eab@195.93.253.49:33094?security=reality&encryption=none&pbk=35JazACyPS6LcDwpGibneEeMzkzGYWf4KTG_Oqp0oBE&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=29489194da0d5d#[openproxylist.com] vless-NL
 vless://5a12794b-2125-46d7-a748-927a989faa04@narrow-passenger.oneeat.co:80?encryption=none&security=none&type=ws&path=%2F#[openproxylist.com] vless-NL
 vless://ddc27bd6-6efa-47cf-8bfc-acaf973ba6b3@famous-danger.oneeat.co:80?encryption=none&security=none&type=ws&path=%2F#[openproxylist.com] vless-NL
 vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handsome-device.oneeat.co:80?encryption=none&security=none&type=ws&path=%2F#[openproxylist.com] vless-NL
+vless://b055036a-2d81-4d46-ab18-4e1898b58cec@fearless-change.oneeat.co:80?encryption=none&security=none&type=ws&path=%2F#[openproxylist.com] vless-NL
 vless://f1fe4963-66f7-4f71-a038-9e07ea6cf20f@creative-computer.oneeat.co:80?path=%2F&security=none&encryption=none&type=ws#[openproxylist.com] vless-NL
 vless://64d6d0d4-3706-4837-b154-cda2816adcc5@104.20.43.81:80?path=%2F&security=none&encryption=none&host=crazy-identity.oneeat.co&type=ws#[openproxylist.com] vless-NL
 ss://YWVzLTEyOC1nY206MUQyb2g4JHMzYkJw@104.16.196.41:443?plugin=v2ray-plugin%3Bhost%3Dv4.fjdd.shop%3Btls#Netherlands|Github%E6%90%9C%E7%B4%A2TrojanLinks
@@ -1177,17 +1169,15 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+Hs/Cfh7EgTkwgNTcgVk1TIiwiYWRkIjoiOTUuMjExLjU4LjU1
 vmess://eyJwcyI6ICJcdWQ4M2NcdWRkZjNcdWQ4M2NcdWRkZjEtXHU4Mzc3XHU1MTcwLW5sMS52MnJheXNlcnYuY29tIiwgIlx1NTE0ZFx1OGQzOVx1OGJhMlx1OTYwNVx1NWMzZFx1NTcyOGh0dHBzIjogIiIsICJhZGQiOiAibmwxLnYycmF5c2Vydi5jb20iLCAicG9ydCI6ICI4MCIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiZTcyN2Y2ZTMtZDIwNi00ZjA0LTgwZjgtMzBkYWZkNTJmYmUyIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgInRscyI6ICJmYWxzZSIsICJza2lwLWNlcnQtdmVyaWZ5IjogInRydWUiLCAibmV0IjogIndzIiwgIndzLW9wdHMiOiAiIiwgInBhdGgiOiAiL3NzaG9jZWFuIiwgImhlYWRlcnMiOiAiIiwgImhvc3QiOiAibmwxLnYycmF5c2Vydi5jb20iLCAidWRwIjogInRydWUifQ==
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638945203009151794.gorgan-drc-tusacaf.info:8880?mode=gun&security=none&encryption=none&type=grpc# NL | 45.120.178.9
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.120.178.9:8880?mode=gun&security=none&encryption=none&authority=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc# NL | 45.120.178.9
-vless://0f52d2a3-151e-49ec-b816-afbfd269d521@nl2.asc-sam.ir:443?security=tls&alpn=h3,h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp# NL | 194.116.216.21
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@80.92.206.19:8880?mode=gun&security=none&encryption=none&type=grpc# NL | 80.92.206.19
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.147.74:8880?mode=gun&security=none&encryption=none&type=grpc# NL | 45.140.147.74
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638940560407106987.copenhagen-drc-tusacaf.info:8880?mode=gun&security=none&encryption=none&type=grpc# NL | 45.120.178.9
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.142.89:8880?mode=gun&security=none&encryption=none&type=grpc# NL | 45.12.142.89
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930382260455538.ahvaz-drc-tusabt.info:8880?mode=gun&security=none&encryption=none&type=grpc# NL | 85.208.110.205
+vless://7d645ab8-e8e5-4810-ae5f-4bd6659ac42c@ir.fxgoldensignals.com:8081/?security=none&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=http&type=tcp# NL | 138.124.52.155
 vless://8285eef0-147d-4bb6-9d12-0e4601a36e78@151.101.204.190:80?encryption=none&security=none&type=xhttp&host=minovpnch.net&path=/awduhiawad?ed=2560&mode=auto# NL | 151.101.204.190
 vless://RAKETA_511749027@212.34.140.137:443?security=reality&sni=apple.com&fp=chrome&pbk=JI0aM2ldo7ArEbfumqJ0WE2KQCyi-CV-vIp8kq-y8zA&sid=ffffffffff&type=tcp&packetEncoding=xudp&encryption=none# NL | 212.34.140.137
 vless://49ac7381-1c06-4d80-9b57-e0484c2607b0@194.116.216.21:8080?type=xhttp&encryption=none&path=/rwtjhkOSFVOgw&host=&mode=auto&security=none# NL | 194.116.216.21
 vless://0f52d2a3-151e-49ec-b816-afbfd269d521@nl2.asc-sam.ir:443?security=tls&alpn=h3,h2,http/1.1&encryption=none&headerType=none&fp=random&type=tcp# NL | 194.116.216.21
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930382260455538.ahvaz-drc-tusabt.info:8880/?type=grpc&encryption=none&flow=# NL | 85.208.110.205
-vless://ac93caa8-fc75-4bc8-bbb9-f09d964b5d69@45.94.31.102:3209?mode=gun&security=reality&encryption=none&pbk=22YtANl_6-2LKrTdIfArHahVa1L0lo86Y8jhHVU-Iis&fp=chrome&type=grpc&sni=dash.cloudflare.com&sid=3679c72c# NL | 45.94.31.102
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.142.89:8880?mode=gun&security=&encryption=none&type=grpc# NL | 45.12.142.89
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638937520064872286.london-prx-dnraacl.info:8880?mode=gun&security=&encryption=none&type=grpc# NL | 84.246.85.62
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.209.153.82:8880?mode=gun&security=&encryption=none&type=grpc# NL | 85.209.153.82
@@ -1195,12 +1185,13 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.208.110.205:8880?mode=gun&securi
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.209.153.82:8880?mode=gun&security=none&encryption=none&type=grpc# NL | 85.209.153.82
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638942644808582511.abadan-drc-tusacaf.info:8880?mode=gun&security=none&encryption=none&type=grpc# NL | 45.14.244.44
 vless://78a9bf4f-3bec-48b2-b98f-a3f8151506ac@europeless.duckdns.org:443?security=tls&sni=europeless.duckdns.org&fp=random&type=ws&path=/getupdates&host=europeless.duckdns.org&encryption=none# NL | 64.188.97.173
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@80.92.206.19:8880?mode=gun&security=none&encryption=none&type=grpc# NL | 80.92.206.19
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638937520064872286.london-prx-dnraacl.info:8880?mode=gun&security=none&encryption=none&type=grpc# NL | 84.246.85.62
 vless://4bb35928-40bb-4bf3-95f1-9efdc4169147@159.223.209.139:46964?security=&encryption=none&headerType=&type=tcp# NL | 159.223.209.139
 vless://7b93491b-d1c0-4679-938d-56f0abec50b2@199.247.28.17:44914?type=xhttp&path=/&host=&mode=auto&security=reality&pbk=o1n1Qj_IBvl3xGDkMPzmuRJzKKW31L_r9kEeyW7e3F8&fp=chrome&sni=black-moai.com&sid=1ac2a2dde288&spx=/# NL | 199.247.28.17
 vless://91b77af9-6f06-4c22-9c0e-bdd8f63de158@51.77.91.192:8081?security=reality&encryption=none&pbk=KdvX1bbHtA4Y16IukcDsNiEJ9iKYk4BLlI7LDsV0iFU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=d5bfd6c4# NL | 51.77.91.192
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.147.74:8880?security=tls&allowInsecure=0&encryption=none&type=ws&host=ula347.tiri-viri.com&path=/&sni=ula347.tiri-viri.com&fp=chrome# NL | 45.140.147.74
 vless://0559a3a8-9102-4cde-91cd-af091bbfb875@sangarshakan.vip-sangar.sbs:49881?security=none&encryption=none&headerType=none&type=tcp# NL | 141.11.250.78
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638940560407106987.copenhagen-drc-tusacaf.info:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=# NL | 45.120.178.9
+vless://RAKETA_511749027@212.34.140.137:443?security=reality&encryption=none&pbk=JI0aM2ldo7ArEbfumqJ0WE2KQCyi-CV-vIp8kq-y8zA&headerType=none&fp=chrome&spx=/&type=tcp&sni=apple.com&sid=ffffffffff# NL | 212.34.140.137
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080# NL | 193.29.139.235
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080?type=tcp# NL | 193.29.139.240
