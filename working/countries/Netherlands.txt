@@ -731,7 +731,7 @@ vless://ddc27bd6-6efa-47cf-8bfc-acaf973ba6b3@famous-danger.oneeat.co:80?encrypti
 vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handsome-device.oneeat.co:80?encryption=none&security=none&type=ws&path=%2F#[openproxylist.com] vless-NL
 vless://b055036a-2d81-4d46-ab18-4e1898b58cec@fearless-change.oneeat.co:80?encryption=none&security=none&type=ws&path=%2F#[openproxylist.com] vless-NL
 vless://f1fe4963-66f7-4f71-a038-9e07ea6cf20f@creative-computer.oneeat.co:80?path=%2F&security=none&encryption=none&type=ws#[openproxylist.com] vless-NL
-vless://64d6d0d4-3706-4837-b154-cda2816adcc5@104.20.43.81:80?encryption=none&type=ws&host=crazy-identity.oneeat.co&path=%2F&security=none#[openproxylist.com] vless-NL
+vless://64d6d0d4-3706-4837-b154-cda2816adcc5@104.20.43.81:80?path=%2F&security=none&encryption=none&host=crazy-identity.oneeat.co&type=ws#[openproxylist.com] vless-NL
 ss://YWVzLTEyOC1nY206MUQyb2g4JHMzYkJw@104.16.196.41:443?plugin=v2ray-plugin%3Bhost%3Dv4.fjdd.shop%3Btls#Netherlands|Github%E6%90%9C%E7%B4%A2TrojanLinks
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIk5MIiwNCiAgImFkZCI6ICIxNzguMTI4LjI0My4xMzMiLA0KICAicG9ydCI6ICI4MDgwIiwNCiAgImlkIjogImJkZDIyODQxLWM0ZDItNGFhOC1hY2YyLTk1YWE5MTI1ZjE1OSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiYW1zMy00LnRyb2xsZnVubnkubmV0IiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogImFtczMtNC50cm9sbGZ1bm55Lm5ldCIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICJjaHJvbWUiDQp9
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIk5MIiwNCiAgImFkZCI6ICIxNDIuOTMuMjI1LjIwNSIsDQogICJwb3J0IjogIjgwODAiLA0KICAiaWQiOiAiYmRkMjI4NDEtYzRkMi00YWE4LWFjZjItOTVhYTkxMjVmMTU5IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJhbXMzLTUudHJvbGxmdW5ueS5uZXQiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiYW1zMy01LnRyb2xsZnVubnkubmV0IiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogImNocm9tZSINCn0=
@@ -1143,7 +1143,6 @@ vless://49ac7381-1c06-4d80-9b57-e0484c2607b0@194.116.216.21:8080?type=xhttp&encr
 vless://0f52d2a3-151e-49ec-b816-afbfd269d521@nl2.asc-sam.ir:443?security=tls&alpn=h3,h2,http/1.1&encryption=none&headerType=none&fp=android&type=tcp# NL | 194.116.216.21
 vless://RAKETA_511749027@212.34.140.137:443?security=reality&sni=apple.com&fp=chrome&pbk=JI0aM2ldo7ArEbfumqJ0WE2KQCyi-CV-vIp8kq-y8zA&sid=ffffffffff&type=tcp&packetEncoding=xudp&encryption=none# NL | 212.34.140.137
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638935255461296821.paris-drc-tusabz.info:8880?mode=gun&security=none&encryption=none&type=grpc# NL | 85.208.110.183
-vless://44cb3f8c-57a4-4f2b-a0ae-d9121e54a598@138.124.52.155:54567?path=/54567/mvfkvk&security=none&encryption=none&type=ws# NL | 138.124.52.155
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.142.89:8880?mode=gun&security=&encryption=none&type=grpc# NL | 45.12.142.89
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638937520064872286.london-prx-dnraacl.info:8880?mode=gun&security=&encryption=none&type=grpc# NL | 84.246.85.62
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.209.153.82:8880?mode=gun&security=&encryption=none&type=grpc# NL | 85.209.153.82
@@ -1164,6 +1163,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.147.74:8880?security=tls&all
 vless://97c4bb03-efab-4257-b75a-09ab232d4f10@46.249.110.239:1626?security=reality&encryption=none&pbk=W00lFZIKlJIvB72gsQ_VcnIfojArIGTwpcasNJnuwEE&headerType=none&fp=chrome&type=tcp&sni=tgju.org&sid=c827e82862a03011# NL | 46.249.110.239
 vless://97c4bb03-efab-4257-b75a-09ab232d4f10@46.249.110.241:1627?security=reality&encryption=none&pbk=W00lFZIKlJIvB72gsQ_VcnIfojArIGTwpcasNJnuwEE&headerType=none&fp=chrome&type=tcp&sni=tgju.org&sid=c827e82862a03011# NL | 46.249.110.241
 vless://babf3d3e-dc83-40ef-8a7e-a08550fdeed4@holandnet.vtuix.online:7035?path=/&security=none&encryption=none&host=filimo.com&type=ws# NL | 166.0.162.236
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowTmVONXRhN0ZMYTVCOURMeXRVMHVt@212.34.140.184:443# NL | 212.34.140.184
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080# NL | 193.29.139.235
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080?type=tcp# NL | 193.29.139.240
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowTmVONXRhN0ZMYTVCOURMeXRVMHVt@promo1o.bystrivpn.ru:443?type=tcp# NL | 212.34.140.184
