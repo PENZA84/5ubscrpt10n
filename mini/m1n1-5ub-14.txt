@@ -1,3 +1,5 @@
+trojan://NISHIKUITAN111@185.176.26.131:443?allowInsecure=1#[]t.me/ConfigsHub
+vless://ff92925c-f6b7-4b0a-b1dd-30d0df12ef0b@ita01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=175d#[]t.me/ConfigsHub
 vless://caa5d2a1-0718-4945-a41a-697a44f94875@104.26.9.21:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#[]t.me/ConfigsHub
 trojan://NISHIKUITAN111@104.18.198.40:443?allowInsecure=1#[]t.me/ConfigsHub
 vless://4951f31b-dddf-4c7a-8399-cced1c10c4ed@wolf551.api-tel.xyz:14748?security=none&encryption=none&type=ws#[]t.me/ConfigsHub
@@ -9996,5 +9998,3 @@ vless://fdf39264-c578-4ef8-818c-9d057f90c98e@application-de-gateway.jupinn.com:8
 vless://fdf39264-c578-4ef8-818c-9d057f90c98e@application-us-gateway.jupinn.com:80?mode=auto&path=%2F&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%20%221000000%22%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&host=application-us-gateway.jupinn.com&type=xhttp#[]t.me/ConfigsHub
 vless://65b71cc5-a34d-4efa-8af8-7a0d9bedd240@151.101.3.8:80?mode=packet-up&path=%2F&security=&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%2033554432%2C%20%22scMaxConcurrentPosts%22%3A%202048%2C%20%22scMinPostsIntervalMs%22%3A%201%2C%20%22xPaddingBytes%22%3A%20%22200-3000%22%2C%20%22noGRPCHeader%22%3A%20true%7D&host=data.server-abr.net&type=xhttp#[]t.me/ConfigsHub
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.52.224:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 
-trojan://telegram-id-directvpn@13.36.52.224:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
-trojan://ad6e2bae-d580-4117-aa37-a8c111100740@naiu-hk.05vr9nyqg5.download:13008?allowInsecure=1&sni=cloudflare.node-ssl.cdn-alibaba.com#[]t.me/ConfigsHub
