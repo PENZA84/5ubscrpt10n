@@ -26,6 +26,7 @@ vless://dd75ec90-541f-4150-8784-6095381c9894@141.227.160.163:44606?security=&enc
 vless://01996549-6892-dbf0-0453-f700236936bd@159.255.33.66:2053?path=%2Fsnippets%2Fip%3Dproxyip.fxxk.dedyn.io%3A443%3Fed%3D2560&security=tls&encryption=none&host=kejiland.freewarp.eu.org&fp=chrome&type=ws&sni=kejiland.freewarp.eu.org#%3E%3E%40configV2rayNG%3A%3ASE
 vless://b754b53a-aaf5-475c-eeed-46806c2aa63f@nkang2replace.airlineshoma.com:443?path=%2F&security=tls&encryption=none&type=ws&sni=nkang2replace.airlineshoma.com#%3E%3E%40DailyV2RY%3A%3ASE
 vless://97909ffd-6da0-4893-9d63-00e72ad55256@zula.ir:2096?path=%2F&security=tls&encryption=none&host=frAgteSt.JaHANGiRKh.eU.orG&fp=chrome&type=ws&sni=frAgteSt.JaHANGiRKh.eU.orG#%3E%3E%40configV2rayNG%3A%3ASE
+vless://8377aac9-f3b3-42df-a5ea-9254f37e7b34@78.40.117.185:443?security=reality&encryption=none&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&host=Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&headerType=none&fp=chrome&spx=%2FTELEGRAM--BYA--KANAL--JKVPN&type=tcp&flow=xtls-rprx-vision&sni=sto.eu-ffast.com&sid=50#%3E%3E%40v2rayngvpn%3A%3ASE
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@121.127.46.147:989#%F0%9F%87%B8%F0%9F%87%AASE-121.127.46.147-0230
 trojan://vpn@109.120.132.80:2025?security=tls&sni=vkvd127.mycdn.me&type=ws&path=/&Host=vkvd127.mycdn.me#%F0%9F%87%B8%F0%9F%87%AASE-109.120.132.80-0715
 trojan://telegram-id-privatevpns@13.48.202.26:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%B8%F0%9F%87%AASE-13.48.202.26-1777
@@ -397,7 +398,6 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@121.127.46.147:989#%f0%9f%87%b8%f0
 ss://YWVzLTI1Ni1nY206Z21Qc1BtMHZDUg==@13.51.116.59:8080#%f0%9f%87%b8%f0%9f%87%aa%20SE%203
 vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?security=none&path=%2f#%f0%9f%87%b8%f0%9f%87%aa%20SE%204
 vless://b754b53a-aaf5-475c-eeed-46806c2aa63f@nkang2replace.airlineshoma.com:443?encryption=none&security=tls&sni=nkang2replace.airlineshoma.com&type=ws&path=%2F#[openproxylist.com] vless-SE
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@121.127.46.147:989#%F0%9F%87%B8%F0%9F%87%AASE-121.127.46.147-0211
 vless://Parsashonam-49@185.146.173.39:8880?encryption=none&host=Search.DigiKala.CYoU.&path=%2F&security=none&type=httpupgrade# | VLESS | @Parsashonam | SE | 01
 vless://Parsashonam-48@185.146.173.39:8880?encryption=none&host=Search.DigiKala.CYoU.&path=%2F&security=none&type=httpupgrade# | VLESS | @Parsashonam | SE | 02
 vless://Parsashonam-47@185.146.173.39:8880?encryption=none&host=Search.DigiKala.CYoU.&path=%2F&security=none&type=httpupgrade# | VLESS | @Parsashonam | SE | 03
@@ -451,4 +451,3 @@ vless://a29a1ea2-98bc-4333-af5e-f3bb3ca6542c@wndisdkvwmqyod.curfuffled.com:443?t
 vless://Parsashonam-300@185.146.173.39:8880?path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&security=none&encryption=none&host=De.Parsashonam.CfD.&type=httpupgrade# SE | 185.146.173.39
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.240:48172# SE | 4.223.106.240
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.100.248:48172# SE | 4.223.100.248
-vmess://ewogICAgImFkZCI6ICIxMy41MC4xNTMuMjMwIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICJmZTJiZDc3ZC0zMTJlLTRhYzAtZGVmZS1hZmRiMjc5NTI4YTAiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogMjUyODksCiAgICAicHMiOiAi8J+HuPCfh6pTRS0xMy41MC4xNTMuMjMwLTI4NjciLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
