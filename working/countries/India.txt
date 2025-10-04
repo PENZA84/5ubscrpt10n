@@ -34,15 +34,14 @@ vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=&encry
 vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&encryption=none&headerType=none&type=tcp#IN_472_@Surfboardv2ray
 vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&encryption=none&headerType=none&type=tcp#IN_473_@Surfboardv2ray
 vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&encryption=none&headerType=none&type=tcp#IN_474_@Surfboardv2ray
-vless://12345678-1234-1234-1234-123456789123@154.198.173.54:2096?encryption=none&security=tls&sni=sni.aizrf.com&type=ws&host=sni.aizrf.com&path=/snippets#IN_622_@Surfboardv2ray
-vless://12345678-1234-1234-1234-123456789123@154.198.173.54:2096?path=/snippets#IN_623_@Surfboardv2ray
-vless://12345678-1234-1234-1234-123456789123@154.198.173.54:2096?path=/snippets#IN_625_@Surfboardv2ray
 vless://12345678-1234-1234-1234-123456789123@154.198.173.54:2096?path=/snippets#IN_626_@Surfboardv2ray
+vless://12345678-1234-1234-1234-123456789123@154.198.173.54:2096?path=/snippets&security=tls&encryption=none&host=sni.aizrf.com&type=ws&sni=sni.aizrf.com#IN_627_@Surfboardv2ray
 vless://12345678-1234-1234-1234-123456789123@154.198.173.54:2096?path=/snippets&security=tls&encryption=none&host=sni.aizrf.com&type=ws&sni=sni.aizrf.com#IN_628_@Surfboardv2ray
-vless://5a600992-8db9-4b15-a5fd-dbd77349787f@151.101.158.204:80?path=/olem/ws?ed=64Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH?ed=8880&security=&alpn=h2,http/1.1&encryption=none&host=fatmelo.com&fp=chrome&type=ws&sni=zmaoz.faculty.ucdavis.edu.#IN_2093_@Surfboardv2ray
-vless://d4e5f6a7-b8c9-4567-0123-def012345678@172.69.178.43:443?type=ws&encryption=none&host=aslivpn.pages.dev&path=/VLESS@PlanAsli&security=tls&sni=aslivpn.pages.dev&fp=chrome#IN_4113_@Surfboardv2ray
-vless://da1668a7-3a7f-405d-874e-c28652c68c4d@172.105.57.184:2321?security=none&encryption=none&headerType=none&type=tcp#IN_4208_@Surfboardv2ray
-vless://f4a5b6c7-d8e9-4567-0123-3456789abcde@172.69.178.43:2053?type=ws&encryption=none&host=aslivpn.pages.dev&path=/VLESS@PlanAsli&security=tls&sni=aslivpn.pages.dev&fp=chrome#IN_5463_@Surfboardv2ray
+vless://12345678-1234-1234-1234-123456789123@154.198.173.54:2096?path=/snippets&security=tls&encryption=none&host=sni.aizrf.com&type=ws&sni=sni.aizrf.com#IN_629_@Surfboardv2ray
+vless://5a600992-8db9-4b15-a5fd-dbd77349787f@151.101.158.204:80?path=/olem/ws?ed=64Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH?ed=8880&security=&alpn=h2,http/1.1&encryption=none&host=fatmelo.com&fp=chrome&type=ws&sni=zmaoz.faculty.ucdavis.edu.#IN_2094_@Surfboardv2ray
+vless://d4e5f6a7-b8c9-4567-0123-def012345678@172.69.178.43:443?type=ws&encryption=none&host=aslivpn.pages.dev&path=/VLESS@PlanAsli&security=tls&sni=aslivpn.pages.dev&fp=chrome#IN_4114_@Surfboardv2ray
+vless://da1668a7-3a7f-405d-874e-c28652c68c4d@172.105.57.184:2321?security=none&encryption=none&headerType=none&type=tcp#IN_4209_@Surfboardv2ray
+vless://f4a5b6c7-d8e9-4567-0123-3456789abcde@172.69.178.43:2053?type=ws&encryption=none&host=aslivpn.pages.dev&path=/VLESS@PlanAsli&security=tls&sni=aslivpn.pages.dev&fp=chrome#IN_5465_@Surfboardv2ray
 trojan://qr5nXh3P7K6T@139.84.151.57:443?sni=ash.69cf842c-b58a-4e6d-99ff-5c5012d8f395.kailib.com# @MoftConfigIndia
 trojan://3747000103274291200@185.67.125.177:443?security=tls&headerType=none&type=tcp&sni=quality-albacore.adder289.quest# @MoftConfigIndia
 trojan://Aimer@108.165.152.98:2087?path=%2F&security=tls&host=ageph.ambercc.filegear-sg.mehttp%2F1.1&type=ws&sni=ageph.ambercc.filegear-sg.me# @MoftConfigIndia
