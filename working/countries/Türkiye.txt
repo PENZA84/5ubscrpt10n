@@ -7,7 +7,7 @@ vless://6e812804-b0e8-4eff-9c2e-96c6fed96f1b@185.234.66.81:443?path=%2Flkjdasws&
 vless://7ee4671c-6b18-4574-8498-d6d7979218e5@ardagulerturk.vtuix.space:7035?path=%2F&security=none&encryption=none&host=filimo.com&type=ws#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40lranonline_new%20%5B6%5D
 vless://f342dad4-457e-45dd-8acd-56441fc55fa5@217.60.244.234:8085?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40pusyvpn%20%5B8%5D
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.89:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40selinc%20%5B5%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwVzlYeVBxeHRTWDE=@62.133.63.18:443#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%92%20SS%20%7C%20%40v2ray_free_conf%20%5B20%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwVzlYeVBxeHRTWDE=@62.133.63.18:443#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%92%20SS%20%7C%20%40v2ray_free_conf%20%5B18%5D
 vless://babf3d3e-dc83-40ef-8a7e-a08550fdeed4@ardagulerturk.vtuix.online:7035?path=%2F&security=none&encryption=none&host=filimo.com&type=ws#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vmesskhodam%20%5B15%5D
 vless://e105e56a-5f81-41a2-ab44-bfffc9b00674@45.12.143.191:20329?security=reality&encryption=none&pbk=Lj3MXlg16CTFHtU88acSS-ACfGnwJ_xkU6dC6k8OeDo&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=4602ee9f9f36#%3E%3E%40V2RAY_VMESS_free%3A%3ATR
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.89:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40v2rayngvpn%3A%3ATR
@@ -1359,6 +1359,6 @@ vless://6d9a7312-5021-40b0-9e2b-d08b6ef0d917@45.136.5.109:3030?security=none&enc
 vless://e138b9d4-1bc9-49d0-b6ad-34347e464c05@188.132.183.15:8081?security=none&encryption=none&headerType=none&type=tcp# TR | 188.132.183.15
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwVzlYeVBxeHRTWDE@62.133.63.18:443# TR | 62.133.63.18
 vless://8377aac9-f3b3-42df-a5ea-9254f37e7b34@62.60.233.30:443?security=reality&flow=xtls-rprx-vision&sni=tr.eu-ffast.com&type=tcp&fp=chrome&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50# VL-TCP-RLT  TR-62.60.233.30:443
-trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.156.25:443?security=tls&sni=aio.zipzap.biz.id&type=ws&host=aio.zipzap.biz.id&path=%2Faioproxybot%2F129.150.49.58-18650# TR-WS-TLS  NA-172.67.156.25:443
 trojan://02XtoczO7V@104.20.6.134:443?security=tls&sni=mooshali.arshiacomplus.dpdns.org&type=ws&host=mooshali.arshiacomplus.dpdns.org&path=%2Fhishhhh123&fp=chrome&alpn=http%2F1.1# TR-WS-TLS  NA-104.20.6.134:443
+trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.156.25:443?security=tls&sni=aio.zipzap.biz.id&type=ws&host=aio.zipzap.biz.id&path=%2Faioproxybot%2F129.150.49.58-18650# TR-WS-TLS  NA-172.67.156.25:443
 trojan://02XtoczO7V@104.20.5.134:443?security=tls&sni=mooshali.arshiacomplus.dpdns.org&type=ws&host=mooshali.arshiacomplus.dpdns.org&path=%2Fhishhhh123&fp=chrome&alpn=http%2F1.1# TR-WS-TLS  NA-104.20.5.134:443
