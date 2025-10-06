@@ -323,3 +323,4 @@ vless://6897c181-24b1-4880-8660-e6c5c7ee13c7@92.60.78.221:443?security=reality&e
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptWkdVRldNQWxmV3FJNHZQNTh6dzlEQUh4UjhUWkxuZEtrdlJnSEhGYTllcVdkbng=@65.21.243.22:31348# FI | 65.21.243.22
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1R1hWWmdYcUI3Um5Ea0J4ZDFSeUl1@91.204.74.95:27335?type=tcp# FI | 91.204.74.95
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1R1hWWmdYcUI3Um5Ea0J4ZDFSeUl1@91.204.74.95:27335# FI | 91.204.74.95
+vless://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?security=tls&sni=local.rogsoftwaregroup.com&type=tcp&alpn=h3%2Ch2%2Chttp%2F1.1# VL-TCP-TLS  FI-65.108.231.185:443
