@@ -411,4 +411,3 @@ vless://95b0f8b6-8373-4398-893f-782af287e2fe@static.50.146.62.46.clients.your-se
 vless://14f3eeaf-153a-40ed-8c4d-8dce10950832@mpl.marana.sbs:16937?type=grpc&serviceName=&authority=&security=none# FI | 2a01:4f9:c013:c662::1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1R1hWWmdYcUI3Um5Ea0J4ZDFSeUl1@91.204.74.95:27335?type=tcp# FI | 91.204.74.95
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1R1hWWmdYcUI3Um5Ea0J4ZDFSeUl1@91.204.74.95:27335# FI | 91.204.74.95
-vless://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?security=tls&sni=local.rogsoftwaregroup.com&type=tcp&alpn=h3%2Ch2%2Chttp%2F1.1# VL-TCP-TLS  FI-65.108.231.185:443
