@@ -1,3 +1,4 @@
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.162.49:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 
 trojan://telegram-id-directvpn@15.236.162.49:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 vless://000273dd-8af5-4c53-b47b-c3c49bcf9e2a@151.101.3.8:80?type=xhttp&path=%2FTelegram%40viturey%3Fed%3D2048&host=bpi7.global.ssl.fastly.net&mode=auto&security=none#Telegram:@IP_CF
 trojan://telegram-id-directvpn@15.188.148.184:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Telegram:@IP_CF
@@ -9997,4 +9998,3 @@ vless://f0c2f4df-acbb-4c11-ba2c-71593e5de7a5@15.235.48.4:2053?security=reality&s
 vless://ba86f1d8-775c-478c-bd88-be0cb1611242@91.208.92.226:56022?security=reality&flow=xtls-rprx-vision&sni=apple.com&type=tcp&fp=chrome&pbk=B2Hdkb8ZsVs2ajJ6PMmWEEXq8kWJ3bBp4knn89j_Two&sid=21#[]t.me/ConfigsHub
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.149.250.148:4433?security=reality&sni=stackoverflow.com&type=tcp&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#[]t.me/ConfigsHub
 vless://ccababa-acba-baac-dbca-cabcacbbabac@127.0.0.1:2080?security=tls&type=tcp#[]t.me/ConfigsHub
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@44.234.61.163:2222?security=none&type=tcp#[]t.me/ConfigsHub
