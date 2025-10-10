@@ -85,7 +85,6 @@ vmess://eyJhZGQiOiJ5aWNodWVuZy5vcmciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9z
 vmess://eyJhZGQiOiJzZXJrYXQub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Imxpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiJDaGFubmVsIGlkOiBAU2hhZG93UHJveHk2NiDwn4ep8J+HqiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiJzZXJrYXQub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzZXJrYXQub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiQ2hhbm5lbCBpZDogQHZwbnNlcnZlcnJyIPCfh6nwn4eqIiwic2N5IjoiYXV0byIsInNuaSI6InNlcmthdC5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.205.159.100:990#%F0%9F%87%AE%F0%9F%87%A9ID-154.205.159.100-5356
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.10:8080#Channel%20ID%3A%20%40v2ray_confignet
 trojan://vvip-periantara@38.9.140.66:443?security=tls&sni=id3tr.jagoan.vip#%F0%9F%87%AE%F0%9F%87%A9ID-38.9.140.66-4404
 trojan://idc117okt@103.176.78.153:443?security=tls#%F0%9F%87%AE%F0%9F%87%A9ID-103.176.78.153-4828
 vmess://ewogICAgImFkZCI6ICJsbXMudWluLWFudGFzYXJpLmFjLmlkIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiZXhhLm5leHR2cG4uY2MiLAogICAgImlkIjogIjQ2YmZkYjU5LTgzYzYtNDcxMC04NzdlLWM4MDliNWE5MGRmZiIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA4MCwKICAgICJwcyI6ICLwn4eu8J+HqUlELTEwMy4xODAuOTUuMjktNDkzNyIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
@@ -303,6 +302,7 @@ vmess://eyJhZGQiOiI0OS41MS4yMDAuMTIwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MmJiMzA3Mi03ZWZkLTRkNjctOWJlYi0yY2Q5YzE4ZTY5ZjQ=@103.28.53.21:40033# @MoftConfigIndonesia
 trojan://Aimer@46.254.92.201:2053?security=tls&headerType=&type=tcp&sni=ngepx.ambercc.filegear-sg.me# @MoftConfigIndonesia
 vless://41abecd9-8096-4142-a75c-4e1d36d990bd@46.254.92.33:443?security=tls&sni=mmdserver.us.kg&type=ws&host=mmdserver.us.kg&path=%2F%3Fed%3D2048fp%3Dios# @MoftConfigIndonesia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.10:8080#Channel%20ID%3A%20%40v2ray_confignet
 vless://cac07fc1-9c38-42af-b26f-421eaca2cd65@94.183.158.13:1190?path=%2F%3Fed%3D2560&security=&encryption=none&type=ws#Channel%20id%3A%40ShadowProxy66%20%F0%9F%87%AE%F0%9F%87%B7
 vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?encryption=none&security=tls&sni=ovhwuxian.pai50288.uk&fp=chrome&type=ws&host=ovhwuxian.pai50288.uk&path=%2F57ba2ab1#Channel%20id%3A%20%40%40proxy_kafee%20%F0%9F%87%A8%F0%9F%87%A6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NDFkZGNlZC1lNmVlLTQxNzUtOWMxYS1lNTI0MDA5ZjkwNDU%3D@144.126.146.38:30100#Channel%20ID%3A%20%40v2ray_confignet
