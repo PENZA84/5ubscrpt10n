@@ -1,3 +1,4 @@
+trojan://telegram-id-privatevpns@18.130.196.100:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[]t.me/MoftConfig
 ss://54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.206.182:443?encryption=none&security=tls&sni=147135004002.sec20org.com&type=tcp&headerType=none#Telegram:@IP_CF
 vless://a8f095f1-3663-40f9-be12-2c16ae3e86ba@91.107.176.168:2096?security=tls&sni=mJe.nimhub.ir&type=ws&host=mJe.nimhub.ir&path=/&fp=random&alpn=h2,http/1.1#[]t.me/MoftConfig
 vless://c7d543af-1023-4b96-a698-187c190d3f4c@104.22.57.77:443?encryption=none&security=tls&sni=nautica.foolvpn.me&type=ws&host=nautica.foolvpn.me&path=%2F47.89.39.186-39251#[]t.me/ConfigsHub
@@ -9997,4 +9998,3 @@ vmess://eyJhZGQiOiIxODUuMTg0LjcwLjkwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.209:8880?mode=gun&security=none&encryption=none&type=grpc#[]t.me/ConfigsHub
 trojan://2bfa08e0-ae1e-11ed-a3a0-1239d0255272@de2.socifiles.com:443?path=%2Ftrojanws&security=tls&type=ws&sni=telewebion.com#Telegram:@IP_CF
 trojan://NEHZp72yf2@95.181.162.233:443?security=tls&host=Zula.ir&headerType=http&fp=randomized&type=tcp&sni=dr-ping.ir#Telegram:@IP_CF
-vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTM4LjY4LjE4Ny4xMzEiLCJwb3J0Ijo0NTExMiwiaWQiOiIxMWVjODk5ZC1mMWZkLTQ4OWEtYmE3MC03OTI2NzdlZWQ2YzkiLCJhaWQiOjEsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwiaG9zdCI6IiIsInBhdGgiOiJcLyIsInRscyI6Im5vbmUifQ==
