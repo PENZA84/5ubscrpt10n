@@ -6,7 +6,7 @@ ss://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:8443?path=%2F&security=tl
 ss://2db037d5-401b-45cf-93b3-a969fae92847@141.227.174.116:28329?security=none&allowInsecure=0&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#uk
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:8443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=Rx2TfQ98lT.sOlEnTrAa.InFo&fp=chrome&type=ws&sni=Rx2TfQ98lT.sOlEnTrAa.InFo#United%20Kingdom%20Glide
 vless://2db037d5-401b-45cf-93b3-a969fae92847@141.227.174.116:28329?security=none&allowInsecure=0&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#uk
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwM0A1MS4xNS4yMy42Mzo5ODk=#%F0%9F%87%AC%F0%9F%87%A7_GB_%E8%8B%B1%E5%9B%BD-%3E%F0%9F%87%AE%F0%9F%87%B6_IQ_%E4%BC%8A%E6%8B%89%E5%85%8B
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwM0A1MS4xNS4xNy4xNjk6OTg5#%F0%9F%87%AC%F0%9F%87%A7_GB_%E8%8B%B1%E5%9B%BD
 vless://192ea2c7-d7d0-6676-2929-b04a072b387d@178.20.215.2:443?allowInsecure=0&sni=speed.cloudflare.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#GB_speednode_0039
 vless://b65f4df7-f6af-42b2-877a-cef33f21675e@185.193.31.32:2096?allowInsecure=0&sni=kejiland.freewarp.eu.org&type=ws&host=kejiland.freewarp.eu.org&path=/snippetssecurity=tls#GB_speednode_0040
 vless://01996549-6892-dbf0-0453-f700236936bd@159.65.94.176:8080?allowInsecure=1&sni=kejiland.freewarp.eu.org&type=ws&host=kejiland.freewarp.eu.org&path=/snippets/ip=proxyip.fxxk.dedyn.io:443security=tls#GB_speednode_0041
@@ -263,6 +263,7 @@ vmess://ewogICAgImFkZCI6ICIxNDAuOTkuMTIwLjE4MiIsCiAgICAiYWlkIjogNjQsCiAgICAiaG9z
 trojan://telegram-id-directvpn@13.40.3.71:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AC%F0%9F%87%A7GB-13.40.3.71-8669
 trojan://telegram-id-directvpn@13.40.3.71:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AC%F0%9F%87%A7GB-13.40.3.71-8671
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@51.15.17.169:989#%F0%9F%87%AC%F0%9F%87%A7_GB_%E8%8B%B1%E5%9B%BD
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206NUNYNWRGUnpRMjlYMUNUeEhDL3ZzQjM1aTdsTGU4MkhlbG9aM0xCQmJSdz06bFZXRDVqd0swWjJyN1NvZFBYNDFnaXViUGFEaTRJcmdrVGZRK2VqVWFGdz0%3D@91.205.158.2:2053#United%20Kingdom%20Iomart
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.178:443#%F0%9F%87%AC%F0%9F%87%A7GB-141.98.101.178-0230%20%7C%200.0MB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNR1JSZTd0VE5kVDU5Z2lma01xb2Yw@89.185.84.185:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%283%29
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@212.102.53.196:443#%F0%9F%87%AC%F0%9F%87%A7%20London%2C%20ENG%2C%20United%20Kingdom%20%285%29
@@ -1042,7 +1043,6 @@ trojan://d7fd8aaa-4581-4281-80aa-4b63e5e1f157@jgwld2.gaox.ml:443#Relay_%F0%9F%87
 vmess://ewogICJ2IjogMiwKICAicHMiOiAiQHdibmV0X/Cfh6zwn4enX0dCXzUiLAogICJhZGQiOiAiMTQ2LjcwLjQ2LjY4IiwKICAicG9ydCI6IDQ0MywKICAiaWQiOiAiYWJhNTBkZDQtNTQ4NC0zYjA1LWIxNGEtNDY2MWNhZjg2MmQ1IiwKICAiYWlkIjogNCwKICAibmV0IjogIndzIiwKICAiaG9zdCI6ICJ1ay1tYW5jaGVzdGVyLmVpdzJlZW1vLmNvbSIsCiAgInBhdGgiOiAiL3dzIiwKICAidHlwZSI6ICIiLAogICJ0bHMiOiAidGxzIiwKICAic25pIjogInVrLW1hbmNoZXN0ZXIuZWl3MmVlbW8uY29tIiwKICAic2N5IjogImF1dG8iCn0=
 trojan://58d32c66-43b1-4561-9951-d87c9123774e@jgwld4.gaox.ml:443#Relay_%F0%9F%87%AC%F0%9F%87%A7GB-%F0%9F%87%AC%F0%9F%87%A7GB_372
 vless://d2965257-0536-4811-a0d5-cdce54e90326@89.19.44.43:2053?encryption=none&security=tls&sni=fei.634676.xyz&type=ws&host=fei.634676.xyz&path=%2F%3Fed%3D2560#GB%E8%8B%B1%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwM0A1MS4xNS4xNy4xNjk6OTg5#%F0%9F%87%AC%F0%9F%87%A7_GB_%E8%8B%B1%E5%9B%BD
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@51.15.23.63:989#%F0%9F%87%AC%F0%9F%87%A7_GB_%E8%8B%B1%E5%9B%BD-%3E%F0%9F%87%AE%F0%9F%87%B6_IQ_%E4%BC%8A%E6%8B%89%E5%85%8B
 vless://12345678-1234-1234-1234-123456789123@25.129.198.44:2096?encryption=none&security=tls&sni=kejiland.freewarp.eu.org&type=ws&host=kejiland.freewarp.eu.org&path=%2Fsnippets#GB%E8%8B%B1%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 vless://12345678-1234-1234-1234-123456789123@193.124.224.44:2096?encryption=none&security=tls&sni=kejiland.freewarp.eu.org&type=ws&host=kejiland.freewarp.eu.org&path=%2Fsnippets#GB%E8%8B%B1%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
@@ -1073,6 +1073,7 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638953873686412975.lahijan-drc-tusa
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342844263.esfahan-drc-tusaas.info:8880?security=none&encryption=none&type=grpc&path=%2f#%f0%9f%87%ac%f0%9f%87%a7%20GB%2017
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510129819770.dezful-drc-tusaas.info:8880?security=none&encryption=none&type=grpc&path=%2f#%f0%9f%87%ac%f0%9f%87%a7%20GB%2018
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638939927968108227.dublin-drc-tusaas.info:8880?security=none&encryption=none&type=grpc&path=%2f#%f0%9f%87%ac%f0%9f%87%a7%20GB%2020
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638952778316595016.hamedan-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#[openproxylist.com] vless-GB
 vless://f8806934-15d7-4194-9c35-ec7a140bb6f6@fast7.hvitrin.ir:48769?security=reality&encryption=none&pbk=7nXyxyyn6fSlJzPO1DFmIEUV8LAmoP58-_1zP_MKo2E&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=miro.com&sid=177f438f#[openproxylist.com] vless-GB
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638952778316586254.hamedan-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#[openproxylist.com] vless-GB
 vless://9e20b04d-5a81-4e16-b421-01e502f0aac6@57.129.132.223:80?path=%2Fvless%2F&security=none&encryption=none&host=google.com&type=ws#[openproxylist.com] vless-GB
