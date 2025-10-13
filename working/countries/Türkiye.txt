@@ -1354,7 +1354,7 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggLee+juWbvS10ci50ZWppZXdtLmNvbSIsImFkZCI6
 vmess://eyJhZGQiOiAidHIwMS5wYW9wYW9jbG91ZC5jeW91IiwgInBvcnQiOiAiNDQzIiwgImlkIjogIjBmZWI0ZWE5LWJjYWEtMzJjMi1iYmRkLWIzZDEzZGRkYjYxMiIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAicHMiOiAi8J+HpvCfh7Yt5Zyf6ICz5YW2LXRyMDEucGFvcGFvY2xvdWQuY3lvdSIsICJob3N0IjogInRyMDEuc3NydTQuZnVuIiwgInBhdGgiOiAiL3YycmF5IiwgInRscyI6ICJ0bHMiLCAic25pIjogIiIsICJ0eXBlIjogInZtZXNzIiwgInNlcnZlclBvcnQiOiAwLCAibmF0aW9uIjogIiJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggLee+juWbvS10cjAxLmNmLnBhb3Bhb2Nsb3VkLmN5b3UiLCJhZGQiOiJ0cjAxLmNmLnBhb3Bhb2Nsb3VkLmN5b3UiLCJwb3J0IjoiNDQzIiwidHlwZSI6Im5vbmUiLCJpZCI6IjBmZWI0ZWE5LWJjYWEtMzJjMi1iYmRkLWIzZDEzZGRkYjYxMiIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6InRyMDEuc3NydTQuZnVuIiwidGxzIjoidGxzIn0=
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.104:8880?encryption=none&security=none&type=grpc# TR | 185.234.66.104
-vless://2b25cdb0-ecb2-4caa-910d-b2e5b2309ca3@185.234.66.94:443?encryption=none&security=tls&fp=chrome&type=ws&path=/tqjkmwws?ed=2048@V2Gatee--V2Gatee--V2Gatee--V2Gatee-V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee# TR | 185.234.66.94
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.92:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=# TR | 185.234.66.92
 vless://ff0e767c-747e-4a6d-b3c9-ba0d602ec939@tu.a.speedgloobalontop.ir:2088?security=none&type=tcp&headerType=&path=&host=# TR | 213.142.156.169
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?mode=gun&security=none&encryption=none&type=grpc# TR | 103.231.75.74
 vless://8377aac9-f3b3-42df-a5ea-9254f37e7b34@62.60.233.30:443?security=reality&sni=tr.eu-ffast.com&fp=chrome&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none# TR | 62.60.233.30
@@ -1362,6 +1362,6 @@ vless://80fdfa12-adc7-4a76-a79c-e979b652d59c@tr.iranhostpro.ir:8443?security=rea
 vless://0b7286d8-0216-4a73-bc5a-197a4d7c6fcb@vip3.seniorrnet.info:34568?mode=gun&security=none&encryption=none&type=grpc&serviceName=@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING# TR | 195.244.41.104
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=# TR | 103.231.75.74
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.104:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=# TR | 185.234.66.104
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.129:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=# TR | 103.231.75.129
-trojan://biOrJGlcfX@104.20.5.134:443?security=tls&sni=ghasem.kotlet.org&type=ws&host=ghasem.kotlet.org&path=%2Fkos-madaret-khamneii&fp=firefox&alpn=h2%2Chttp%2F1.1# TR-WS-TLS  NA-104.20.5.134:443
+trojan://mXP68BRNvU@66.59.208.7:17136?security=none&type=tcp# TR-TCP-NONE  DE-66.59.208.7:17136
 trojan://biOrJGlcfX@104.20.6.134:443?security=tls&sni=ghasem.kotlet.org&type=ws&host=ghasem.kotlet.org&path=%2Fkos-madaret-khamneii&fp=firefox&alpn=h2%2Chttp%2F1.1# TR-WS-TLS  NA-104.20.6.134:443
+trojan://biOrJGlcfX@104.20.5.134:443?security=tls&sni=ghasem.kotlet.org&type=ws&host=ghasem.kotlet.org&path=%2Fkos-madaret-khamneii&fp=firefox&alpn=h2%2Chttp%2F1.1# TR-WS-TLS  NA-104.20.5.134:443
