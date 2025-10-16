@@ -73,6 +73,7 @@ vless://8e6acce9-8b56-7190-d491-7d84f8189e26@5.181.171.2:443?flow=xtls-rprx-visi
 vless://ef246c6f-6e7d-4286-af33-5485544b0ba8@45.88.183.164:49355?encryption=none&type=tcp&path=%2f#%f0%9f%87%ae%f0%9f%87%b3%20IN%203
 vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?encryption=none&type=tcp&headerType=none&path=%2f#%f0%9f%87%ae%f0%9f%87%b3%20IN%204
 vless://d3daa900-0377-4575-9ebc-c4d88cb8486c@45.88.183.158:44629?encryption=none&type=tcp&path=%2f#%f0%9f%87%ae%f0%9f%87%b3%20IN%205
+vless://d3daa900-0377-4575-9ebc-c4d88cb8486c@45.88.183.158:44629?security=&type=tcp&encryption=none#[openproxylist.com] vless-IN
 vless://ef246c6f-6e7d-4286-af33-5485544b0ba8@45.88.183.164:49355?security=&encryption=none&headerType=none&type=tcp#[openproxylist.com] vless-IN
 vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=&encryption=none&headerType=none&type=tcp#[openproxylist.com] vless-IN
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIklOIiwNCiAgImFkZCI6ICIyMDYuMTg5LjE0My4xMTMiLA0KICAicG9ydCI6ICI4MDgwIiwNCiAgImlkIjogImJkZDIyODQxLWM0ZDItNGFhOC1hY2YyLTk1YWE5MTI1ZjE1OSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiYmxyMS0zLnRyb2xsZnVubnkubmV0IiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogImJscjEtMy50cm9sbGZ1bm55Lm5ldCIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICJjaHJvbWUiDQp9
