@@ -1,9 +1,9 @@
 vless://0deb6f9d-9ad9-4b73-ac33-f3176e7ec1f2@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
 vless://e85ce618-50cd-42e0-a8ba-5052e6be9498@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
 trojan://c53647f3153f784b3c695ffbe5fb43c0@153.121.56.122:5321?sni=www.baidu.com#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYMlVRWHVUR3h3eEUxWk1hVFF3dHhT@174.138.29.1:60523#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A12%2099.2KB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@5.44.249.42:2377#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A13
-trojan://c53647f3153f784b3c695ffbe5fb43c0@153.121.56.122:5041?sni=www.baidu.com#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A14
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@5.44.249.42:2377#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A12
+trojan://c53647f3153f784b3c695ffbe5fb43c0@153.121.56.122:5041?sni=www.baidu.com#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A13
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYMlVRWHVUR3h3eEUxWk1hVFF3dHhT@174.138.29.1:60523#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A14%20141.2KB%2Fs
 ss://fe7d9497-c04b-4462-900d-333abc79a90f@46.250.237.164:55076?encryption=none&security=none&type=raw&headertype=none#%F0%9F%87%B8%F0%9F%87%ACSingapore+-%3E+%F0%9F%87%B8%F0%9F%87%ACSingapore+%E2%9A%A1@DeamNet_Proxy
 vless://fe7d9497-c04b-4462-900d-333abc79a90f@46.250.237.164:55076?encryption=none&security=none&type=raw&headertype=none#%F0%9F%87%B8%F0%9F%87%ACSingapore+-%3E+%F0%9F%87%B8%F0%9F%87%ACSingapore+%E2%9A%A1@DeamNet_Proxy
 trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz#%F0%9F%87%B8%F0%9F%87%AC_SG_%E6%96%B0%E5%8A%A0%E5%9D%A1_5
@@ -590,6 +590,9 @@ vless://ad7f1445-d916-49a0-88b8-d6adc9f5d26b@146.56.99.22:20443?encryption=none&
 trojan://wb6368@92.243.75.49:2087?allowInsecure=0&sni=hsdgbuys.pages.dev&type=ws&host=hsdgbuys.pages.dev&path=/#SG_speednode_0018
 trojan://installshield@38.180.106.124:8443?allowInsecure=1#SG_speednode_0020
 vless://a19fd311-c343-4b54-9ca3-fe6dcd84c0fc@38.47.176.134:59967?type=tcp&path=%2f#%f0%9f%87%b8%f0%9f%87%ac%20SG%201
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYMlVRWHVUR3h3eEUxWk1hVFF3dHhT@174.138.29.1:60523#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A12%2099.2KB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@5.44.249.42:2377#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A13
+trojan://c53647f3153f784b3c695ffbe5fb43c0@153.121.56.122:5041?sni=www.baidu.com#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A14
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-13.cristiano.name.ng:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com&sid=f5#[openproxylist.com] vless-SG```
 trojan://eQlCz7DG3SDT@13.229.126.77:14822?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#SG|GithubTrojanLinks
 trojan://1JAuty9W)9FJ@13.213.30.41:14831?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#SG|GithubTrojanLinks
