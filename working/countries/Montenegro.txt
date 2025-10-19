@@ -75290,6 +75290,11 @@ vless://46788ea0-fdf1-4694-90a0-dec94fc471c3@109.172.55.114:443?security=reality
 vmess://eyJhZGQiOiJwdXRpaGIub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJwdXRpaGIub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiW/Cfj4FddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6InB1dGloYi5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 vless://80db8cee-bd3d-4dde-a3b2-02b6cdb70d99@poland.aliusvpn.ru:8443?security=reality&encryption=none&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=44103f58#[]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.35.189.146:8880?mode=gun&security=&encryption=none&type=grpc#[]t.me/ConfigsHub
+trojan://tg-dns68@104.19.39.99:443?security=tls&type=ws&sni=vip.putata.eu.org&host=vip.putata.eu.org#[]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.14:8080#[]t.me/ConfigsHub
+trojan://telegram-id-directvpn@18.220.22.172:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#[]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.166.88.132:7001#[]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@40.172.81.126:443#[]t.me/ConfigsHub
 vless://e497da22-d020-40fb-a1fa-bc294066a2d2@66.235.200.30:80/?type=ws&encryption=none&host=pormang.webhost99.workers.dev&path=%2F#[]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.27.132:8880?mode=gun&security=none&encryption=none&type=grpc#[]t.me/MoftConfig
 vless://384d86c0-2f2c-5156-98b5-27bbc14f4315@join.mosiv2.fastly80-3.hosting-ip.com:80/?type=ws&encryption=none&host=Join-Bede-MOSiv2.IR&path=%2F#[]t.me/ConfigsHub
