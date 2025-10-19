@@ -5,7 +5,7 @@ vless://591f69e3-9da6-4903-8812-a9dabc52a4e3@46.31.76.33:2002?note=JOIN----AZADI
 vless://8bf5c07a-acd3-4360-b940-62d6b77699af@104.16.53.11:8080?path=/&security=none&encryption=none&host=locationbasedservicesturkeyadakmepfoqmwedoqimweopdim.okatestoka.ir&type=httpupgrade# TR-1-  | @EXPRESSVPN_420
 vless://ff0e767c-747e-4a6d-b3c9-ba0d602ec939@tu.a.speedgloobalontop.ir:2088?security=none&type=tcp&headerType=&path=&host=#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40drvpn_net%20%5B3%5D
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40kurdistan_vpn_perfectt%20%5B8%5D
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.76:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40mowjproxy%20%5B5%5D
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.76:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40mowjproxy%20%5B4%5D
 vless://f342dad4-457e-45dd-8acd-56441fc55fa5@217.60.244.234:8085?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40pusyvpn%20%5B8%5D
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.104:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40selinc%20%5B5%5D
 vless://babf3d3e-dc83-40ef-8a7e-a08550fdeed4@ardagulerturk.vtuix.online:7035?path=%2F&security=none&encryption=none&host=filimo.com&type=ws#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vmesskhodam%20%5B12%5D
@@ -1298,7 +1298,6 @@ vless://7e296434-2d17-48d3-928d-19eaa34aecb1@185.33.24.229:28495?security=realit
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.123.101.241:989#%f0%9f%87%b9%f0%9f%87%b7%20TR%202
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.104:8880?mode=gun&security=none&encryption=none&type=grpc#[openproxylist.com] vless-TR
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.97:8880?mode=gun&security=none&encryption=none&type=grpc#[openproxylist.com] vless-TR
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.89:8880?mode=gun&security=none&encryption=none&type=grpc#[openproxylist.com] vless-TR
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?mode=gun&security=none&encryption=none&type=grpc#[openproxylist.com] vless-TR
 vless://6e812804-b0e8-4eff-9c2e-96c6fed96f1b@185.234.66.81:443?path=%2Flkjdasws&security=tls&encryption=none&fp=chrome&type=ws#[openproxylist.com] vless-TR
 vless://d4992ec8-d781-45f5-9f59-ef8c769f46f9@185.234.66.101:443?path=%2Fhfwsxtws&security=tls&encryption=none&host=TELEGRAM--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY---V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY&type=ws#[openproxylist.com] vless-TR
@@ -1352,6 +1351,7 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggLee+juWbvS10ci50ZWppZXdtLmNvbSIsImFkZCI6
 vmess://eyJhZGQiOiAidHIwMS5wYW9wYW9jbG91ZC5jeW91IiwgInBvcnQiOiAiNDQzIiwgImlkIjogIjBmZWI0ZWE5LWJjYWEtMzJjMi1iYmRkLWIzZDEzZGRkYjYxMiIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAicHMiOiAi8J+HpvCfh7Yt5Zyf6ICz5YW2LXRyMDEucGFvcGFvY2xvdWQuY3lvdSIsICJob3N0IjogInRyMDEuc3NydTQuZnVuIiwgInBhdGgiOiAiL3YycmF5IiwgInRscyI6ICJ0bHMiLCAic25pIjogIiIsICJ0eXBlIjogInZtZXNzIiwgInNlcnZlclBvcnQiOiAwLCAibmF0aW9uIjogIiJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggLee+juWbvS10cjAxLmNmLnBhb3Bhb2Nsb3VkLmN5b3UiLCJhZGQiOiJ0cjAxLmNmLnBhb3Bhb2Nsb3VkLmN5b3UiLCJwb3J0IjoiNDQzIiwidHlwZSI6Im5vbmUiLCJpZCI6IjBmZWI0ZWE5LWJjYWEtMzJjMi1iYmRkLWIzZDEzZGRkYjYxMiIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6InRyMDEuc3NydTQuZnVuIiwidGxzIjoidGxzIn0=
 vless://ff0e767c-747e-4a6d-b3c9-ba0d602ec939@tu.a.speedgloobalontop.ir:2088?security=none&type=tcp&headerType=&path=&host=# TR | 213.142.156.169
+vless://074edad7-1576-45d1-bbea-b28faa463eab@95.134.130.176:80?path=/&security=none&encryption=none&host=fast.com&type=ws# TR | 95.134.130.176
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.92:8880?mode=gun&security=none&encryption=none&type=grpc# TR | 185.234.66.92
 vless://0b7286d8-0216-4a73-bc5a-197a4d7c6fcb@vip3.seniorrnet.info:34568?mode=gun&security=none&encryption=none&type=grpc&serviceName=@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING# TR | 195.244.41.104
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?mode=gun&security=none&encryption=none&type=grpc# TR | 103.231.75.74
