@@ -1,3 +1,5 @@
+trojan://NISHIKUITAN111@173.245.49.59:443?allowInsecure=1#[]t.me/ConfigsHub
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@54.202.104.250:2222?security=none&type=tcp#[]t.me/ConfigsHub
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@b6.sarasimano.com:2096?path=%2F&security=tls&encryption=none&type=ws#[]t.me/ConfigsHub
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@n4.sarasimano.com:2096?path=%2F&security=tls&encryption=none&type=ws#[]t.me/ConfigsHub
 vmess://eyJhZGQiOiJtLmNubWppbi5uZXQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IjgxZDA4ODAyOWZhZmFiMzNmMDUwNGM0OTAxYjhlNTQ3Lm1vYmdzbGIudGJjYWNoZS5jb20iLCJpZCI6ImVjZmNkZmIwLTJjOGQtNGMxOC05NDJkLTE4MGEyNjVmMzc4ZSIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicG9ydCI6IjE2NjQ1IiwicHMiOiJb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
@@ -2887,6 +2889,8 @@ vmess://eyJhZGQiOiJsYW1tYWxhbmQub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 vless://40bc1b98-ff86-4c67-afc2-c9abc40d1e10@172.66.156.81:80?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy&security=none&encryption=none&host=websocket.network.www.speedtest.net.flutter.dev.russia.pyt.vegaskala.com.&type=ws#[]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.208.110.217:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#[]t.me/ConfigsHub
 vless://16710d5b-8bae-4647-8515-b9fce3180c35@pscresearch.faculty.ucdavis.edu:80?type=xhttp&encryption=none&path=%2F&host=xiliunlimited.global.ssl.fastly.net&mode=auto&security=none#[]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@63.35.207.107:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[]t.me/ConfigsHub
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.195:8880?mode=gun&security=none&encryption=none&type=grpc#[]t.me/ConfigsHub
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@188.42.145.142:443?security=tls&type=ws&sni=kk033.ylks.link&path=/proxyip=proxyip.oracle.fxxk.dedyn.io&encryption=none&headerType=none#%E5%8D%A2%E6%A3%AE%E5%A0%A1_1
 trojan://NISHIKUITAN222@125.139.249.241:17057?type=ws&allowInsecure=1&path=/&host=t033.ylks.link#%E9%9F%A9%E5%9B%BD_1
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@69.84.182.16:443?security=tls&type=ws&sni=v033.ylkszy.eu.org&path=/?ed=2560&encryption=none&headerType=none#%E7%BE%8E%E5%9B%BD_1
@@ -9994,7 +9998,3 @@ ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.103:6697# SS-TCP-NA  US-23.1
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.95.179:5600# SS-TCP-NA  US-69.50.95.179:5600
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpab0Ntb29uTWc1R1d3cGkwRkNxTGNR@141.98.168.127:443# SS-TCP-NA  US-141.98.168.127:443
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@139.64.165.230:5500# SS-TCP-NA  US-139.64.165.230:5500
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.121.43.65:9102# SS-TCP-NA  US-38.121.43.65:9102
-ss://YWVzLTI1Ni1jZmI6RkFkVXZNSlVxNXZEZ0tFcQ==@80.92.204.106:9006# SS-TCP-NA  DE-80.92.204.106:9006
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@35.177.255.48:443# SS-TCP-NA  GB-35.177.255.48:443
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@142.202.48.105:5003# SS-TCP-NA  US-142.202.48.105:5003
