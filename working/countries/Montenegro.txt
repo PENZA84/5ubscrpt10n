@@ -75764,6 +75764,17 @@ vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.118.82.206:2222?security=none&ty
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@45.15.127.193:2087/?type=grpc&encryption=none&flow=&security=tls&allowInsecure=1#[]t.me/ConfigsHub
 vmess://eyJhZGQiOiIxOTQuODcuMzEuMTYwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjaGFuZWwuVGVsZWdyYW0uQEpPS0VSUlZQTiIsImlkIjoiYTdlMDBjMmYtNDExYS00MzhmLTkxMTktMGYwMjJhODVhNWUzIiwibmV0IjoidGNwIiwicGF0aCI6ImNoYW5lbC5UZWxlZ3JhbS5ASk9LRVJSVlBOIiwicG9ydCI6IjgwODEiLCJwcyI6Ilvwn4+BXXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.121.15.163:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#[]t.me/ConfigsHub
+trojan://join-bede-daily-configs@104.18.7.36:8443?security=tls&type=ws&sni=kanale-daily-configs.blackoutconnection.ir&path=/TELEGRAM:@Daily_Configs?ed=2560&host=kanale-daily-configs.blackoutconnection.ir#[]t.me/ConfigsHub
+vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@104.17.210.171:443?encryption=none&security=tls&sni=vless10-9sc.pages.dev&fp=chrome&type=ws&path=%2F#[]t.me/ConfigsHub
+vless://cd79807f-bcef-46b8-93b6-229676a0c1a0@64.188.70.0:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=chrome&pbk=y_AlGiUJiCRWCT8FyrfUm-Cmpm0bl0cSUMRP3VZ9X0I&sid=89dbda1a1c9369&type=tcp&headerType=none#[]t.me/ConfigsHub
+vless://04979a1c-300b-4eb6-9f85-235730566d54@212.95.41.20:800?security=reality&encryption=none&pbk=8sbYQLutiRgWxqzbPmYI0hIT2Gf5oH54C9F7H2DWKQ4&headerType=none&fp=chrome&type=tcp&sni=zhaket.com&sid=f7fea54424#[]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.86.135.117:8118#[]t.me/ConfigsHub
+vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.94:80?encryption=none&security=none&type=grpc#[]t.me/ConfigsHub
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.209.153.82:8880?encryption=none&security=none&type=grpc#[]t.me/ConfigsHub
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.208.110.217:8880?encryption=none&security=none&type=grpc#[]t.me/ConfigsHub
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.146:8880?encryption=none&security=none&type=grpc#[]t.me/ConfigsHub
+vmess://eyJhZGQiOiIxNS4yMzUuODMuMjI4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiW/Cfj4FddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6IndybWVsbXd4bGYuZ2t0ZXZscnF6bndxcW96eS5mYWJwZnM2Nmdpem1ub2poY3ZxeHdsLmt5dHJjZnpxbGE4N2d2Z3ZzNmM3a2pucnVidWguY2MiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInYiOiIyIn0=
+vless://54c6740f-76f0-4152-a06c-71fb77a7ae2c@45.79.9.27:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#[]t.me/ConfigsHub
 vless://e497da22-d020-40fb-a1fa-bc294066a2d2@66.235.200.30:80/?type=ws&encryption=none&host=pormang.webhost99.workers.dev&path=%2F#[]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.27.132:8880?mode=gun&security=none&encryption=none&type=grpc#[]t.me/MoftConfig
 vless://384d86c0-2f2c-5156-98b5-27bbc14f4315@join.mosiv2.fastly80-3.hosting-ip.com:80/?type=ws&encryption=none&host=Join-Bede-MOSiv2.IR&path=%2F#[]t.me/ConfigsHub
@@ -87031,7 +87042,6 @@ vmess://eyJhZGQiOiI0My4yNDYuMTk4LjEzNCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJo
 trojan://YwuvGJk36B@creativecommons.org:2053?security=tls&sni=kotlet.arshiacomplus.dpdns.org&alpn=http%2F1.1&fp=chrome&type=ws&host=kotlet.arshiacomplus.dpdns.org&path=%2Fyamtekodasayahhh#[]t.me/ConfigsHub
 trojan://e8105dfd24414268b6c7652c63731097@198.41.220.83:443?security=tls&type=ws&sni=jobscareertoday.com&path=/6b777a91&host=jobscareertoday.com#[]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@69.50.92.71:443#[]t.me/ConfigsHub
-vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@104.17.210.171:443?encryption=none&security=tls&sni=vless10-9sc.pages.dev&fp=chrome&type=ws&path=%2F#[]t.me/ConfigsHub
 trojan://bpb-trojan@172.66.44.156:2053?security=tls&type=ws&sni=bPB-worker-PANeL1-e4p.paGes.DeV&path=/trn6lSYIYbgvYGra0u/ZGUucmFkaWNhbGx5LnBybw==#[]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@13.37.162.182:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[]t.me/ConfigsHub
 trojan://aa81d044-0e0a-5b01-a6d7-3981ed218497@www.speedtest.net:2095?security=none&type=ws&path=/&host=at1.vless.Sitespeedtest.net.#[]t.me/ConfigsHub
