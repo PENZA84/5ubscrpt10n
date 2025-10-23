@@ -76009,6 +76009,11 @@ vless://3a4524bb-5d17-4c09-b523-6ab1e1a41d81@45.12.135.7:8443?security=reality&e
 trojan://telegram-id-privatevpns@13.38.3.68:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[]t.me/ConfigsHub
 trojan://88a9a235-d071-4eda-9f47-b1e85019cfb1@172.67.168.193:443?path=%2FFree-VPN-CF-Geo-Project%2FCZ1&security=tls&host=joss.gpj2.dpdns.org&fp=randomized&type=ws&sni=joss.gpj2.dpdns.org#[]t.me/ConfigsHub
 trojan://telegram-id-directvpn@13.38.3.68:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[]t.me/ConfigsHub
+vmess://eyJhZGQiOiIxNDAuMjQ4LjEyOC45MSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiYWpuZGtqbmFqbmRqbmFuZGprMzE1MTUuaXIiLCJpZCI6IjQzNjM5ZDYyLTc0MDUtNDY0Yy04ZGMzLTRiNmYzMTU0ODhkZiIsIm5ldCI6InhodHRwIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6Ilvwn4+BXXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInYiOiIyIn0=
+vless://2e4d4212-6ca3-4b1e-afd2-c3fe7e89e56e@fastlycdn2.parsgit.com:4220?path=%2Ftools.parspack.com%2Fhp.shoushmobile.ir%3Fed%3D2095-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-&security=none&encryption=none&host=netpl.parsgit.com.&type=httpupgrade#[]t.me/ConfigsHub
+vless://56fe9ccf-4de1-4c49-a771-da2fb82f730f@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F&security=tls&encryption=none&host=zebra.zulair.site.&type=ws&sni=zebra.zulair.site.#[]t.me/ConfigsHub
+vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.100:80?encryption=none&security=none&type=grpc#[]t.me/ConfigsHub
+vless://02cad727-7b64-4477-8146-ad266e56aa64@pscresearch.faculty.ucdavis.edu:80?type=xhttp&encryption=none&path=%2F&host=xiliunlimited.global.ssl.fastly.net&mode=auto&security=none#[]t.me/ConfigsHub
 vless://e497da22-d020-40fb-a1fa-bc294066a2d2@66.235.200.30:80/?type=ws&encryption=none&host=pormang.webhost99.workers.dev&path=%2F#[]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.27.132:8880?mode=gun&security=none&encryption=none&type=grpc#[]t.me/MoftConfig
 vless://384d86c0-2f2c-5156-98b5-27bbc14f4315@join.mosiv2.fastly80-3.hosting-ip.com:80/?type=ws&encryption=none&host=Join-Bede-MOSiv2.IR&path=%2F#[]t.me/ConfigsHub
@@ -87292,7 +87297,6 @@ vless://54289ea3-25b7-4534-abb8-d7a4ad0ad89b@151.101.3.8:80?mode=auto&path=%2FJo
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?encryption=none&security=tls&sni=lease-10.access.name.ng&type=ws&host=lease-10.access.name.ng&path=%2F#[]t.me/ConfigsHub
 vless://2cd455a4-c698-42de-9830-ac628dbe2e26@91.99.70.212:443?mode=gun&security=reality&encryption=none&pbk=Zjzu45fPTjjaIcBoYyaLqieLtsWJD8ujdzNOQodWvnk&fp=chrome&spx=%2F&type=grpc&serviceName=%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM&sni=www.cdn77.com#[]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@35.159.254.111:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[]t.me/ConfigsHub
-vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.100:80?encryption=none&security=none&type=grpc#[]t.me/ConfigsHub
 vless://0fbf867a-812b-4c0b-89cd-01bcf2e4039a@46.32.186.65:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=chrome&pbk=Q7-sRiaAcmlJ_iwqiA46kDKso_r2kJ7X1mrVjL2illo&sid=6edd537cf27298d1&type=tcp&headerType=none#[]t.me/ConfigsHub
 vless://284105c3-1f7c-48b9-a5cc-345b534ade5c@151.101.3.8:80?security=none&encryption=none&headerType=none&type=tcp#[]t.me/ConfigsHub
 trojan://accbaab-caab-baca-bdac-cacbabacabcb@127.0.0.1:8080?security=tls&type=tcp#[]t.me/ConfigsHub
