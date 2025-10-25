@@ -6614,7 +6614,6 @@ trojan://telegram-id-privatevpns@35.159.254.111:22222?security=tls&alpn=http/1.1
 vless://0fbf867a-812b-4c0b-89cd-01bcf2e4039a@46.32.186.65:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=chrome&pbk=Q7-sRiaAcmlJ_iwqiA46kDKso_r2kJ7X1mrVjL2illo&sid=6edd537cf27298d1&type=tcp&headerType=none#[]t.me/ConfigsHub
 vless://284105c3-1f7c-48b9-a5cc-345b534ade5c@151.101.3.8:80?security=none&encryption=none&headerType=none&type=tcp#[]t.me/ConfigsHub
 trojan://accbaab-caab-baca-bdac-cacbabacabcb@127.0.0.1:8080?security=tls&type=tcp#[]t.me/ConfigsHub
-vmess://eyJhZGQiOiAiYi5kZXJtYWdhLmhvbWVzIiwgImFpZCI6IDEsICJob3N0IjogImIuZGVybWFnYS5ob21lcyIsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAibmV0IjogIndzIiwgInBhdGgiOiAibGlua3Z3cyIsICJwb3J0IjogNDQzLCAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsICJzbmkiOiAiYi5kZXJtYWdhLmhvbWVzIn0=
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638937918607957654.paris-drc-tusacaf.info:8880?encryption=none&type=grpc&mode=gun&security=none#[]t.me/ConfigsHub
 ss://72d2ed3f-2f54-4b87-aefd-c2d1e63790e2@server1.mrlizard.my:443?encryption=none&flow=none&type=tcp&headerType=none&security=tls&fp=chrome&sni=aka.ms#[]t.me/ConfigsHub
 trojan://slch2024@185.251.81.195:2096?path=%2FTelegram&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#[]t.me/ConfigsHub
@@ -9998,3 +9997,4 @@ vless://ff044ba5-fe79-4752-8ed1-8487ef9b9558@104.18.1.84:443?security=tls&sni=wo
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.59:443?security=tls&sni=bpb-WORKer-paNEL-BrH.PagEs.dEv&type=ws&host=bpb-worker-panel-brh.pages.dev&path=%2FovUeFasYrTqkZqpj%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1# VL-WS-TLS  NA-172.66.44.59:443
 vless://fca01448-d84a-436e-9aec-3be1ebdfb350@192.0.54.6:2096?security=tls&sni=Sb-1U6.paGES.deV&type=ws&host=Sb-1U6.paGES.deV&path=%2Fs6rb9yyj3qaak606%2Fmtu4ljewms4ymdmumti3%3Fed%3D2560# VL-WS-TLS  US-192.0.54.6:2096
 vless://9a4bc15d-a7d4-4181-9485-405629c36894@206.238.237.40:8443?security=tls&sni=king-ae1.pages.dev&type=ws&host=king-ae1.pages.dev&path=%2F%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3Fed%3D2560# VL-WS-TLS  SG-206.238.237.40:8443
+vless://dc580147-c87c-4527-bf90-192eb1cf62d1@172.67.163.189:2052?security=none&type=ws&host=StART.siTEg52770.WOrkerS.DEv&path=%2F# VL-WS-NONE  NA-172.67.163.189:2052
