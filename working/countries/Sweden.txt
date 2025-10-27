@@ -341,7 +341,6 @@ trojan://telegram-id-privatevpns@13.49.54.20:22222?peer=trojan.burgerip.co.uk#Sw
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@121.127.46.147:989#%F0%9F%87%B8%F0%9F%87%AASE-121.127.46.147-0732
 vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vlse.g2ray.com:443?encryption=none&security=tls&type=tcp&headerType=none#TLS-N-Sweden
 vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vlse.g2ray.com:443?encryption=none&flow=xtls-rprx-direct&security=xtls&type=tcp&headerType=none#XTLS-N-Sweden
-vless://74c0af7c-8482-4b4e-b067-ea456a80cdb7@se.monkeyisland.life:443?security=reality&encryption=none&pbk=NvdLgcQKj0XeAmqIpCEdvcsgfNrtSyfGnQYNdZ7eTFE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=se.monkeyisland.life&sid=08aa0813199a4c38#%F0%9F%87%B8%F0%9F%87%AA%20SE%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40config_proxy%20%5B48%5D
 vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?type=tcp&path=%2f#%f0%9f%87%b8%f0%9f%87%aa%20SE%201
 vless://Parsashonam-49@185.146.173.39:8880?encryption=none&host=Search.DigiKala.CYoU.&path=%2F&security=none&type=httpupgrade# | VLESS | @Parsashonam | SE | 01
 vless://Parsashonam-48@185.146.173.39:8880?encryption=none&host=Search.DigiKala.CYoU.&path=%2F&security=none&type=httpupgrade# | VLESS | @Parsashonam | SE | 02
@@ -388,9 +387,9 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiU0UgMTEiLCAiYWRkIjogIjE0MS4xNDcuMTU0LjU2IiwgInBv
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6ogX1NFX+eRnuWFuCIsImFkZCI6IjEzLjUxLjI1NC4xMTciLCJwb3J0IjoiODA4MCIsInR5cGUiOiJub25lIiwiaWQiOiJjYmE1YWE5Ni0xYThmLTQ0YWEtYjA1MC03MTc4OTIzNjY5NTUiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6ogX1NFX+eRnuWFuCIsImFkZCI6InNob3BpZnkuY28udWsiLCJwb3J0IjoiNDQzIiwidHlwZSI6Im5vbmUiLCJpZCI6ImJlMzVmMzlmLTU3MWQtNDI0MC04YWIyLTgwNTVhYWUzYTUzZSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcmV0cmV5dGU2IiwiaG9zdCI6ImZyLnNlZXdvcmxkLnBybyIsInRscyI6InRscyJ9
 vless://Parsashonam-302@185.146.173.39:8880?type=httpupgrade&path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&host=De.Parsashonam.CfD.&security=none# SE | 185.146.173.39
-vless://74c0af7c-8482-4b4e-b067-ea456a80cdb7@se.monkeyisland.life:443?security=reality&encryption=none&pbk=NvdLgcQKj0XeAmqIpCEdvcsgfNrtSyfGnQYNdZ7eTFE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=se.monkeyisland.life&sid=08aa0813199a4c38# SE | 62.182.192.91
-vless://8e311363-ffa6-ada3-6838-6283d896da4e@sweden.marzxo.biz:8090?security=reality&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&fp=firefox&pbk=Ro8OYB3Jq6hTWw95trCnKzQPvWaN2ShcbeLg7dTv8UU&sid=828348fc6d8e49cf# SE | 193.168.197.79
 vless://Parsashonam-318@185.146.173.39:8080?path=/Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam&security=&encryption=none&host=De.Parsashonam.CFD.&type=httpupgrade# SE | 185.146.173.39
 vless://86372f49-3109-40ec-8501-97b32d8f4749@185.36.145.180:7443?security=&encryption=none&headerType=&type=tcp# SE | 185.36.145.180
 vless://Parsashonam-300@185.146.173.39:8880?path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&security=none&encryption=none&host=De.Parsashonam.CfD.&type=httpupgrade# SE | 185.146.173.39
+vless://86372f49-3109-40ec-8501-97b32d8f4749@185.36.145.180:7443?security=none&encryption=none&headerType=none&type=tcp# SE | 185.36.145.180
 vless://aec7d79a-8b42-43ad-ab44-23062a1a430b@185.146.173.39:2052?path=/wsmmad&security=none&encryption=none&host=De.lemoex.ir.&type=ws# SE | 185.146.173.39
+trojan://telegram-id-privatevpns@16.170.72.71:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# SE | 16.170.72.71
