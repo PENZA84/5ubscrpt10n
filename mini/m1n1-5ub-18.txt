@@ -3197,7 +3197,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyV2tSR2g2dEF2OFVtc0hoNGkzRjZ6b3NqMmR6QTZzQ3p
 vless://7627df5b-8101-4230-dd73-47266d588ccd@77.81.81.69:16032?type=tcp#[]t.me/ConfigsHub
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2F&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&type=ws&sni=carlotta.shoorekeeper.cloudns.org#[]t.me/ConfigsHub
 vless://7627df5b-8101-4230-dd73-47266d588ccd@88.209.249.84:38282?type=tcp#[]t.me/ConfigsHub
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@92.118.233.194:8443?path=%2F&security=tls&encryption=none&type=ws#[]t.me/ConfigsHub
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@92.118.233.110:2096?path=%2F&security=tls&encryption=none&type=ws#[]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmY2lhbC1ubA==@nl-1.stunnel.cc:8444#[]t.me/ConfigsHub
 trojan://tunnel-v2ray_configs_pools_offcial-nl@nl-1.stunnel.cc:8441?security=tls&sni=zula.ir.v2ray_configs_pools-official.v2ray_configs_pools-official.workers.dev&alpn=http%2F1.1&allowInsecure=1&type=tcp&headerType=none&host=nl-1.stunnel.cc#[]t.me/ConfigsHub
@@ -9998,3 +9997,4 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@[::ffff:104.17.110.12]:443?security
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@217.142.243.226:443?security=tls&sni=ap.ylks.xyz&type=ws&host=ap.ylks.xyz&path=%2F%3Fed%3D2048&fp=chrome# VL-WS-TLS  JP-217.142.243.226:443
 vless://1ad95b6a-8dca-4773-8947-eedf49fdc4c1@162.159.138.178:8443?security=tls&sni=join.bede.VPN%43%55%53%54OMIZE.www.speedtest.net.nl.Powerfullserver.de&type=ws&host=join.bede.VPN%43%55%53%54OMIZE.www.speedtest.net.nl.Powerfullserver.de&path=%2FTelegram%2CVPN%43%55%53%54OMIZE%3Fed%3D8080&fp=chrome&alpn=h3,h2,http/1.1# VL-WS-TLS  NA-162.159.138.178:8443
 vless://8b8df00d-e778-54b3-a232-c68354c3f278@172.67.193.36:2095?type=ws&host=www.speedtest.net.ftp.debian.org.www.digikala.com.radiotehran.org.&path=%2FDigi-Tel-Digiv-Digicnc-saaaalaaaam-%3Fed%3D1024# VL-WS-NA  NA-172.67.193.36:2095
+vless://ef7adb9b-0f1c-4eef-99c2-7e500094a284@172.65.130.220:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2# VL-WS-TLS  NA-172.65.130.220:443
