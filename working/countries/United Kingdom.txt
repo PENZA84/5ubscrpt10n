@@ -1,6 +1,5 @@
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.108:8880?mode=gun&security=none&encryption=none&type=grpc#GB
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.18.181:8880?mode=gun&security=none&encryption=none&type=grpc#GB
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.138.164.11:8880?mode=gun&security=none&encryption=none&authority=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#GB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@uk.vpnsparta.pro:57456#%F0%9F%87%AC%F0%9F%87%A7GB%E8%8B%B1%E5%9B%BD%2025.8MB%2Fs
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@46.226.163.225:57456#%F0%9F%87%AC%F0%9F%87%A7GB%E8%8B%B1%E5%9B%BD2
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638947655359327481.birjand-drc-tusaas.info:8880?encryption=none&security=none&type=grpc&mode=gun#%F0%9F%87%AC%F0%9F%87%A7United+Kingdom+-%3E+%F0%9F%87%AC%F0%9F%87%A7United+Kingdom+%E2%9A%A1@DeamNet_Proxy
@@ -24,6 +23,7 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638961293929373584.rasht-drc-tusaas
 vless://12345678-1234-1234-1234-123456789123@185.156.19.61:2096?path=%2Fsnippets&security=tls&encryption=none&fp=chrome&type=ws&sni=vless.hubp.de#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40flyv2ray%20%5B13%5D
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510129819106.dezful-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40free1_vpn%20%5B4%5D
 trojan://1sbtkLK7F3@195.22.157.104:37085?path=%2Fmoshali2plus&security=tls&alpn=http%2F1.1&host=joon.arshiacomplus.dpdns.org&fp=chrome&type=httpupgrade&sni=joon.arshiacomplus.dpdns.org#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40free4allvpn%20%5B17%5D
+trojan://telegram-id-directvpn@35.179.228.197:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http%2F1.1#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40hope_net%20%5B20%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyZ3hEc0ttWlJ1ejR3UkNLeVhKZEps@51.105.36.101:13928#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20%F0%9F%94%92%20SS%20%7C%20%40ir_netproxy%20%5B13%5D
 vless://22f3cbcc-55b5-4d71-a3ca-9d6f3287aace@144.126.234.182:51697?type=tcp&security=reality&pbk=3KmWh8OPrAr-gBXyVdyS4IaB8DKUTtdIpbv5qvN15RY&fp=firefox&sni=%2A.sourceforge.net&sid=c2abcb19&spx=%2F#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40jokerv2ray%20%5B15%5D
 vless://d8e1cfdc-7899-4c71-8d11-058933210c55@143.110.169.61:52189?type=tcp&security=reality&pbk=3mC2lH0qsBuTTzNSC3GtzcJlli2959J4yqZl08G4FCg&fp=firefox&sni=%2A.sourceforge.net&sid=593f3efe&spx=%2F#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40jokerv2ray%20%5B16%5D
@@ -1204,7 +1204,8 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638953873686405389.lahijan-drc-tusa
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.247:8880?type=grpc&path=%2f#%f0%9f%87%ac%f0%9f%87%a7%20GB%2011
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638974363192994984.budapest-blkaft-aaav.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#[openproxylist.com] vless-GB
 vless://549da73c-e0c5-4590-a31e-1fc23d222a19@46.250.250.149:443?encryption=none&security=reality&sni=www.microsoft.com&fp=safari&pbk=NTI9xX2nhvkiIda2Y4aExcxIxOOc6MctDWBPZqeN6QE&sid=7795775a7afe0581&type=grpc&serviceName=92b9086d26e6417608e7a1f4#[openproxylist.com] vless-GB
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638961293929376530.rasht-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#[openproxylist.com] vless-GB
+vless://5915f034-a53b-4b63-b0e7-b29194de3fe9@104.18.15.201:443?path=/ws&security=tls&encryption=none&host=rAyAn-cOnFiG-uk-1.pArIsA.DpDnS.OrG&fp=chrome&type=ws&sni=rAyAn-cOnFiG-uk-1.pArIsA.DpDnS.OrG#[openproxylist.com] vless-GB
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.138.164.2:8880?mode=gun&security=none&encryption=none&type=grpc#[openproxylist.com] vless-GB
 vmess://eyJhZGQiOiI1NC4zNi4xNjMuMjE2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImZmYWU3ZmZlLWMxM2EtNGVmMS1hYWI0LWUzZTAwMWRjY2YyNyIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTUwIiwicHMiOiJcdWQ4M2NcdWRkZWNcdWQ4M2NcdWRkZTdbb3BlbnByb3h5bGlzdC5jb21dIHZtZXNzLUdCIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5OTMwMWQ1NS1hNDFmLTQ5MTktOTg2Yi0xNDM1OTk2NTMzYWE@120.238.122.208:50002#UK%2F1|Github%E6%90%9C%E7%B4%A2TrojanLinks
 trojan://M4Z093NUxzTd@35.177.239.227:14812?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#GB|GithubTrojanLinks
