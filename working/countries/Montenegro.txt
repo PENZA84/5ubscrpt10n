@@ -77809,6 +77809,8 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.62:8880?security=&encrypt
 vless://602b380a-9fdf-4425-bc07-aae9a95cfc4b@27.50.48.8:443?encryption=none&security=tls&sni=vless.hubp.de&alpn=h3&fp=random&type=ws&path=%2Fsnippets%2Fip%3Dtp50000.kr.proxyip.fgfw.eu.org%3A50000#[]t.me/ConfigsHub
 vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.18.82.55:443?encryption=none&security=tls&sni=vless.hubp.de&alpn=h3&fp=random&type=ws&path=%2F%3Fed%3D2560#[]t.me/ConfigsHub
 trojan://telegram-id-directvpn@13.49.211.121:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[]t.me/ConfigsHub
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.232.247.177:8880?mode=gun&security=none&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#[]t.me/ConfigsHub
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.210:8880?mode=gun&security=none&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#[]t.me/ConfigsHub
 vless://e497da22-d020-40fb-a1fa-bc294066a2d2@66.235.200.30:80/?type=ws&encryption=none&host=pormang.webhost99.workers.dev&path=%2F#[]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.27.132:8880?mode=gun&security=none&encryption=none&type=grpc#[]t.me/MoftConfig
 vless://384d86c0-2f2c-5156-98b5-27bbc14f4315@join.mosiv2.fastly80-3.hosting-ip.com:80/?type=ws&encryption=none&host=Join-Bede-MOSiv2.IR&path=%2F#[]t.me/ConfigsHub
@@ -89454,6 +89456,7 @@ trojan://telegram-id-privatevpns@15.236.249.216:22222?security=tls&alpn=http/1.1
 vless://fca01448-d84a-436e-9aec-3be1ebdfb350@208.86.168.74:2083?security=tls&sni=SB-1U6.PAgeS.dEv&type=ws&path=%2FUreNFtuu3Z1kqrYB%2FMTU4LjEwMS4yMDMuMTI3%3Fed%3D2560#[]t.me/ConfigsHub
 vless://e8d7bb91-d14d-4ec1-bd6d-c4586228631a@151.101.130.133:443?security=tls&sni=xn--rdekors-q1a.dk&type=ws&host=v2rayfast7.net&path=%2F%3Fed%3D1024&fp=chrome&alpn=h2,http/1.1#[]t.me/ConfigsHub
 vless://957bdfa8-023c-4938-9e89-792cd15a17a3@188.245.89.161:2053?security=reality&flow=xtls-rprx-vision&sni=jetbrains.com&type=tcp&fp=chrome&pbk=mrqFrYx2XMOQceOIo1mv2dhyNE1sSu3mPS8HSDQ572g#[]t.me/ConfigsHub
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.25:8880?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&mode=gun&security=none&encryption=none&type=grpc#[]t.me/ConfigsHub
 vmess://eyJhZGQiOiIxMDQuMTcuMTk3LjMxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoicXVpZXQtbW9vbi0xMzJhLnhldGFnNDI3MTQud29ya2Vycy5kZXYiLCJpZCI6IjQ0MWRhMzQyLWNlOTAtNDQxZS1iZmY5LWQyY2ViNTVlNjhjYSIsIm5ldCI6IndzIiwicGF0aCI6Ii9pdmlkZW9zLnNicy9saW5rd3MiLCJwb3J0IjoiNDQzIiwicHMiOiJb8J+HuvCfh7hddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6InF1aWV0LW1vb24tMTMyYS54ZXRhZzQyNzE0LndvcmtlcnMuZGV2IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=`
 vmess://eyJhZGQiOiIyMTAuMC4xNTguMjE5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6ImNocm9tZSIsImhvc3QiOiIxOS5sd2RoLnVzIiwiaWQiOiI4MjU5Y2IxYy1kZDZjLTQ3MzktOWM4OC1hZjU1MGQ5Nzc1MjUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjEyOTA5IiwicHMiOiJb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoiMTkubHdkaC51cyIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9`
 trojan://telegram-id-directvpn@13.48.220.142:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[]t.me/ConfigsHub`
