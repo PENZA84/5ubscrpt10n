@@ -77808,6 +77808,7 @@ vless://dc28e2d3-7c69-47c6-b5b0-f76914454294@178.160.211.182:20155?security=&enc
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.62:8880?security=&encryption=none&type=grpc#[]t.me/ConfigsHub
 vless://602b380a-9fdf-4425-bc07-aae9a95cfc4b@27.50.48.8:443?encryption=none&security=tls&sni=vless.hubp.de&alpn=h3&fp=random&type=ws&path=%2Fsnippets%2Fip%3Dtp50000.kr.proxyip.fgfw.eu.org%3A50000#[]t.me/ConfigsHub
 vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.18.82.55:443?encryption=none&security=tls&sni=vless.hubp.de&alpn=h3&fp=random&type=ws&path=%2F%3Fed%3D2560#[]t.me/ConfigsHub
+trojan://telegram-id-directvpn@13.49.211.121:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[]t.me/ConfigsHub
 vless://e497da22-d020-40fb-a1fa-bc294066a2d2@66.235.200.30:80/?type=ws&encryption=none&host=pormang.webhost99.workers.dev&path=%2F#[]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.27.132:8880?mode=gun&security=none&encryption=none&type=grpc#[]t.me/MoftConfig
 vless://384d86c0-2f2c-5156-98b5-27bbc14f4315@join.mosiv2.fastly80-3.hosting-ip.com:80/?type=ws&encryption=none&host=Join-Bede-MOSiv2.IR&path=%2F#[]t.me/ConfigsHub
@@ -89449,6 +89450,10 @@ vless://2add1972-dcb0-4df6-a45c-e3b78c3a0ca8@5.160.132.124:4060?security=none&ty
 trojan://telegram-id-directvpn@18.188.22.64:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[]t.me/ConfigsHub
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmpwaGMyUXhNak0wTlRZ@137.175.113.215:8388#[]t.me/ConfigsHub
 vless://73c66888-2167-4b25-956e-cc8cd9b32e61@172.67.217.21:2082?path=%2F%3Fed%3D2048&security=none&encryption=none&host=worker-crimson-cell-50bc.b137baa116f8.workers.dev&type=ws#[]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@15.236.249.216:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[]t.me/ConfigsHub
+vless://fca01448-d84a-436e-9aec-3be1ebdfb350@208.86.168.74:2083?security=tls&sni=SB-1U6.PAgeS.dEv&type=ws&path=%2FUreNFtuu3Z1kqrYB%2FMTU4LjEwMS4yMDMuMTI3%3Fed%3D2560#[]t.me/ConfigsHub
+vless://e8d7bb91-d14d-4ec1-bd6d-c4586228631a@151.101.130.133:443?security=tls&sni=xn--rdekors-q1a.dk&type=ws&host=v2rayfast7.net&path=%2F%3Fed%3D1024&fp=chrome&alpn=h2,http/1.1#[]t.me/ConfigsHub
+vless://957bdfa8-023c-4938-9e89-792cd15a17a3@188.245.89.161:2053?security=reality&flow=xtls-rprx-vision&sni=jetbrains.com&type=tcp&fp=chrome&pbk=mrqFrYx2XMOQceOIo1mv2dhyNE1sSu3mPS8HSDQ572g#[]t.me/ConfigsHub
 vmess://eyJhZGQiOiIxMDQuMTcuMTk3LjMxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoicXVpZXQtbW9vbi0xMzJhLnhldGFnNDI3MTQud29ya2Vycy5kZXYiLCJpZCI6IjQ0MWRhMzQyLWNlOTAtNDQxZS1iZmY5LWQyY2ViNTVlNjhjYSIsIm5ldCI6IndzIiwicGF0aCI6Ii9pdmlkZW9zLnNicy9saW5rd3MiLCJwb3J0IjoiNDQzIiwicHMiOiJb8J+HuvCfh7hddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6InF1aWV0LW1vb24tMTMyYS54ZXRhZzQyNzE0LndvcmtlcnMuZGV2IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=`
 vmess://eyJhZGQiOiIyMTAuMC4xNTguMjE5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6ImNocm9tZSIsImhvc3QiOiIxOS5sd2RoLnVzIiwiaWQiOiI4MjU5Y2IxYy1kZDZjLTQ3MzktOWM4OC1hZjU1MGQ5Nzc1MjUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjEyOTA5IiwicHMiOiJb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoiMTkubHdkaC51cyIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9`
 trojan://telegram-id-directvpn@13.48.220.142:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[]t.me/ConfigsHub`
