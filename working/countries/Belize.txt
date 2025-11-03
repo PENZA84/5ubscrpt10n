@@ -8,15 +8,13 @@ vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.131.7.186:2053?path=/&security=t
 vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.131.7.195:2053?path=/&security=tls&encryption=none&host=AeEye-52235.zephorium.uk&fp=chrome&type=ws&sni=AeEye-52235.zephorium.uk#BZ_610_@Surfboardv2ray
 vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.131.7.195:2053?path=/&security=tls&encryption=none&host=AeEye-52235.zephorium.uk&fp=chrome&type=ws&sni=AeEye-52235.zephorium.uk#BZ_611_@Surfboardv2ray
 vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.131.7.33:2053?path=/&security=tls&encryption=none&host=AeEye-52235.zephorium.uk&type=ws&sni=AeEye-52235.zephorium.uk#BZ_612_@Surfboardv2ray
-vless://3c36eadb-747a-4166-8db0-23fec9883ea2@45.131.208.104:443?path=/?ed=#BZ_1855_@Surfboardv2ray
-vless://3c36eadb-747a-4166-8db0-23fec9883ea2@45.131.208.104:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&host=harmony-427.pages.dev&fp=chrome&type=ws&sni=HarmonY-427.pages.DEV#BZ_1856_@Surfboardv2ray
-vless://3c36eadb-747a-4166-8db0-23fec9883ea2@45.131.208.16:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&host=harmony-427.pages.dev&fp=chrome&type=ws&sni=HarmonY-427.pages.DEV#BZ_1857_@Surfboardv2ray
-vless://3c36eadb-747a-4166-8db0-23fec9883ea2@45.131.209.189:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&fp=chrome&type=ws&sni=HarmonY-427.pages.DEV#BZ_1858_@Surfboardv2ray
-vless://3c36eadb-747a-4166-8db0-23fec9883ea2@45.131.209.189:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&fp=chrome&type=ws&sni=HarmonY-427.pages.DEV#BZ_1859_@Surfboardv2ray
-vless://3c36eadb-747a-4166-8db0-23fec9883ea2@45.131.209.226:443?path=/?ed=#BZ_1860_@Surfboardv2ray
-vless://3c36eadb-747a-4166-8db0-23fec9883ea2@45.131.209.226:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&host=harmony-427.pages.dev&fp=chrome&type=ws&sni=HarmonY-427.pages.DEV#BZ_1861_@Surfboardv2ray
-vless://3c36eadb-747a-4166-8db0-23fec9883ea2@45.131.5.178:443?path=/?ed=#BZ_1862_@Surfboardv2ray
-vless://3c36eadb-747a-4166-8db0-23fec9883ea2@45.131.5.178:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&host=harmony-427.pages.dev&fp=chrome&type=ws&sni=HarmonY-427.pages.DEV#BZ_1863_@Surfboardv2ray
+vless://3c36eadb-747a-4166-8db0-23fec9883ea2@45.131.208.104:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&host=harmony-427.pages.dev&fp=chrome&type=ws&sni=HarmonY-427.pages.DEV#BZ_1849_@Surfboardv2ray
+vless://3c36eadb-747a-4166-8db0-23fec9883ea2@45.131.208.16:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&host=harmony-427.pages.dev&fp=chrome&type=ws&sni=HarmonY-427.pages.DEV#BZ_1850_@Surfboardv2ray
+vless://3c36eadb-747a-4166-8db0-23fec9883ea2@45.131.209.189:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&fp=chrome&type=ws&sni=HarmonY-427.pages.DEV#BZ_1851_@Surfboardv2ray
+vless://3c36eadb-747a-4166-8db0-23fec9883ea2@45.131.209.189:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&fp=chrome&type=ws&sni=HarmonY-427.pages.DEV#BZ_1852_@Surfboardv2ray
+vless://3c36eadb-747a-4166-8db0-23fec9883ea2@45.131.209.226:443?path=/?ed=#BZ_1853_@Surfboardv2ray
+vless://3c36eadb-747a-4166-8db0-23fec9883ea2@45.131.209.226:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&host=harmony-427.pages.dev&fp=chrome&type=ws&sni=HarmonY-427.pages.DEV#BZ_1854_@Surfboardv2ray
+vless://3c36eadb-747a-4166-8db0-23fec9883ea2@45.131.5.178:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&host=harmony-427.pages.dev&fp=chrome&type=ws&sni=HarmonY-427.pages.DEV#BZ_1856_@Surfboardv2ray
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.5.124:80?path=Telegram%40WangCai2%2F%3Fed&security=&encryption=none&type=ws&sni=301.pooriam.ir# @MoftConfigBelize
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.131.5.207:80/?type=ws&encryption=none&host=a.mifeng.us.kg&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20# @MoftConfigBelize
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.131.5.200:80/?type=ws&encryption=none&host=a.mifeng.us.kg&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20# @MoftConfigBelize
