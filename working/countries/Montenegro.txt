@@ -78182,6 +78182,9 @@ vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@77.91.101.201:443?encryption=none&s
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.91.100.207:3389#[]t.me/ConfigsHub
 vless://dc28e2d3-7c69-47c6-b5b0-f76914454294@178.160.211.182:20155?security=none&encryption=none&host=%2F%3F&headerType=none&type=tcp#[]t.me/ConfigsHub
 vless://ff84dbed-bbfb-42d8-b397-b0ec025fb570@nodegcf.azurka.org:443?path=%2Fws&security=tls&encryption=none&fp=chrome&type=ws&sni=nodegcf.azurka.org#[]t.me/ConfigsHub
+trojan://af4dc66a-ec88-4057-9e46-777b584577f7@48.218.176.242:443?allowInsecure=0#[]t.me/ConfigsHub
+trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.7:10826?allowInsecure=0#[]t.me/ConfigsHub
+vless://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@51.38.232.101:80?path=%2Fvless%2F&security=none&encryption=none&host=%2Ftelegram%20cafe_vpn2%2Ftelegram%20cafe_vpn2%2Ftelegram%20cafe_vpn2%2Ftelegram%20cafe_vpn2%2Ftelegram%20cafe_vpn2&fp=chrome&type=ws#[]t.me/ConfigsHub
 vless://e497da22-d020-40fb-a1fa-bc294066a2d2@66.235.200.30:80/?type=ws&encryption=none&host=pormang.webhost99.workers.dev&path=%2F#[]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.27.132:8880?mode=gun&security=none&encryption=none&type=grpc#[]t.me/MoftConfig
 vless://384d86c0-2f2c-5156-98b5-27bbc14f4315@join.mosiv2.fastly80-3.hosting-ip.com:80/?type=ws&encryption=none&host=Join-Bede-MOSiv2.IR&path=%2F#[]t.me/ConfigsHub
@@ -89991,6 +89994,8 @@ trojan://telegram-id-privatevpns@13.37.150.251:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@13.37.199.229:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.77.170.86:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.120.76.197:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@13.36.180.135:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@51.44.225.101:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)t.me/PrivateVPNs
 trojan://3e820eb0-3f06-4337-a4fc-0c3c7c0d3b4d@us-0001-sjfa-vdfk-bdtsa.jumaonet.com:10000?security=tls&sni=us-0001-sjfa-vdfk-bdtsa.jumaonet.com&type=tcp#%F0%9F%91%89%E7%94%B5%E6%8A%A5%E7%BE%A4%3At.me%2FBayNetClub%F0%9F%91%88
 vmess://eyJ2IjogIjIiLCAicHMiOiAiaHR0cHM6Ly90Lm1lL3Zwbl9pb3Nz2LkuLi5fX19fX18iLCAiYWRkIjogIjguMjE4LjIyNS4xNDYiLCAicG9ydCI6ICIyNTA3NiIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICJkZTAzNWNiZC05YzY0LTQ1YjMtODQ4NS1iYWUzOGEzM2JkM2IiLCAic25pIjogIiJ9
 vmess://eyJ2IjogIjIiLCAicHMiOiAiaHR0cHM6Ly90Lm1lL3Zwbl9pb3Nz2LkuLi5fIiwgImFkZCI6ICI4LjIxOC4yMjUuMTQ2IiwgInBvcnQiOiAiMjUwNzYiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiZGUwMzVjYmQtOWM2NC00NWIzLTg0ODUtYmFlMzhhMzNiZDNiIiwgInNuaSI6ICIifQ==
