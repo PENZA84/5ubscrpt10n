@@ -1131,13 +1131,13 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638977742221945483.warsaw-blkaft-aa
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.37.43:8880?type=grpc&path=%2f#%f0%9f%87%ac%f0%9f%87%a7%20GB%2012
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638974363192988782.budapest-blkaft-aaav.info:8880?type=grpc&path=%2f#%f0%9f%87%ac%f0%9f%87%a7%20GB%2013
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638953873686412975.lahijan-drc-tusaas.info:8880?type=grpc&path=%2f#%f0%9f%87%ac%f0%9f%87%a7%20GB%2014
-vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@104.26.6.89:443?path=%2Fapi%2Fv1&security=tls&encryption=none&host=gb-021.shenzogmbh.com&fp=chrome&type=ws&sni=gb-021.shenzogmbh.com#[openproxylist.com] vless-GB
+vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@104.26.6.89:443?path=/api/v1&security=tls&encryption=none&host=gb-021.shenzogmbh.com&fp=chrome&type=ws&sni=gb-021.shenzogmbh.com#[openproxylist.com] vless-GB
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638977742221947111.warsaw-blkaft-aaav.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#[openproxylist.com] vless-GB
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.172:8880?mode=gun&security=&alpn=h3,h2,http/1.1&encryption=none&authority=/?BIA_TELEGRAM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1)&fp=chrome&type=grpc&sni=---@AZARBAYKAB1---@AZARBAYJAB1---@AZARBAYJAB1---@AZARBAYJAB1---@AZARBAYJAB1#[openproxylist.com] vless-GB
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.213:8880?mode=gun&security=&alpn=h3,h2,http/1.1&encryption=none&authority=/?BIA_TELEGRAM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1)&fp=chrome&type=grpc&sni=---@AZARBAYKAB1---@AZARBAYJAB1---@AZARBAYJAB1---@AZARBAYJAB1---@AZARBAYJAB1#[openproxylist.com] vless-GB
 vless://b21a057a-e474-4dc8-a9fe-8579ed386501@212.134.84.115:443?security=reality&encryption=none&pbk=-rFZDbTY311FfuSHKsKENvN0gjaGdJBK_iTK50WL3mk&headerType=none&fp=chrome&spx=/&type=tcp&sni=pcmag.com&sid=96016aaff14b#[openproxylist.com] vless-GB
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.209:8880?security=&encryption=none&type=grpc#[openproxylist.com] vless-GB
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.138.164.67:8880?security=&encryption=none&type=grpc#[openproxylist.com] vless-GB
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.209:8880?mode=gun&security=&encryption=none&type=grpc&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[openproxylist.com] vless-GB
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.138.164.67:8880?mode=gun&security=none&encryption=none&type=grpc#[openproxylist.com] vless-GB
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.173:8880?security=&encryption=none&type=grpc#[openproxylist.com] vless-GB
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638974363192993928.budapest-blkaft-aaav.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#[openproxylist.com] vless-GB
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638974363192987483.budapest-blkaft-aaav.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#[openproxylist.com] vless-GB
@@ -1490,16 +1490,15 @@ vless://2f6756c6-10ea-4c24-b8ac-c5bb4883f3d6@104.248.168.91:8443?mode=gun&securi
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.138.164.4:8880?mode=gun&security=none&encryption=none&type=grpc# GB | 185.138.164.4
 vless://2be20bd2-d376-433e-9259-99983cac98e9@134.209.23.173:15580?path=/&security=&encryption=none&type=ws# GB | 134.209.23.173
 vless://134a7b17-df2f-46ff-80b3-e612bd245e5b@212.134.84.115:597?security=reality&encryption=none&pbk=_SqgdwQPy596-CVJEp1pSSYZKx9hPJ-h4sX1ONLn3GQ&headerType=none&fp=chrome&spx=/TELEGRAM--CHANEL--JKVPN--JKVPN&type=tcp&sni=www.cdn77.com&sid=785891acea1f52# GB | 212.134.84.115
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638953873686412975.lahijan-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc# GB | 94.131.122.221
 vless://260fdda5-f10b-475c-b8b4-95f7c879518e@germanshi.vtuix.ir:7035?security=none&type=ws&path=/&host=filimo.com&packetEncoding=xudp&encryption=none# GB | 51.89.8.2
 vless://7d27c544-135d-41a2-bd84-713b8af4f3c2@51.89.230.196:7035?path=/&security=none&encryption=none&host=filimo.com&type=ws# GB | 51.89.230.196
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.189.29:8880?security=none&encryption=none&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3# GB | 102.177.189.29
 vless://b0265ca8-98dd-46b2-adec-4705b5e7eb48@102.177.189.28:80/?type=ws&path=/@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot?ed=2048&host=psi.misvn.ir&security=none# GB | 102.177.189.28
 vless://748bd938-7eaf-4f1c-ac99-ce770c3aad93@m40a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp# GB | 51.89.231.76
-vless://1cb3b1fe-b79c-49a2-a4bf-c24bc882925e@dontgetbanned.itskills180d.top:8443?path=/&security=tls&alpn=h2,http/1.1,h3&encryption=none&fp=chrome&type=ws&sni=dontgetbanned.itskills180d.top# GB | 2a06:98c1:3121::
 vless://ad069756-c14b-4443-87af-4a503c5c08f5@m33a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp# GB | 51.89.116.123
 vless://9f5fa7fa-e30e-4fb8-bb57-d29a5b8f0592@193.46.81.151:50853?security=reality&encryption=none&pbk=XT7qcjwBZkCQPQVgzP_afaX76GUbHIysmOhJ1gWsLjs&headerType=none&fp=chrome&spx=/&type=tcp&sni=miro.com&sid=69# GB | 193.46.81.151
 vless://b21a057a-e474-4dc8-a9fe-8579ed386501@212.134.84.115:443?security=reality&encryption=none&pbk=-rFZDbTY311FfuSHKsKENvN0gjaGdJBK_iTK50WL3mk&headerType=none&fp=chrome&type=tcp&sni=pcmag.com&sid=96016aaff14b# GB | 212.134.84.115
+vless://431213f3-cd59-4136-b1a7-75f758150279@pscresearch.faculty.ucdavis.edu:80?mode=auto&path=/&security=none&encryption=none&host=xiliunlimited2.global.ssl.fastly.net&type=xhttp# GB | 2a04:4e42:200::740
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@4.250.60.151:443# GB | 4.250.60.151
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443# GB | 145.133.58.113
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowdEIxVEk0Z2I0ZDRrU2w4TUFvWDJJ@78.129.140.11:443/?outline=1&prefix=# GB | 78.129.140.11
