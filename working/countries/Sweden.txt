@@ -17,9 +17,9 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvait
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplMEF1U1NFOWtxclpucEsxUmdjdVB0@78.40.116.11:50589#%2525E2%252599%25259F%2525EF%2525B8%25258F80%252540ConfigV2RayNG%252520%25253E%25253E%252540configV2rayNG%253A%253ASE%3A%3ASE
 vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617/?type=tcp&encryption=none&flow=#%2525252525253E%2525252525253E%25252525252540oneclickvpnkeys%2525252525253A%2525252525253ASE%25252525253A%25252525253ASE%252525253A%252525253ASE%2525253A%2525253ASE%25253A%25253ASE%253A%253ASE%3A%3ASE
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@121.127.46.147:989#%F0%9F%87%B8%F0%9F%87%AASE-121.127.46.147-0299
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.249.78:989#%F0%9F%87%B8%F0%9F%87%AASE-192.71.249.78-0400
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplMEF1U1NFOWtxclpucEsxUmdjdVB0@78.40.116.11:50589#%F0%9F%87%B8%F0%9F%87%AASE-78.40.116.11-1549
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplMEF1U1NFOWtxclpucEsxUmdjdVB0@78.40.116.11:50589#%F0%9F%87%B8%F0%9F%87%AASE-78.40.116.11-0347
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplMEF1U1NFOWtxclpucEsxUmdjdVB0@78.40.116.11:50589#%F0%9F%87%B8%F0%9F%87%AASE-78.40.116.11-1549
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.249.78:989#%F0%9F%87%B8%F0%9F%87%AASE-192.71.249.78-0400
 trojan://vpn@109.120.132.80:2025?security=tls&sni=vkvd127.mycdn.me&type=ws&path=/&Host=vkvd127.mycdn.me#%F0%9F%87%B8%F0%9F%87%AASE-109.120.132.80-0888
 trojan://telegram-id-privatevpns@13.48.202.26:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%B8%F0%9F%87%AASE-13.48.202.26-2102
 vmess://ewogICAgImFkZCI6ICIxMy41MC4xNTMuMjMwIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICJmZTJiZDc3ZC0zMTJlLTRhYzAtZGVmZS1hZmRiMjc5NTI4YTAiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogMjUyODksCiAgICAicHMiOiAi8J+HuPCfh6pTRS0xMy41MC4xNTMuMjMwLTMxODMiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
@@ -355,10 +355,8 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@121.127.46.147:989#%F0%9F%87%B8%F0
 vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vlse.g2ray.com:443?encryption=none&security=tls&type=tcp&headerType=none#TLS-N-Sweden
 vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vlse.g2ray.com:443?encryption=none&flow=xtls-rprx-direct&security=xtls&type=tcp&headerType=none#XTLS-N-Sweden
 vless://40730d97-ffa7-1108-2c53-761516eb5fda@91.230.128.10:993?security=reality&encryption=none&pbk=uiNUZVDwZTHc3jYpobpZgTzN_2V8Vt8zSVXqANXKUUE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#%F0%9F%87%B8%F0%9F%87%AA_SE_%E7%91%9E%E5%85%B8
-vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617/?type=tcp&encryption=none&flow=#%25252525253E%25252525253E%252525252540oneclickvpnkeys%25252525253A%25252525253ASE%252525253A%252525253ASE%2525253A%2525253ASE%25253A%25253ASE%253A%253ASE%3A%3ASE
 vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?type=tcp&path=%2f#%f0%9f%87%b8%f0%9f%87%aa%20SE%201
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplMEF1U1NFOWtxclpucEsxUmdjdVB0@78.40.116.11:50589#%f0%9f%87%b8%f0%9f%87%aa%20SE%202
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplMEF1U1NFOWtxclpucEsxUmdjdVB0@78.40.116.11:50589#%25E2%2599%259F%25EF%25B8%258F80%2540ConfigV2RayNG%2520%253E%253E%2540configV2rayNG%3A%3ASE
 vless://Parsashonam-49@185.146.173.39:8880?encryption=none&host=Search.DigiKala.CYoU.&path=%2F&security=none&type=httpupgrade# | VLESS | @Parsashonam | SE | 01
 vless://Parsashonam-48@185.146.173.39:8880?encryption=none&host=Search.DigiKala.CYoU.&path=%2F&security=none&type=httpupgrade# | VLESS | @Parsashonam | SE | 02
 vless://Parsashonam-47@185.146.173.39:8880?encryption=none&host=Search.DigiKala.CYoU.&path=%2F&security=none&type=httpupgrade# | VLESS | @Parsashonam | SE | 03
