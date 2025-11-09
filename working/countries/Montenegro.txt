@@ -79023,6 +79023,16 @@ vless://3af3a0f3-28ea-407c-a3df-2ae3b33fc174@50.7.85.221:443?encryption=none&sec
 vless://46910fa8-9e1c-2b7e-50bd-5b81e0ebe9b3@157.245.72.229:88?security=&encryption=none&host=zhaket.com&headerType=http&type=tcp#[]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGNTg1RkNEQi02MzUxLTQ4RDQtODJDMS01OTlCNTQ0N0E1ODk=@89.213.150.72:40000#[]t.me/ConfigsHub
 vless://fefde550-6f8c-4f4c-b5df-cfb0c6f0005c@104.248.45.195:443?mode=gun&security=none&encryption=none&type=grpc#[]t.me/ConfigsHub
+vless://9c04a62d-a4ec-4542-a6c9-eb5555555960@91.107.139.47:8443?path=%2Ftelegram_%3Fed%3D2560&security=none&encryption=none&host=91.107.139.47&type=ws#[]t.me/ConfigsHub
+vless://bd85a33c-f806-4bf9-e259-972fcec3b250@165.232.73.179:443?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#[]t.me/ConfigsHub
+vless://73f4af04-b951-46fe-d2d1-f8b51e71195e@104.248.37.55:443?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#[]t.me/ConfigsHub
+vless://bd85a33c-f806-4bf9-e259-972fcec3b250@164.92.230.246:443?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#[]t.me/ConfigsHub
+vless://3f5dc9b0-c1d4-4ea3-b1f0-3aaaf1187733@sr1.xp-server.lol:2082?security=none&encryption=none&headerType=none&type=tcp#[]t.me/ConfigsHub
+vless://ca72617f-337c-4b0e-84f0-d3c29f82d2b7@ipw.all-loc.org:443?path=%2F&security=tls&encryption=none&type=ws&sni=smart.incascx.info#[]t.me/ConfigsHub
+vless://07498162-f6ef-40c1-d84d-3636638953f0@159.89.1.70:443?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#[]t.me/ConfigsHub
+vless://cc814c88-f627-4f13-8879-36d4adad28b0@lovergerma-overmarz.blogarzan.info:27817?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#[]t.me/ConfigsHub
+vless://73f4af04-b951-46fe-d2d1-f8b51e71195e@142.93.163.144:443?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#[]t.me/ConfigsHub
+vless://f077969a-d1ac-4b1a-977b-e955424ed3be@aria.lmsmarket.monster:17719?security=none&encryption=none&host=p30afzar.com&headerType=http&type=tcp#[]t.me/ConfigsHub
 vless://e497da22-d020-40fb-a1fa-bc294066a2d2@66.235.200.30:80/?type=ws&encryption=none&host=pormang.webhost99.workers.dev&path=%2F#[]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.27.132:8880?mode=gun&security=none&encryption=none&type=grpc#[]t.me/MoftConfig
 vless://384d86c0-2f2c-5156-98b5-27bbc14f4315@join.mosiv2.fastly80-3.hosting-ip.com:80/?type=ws&encryption=none&host=Join-Bede-MOSiv2.IR&path=%2F#[]t.me/ConfigsHub
@@ -90839,6 +90849,9 @@ ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@38.68.134.9:8008#[]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.85:6697#[]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@38.114.114.69:5500#[]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@69.50.92.55:8000#[]t.me/ConfigsHub
+vless://2be75101-78cd-4519-9f2c-de286d0815eb@89.106.69.224:19129?security=none&encryption=none&host=n---_T------------T&headerType=none&type=tcp#[]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@3.124.61.82:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[]t.me/ConfigsHub
+trojan://telegram-id-directvpn@3.124.61.82:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[]t.me/ConfigsHub
 vmess://eyJhZGQiOiIxMDQuMTcuMTk3LjMxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoicXVpZXQtbW9vbi0xMzJhLnhldGFnNDI3MTQud29ya2Vycy5kZXYiLCJpZCI6IjQ0MWRhMzQyLWNlOTAtNDQxZS1iZmY5LWQyY2ViNTVlNjhjYSIsIm5ldCI6IndzIiwicGF0aCI6Ii9pdmlkZW9zLnNicy9saW5rd3MiLCJwb3J0IjoiNDQzIiwicHMiOiJb8J+HuvCfh7hddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6InF1aWV0LW1vb24tMTMyYS54ZXRhZzQyNzE0LndvcmtlcnMuZGV2IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=`
 vmess://eyJhZGQiOiIyMTAuMC4xNTguMjE5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6ImNocm9tZSIsImhvc3QiOiIxOS5sd2RoLnVzIiwiaWQiOiI4MjU5Y2IxYy1kZDZjLTQ3MzktOWM4OC1hZjU1MGQ5Nzc1MjUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjEyOTA5IiwicHMiOiJb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoiMTkubHdkaC51cyIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9`
 trojan://telegram-id-directvpn@13.48.220.142:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[]t.me/ConfigsHub`
