@@ -362,7 +362,9 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@121.127.46.147:989#%F0%9F%87%B8%F0
 vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vlse.g2ray.com:443?encryption=none&security=tls&type=tcp&headerType=none#TLS-N-Sweden
 vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vlse.g2ray.com:443?encryption=none&flow=xtls-rprx-direct&security=xtls&type=tcp&headerType=none#XTLS-N-Sweden
 vless://40730d97-ffa7-1108-2c53-761516eb5fda@91.230.128.10:993?security=reality&encryption=none&pbk=uiNUZVDwZTHc3jYpobpZgTzN_2V8Vt8zSVXqANXKUUE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#%F0%9F%87%B8%F0%9F%87%AA_SE_%E7%91%9E%E5%85%B8
-vless://db666837-aa7c-4cc9-9070-7cd3564225a0@abaddon.fonixapp.org:58604?security=reality&encryption=none&pbk=ZR7zKH8el4lbbty4_54z4XWV8BRvTup86v977iM_DUw&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=study.com&sid=12#[openproxylist.com] vless-SE
+vless://8b76d8c3-f838-44a3-bbef-30250b9c33fa@185.36.145.122:2083?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&sni=book.smnsoft.com#[openproxylist.com] vless-SE
+vless://68aa2bd7-db2a-4e29-b3c3-ca751e4c3c51@176.97.77.194:443?encryption=none&security=reality&sni=www.microsoft.com&fp=safari&pbk=NvVKlkEzhjalaV82PCtugmgZGemOGAqHg4i7J2F93g8&sid=4c6b4ebea75189ca&type=grpc&serviceName=89e2c9f6f66fc9dd7e4a2e8d#[openproxylist.com] vless-SE
+vless://db666837-aa7c-4cc9-9070-7cd3564225a0@abaddon.fonixapp.org:58604?security=reality&encryption=none&pbk=ZR7zKH8el4lbbty4_54z4XWV8BRvTup86v977iM_DUw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=study.com&sid=12#[openproxylist.com] vless-SE
 vless://68aa2bd7-db2a-4e29-b3c3-ca751e4c3c51@176.97.77.194:443?encryption=none&security=reality&sni=www.microsoft.com&fp=safari&pbk=NvVKlkEzhjalaV82PCtugmgZGemOGAqHg4i7J2F93g8&sid=4c6b4ebea75189ca&type=grpc&serviceName=89e2c9f6f66fc9dd7e4a2e8d#[openproxylist.com] vless-SE```
 vless://8b76d8c3-f838-44a3-bbef-30250b9c33fa@185.36.145.122:2083?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&sni=book.smnsoft.com#[openproxylist.com] vless-SE```
 vless://Parsashonam-49@185.146.173.39:8880?encryption=none&host=Search.DigiKala.CYoU.&path=%2F&security=none&type=httpupgrade# | VLESS | @Parsashonam | SE | 01
@@ -410,7 +412,5 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiU0UgMTEiLCAiYWRkIjogIjE0MS4xNDcuMTU0LjU2IiwgInBv
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6ogX1NFX+eRnuWFuCIsImFkZCI6IjEzLjUxLjI1NC4xMTciLCJwb3J0IjoiODA4MCIsInR5cGUiOiJub25lIiwiaWQiOiJjYmE1YWE5Ni0xYThmLTQ0YWEtYjA1MC03MTc4OTIzNjY5NTUiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6ogX1NFX+eRnuWFuCIsImFkZCI6InNob3BpZnkuY28udWsiLCJwb3J0IjoiNDQzIiwidHlwZSI6Im5vbmUiLCJpZCI6ImJlMzVmMzlmLTU3MWQtNDI0MC04YWIyLTgwNTVhYWUzYTUzZSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcmV0cmV5dGU2IiwiaG9zdCI6ImZyLnNlZXdvcmxkLnBybyIsInRscyI6InRscyJ9
 vless://Parsashonam-302@185.146.173.39:8880?type=httpupgrade&path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&host=De.Parsashonam.CfD.&security=none# SE | 185.146.173.39
-vless://8b76d8c3-f838-44a3-bbef-30250b9c33fa@185.36.145.122:2083?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=book.smnsoft.com# SE | 185.36.145.122
 vless://Parsashonam-300@185.146.173.39:8880?path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&security=none&encryption=none&host=De.Parsashonam.CfD.&type=httpupgrade# SE | 185.146.173.39
 vless://aec7d79a-8b42-43ad-ab44-23062a1a430b@185.146.173.39:2052?path=/wsmmad&security=none&encryption=none&host=De.lemoex.ir.&type=ws# SE | 185.146.173.39
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplMEF1U1NFOWtxclpucEsxUmdjdVB0@78.40.116.11:50589# SE | 78.40.116.11
