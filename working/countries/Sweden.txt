@@ -355,7 +355,7 @@ trojan://telegram-id-privatevpns@13.49.54.20:22222?peer=trojan.burgerip.co.uk#Sw
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@121.127.46.147:989#%F0%9F%87%B8%F0%9F%87%AASE-121.127.46.147-0732
 vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vlse.g2ray.com:443?encryption=none&security=tls&type=tcp&headerType=none#TLS-N-Sweden
 vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vlse.g2ray.com:443?encryption=none&flow=xtls-rprx-direct&security=xtls&type=tcp&headerType=none#XTLS-N-Sweden
-vless://8b76d8c3-f838-44a3-bbef-30250b9c33fa@185.36.145.122:2083?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=book.smnsoft.com#[openproxylist.com] vless-SE
+vless://8b76d8c3-f838-44a3-bbef-30250b9c33fa@185.36.145.122:2083?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&sni=book.smnsoft.com#[openproxylist.com] vless-SE
 vless://68aa2bd7-db2a-4e29-b3c3-ca751e4c3c51@176.97.77.194:443?encryption=none&security=reality&sni=www.microsoft.com&fp=safari&pbk=NvVKlkEzhjalaV82PCtugmgZGemOGAqHg4i7J2F93g8&sid=4c6b4ebea75189ca&type=grpc&serviceName=89e2c9f6f66fc9dd7e4a2e8d#[openproxylist.com] vless-SE
 vless://8e4ec018-b237-48ef-a09b-c8c2b2cee74b@m37a.vip784.com:33801?security=&encryption=none&host=varzesh3.ir%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#[openproxylist.com] vless-SE
 vless://Parsashonam-49@185.146.173.39:8880?encryption=none&host=Search.DigiKala.CYoU.&path=%2F&security=none&type=httpupgrade# | VLESS | @Parsashonam | SE | 01
