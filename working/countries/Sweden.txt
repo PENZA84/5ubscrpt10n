@@ -14,8 +14,6 @@ vless://Parsashonam-321@185.146.173.39:8080?path=%2FParsashonam-Parsashonam-Pars
 vless://Parsashonam-303@185.146.173.39:8880?type=httpupgrade&path=%2FParsashonam-Parsashonam-Parsashonam%2F%3Fed%3D2056&host=De.Parsashonam.CfD.&security=none#%F0%9F%87%B8%F0%9F%87%AA%20SE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2rayngseven%20%5B9%5D
 vmess://eyJhZGQiOiIxODUuMTQ2LjE3My4yNSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZ29vZ2xlLndoYXRzYXBwLnNuYXBwLnRvcm9iLmJhc2FsYW0udG9yb2IuTWNpLnphcmFzaG9wMC5pci4iLCJpZCI6ImVkMWI1NzQzLTM4OWItNDhhMi04ZDYwLTM3OTBlZGVkN2NhNiIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicG9ydCI6IjgwIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGY4XHVkODNjXHVkZGVhIFNFIHwgXHVkODNkXHVkZDEzIFZNRVNTIHwgQHYycmF5cHJvdG9jb2wgWzZdIn0
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#%253E%253E%2540v2nodes%3A%3ASE
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@121.127.46.147:989#%F0%9F%87%B8%F0%9F%87%AASE-121.127.46.147-0253
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.249.78:989#%F0%9F%87%B8%F0%9F%87%AASE-192.71.249.78-0374
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@121.127.46.147:989#%F0%9F%87%B8%F0%9F%87%AASE-121.127.46.147-0263
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.249.78:989#%F0%9F%87%B8%F0%9F%87%AASE-192.71.249.78-0323
 trojan://vpn@109.120.132.80:2025?security=tls&sni=vkvd127.mycdn.me&type=ws&path=/&Host=vkvd127.mycdn.me#%F0%9F%87%B8%F0%9F%87%AASE-109.120.132.80-0838
@@ -360,7 +358,7 @@ vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vlse.g2ray.com:443?encryption=none&
 vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vlse.g2ray.com:443?encryption=none&flow=xtls-rprx-direct&security=xtls&type=tcp&headerType=none#XTLS-N-Sweden
 vless://6202ab99-7f57-0a6a-180a-e980b41f5789@dir.lightnright.com:8883?security=tls&encryption=none&sni=jnir-x.pichondan.com&fp=chrome&type=tcp&headerType=none&path=%2f#%f0%9f%87%b8%f0%9f%87%aa%20SE%201
 vless://6202ab99-7f57-0a6a-180a-e980b41f5789@dir.lightnright.com:8883?security=tls&alpn=http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=jnir-x.pichondan.com#[openproxylist.com] vless-SE
-vless://8b76d8c3-f838-44a3-bbef-30250b9c33fa@185.36.145.122:2083?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&sni=book.smnsoft.com#[openproxylist.com] vless-SE
+vless://8b76d8c3-f838-44a3-bbef-30250b9c33fa@185.36.145.122:2083?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=book.smnsoft.com#[openproxylist.com] vless-SE
 vless://68aa2bd7-db2a-4e29-b3c3-ca751e4c3c51@176.97.77.194:443?encryption=none&security=reality&sni=www.microsoft.com&fp=safari&pbk=NvVKlkEzhjalaV82PCtugmgZGemOGAqHg4i7J2F93g8&sid=4c6b4ebea75189ca&type=grpc&serviceName=89e2c9f6f66fc9dd7e4a2e8d#[openproxylist.com] vless-SE
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.69:8880?mode=gun&security=none&encryption=none&type=grpc#[openproxylist.com] vless-SE
 vless://Parsashonam-49@185.146.173.39:8880?encryption=none&host=Search.DigiKala.CYoU.&path=%2F&security=none&type=httpupgrade# | VLESS | @Parsashonam | SE | 01
