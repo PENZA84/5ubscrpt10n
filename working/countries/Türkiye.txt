@@ -1326,15 +1326,11 @@ trojan://telegram-id-privatevpns@13.36.134.198:22222?security=tls&sni=trojan.bur
 trojan://qj1Dz1CJmFQRhWr1SP80aA@172.67.204.84:443?security=tls&sni=cdn-21.gsmxreality.com&type=grpc&serviceName=443trojan&mode=gun#%F0%9F%94%92%20TR-GRPC-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-172.67.204.84%3A443
 trojan://984e400bf5d541b7b0815913fe0c432a@104.19.171.7:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=6b777a91#%F0%9F%94%92%20TR-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.19.171.7%3A443
 trojan://vpn@2.59.162.145:2025?security=tls&type=ws&host=dns.google.com&path=%2F#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20-%20Vilnius%20%F0%9F%8C%8D%20TR-WS-NONE%204%E2%83%A3
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.106:8880?type=grpc&path=%2f#%f0%9f%87%b9%f0%9f%87%b7%20TR%201
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.86:8880?type=grpc&path=%2f#%f0%9f%87%b9%f0%9f%87%b7%20TR%202
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.100:8880?type=grpc&path=%2f#%f0%9f%87%b9%f0%9f%87%b7%20TR%203
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.129:8880?type=grpc&path=%2f#%f0%9f%87%b9%f0%9f%87%b7%20TR%204
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.123.101.241:990#%f0%9f%87%b9%f0%9f%87%b7%20TR%205
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?type=grpc&path=%2f#%f0%9f%87%b9%f0%9f%87%b7%20TR%206
-vless://a65ffee1-94f8-4514-b865-2ded4cab91a2@45.136.5.162:9090?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=book.frnsoft.com#[openproxylist.com] vless-TR
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.123.101.241:990#%f0%9f%87%b9%f0%9f%87%b7%20TR%201
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638941610438943596.copenhagen-prx-dnraacm.info:8880?type=grpc&path=%2f#%f0%9f%87%b9%f0%9f%87%b7%20TR%202
+trojan://-4146XJHYAzJ4K8Ov6_LBQ@156.67.63.183:11000?security=tls&sni=noproblemvpn.ru&type=ws&path=%2ftw#%f0%9f%87%b9%f0%9f%87%b7%20TR%203
+vless://a65ffee1-94f8-4514-b865-2ded4cab91a2@45.136.5.162:9090?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=book.frnsoft.com#[openproxylist.com] vless-TR
 vless://f7a204a7-e3f8-4349-a12d-7e6868a3b84e@istanbul.fonixapp.org:28689?security=reality&encryption=none&pbk=8UJHCuXan_An_xsXNPCN7h_0Yj4EwRtTATjrPiqcC3M&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=smallpdf.com&sid=687dcc8146#[openproxylist.com] vless-TR
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.93:8880?mode=gun&security=none&encryption=none&authority=/?BIA_TELEGRAM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1%2&type=grpc&sni=---@AZARBAYKAB1---@AZARBAYJAB1---@AZARBAYJAB1---@AZARBAYJAB1---@AZARBAYJAB1#[openproxylist.com] vless-TR
 vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HufCfh7dUUi0yLjU5LjE4MS4zNy01MjQ3IiwgImFkZCI6ICJ0azAyLm5iMS5mciIsICJwb3J0IjogNDQzLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogInRscyIsICJpZCI6ICJjYjcwMDFjNy1lNDk1LTQxYWMtYjk0Mi1mMjVmNjA1MjM0MTQiLCAic25pIjogIiIsICJob3N0IjogInRrMDIubmIxLmZyIiwgInBhdGgiOiAiL2NsaWVudGFyZWEifQ==
 vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HufCfh7dUUihBemFkTmV0LnQubWUpXzEiLCAiYWRkIjogInRyMS5kaWdpc3BvcnQuc2hvcCIsICJwb3J0IjogIjIwNTM1IiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjUzYTg0ODE5LTRjODEtNDZjMS1kOTNlLThiMGIxMTI4N2FjMyIsICJzbmkiOiAiIn0=
 vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HufCfh7dUUi0xNTIuODkuMTkzLjIyNS0wMTQ3IiwgImFkZCI6ICIxNTIuODkuMTkzLjIyNSIsICJwb3J0IjogODAsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjhjNTU3YTUxLTgwYjktNDliZS1kNzRhLTE0NTBjM2UyYjc3ZiIsICJzbmkiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLyJ9
