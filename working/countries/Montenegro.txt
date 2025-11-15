@@ -80432,6 +80432,11 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.110.115:8880?mode=gun&securi
 vless://f64bdc57-0f54-4705-bf75-cfd646d98c06@198.41.223.140:443?path=%2Ftelegram%20cafe_vpn2%2Ftelegram%20cafe_vpn2%2Ftelegram%20cafe_vpn2%2Ftelegram%20cafe_vpn2%2Ftelegram%20cafe_vpn2&security=tls&encryption=none&host=snippets.nneko.netlib.re&fp=random&type=ws&sni=snippets.nneko.netlib.re#[]t.me/ConfigsHub
 vless://df5fc3f7-6b01-489a-a73c-e1297b14a3dd@de.monkeyisland.life:8443?security=reality&encryption=none&pbk=aILMLxhAsgJvx7TY3EsxOdmIc1uB0V7aJVIXaKYPPk4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de.monkeyisland.life&sid=05a8b9980e65114c#[]t.me/ConfigsHub
 vless://f64bdc57-0f54-4705-bf75-cfd646d98c06@8.39.125.85:443?path=%2F%3Fed&security=tls&encryption=none&host=snippets.nneko.netlib.re&fp=chrome&type=ws&sni=snippets.nneko.netlib.re#[]t.me/ConfigsHub
+vmess://eyJhZGQiOiIxNzYuOS4xNzguNTIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiOTQ0NTJlNzgtZGFhZC00OTBmLWYxNGUtNWExNDNlNzUyYmY4IiwibmV0Ijoid3MiLCJwYXRoIjoiIiwicG9ydCI6IjIwNTIiLCJwcyI6Ilvwn4ep8J+Hql10Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@69.50.95.53:443#[]t.me/ConfigsHub
+vless://mTDO9BIHpCctt9mu9HZRCk@46.229.253.68:443?security=reality&encryption=none&pbk=4za81qMtiP3hieYozjR1OWXmj5CckIgqOIhkqI4l8RE&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=googletagmanager.com&sid=39fb4a388ff77f12#[]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEeHVic3JqNHJlQUtFWGVWZ2djSDZV@81.19.141.45:443#[]t.me/ConfigsHub
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.167:8880?mode=gun&security=none&encryption=none&authority=Join---_&type=grpc#[]t.me/ConfigsHub
 vless://e497da22-d020-40fb-a1fa-bc294066a2d2@66.235.200.30:80/?type=ws&encryption=none&host=pormang.webhost99.workers.dev&path=%2F#[]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.27.132:8880?mode=gun&security=none&encryption=none&type=grpc#[]t.me/MoftConfig
 vless://384d86c0-2f2c-5156-98b5-27bbc14f4315@join.mosiv2.fastly80-3.hosting-ip.com:80/?type=ws&encryption=none&host=Join-Bede-MOSiv2.IR&path=%2F#[]t.me/ConfigsHub
@@ -88216,7 +88221,6 @@ trojan://blue2024@104.16.113.194:443?sni=td.promote.icu#[]t.me/ConfigsHub
 vless://94038e0c-98d2-4117-999b-dca8331005f0@151.101.194.133:443?security=tls&sni=ergwork.web.unc.edu&type=ws&host=snappir.ir&path=ws%2F%3Fed%3D2052#[]t.me/ConfigsHub
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.25.229.227:8880?path=%2FXWFOoG8NduJFoaxA%3Fed%3D2560&security=&alpn=http%2F1.1&encryption=none&host=vngsupply.ip-ddns.com&fp=randomized&type=ws&sni=vngsUPPLY.ip-dDNS.COM#[]t.me/ConfigsHub
 vless://4ffdc80c-65f3-4684-bdb5-951d27867f40@37.156.45.179:1210?security=reality&sni=ubuntu.com&type=grpc&serviceName=@@jet_config-@jet_config-@jet_config&fp=chrome&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&sid=7fe29733#[]t.me/ConfigsHub
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@69.50.95.53:443#[]t.me/ConfigsHub
 trojan://NISHIKUITAN111@104.20.12.219:443?#[]t.me/ConfigsHub
 vmess://eyJhZGQiOiJhc3dlZG9ua2UuYmx1ZXRvb3RobW91c2UuaXIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImNhbnZhLmNvbSIsImlkIjoiODFjMWVmZGYtZDU2Mi00OGFiLWJmNDUtOGVkNzg2ZDI3NDY5IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiODA4MSIsInBzIjoiW/Cfh7jwn4eqXXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
 trojan://NISHIKUITAN111@104.27.25.157:443?#[]t.me/ConfigsHub

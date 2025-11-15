@@ -1221,7 +1221,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.232.247.61:8880?type=grpc&path=%
 vless://17a6e953-8fac-428c-b86c-8585722b0b52@157.173.127.233:443?security=reality&encryption=none&sni=analytics.google.com&fp=chrome&pbk=MbTwpwMFXu8duJgVMb_jFpqEuopSWJW1FPH_D6fZAEM&sid=1f&type=tcp&path=%2f#%f0%9f%87%ab%f0%9f%87%b7%20FR%2026
 vless://7bda027c-cbc8-488f-864f-cfb415cd8d77@unique.bitiboot.com:443?security=reality&encryption=none&sni=analytics.google.com&fp=chrome&pbk=q70yFMTo4Dz6IWwVcL9icqgJPgyIuv3j3n5fZxym6kg&sid=40e3350da285&type=tcp&headerType=none&path=%2f#%f0%9f%87%ab%f0%9f%87%b7%20FR%2027
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.133.176:8880?encryption=none&security=none&type=grpc#[openproxylist.com] vless-FR
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.136:8880?security=&type=grpc&encryption=none#[openproxylist.com] vless-FR
 vless://3557aa39-7564-4362-9713-8a2dd2a98830@45.67.139.37:443?security=reality&encryption=none&pbk=k3h5nEAsMcyb9tVMeEepA4jd9JiPhcVCIVLPKWyao0E&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speedsmart.net&sid=ed464ab7d7a8#[openproxylist.com] vless-FR
 vless://56718b04-3fe6-4ef3-a61f-cd9b3b5f64f1@frs.jykvpn.com:443?security=reality&encryption=none&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=c2a0b2d60a7fc300#[openproxylist.com] vless-FR
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.183:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#[openproxylist.com] vless-FR
@@ -1230,7 +1229,14 @@ vless://46c0349a-4c2f-463a-bced-e45cc132205b@213.21.242.82:443?path=/ray&securit
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.104:8880?mode=gun&security=none&encryption=none&type=grpc#[openproxylist.com] vless-FR
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638934319458527217.zagreb-drc-tusaby.info:8880?mode=gun&security=none&encryption=none&type=grpc#[openproxylist.com] vless-FR
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.71:8880?mode=gun&security=none&encryption=none&type=grpc#[openproxylist.com] vless-FR
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.96:8880?mode=gun&security=none&encryption=none&type=grpc#[openproxylist.com] vless-FR
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.96:8880?mode=gun&security=&encryption=none&type=grpc#[openproxylist.com] vless-FR
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.139:8880?mode=gun&security=none&encryption=none&type=grpc#[openproxylist.com] vless-FR
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.72:8880?mode=gun&security=none&encryption=none&type=grpc#[openproxylist.com] vless-FR
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.169:8880?mode=gun&security=none&encryption=none&type=grpc#[openproxylist.com] vless-FR
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.4:8880?mode=gun&security=&encryption=none&type=grpc#[openproxylist.com] vless-FR
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.27:8880?mode=gun&security=none&encryption=none&type=grpc#[openproxylist.com] vless-FR
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.89:8880?mode=gun&security=none&encryption=none&type=grpc#[openproxylist.com] vless-FR
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.73:8880?mode=gun&security=none&encryption=none&type=grpc#[openproxylist.com] vless-FR
 trojan://(VuRWFIPsAhP@13.38.109.97:14828?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#FR|GithubTrojanLinks
 trojan://jESPFD2DoPwn@13.38.44.244:14796?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#FR|GithubTrojanLinks
 vmess://eyJwcyI6ICJcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgtXHU3ZjhlXHU1NmZkLWZyLW5ldzAxLmd1anVqaS50b3AiLCAiYWRkIjogImZyLW5ldzAxLmd1anVqaS50b3AiLCAidHlwZSI6ICJub25lIiwgImNvdW50cnkiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4VVMiLCAicG9ydCI6ICI4MDgwIiwgInVkcCI6ICJ0cnVlIiwgImlkIjogImI0ZmNjZjZhLTg1YTQtNDkyYS05NmYzLWQ5M2U5MDM2MDE1NyIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAiaHR0cC1vcHRzIjogIiIsICJoMi1vcHRzIjogIiIsICJza2lwLWNlcnQtdmVyaWZ5IjogInRydWUiLCAid3Mtb3B0cyI6ICIiLCAicGF0aCI6ICIvIiwgImhlYWRlcnMiOiAiIiwgImhvc3QiOiAiZnItbmV3MDEuZ3VqdWppLnRvcCIsICJ0bHMiOiAiZmFsc2UifQ==
