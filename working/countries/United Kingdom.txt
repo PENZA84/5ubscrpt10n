@@ -1123,6 +1123,7 @@ vless://eb6a085c-437a-4539-bb43-19168d50bb10@46.250.240.80:443?encryption=none&s
 vless://7c9d302f-1438-4f37-a6e0-0591dc4a4614@158.220.88.63:443?mode=gun&security=reality&encryption=none&pbk=DTfizB6SKAjSe4gQVreWTIMpDT7HsDcqfR0_Y2xo7Gw&fp=safari&type=grpc&serviceName=7e41eb32ea906cebaf077110&sni=www.microsoft.com&sid=7daa515f56d7db89#[openproxylist.com] vless-GB
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.138.164.186:8880?mode=gun&security=none&encryption=none&type=grpc#[openproxylist.com] vless-GB
 vless://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?security=none&encryption=none&host=Telewebion.com&headerType=http&type=tcp#[openproxylist.com] vless-GB
+vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@104.26.6.89:443?path=%2Fapi%2Fv1&security=tls&encryption=none&host=gb-021.shenzogmbh.com&fp=chrome&type=ws&sni=gb-021.shenzogmbh.com#[openproxylist.com] vless-GB
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.200:8880?security=&encryption=none&type=grpc#[openproxylist.com] vless-GB```
 vless://f64bdc57-0f54-4705-bf75-cfd646d98c06@185.138.164.228:700?encryption=none&security=tls&sni=snippets.mnmnm.netlib.re&fp=chrome&type=ws&host=snippets.mnmnm.netlib.re&path=/?ed=2560#[openproxylist.com] vless-GB```
 vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@delilah.ns.cloudflare.com:443?encryption=none&security=tls&sni=638987378208894304.sentra-amshr.info&type=ws&host=638987378208894304.sentra-amshr.info&path=/cahttingws#[openproxylist.com] vless-GB```
@@ -1465,13 +1466,10 @@ vmess://eyJ2IjoiMiIsInBzIjoiUmVsYXlfLfCfh6zwn4enR0JfMDYiLCJhZGQiOiJubnYuY2hpdGFj
 vmess://eyJ2IjoiMiIsInBzIjoiUmVsYXlfLfCfh6zwn4enR0JfMDYiLCJhZGQiOiJubnYuY2hpdGFjZG4ueHl6IiwicG9ydCI6IjU0MjQyIiwidHlwZSI6Im5vbmUiLCJpZCI6ImYyMzkzZDgyLTk0YzQtNGIxMi04MjY3LTI5M2E3NTAwZTQ4NyIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiJ3MS44MDA4NzYueHl6IiwidGxzIjoiIn0=
 vmess://eyJhZGQiOiAidWswMS5jZi5wYW9wYW9jbG91ZC5jeW91IiwgInBvcnQiOiAiNDQzIiwgImlkIjogImQ2MmExMTZlLWMwMTQtMzNlNS05NDU4LWQxYjZlMjcxZTdhNSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAicHMiOiAi8J+HuvCfh7gt576O5Zu9LXVrMDEuY2YucGFvcGFvY2xvdWQuY3lvdSIsICJob3N0IjogInVrMDEuc3NydTQuZnVuIiwgInBhdGgiOiAiL3YycmF5IiwgInRscyI6ICJ0bHMiLCAic25pIjogIiIsICJ0eXBlIjogInZtZXNzIiwgInNlcnZlclBvcnQiOiAwLCAibmF0aW9uIjogIiJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6ogLeeRnuWFuC11azAxLnBhb3Bhb2Nsb3VkLmN5b3UiLCJhZGQiOiJ1azAxLnBhb3Bhb2Nsb3VkLmN5b3UiLCJwb3J0IjoiNDQzIiwidHlwZSI6Im5vbmUiLCJpZCI6ImQ2MmExMTZlLWMwMTQtMzNlNS05NDU4LWQxYjZlMjcxZTdhNSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6InVrMDEuc3NydTQuZnVuIiwidGxzIjoidGxzIn0=
-vless://c7158ca6-7c6c-4701-bf7d-df0f98a9ca33@speedtest.org:443?path=/harman&security=tls&encryption=none&type=ws&sni=iwukb.ava-shabane.com# GB | 2a06:98c1:3121::
 vless://7b1c5bee-19f1-422f-8be2-e03175fabe4a@104.248.168.91:80?path=/?ed=2048&security=none&encryption=none&type=ws# GB | 104.248.168.91
 vless://2f6756c6-10ea-4c24-b8ac-c5bb4883f3d6@104.248.168.91:8443?mode=gun&security=none&encryption=none&type=grpc# GB | 104.248.168.91
 vless://2be20bd2-d376-433e-9259-99983cac98e9@134.209.23.173:15580?path=/&security=&encryption=none&type=ws# GB | 134.209.23.173
-vless://f4578658-5536-409b-a916-c28cd7039eba@212.134.84.110:443?security=reality&encryption=none&pbk=KrybS-rh1L3Edjk3MqOxN23oSzCrcOSG75QTM41YURY&host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&headerType=none&fp=firefox&spx=/&type=tcp&sni=pcmag.com&sid=7650f522feeb047d# GB | 212.134.84.110
 vless://7d27c544-135d-41a2-bd84-713b8af4f3c2@51.89.230.196:7035?path=/&security=none&encryption=none&host=filimo.com&type=ws# GB | 51.89.230.196
-vless://c7158ca6-7c6c-4701-bf7d-df0f98a9ca33@speedtest.org:443?path=/harman&security=tls&encryption=none&host=iwukb.ava-shabane.com&type=ws&sni=iwukb.ava-shabane.com# GB | 2a06:98c1:3121::
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.189.29:8880?security=none&encryption=none&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3# GB | 102.177.189.29
 vless://b0265ca8-98dd-46b2-adec-4705b5e7eb48@102.177.189.28:80/?type=ws&path=/@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot?ed=2048&host=psi.misvn.ir&security=none# GB | 102.177.189.28
 vless://748bd938-7eaf-4f1c-ac99-ce770c3aad93@m40a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp# GB | 51.89.231.76
@@ -1479,6 +1477,7 @@ vless://ad069756-c14b-4443-87af-4a503c5c08f5@m33a.vip784.com:33801?security=none
 vless://b21a057a-e474-4dc8-a9fe-8579ed386501@212.134.84.115:443?security=reality&encryption=none&pbk=-rFZDbTY311FfuSHKsKENvN0gjaGdJBK_iTK50WL3mk&headerType=none&fp=chrome&type=tcp&sni=pcmag.com&sid=96016aaff14b# GB | 212.134.84.115
 vless://ad069756-c14b-4443-87af-4a503c5c08f5@51.89.116.123:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp# GB | 51.89.116.123
 vless://3b6d938e-6f75-8849-bf95-adedf96b855c@dl-05.chapjavan.ir:45555?security=tls&alpn=h3,h2,http/1.1&encryption=none&host=zhaket.com&headerType=http&fp=firefox&type=tcp# GB | 23.81.34.214
+vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@delilah.ns.cloudflare.com:443?path=/cahttingws&security=tls&encryption=none&host=638987972960682357.prius-amsht.info&type=ws&sni=638987972960682357.prius-amsht.info# GB | 2a06:98c1:50::ac40:2263
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@4.250.60.151:443# GB | 4.250.60.151
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443# GB | 145.133.58.113
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443# GB | 4.250.220.204
