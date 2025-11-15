@@ -1,3 +1,5 @@
+vless://e9a9b636-6a60-4ee2-ac61-00dc284f3856@104.19.66.9:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#@MoftConfigCanadaTorontoping:7.9ms
+vless://e5b23404-8da2-42a1-a813-164b1b85491b@sin5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#%20Singapore
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.148:8880/?type=ws&encryption=none&host=sg.laoyoutiao.link&path=Telegram%40WangCai2%2F%3Fed%3D2048#@MoftConfigJapanChiyodaping:8.1ms
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.167:8880/?type=ws&encryption=none&host=sg.laoyoutiao.link&path=Telegram%40WangCai2%2F%3Fed%3D2048#@MoftConfigJapanChiyodaping:8.27ms
 vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.16.213.195:443?security=tls&sni=kawaiifreevpn-7ds.pages.dev&type=ws&host=kawaiifreevpn-7ds.pages.dev#@MoftConfigCanadaTorontoping:7.93ms
@@ -7734,6 +7736,7 @@ trojan://kxuBkBG8GK@95.216.8.162:110?security=tls&headerType=none&type=tcp&sni=f
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@3.9.53.76:443#[]t.me/ConfigsHub
 vless://c7158ca6-7c6c-4701-bf7d-df0f98a9ca33@speedtest.org:443?path=%2Fharman&security=tls&encryption=none&fp=chrome&type=ws&sni=pqjeb.noah-shabane.com#[]t.me/ConfigsHub
 vless://osVPN_8101895@146.103.111.134:443?security=reality&encryption=none&pbk=q1jLz-_1N8sdWCtAv1ev1Y1jjBM3Psx2KikzPF4XnyU&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=ffffffffff#[]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwM3VMdjd2blNhZEkwR004Q0g5T2xo@194.87.216.218:52571#[]t.me/ConfigsHub
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@188.42.145.142:443?security=tls&type=ws&sni=kk033.ylks.link&path=/proxyip=proxyip.oracle.fxxk.dedyn.io&encryption=none&headerType=none#%E5%8D%A2%E6%A3%AE%E5%A0%A1_1
 trojan://NISHIKUITAN222@125.139.249.241:17057?type=ws&allowInsecure=1&path=/&host=t033.ylks.link#%E9%9F%A9%E5%9B%BD_1
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@69.84.182.16:443?security=tls&type=ws&sni=v033.ylkszy.eu.org&path=/?ed=2560&encryption=none&headerType=none#%E7%BE%8E%E5%9B%BD_1
@@ -9995,6 +9998,3 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.42:443?security=tls&sni=l
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@108.162.195.1:443?security=tls&sni=lg.kpcloud.eu.org&type=ws&host=lg.kpcloud.eu.org&path=%2F%3Fed%3D2048# VL-WS-TLS  NA-108.162.195.1:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@108.162.194.215:443?security=tls&sni=lj.ylks01.eu.org&type=ws&host=lj.ylks01.eu.org&path=%2Fblue# VL-WS-TLS  NA-108.162.194.215:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@190.93.247.192:443?security=tls&sni=ck.ylks.xyz&type=ws&host=ck.ylks.xyz&path=%2Fblue# VL-WS-TLS  NA-190.93.247.192:443
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.4:443?security=tls&sni=ValID6.pAGeS.dev&type=ws&host=valid6.pages.dev&path=%2Fg1uj9s3BeFn6pzRV%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1# VL-WS-TLS  NA-172.66.47.4:443
-vless://7bb76d43-5a05-448a-9eb1-c35d608bb109@104.17.44.130:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960004.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960004.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2# VL-WS-TLS  NA-104.17.44.130:443
-vless://0857b679-9c2e-4ad1-8649-b8c626caf2d7@172.66.44.200:443?security=tls&sni=NarGES3528.PAgEs.dEv&type=ws&host=narges3528.pages.dev&path=%2FP37LDv1YbNfV9IyF%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1# VL-WS-TLS  NA-172.66.44.200:443
