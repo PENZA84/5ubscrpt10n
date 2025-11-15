@@ -688,6 +688,7 @@ vless://77e6e498-98e4-4a0b-93cb-8e2c117c0ad3@81.12.96.39:22631?security=none&enc
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.157:8080#%253E%253E%2540Awlix_ir%3A%3AXX
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.192:8080#%253E%253E%2540Awlix_ir%3A%3AXX
 vmess://eyJhZGQiOiJ5ZS5meGxjbi5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IjFlNDI2MDQ2LXQwZmRzMC10MTJjbmotMW9sOTcuaGsucDVwdi5jb20iLCJpZCI6IjQ2OWUwYjMxLTMwYzMtNGRhYi04MDBkLTcxMTIzMjYzNGNlMSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDUyNzciLCJwcyI6Ij4+QHZtZXNzaXJhbjo6WFgiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+trojan://c2e3cdc0-bc72-3505-b2a9-ea5ed7bfa23f@151.242.164.127:3443?allowInsecure=1&sni=steampipe.akamaized.net#%F0%9F%87%AE%F0%9F%87%B7%20_IR_%E4%BC%8A%E6%9C%97
 vmess://ewogICAgImFkZCI6ICIzNy4zMi4yMy4xMjIiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogImQxMmJjODgyLTQzYzctNDE1ZS04N2M1LTJhN2ZkYzgzNzFjMCIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi93ZWJzb2NrZXQvIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfh67wn4e3SVItMzcuMzIuMjMuMTIyLTA1NTciLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
 vmess://ewogICAgImFkZCI6ICIxODUuMTQzLjIzMy4xMTQiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIxODUuMTQzLjIzMy4xMTQiLAogICAgImlkIjogImNmN2YyZDdjLWQ0ZjgtNDY5YS1iZmQ1LTk3NDg0YmI5OGQyYyIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA4MCwKICAgICJwcyI6ICLwn4eu8J+Ht0lSLTE4NS4xNDMuMjMzLjExNC0xNjk4IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 vmess://ewogICAgImFkZCI6ICIxODUuMjQuMjU1LjI0IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICI4MGFiYjkwMy0yNGUwLTRkYmQtOWMyZi1hNTdlOWEyNjc1NTUiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvd3MiLAogICAgInBvcnQiOiA4MCwKICAgICJwcyI6ICLwn4eu8J+Ht0lSLTE4NS4yNC4yNTUuMjQtMzIwNCIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
@@ -2018,6 +2019,7 @@ vless://aac76e15-76e8-df0c-41a3-74d2d5450043@89.44.113.58:606?path=/ws?ed=2048&s
 vless://9deda4f9-a9b9-4614-b840-ece9998ec6db@81.12.30.51:58045?type=ws&security=none&path=/# IR | 81.12.30.51
 vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@185.143.232.224:80?path=/news&security=none&encryption=none&host=bama.ir.german.cdnir.org&type=ws# IR | 185.143.232.224
 vless://7df38fe5-4220-4e19-ce35-e79bb5bc7b75@109.122.255.184:2099?security=&encryption=tls&headerType=http&type=tcp# IR | 109.122.255.184
+vless://f1a5d46d-756c-4d91-9b12-50195a9dc026@uhCY9q.de4.razercompany.com:8634?security=none&path=/&host=ybsrxjzv.divarcdn.com&headerType=http&type=tcp# IR | 85.133.230.4
 vless://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495?security=none&type=tcp&encryption=none&headerType=none# IR | 89.44.242.222
 vless://29a6f284-dd9f-48be-9c26-7fea94064322@poland.a1mshop2.xyz:49894?mode=stream-one&type=tcp&path=/&security=none&host=www.speedtest.net&headerType=http# IR | 46.38.146.250
 vless://abaaff2a-a66d-40cb-bfdf-9b6c3762789b@31.14.118.226:24100?security=none&encryption=none&host=fast.com&headerType=http&type=tcp# IR | 31.14.118.226
@@ -2030,6 +2032,7 @@ vless://4cd9af1f-7362-4a67-a0ac-d298ea1aa1c7@195.190.144.155:3012?security=none&
 vless://c59695d1-b0d3-440e-a502-76e408805a1e@212.80.9.85:57209?security=none&encryption=none&host=parsabr.com&headerType=http&type=tcp# IR | 212.80.9.85
 vless://57ba8202-6afe-4cfb-a98d-d18d08b3b9ff@tinyvpn-cdn1.unlimiteddev.co:8080/?type=ws&path=/&host=&security=none# IR | 81.12.32.14
 vless://57ba8202-6afe-4cfb-a98d-d18d08b3b9ff@tinyvpn-cdn2.unlimiteddev.co:8080/?type=ws&path=/&host=&security=none# IR | 81.12.32.14
+vless://a9675ecc-38cf-4de1-ac10-69cfd31fe608@sJoHMu.de6.razercompany.com:323?security=none&path=/&host=7z90w2qs.cafebazaar.ir,+7z90w2qs.divarcdn.com&headerType=http&type=tcp# IR | 85.133.230.8
 vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@hybrid.arvancloud.online:44443?security=reality&encryption=none&pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net# IR | 193.151.135.21
 vless://b9c6eac0-a320-4c0b-a10c-4bf7e49bddd9@num2.donlo.ir:2083/?type=ws&path=/&host=colf.ir&security=tls&fp=chrome&alpn=&allowInsecure=1&sni=colf.ir# IR | 85.133.200.106
 vless://51909ba1-3a0c-4dff-a8f1-73ce64c4b10a@2.189.85.177:53369?security=none&encryption=none&host=fast.com&headerType=http&type=tcp# IR | 2.189.85.177
