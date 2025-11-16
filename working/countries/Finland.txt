@@ -496,12 +496,13 @@ vless://b4c0b733-0d84-44d2-da9b-e660c08abe57@37.27.185.191:28492?security=none&t
 vless://fd5091fb-bd5f-4a58-93ce-92534bcbc790@95.216.205.199:8880?security=none&type=tcp&host=eN.TwiTtER.cOM.&path=%2F&headerType=http# VL-TCP-NONE  FI-95.216.205.199:8880
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.143.129.230:989#%F0%9F%87%AB%F0%9F%87%AEFI-37.143.129.230-6000
 vmess://eyJhZGQiOiI4OC4xOTguMTE1LjEyNyIsInBzIjoiRmlubGFuZCDwn4er8J-HriBARnJlZV9IVFRQQ3VzdG9tIiwic2N5Ijoibm9uZSIsInR5cGUiOiJodHRwIiwic25pIjoiIiwicGF0aCI6Ii8iLCJwb3J0Ijo4NDQzLCJ2IjoyLCJob3N0Ijoicm9rbmEubmV0Ojg0NDMiLCJ0bHMiOiIiLCJpZCI6IjlmNjljMjM5LWJjMzEtNDQxMy04MGJlLWEwMzkxMDAwMDlhYyIsIm5ldCI6InRjcCIsImFpZCI6MH0
+vless://a79d31ed-99d6-4116-8f50-fa46957ac6a0@109.61.17.127:54978?allowInsecure=0&sni=study.com&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#FI_speednode_0012
 vless://d6d16b83-e7e3-486a-aa82-a649ef73cbfa@65.109.211.159:2053?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AB%F0%9F%87%AE%20FI-65.109.211.159%3A2053
 vless://99785b25-5b68-40c7-be5c-199cac21c838@65.109.211.159:2093?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AB%F0%9F%87%AE%20FI-65.109.211.159%3A2093
 vless://723eb4ef-b933-494e-8b6f-c4b4c580dcca@65.109.211.159:2096?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AB%F0%9F%87%AE%20FI-65.109.211.159%3A2096
 vless://e0976e35-a651-4f34-b5b1-c9ac9f75cb74@172.67.133.33:8443?path=/J5aKLOY1R7ONXYCM&security=tls&encryption=none&host=private.besttotaldns.com&type=ws&sni=private.besttotaldns.com#[openproxylist.com] vless-FI
 vless://c495405a-41d7-429e-b999-94136197b211@104.21.7.162:2053?path=%2FJ5aLQOY1R9ONWYCM&security=tls&encryption=none&host=dashboard.app-browser.org&type=ws&sni=dashboard.app-browser.org#[openproxylist.com] vless-FI
-vless://cc67ca7f-064e-4117-ac31-a66d5728a11c@fl-3-direct.djarbnet.ru:443?encryption=none&security=tls&sni=fl-3-direct.djarbnet.ru&type=ws&path=%2Fgetupdates#[openproxylist.com] vless-FI
+vless://cc67ca7f-064e-4117-ac31-a66d5728a11c@fl-3-direct.djarbnet.ru:443?path=/getupdates&security=tls&encryption=none&type=ws&sni=fl-3-direct.djarbnet.ru#[openproxylist.com] vless-FI
 vless://Parsashonam-Bot-36@104.17.147.22:8080?path=/Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam?ed=2056&security=none&encryption=none&host=Fi.Parsashonam.CfD.&type=ws&note=@freeOnlineVPN#[openproxylist.com] vless-FI
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.132:8880?mode=gun&security=none&encryption=none&type=grpc#[openproxylist.com] vless-FI
 vless://cff4788d-4d05-48c4-848d-d3f1135040f1@46.62.228.115:5050?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&sni=curve.cvbsoft.com#[openproxylist.com] vless-FI```
