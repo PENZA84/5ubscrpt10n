@@ -1,7 +1,7 @@
 vless://714f0d66-9ca5-4f10-bf16-99596a0864c5@45.12.134.67:14061?security=reality&encryption=none&pbk=_-FySIjB71PITQ3VpKMSlTqNPZV4YX0x7rWlh4olngY&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yandex.ru&sid=e749a51a1942161a#%40ServerTel%20%F0%9F%8C%B9%20Japan%20%F0%9F%87%AF%F0%9F%87%B5`
-trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.131.243:1334?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC%203.8MB%2Fs
-trojan://BxceQaOe@153.121.53.187:2145?sni=t.me/ripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC2
-trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@202.181.103.246:1334?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC3%203.4MB%2Fs
+trojan://BxceQaOe@153.121.53.187:2145?sni=t.me/ripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.131.243:1334?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC2%205.5MB%2Fs
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@202.181.103.246:1334?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC3
 ss://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@3.112.83.7:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&type=tcp&sni=chatgpt.com&sid=f5#Japan%2066%20dailyv2ry
 ss://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@3.114.7.231:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&type=tcp&sni=chatgpt.com&sid=f5#Japan%2062%20dailyv2ry
 ss://YWVzLTEyOC1nY206MTAwODY=@153.121.51.214:10087#%F0%9F%87%AF%F0%9F%87%B5Japan+-%3E+%F0%9F%87%AF%F0%9F%87%B5Japan+%E2%9A%A1@DeamNet_Proxy
@@ -259,14 +259,18 @@ vmess://eyJhZGQiOiAiNTguOTAuNjIuMTQiLCAiYWlkIjogIjAiLCAiaG9zdCI6ICJjb2RlcGVuLmlv
 vmess://eyJhZGQiOiIxNTIuNjkuMTk3Ljc0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImI4YTZiZjU4LTQ4NWEtNDA0Ni1iMzg2LWIzNjYxYmY2NWVmZiIsIm5ldCI6IndzIiwicGF0aCI6Ii9iYiIsInBvcnQiOiIxMjM0NSIsInBzIjoiSmFwYW4gT3JhY2xlIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiJjZmNkbjMuc2FuZmVuY2RuOS5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Ind0eXd3Y3J6anA1LnlvZm5oa2ZjLnh5eiIsImlkIjoiYWZhN2VlNTAtZDIxNC00YTU0LWE1NTgtZTVjOTY0ODA5MTZkIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZpZGVvLzlUZlZFeWt1IiwicG9ydCI6IjIwNTIiLCJwcyI6IvCfh6/wn4e1IEpQIHxATXN2MmZseU5HIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1SlBfNF9AU3VyZmJvYXJkdjJyYXkiLCAiYWRkIjogIjguMjExLjE2NC4yMTUiLCAicG9ydCI6ICIyMDUyMiIsICJpZCI6ICI3MzE5M2NjZS03Y2ExLTRiMDgtOTNmZi00ZWU4YjAxNDczNzQiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAiYXV0byIsICJob3N0IjogIiIsICJwYXRoIjogIi90ZWxlZ3JhbV9Ac3N3aWEiLCAidGxzIjogIiIsICJzbmkiOiAiIiwgImFscG4iOiAiIiwgImZwIjogIiJ9
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@18.183.13.244:443?encryption=none&security=reality&type=tcp&sni=store.steampowered.com&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5&fp=chrome&spx=/#JP_2165_@Surfboardv2ray
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@35.78.189.21:443?encryption=none&security=reality&type=tcp&sni=store.steampowered.com&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5&fp=chrome&spx=/#JP_2175_@Surfboardv2ray
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@35.78.197.133:443?encryption=none&security=reality&type=tcp&sni=store.steampowered.com&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5&fp=chrome&spx=/#JP_2176_@Surfboardv2ray
-vless://908c69ce-71a5-4eaa-a2e6-e5e5fbbcba00@50.114.178.67:8080?path=/&security=none&encryption=none&type=ws#JP_3402_@Surfboardv2ray
-vless://a0a866bd-8c0c-464c-9b96-c6dafa154419@5.253.41.223:80?path=/vless/&security=&encryption=none&type=ws#JP_3911_@Surfboardv2ray
-vless://a0a866bd-8c0c-464c-9b96-c6dafa154419@5.253.41.223:80?path=/vless/&security=none&encryption=none&type=ws#JP_3912_@Surfboardv2ray
-vless://f8c93834-99a4-44e7-b476-147a3ab582d0@35.74.231.223:2096?encryption=none&security=reality&sni=zula.ir&fp=chrome&pbk=1MAWRB1pWGt62JZszI7ppUwukazzBbJ00i_C5CNr5jk&sid=28&spx=/&type=grpc&authority=&serviceName=config&mode=gun#JP_6503_@Surfboardv2ray
-vless://f8c93834-99a4-44e7-b476-147a3ab582d0@43.206.142.191:2096?encryption=none&security=reality&sni=zula.ir&fp=chrome&pbk=1MAWRB1pWGt62JZszI7ppUwukazzBbJ00i_C5CNr5jk&sid=28&spx=/&type=grpc&authority=&serviceName=config&mode=gun#JP_6504_@Surfboardv2ray
+vmess://eyJhZGQiOiAiMTUyLjY5LjE5Ny42MCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiYWM4ZTI2ZmUtODE1MC00YjYwLWFlNjQtODJmYzc3ZWJhMmNmIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICIxMDY5IiwgInBzIjogIlx1ZDgzY1x1ZGRlZlx1ZDgzY1x1ZGRmNUpQXzIxOV9AU3VyZmJvYXJkdjJyYXkiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
+vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@18.183.13.244:443?encryption=none&security=reality&type=tcp&sni=store.steampowered.com&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5&fp=chrome&spx=/#JP_2133_@Surfboardv2ray
+vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@35.78.189.21:443?encryption=none&security=reality&type=tcp&sni=store.steampowered.com&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5&fp=chrome&spx=/#JP_2143_@Surfboardv2ray
+vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@35.78.197.133:443?encryption=none&security=reality&type=tcp&sni=store.steampowered.com&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5&fp=chrome&spx=/#JP_2144_@Surfboardv2ray
+vless://908c69ce-71a5-4eaa-a2e6-e5e5fbbcba00@50.114.178.67:8080?path=/&security=&encryption=none&type=ws#JP_3389_@Surfboardv2ray
+vless://908c69ce-71a5-4eaa-a2e6-e5e5fbbcba00@50.114.178.67:8080?path=/&security=none&encryption=none&type=ws#JP_3390_@Surfboardv2ray
+vless://908c69ce-71a5-4eaa-a2e6-e5e5fbbcba00@50.114.178.67:8080?path=/&security=none&encryption=none&type=ws#JP_3391_@Surfboardv2ray
+vless://a0a866bd-8c0c-464c-9b96-c6dafa154419@5.253.41.223:80?path=/vless/&security=&encryption=none&type=ws#JP_3891_@Surfboardv2ray
+vless://a0a866bd-8c0c-464c-9b96-c6dafa154419@5.253.41.223:80?path=/vless/&security=none&encryption=none&type=ws#JP_3892_@Surfboardv2ray
+vless://bed5834d-7597-4af7-990e-abe1a3604557@107.191.60.114:80?flow=&type=ws&host=&path=/hjgfdws&security=none#JP_4319_@Surfboardv2ray
+vless://f8c93834-99a4-44e7-b476-147a3ab582d0@35.74.231.223:2096?encryption=none&security=reality&sni=zula.ir&fp=chrome&pbk=1MAWRB1pWGt62JZszI7ppUwukazzBbJ00i_C5CNr5jk&sid=28&spx=/&type=grpc&authority=&serviceName=config&mode=gun#JP_6482_@Surfboardv2ray
+vless://f8c93834-99a4-44e7-b476-147a3ab582d0@43.206.142.191:2096?encryption=none&security=reality&sni=zula.ir&fp=chrome&pbk=1MAWRB1pWGt62JZszI7ppUwukazzBbJ00i_C5CNr5jk&sid=28&spx=/&type=grpc&authority=&serviceName=config&mode=gun#JP_6483_@Surfboardv2ray
 trojan://2155145a-b1b5-443a-8977-670f6bd10f02@18.183.13.60:50001?security=tls&sni=bgroup.node1.t.nodelist-airport.com&allowInsecure=1# @MoftConfigJapan
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.165:2052?path=%2FTM-ShadowProxy66%3Fed%3D2048&security=none&encryption=none&host=redw.pooriam.ir&type=ws# @MoftConfigJapan
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@57.180.240.249:443# @MoftConfigJapan
@@ -517,8 +521,12 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1NjYyMzY4ZC0xNWY1LTQyODMtODhkYS05MTE2NzY3NDc
 trojan://2274c52572e721086f8bd8f88984643c@160.16.151.196:4211?sni=www.nintendogames.net&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%2026
 vless://ec52eb59-a9d6-4693-bed4-490f2b244195@104.18.46.50:443?&security=tls&sni=pq-jps.pqvip.top&type=ws&headerType=none&host=pq-jps.pqvip.top&path=%2Fpq%2Fjp1#[openproxylist.com] vless-JP
 vless://3c0e49cb-8940-561a-83b8-1efbb17f7cf7@5.253.41.233:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=vk.cc&fp=chrome&pbk=InGeZG9b5-uRQkHJpQWM37XRVFUyn5zYzx8UfhqrHGM&sid=736b98f2&type=tcp&headerType=none#[openproxylist.com] vless-JP
-vless://3c0e49cb-8940-561a-83b8-1efbb17f7cf7@5.253.41.233:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=vk.cc&fp=chrome&pbk=InGeZG9b5-uRQkHJpQWM37XRVFUyn5zYzx8UfhqrHGM&sid=736b98f2&type=tcp&headerType=none#[openproxylist.com] vless-JP```
+trojan://BxceQaOe@153.121.53.187:2145?allowInsecure=1&sni=t.me%2Fripaojiedian#[openproxylist.com] trojan-JP
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.131.243:1334?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC%203.8MB%2Fs
+trojan://BxceQaOe@153.121.53.187:2145?sni=t.me/ripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC2
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@202.181.103.246:1334?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC3%203.4MB%2Fs
 vless://ec52eb59-a9d6-4693-bed4-490f2b244195@104.18.46.50:443?&security=tls&sni=pq-jps.pqvip.top&type=ws&headerType=none&host=pq-jps.pqvip.top&path=%2Fpq%2Fjp1#[openproxylist.com] vless-JP```
+vless://3c0e49cb-8940-561a-83b8-1efbb17f7cf7@5.253.41.233:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=vk.cc&fp=chrome&pbk=InGeZG9b5-uRQkHJpQWM37XRVFUyn5zYzx8UfhqrHGM&sid=736b98f2&type=tcp&headerType=none#[openproxylist.com] vless-JP```
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5OTMwMWQ1NS1hNDFmLTQ5MTktOTg2Yi0xNDM1OTk2NTMzYWE@120.238.122.207:50004#JP%2F1|Github%E6%90%9C%E7%B4%A2TrojanLinks
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5OTMwMWQ1NS1hNDFmLTQ5MTktOTg2Yi0xNDM1OTk2NTMzYWE@120.238.122.207:50005#JP%2F2|Github%E6%90%9C%E7%B4%A2TrojanLinks
 vmess://eyJwcyI6ICJcdWQ4M2NcdWRkZTZcdWQ4M2NcdWRkZjYtXHU2NzJjXHU2NzNhXHU1NzMwXHU1NzQwLWpwLW8tdjIuNjY2ODg4ODgueHl6IiwgImFkZCI6ICJqcC1vLXYyLjY2Njg4ODg4Lnh5eiIsICJ0eXBlIjogIm5vbmUiLCAiY291bnRyeSI6ICJcdWQ4M2NcdWRkZWZcdWQ4M2NcdWRkZjVKUCIsICJwb3J0IjogIjgwODAiLCAidWRwIjogInRydWUiLCAiaWQiOiAiNmJhNGM2MWYtZTMyZi00ZDE1LWFlMWItMDIyZDdmOGRmMTRiIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJzZXJ2ZXJwcyI6ICJqcC1vLXYyLjY2Njg4ODg4Lnh5eiIsICJodHRwLW9wdHMiOiAiIiwgImgyLW9wdHMiOiAiIiwgInRscyI6ICJ0cnVlIiwgInNraXAtY2VydC12ZXJpZnkiOiAidHJ1ZSIsICJ3cy1vcHRzIjogIiIsICJwYXRoIjogIi8iLCAiaGVhZGVycyI6ICIiLCAiaG9zdCI6ICJqcC1vLXYyLjY2Njg4ODg4Lnh5eiJ9
@@ -1193,6 +1201,8 @@ vmess://eyJhZGQiOiAicGFvcGFvLnYyLmpwMDUucGFvcGFvY2xvdWQuY3lvdSIsICJwb3J0IjogIjMz
 vmess://eyJwcyI6ICLwn4ev8J+HtS3ml6XmnKwtanAwNC12bTAuZW50cnkuc3J0aGR3LmFydCIsICLlhY3otLnorqLpmIXlsL3lnKhodHRwcyI6ICIiLCAiYWRkIjogImpwMDQtdm0wLmVudHJ5LnNydGhkdy5hcnQiLCAicG9ydCI6ICI0NDgiLCAidHlwZSI6ICJ2bWVzcyIsICJpZCI6ICIyMDU5ZTAyNS0wYmU4LTM0OWMtYWIxZi05MGZhMGU2NmMwNzQiLCAiYWlkIjogIjEiLCAic2N5IjogImF1dG8iLCAidGxzIjogImZhbHNlIiwgInNraXAtY2VydC12ZXJpZnkiOiAidHJ1ZSIsICJuZXQiOiAid3MiLCAid3Mtb3B0cyI6ICIiLCAicGF0aCI6ICIvaGxzL2NjdHY1cGhkLm0zdTgiLCAiaGVhZGVycyI6ICIiLCAiaG9zdCI6ICJiZjQxOWQ1ZjU5ZjdkMC53aW5kb3dzdXBkYXRlLmNvbSIsICJ1ZHAiOiAidHJ1ZSJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hr/Cfh7UgLeaXpeacrC1wYW9wYW8udjIuanAwNS5wYW9wYW9jbG91ZC5jeW91IiwiYWRkIjoicGFvcGFvLnYyLmpwMDUucGFvcGFvY2xvdWQuY3lvdSIsInBvcnQiOiIzMzA3IiwidHlwZSI6Im5vbmUiLCJpZCI6IjBmZWI0ZWE5LWJjYWEtMzJjMi1iYmRkLWIzZDEzZGRkYjYxMiIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6ImpwMDUuc3NydTQuZnVuIiwidGxzIjoidGxzIn0=
 vmess://eyJwcyI6ICLwn4ev8J+HtS3ml6XmnKwtanAwNS12bTAuZW50cnkuc3J0aGR3LmFydCIsICJhZGQiOiAianAwNS12bTAuZW50cnkuc3J0aGR3LmFydCIsICJwb3J0IjogIjQ0OSIsICJ0eXBlIjogInZtZXNzIiwgImlkIjogIjEyMjM5MmI2LTJhNWEtMzQyYy1iYmZhLWUzMzAxY2I1ZTdlMCIsICJhaWQiOiAiMSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvaGxzL2NjdHY1cGhkLm0zdTgiLCAiaG9zdCI6ICJqcDA1LXZtMC5lbnRyeS5zcnRoZHcuYXJ0IiwgInRscyI6ICIiLCAic2N5IjogImF1dG8ifQ==
+trojan://2274c52572e721086f8bd8f88984643c@160.16.196.59:3169?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net# JP | 160.16.196.59
+trojan://2274c52572e721086f8bd8f88984643c@160.16.132.158:1334?security=tls&sni=www.nintendogames.net&path=/# JP | 160.16.132.158
 trojan://2274c52572e721086f8bd8f88984643c@160.16.81.84:2760?security=tls&sni=www.nintendogames.net&fp=chrome&type=tcp# JP | 160.16.81.84
 trojan://2274c52572e721086f8bd8f88984643c@153.121.51.29:127?security=tls&sni=www.nintendogames.net&fp=chrome&type=tcp# JP | 153.121.51.29
 trojan://2274c52572e721086f8bd8f88984643c@160.16.124.55:5553?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net# JP | 160.16.124.55
