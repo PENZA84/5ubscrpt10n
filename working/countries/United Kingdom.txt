@@ -233,6 +233,8 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.195:443#%F0%9F%87%AC%F0%9F%87%A
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.182:443#%F0%9F%87%AC%F0%9F%87%A7_GB_%E8%8B%B1%E5%9B%BD-%3E%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443#%F0%9F%87%AC%F0%9F%87%A7_GB_%E8%8B%B1%E5%9B%BD
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.180:443#%F0%9F%87%AC%F0%9F%87%A7_GB_%E8%8B%B1%E5%9B%BD
+trojan://telegram-id-directvpn@51.21.138.5:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#%F0%9F%87%AC%F0%9F%87%A7_GB_%E8%8B%B1%E5%9B%BD-%3E%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF
+trojan://telegram-id-directvpn@51.21.95.150:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#%F0%9F%87%AC%F0%9F%87%A7_GB_%E8%8B%B1%E5%9B%BD-%3E%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@62.100.205.177:990#GB  ROSE289
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphWUV6RVd5cXVIb2I0eTgtWnpKNmF3@170.168.61.141:1080#GB  ROSE293
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmdUpCdGlFY0VuR1QxcFVsTVJ4Qmpp@78.129.140.11:443#GB  ROSE312
@@ -1019,9 +1021,6 @@ vless://e60c6be1-42cc-472e-b35d-6568fe8a49b2@IP.mirzabox.info:2096?path=%2F&secu
 vless://ee41a97f-e3b7-4ab2-97cf-f12f93d69698@158.220.82.224:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=aws.amazon.com&pbk=tTyX27Ray_QxyZv9ICeurhJkRaTp7t98UrBI1EDYVi8&fp=chrome#[openproxylist.com] vless-GB
 vless://ca72617f-337c-4b0e-84f0-d3c29f82d2b7@37.221.125.227:443?path=%2F&security=tls&encryption=none&fp=chrome&type=ws#[openproxylist.com] vless-GB
 vless://7c9d302f-1438-4f37-a6e0-0591dc4a4614@158.220.88.63:443?mode=gun&security=reality&encryption=none&pbk=DTfizB6SKAjSe4gQVreWTIMpDT7HsDcqfR0_Y2xo7Gw&fp=safari&type=grpc&serviceName=7e41eb32ea906cebaf077110&sni=www.microsoft.com&sid=7daa515f56d7db89#[openproxylist.com] vless-GB
-trojan://telegram-id-directvpn@51.21.138.5:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#%F0%9F%87%AC%F0%9F%87%A7_GB_%E8%8B%B1%E5%9B%BD-%3E%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF
-trojan://telegram-id-directvpn@51.21.95.150:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#%F0%9F%87%AC%F0%9F%87%A7_GB_%E8%8B%B1%E5%9B%BD-%3E%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
-vless://e60c6be1-42cc-472e-b35d-6568fe8a49b2@IP.mirzabox.info:2096?path=%2F&security=tls&encryption=none&host=GRouND-sloth.zulair.SIte.&type=ws&sni=GRouND-sloth.zulair.SIte.#[openproxylist.com] vless-GB```
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5OTMwMWQ1NS1hNDFmLTQ5MTktOTg2Yi0xNDM1OTk2NTMzYWE@120.238.122.208:50002#UK%2F1|Github%E6%90%9C%E7%B4%A2TrojanLinks
 trojan://M4Z093NUxzTd@35.177.239.227:14812?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#GB|GithubTrojanLinks
 trojan://GbpL4)01b2J9@18.171.154.1:14815?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#GB|GithubTrojanLinks
