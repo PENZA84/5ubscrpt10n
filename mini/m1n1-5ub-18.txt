@@ -1,3 +1,7 @@
+vless://f12977e6-d296-4d94-9aaf-d31770b70f84@104.21.69.44:443?path=%2F&security=tls&encryption=none&host=cr77.hedieh.dpdns.org&fp=chrome&type=ws&sni=cr77.hedieh.dpdns.org#@MoftConfigCanadaTorontoping:8.21ms
+vless://65343a27-de9d-4b0c-ab0a-562309c94d2b@95.216.166.212:8880?encryption=none&security=none&type=grpc#@MoftConfigFinlandHelsinkiping:13.76ms
+vless://e607e472-cee3-4ea7-c731-4a041a961a05@91.107.253.168:8880?type=grpc&mode=gun&authority=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#@MoftConfigGermanyNurembergping:35.24ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjd3cwcXIybHNsdmNKWUUyMllkZUhZ@81.19.141.45:443#@MoftConfigGermanyFrankfurt am Mainping:26.07ms
 trojan://telegram-id-privatevpns@63.178.27.177:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[]t.me/MoftConfig
 vless://5a76615b-10e1-46f7-d521-17662f3c7287@157.180.45.73:8880?mode=gun&security=none&encryption=none&authority=%2Fxx&type=grpc#@MoftConfigFinlandHelsinkiping:13.55ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIeElOQ3Z6YmliMkMzTmpIOG84NlVQ@91.108.245.111:23600#@MoftConfigGermanyFrankfurt am Main (Innenstadt I)ping:35.15ms
@@ -9994,7 +9998,3 @@ vless://1260fbdc-57b6-4%652c-%6176f-c6f748d26917@151.101.3.8:80?path=/-L%69%562%
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.101:443?security=tls&sni=dk.ylks.xyz&type=ws&path=%2F%3Fproxyip#[]t.me/ConfigsHub
 vless://0ef0630e-544c-4ed0-a4de-861f14695f37@172.66.46.236:443?encryption=none&security=tls&sni=m2-1cm.pages.dev&fp=chrome&type=ws&path=%2F#[]t.me/ConfigsHub
 vless://8b76d8c3-f838-44a3-bbef-30250b9c33fa@185.36.145.122:2083?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=book.smnsoft.com#[]t.me/ConfigsHub
-vless://33f2c6ae-7790-4e37-8965-30780b718760@v2shop-fl1.bing-net.com:3044?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#[]t.me/ConfigsHub
-vless://33f2c6ae-7790-4e37-8965-30780b718760@v2shop-usa1-emr.bing-net.com:7032?mode=stream-up&path=%2Fapi%2Fstream&security=reality&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%2016777216%2C%20%22scMaxConcurrentPosts%22%3A%201024%2C%20%22scMinPostsIntervalMs%22%3A%201%2C%20%22xPaddingBytes%22%3A%20%22200-2000%22%2C%20%22noGRPCHeader%22%3A%20true%7D&pbk=g23nq_R9TIMbMIGQHB6gjDNewFzrHXPcj72bTS-RtX8&fp=chrome&type=xhttp&sni=mdundo.com#[]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWdEcydHZrWGRwUjludWlUQTRNdXpQ@62.133.60.60:7048?note=--Telegram--@NetifyVPN--#[]t.me/ConfigsHub
-vmess://eyJhZGQiOiI4LjIxOC4xMjAuMjA5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjU0MGE5ZmQ5LTlkYzgtNDM0Zi1jOTcxLWExMGU5YmVmZDdmYSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTUxNjAiLCJwcyI6Ilvwn4et8J+HsF10Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
