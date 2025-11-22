@@ -217,7 +217,6 @@ trojan://telegram-id-directvpn@13.39.112.204:22222?security=tls&sni=trj.rollingn
 trojan://telegram-id-directvpn@13.39.169.16:22223?allowInsecure=1&sni=trojan.burgerip.co.uk#FR_speednode_0013
 trojan://telegram-id-privatevpns@13.39.169.16:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#FR_speednode_0014
 trojan://c2de1269-17cb-41f6-ab97-f8c11a6f0f4f@158.178.206.197:8443?allowInsecure=0&sni=joss.gpj1.web.id&type=ws&host=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/158.178.206.197=8443#FR_speednode_0018
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@51.44.82.83:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&type=tcp&sni=chatgpt.com&sid=f5#France%2074%20dailyv2ry
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@35.181.172.196:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&type=tcp&sni=chatgpt.com&sid=f5#France%2042%20dailyv2ry
 vless://6c5294f9-c5b5-4d19-8bbd-985075972e20@betty.ns.cloudflare.com:443?encryption=none&security=tls&sni=638991681638524433.jetta-amsia.info&type=ws&host=638991681638524433.jetta-amsia.info&path=/cmcfpxws#France%2088%20dailyv2ry
 vless://87acaa42-a6dc-4240-a490-bb99b44454f1@sky.ns.cloudflare.com:443?encryption=none&security=tls&sni=638992008112154761.jimny-amsib.info&type=ws&host=638992008112154761.jimny-amsib.info&path=/tgysufws#France%2075%20dailyv2ry
@@ -228,7 +227,6 @@ vless://ad0a1c58-c267-405a-b7b6-f2c419f4010b@delilah.ns.cloudflare.com:443?encry
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@35.180.210.8:55605?encryption=none&type=tcp#France%2069%20dailyv2ry
 vless://a697a2a1-7ccc-4f09-b775-9785a0280570@delilah.ns.cloudflare.com:443?encryption=none&security=tls&sni=638993742411049514.impreza-amsid.info&type=ws&host=638993742411049514.impreza-amsid.info&path=/mwdumwws#France%2081%20dailyv2ry
 vless://65a83fe9-195f-4bae-9334-f3b1b792fdb3@betty.ns.cloudflare.com:443?encryption=none&security=tls&sni=638993742374437889.legacy-amsid.info&type=ws&host=638993742374437889.legacy-amsid.info&path=/ulccigws#France%2091%20dailyv2ry
-ss://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@51.44.82.83:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&type=tcp&sni=chatgpt.com&sid=f5#France%2074%20dailyv2ry
 ss://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@35.181.172.196:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&type=tcp&sni=chatgpt.com&sid=f5#France%2042%20dailyv2ry
 ss://6c5294f9-c5b5-4d19-8bbd-985075972e20@betty.ns.cloudflare.com:443?encryption=none&security=tls&sni=638991681638524433.jetta-amsia.info&type=ws&host=638991681638524433.jetta-amsia.info&path=/cmcfpxws#France%2088%20dailyv2ry
 ss://87acaa42-a6dc-4240-a490-bb99b44454f1@sky.ns.cloudflare.com:443?encryption=none&security=tls&sni=638992008112154761.jimny-amsib.info&type=ws&host=638992008112154761.jimny-amsib.info&path=/tgysufws#France%2075%20dailyv2ry
@@ -1157,9 +1155,8 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638960638051874642.london-blkaft-aa
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638960582852354160.paris-blkaft-aaap.info:8880?encryption=none&type=grpc&path=%2f#%f0%9f%87%ab%f0%9f%87%b7%20FR%2012
 vless://1fe1b7e2-e3ec-44ba-b440-c038ddcee40d@sky.ns.cloudflare.com:443?encryption=none&security=tls&sni=638991995737738113.swift-amsib.info&type=ws&host=638991995737738113.swift-amsib.info&path=/ahkthyws#[openproxylist.com] vless-FR
 vless://87acaa42-a6dc-4240-a490-bb99b44454f1@sky.ns.cloudflare.com:443?encryption=none&security=tls&sni=638992008112154761.jimny-amsib.info&type=ws&host=638992008112154761.jimny-amsib.info&path=/tgysufws#[openproxylist.com] vless-FR
-vless://42a833ca-be47-434b-a45a-8c5dcb4ae4fa@108.162.192.75:443?security=tls&sni=638991523882288916.impreza-amsia.info&fp=chrome&type=ws&path=/ybkqtgws&host=638991523882288916.impreza-amsia.info&encryption=none#[openproxylist.com] vless-FR
+vless://42a833ca-be47-434b-a45a-8c5dcb4ae4fa@betty.ns.cloudflare.com:443?path=/ybkqtgws&security=tls&encryption=none&host=638991523882288916.impreza-amsia.info&type=ws&sni=638991523882288916.impreza-amsia.info#[openproxylist.com] vless-FR
 trojan://fea8b7a7-cc83-4a78-a3fc-bbce9cc89ddb@34.22.190.30:443?security=tls&type=ws&sni=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/34.22.190.30=443&host=joss.gpj1.web.id#[openproxylist.com] trojan-FR
-vless://405ec164-7923-4d76-8be5-7ae96e444f4e@62.60.246.188:443?security=reality&encryption=none&pbk=o3H8CUivdt6lbFH6S7CQZ6dua7nUg5rYtPdSyXpjpx0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=6104c5e9613ea56c#[openproxylist.com] vless-FR
 vless://6c5294f9-c5b5-4d19-8bbd-985075972e20@betty.ns.cloudflare.com:443?encryption=none&security=tls&sni=638991681638524433.jetta-amsia.info&type=ws&host=638991681638524433.jetta-amsia.info&path=/cmcfpxws#[openproxylist.com] vless-FR
 vless://038a42d5-05b0-4d12-af99-37643ac347a1@betty.ns.cloudflare.com:443?encryption=none&security=tls&sni=638991995737742135.swift-amsib.info&type=ws&host=638991995737742135.swift-amsib.info&path=/fhujaiws#[openproxylist.com] vless-FR
 trojan://(VuRWFIPsAhP@13.38.109.97:14828?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#FR|GithubTrojanLinks
