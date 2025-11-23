@@ -229,6 +229,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwV3FUVFY2bHJuUEFwZEVBRjhRc204@40.114.210.138
 vmess://ewogICAgImFkZCI6ICIxOTkuMjQ3LjMwLjQ1IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICJjYTgwNDUxZS03NjhhLTQ2OWYtOTkxMy01N2EyNzI2OGZkNzAiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogODA4MCwKICAgICJwcyI6ICLwn4ez8J+HsU5MLTE5OS4yNDcuMzAuNDUtOTIzMCIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYdkswbHRINjdYaHY5aHQ5UmhZc0Z5@185.88.141.118:8080#%F0%9F%87%B3%F0%9F%87%B1NL-185.88.141.118-9276
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxR2ptSThXUWxGMHRmaERia0xxR2RO@185.88.140.204:8080#%F0%9F%87%B3%F0%9F%87%B1NL-185.88.140.204-9278
+trojan://ee339912-0c35-4fac-8d85-180b65bcd49c@81.22.132.183:443?allowInsecure=0&sni=joss.gpj1.web.id&type=ws&host=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/81.22.132.183=443#NL_speednode_0035
+trojan://35f8e682-54bd-42c7-b537-94a8e4c84bcd@89.110.120.197:443?allowInsecure=0&sni=joss.gpj1.web.id&type=ws&host=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/89.110.120.197=443#NL_speednode_0036
 vless://58c741fe-d085-542e-a5f7-d4cfbc410797@45.133.247.51:80?security=none&type=ws&host=242b9.olielielie.store.&path=%2Fvless%23t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro%3Fed%3D2048#%F0%9F%87%B3%F0%9F%87%B1_NL_%E8%8D%B7%E5%85%B0-%3E%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@109.201.152.181:443#%F0%9F%87%B3%F0%9F%87%B1NL-109.201.152.181-0322
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.202:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.202-0286
@@ -1223,27 +1225,22 @@ vmess://eyJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJwcyI6ICJcdWQ4M2NcdWRkZjNcdWQ4M2Nc
 vmess://eyJ2IjoiMiIsInBzIjoiTkxfOTUuMjExLjU4LjU1XzExMjEyMDIyZGE1OC05MCIsImFkZCI6Ijk1LjIxMS41OC41NSIsInBvcnQiOiIxNjQxOCIsInR5cGUiOiJub25lIiwiaWQiOiI5NzU2YzdkMC00YTg2LTQyMTAtZmFkMS0xM2Q1Y2JkODZiMDMiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hs/Cfh7EgTkwgNTcgVk1TIiwiYWRkIjoiOTUuMjExLjU4LjU1IiwicG9ydCI6IjE2NDE4IiwidHlwZSI6Im5vbmUiLCJpZCI6Ijk3NTZjN2QwLTRhODYtNDIxMC1mYWQxLTEzZDVjYmQ4NmIwMyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZ2RnSEc1NXRodCIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
 vmess://eyJwcyI6ICJcdWQ4M2NcdWRkZjNcdWQ4M2NcdWRkZjEtXHU4Mzc3XHU1MTcwLW5sMS52MnJheXNlcnYuY29tIiwgIlx1NTE0ZFx1OGQzOVx1OGJhMlx1OTYwNVx1NWMzZFx1NTcyOGh0dHBzIjogIiIsICJhZGQiOiAibmwxLnYycmF5c2Vydi5jb20iLCAicG9ydCI6ICI4MCIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiZTcyN2Y2ZTMtZDIwNi00ZjA0LTgwZjgtMzBkYWZkNTJmYmUyIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgInRscyI6ICJmYWxzZSIsICJza2lwLWNlcnQtdmVyaWZ5IjogInRydWUiLCAibmV0IjogIndzIiwgIndzLW9wdHMiOiAiIiwgInBhdGgiOiAiL3NzaG9jZWFuIiwgImhlYWRlcnMiOiAiIiwgImhvc3QiOiAibmwxLnYycmF5c2Vydi5jb20iLCAidWRwIjogInRydWUifQ==
-vless://7843d0a1-be6f-4b7f-92e2-8040711b434c@89.39.70.58:29300?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=canva.com&pbk=kJzMBU-gwtqNcJx_igad-d891SBXixmCh78WTIRTIQk&sid=5a&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn# NL | 89.39.70.58
+vless://40d7798a-6c76-4298-a9d4-9e6181cd2dd7@nld26.luckernld.org:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.cybo.com# NL | 45.136.125.217
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@80.92.206.19:8880/?type=grpc&encryption=none# NL | 80.92.206.19
 vless://f622d985-ea5a-463b-ad0a-d1031b0d403e@nor1.vlessok.store:443/?security=reality&encryption=none&pbk=teGK61lH7ZMhpHLTpYXcDeb8kR9GU-S2QfNd2jjJLHA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api.google.com&sid=abc05e53# NL | 178.173.249.163
 vless://8285eef0-147d-4bb6-9d12-0e4601a36e78@151.101.204.190:80?encryption=none&security=none&type=xhttp&host=minovpnch.net&path=/awduhiawad?ed=2560&mode=auto# NL | 151.101.204.190
-vless://4c600df7-b464-4f01-8d61-85fc3c068215@159.65.194.42:55512?encryption=none&security=none&type=ws&path=/# NL | 159.65.194.42
-vless://38df3a26-bc00-4c57-8579-4d006373b8ba@nl2.asc-sam.ir:8880?path=/@NoForcedHeaven@NoForcedHeaven@NoForcedHeaven&security=none&encryption=none&type=ws# NL | 194.116.216.21
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638957009637251670.london-blkaft-aaag.info:8880?mode=gun&security=none&encryption=none&type=grpc# NL | 45.120.178.93
 vless://78a9bf4f-3bec-48b2-b98f-a3f8151506ac@europeless.duckdns.org:443?security=tls&sni=europeless.duckdns.org&fp=random&type=ws&path=/getupdates&host=europeless.duckdns.org&encryption=none# NL | 64.188.97.173
 vless://4bb35928-40bb-4bf3-95f1-9efdc4169147@159.223.209.139:46964?security=&encryption=none&headerType=&type=tcp# NL | 159.223.209.139
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638957009637251670.london-blkaft-aaag.info:8880?encryption=none&security=none&type=grpc# NL | 45.120.178.93
 vless://7b93491b-d1c0-4679-938d-56f0abec50b2@199.247.28.17:44914?type=xhttp&path=/&host=&mode=auto&security=reality&pbk=o1n1Qj_IBvl3xGDkMPzmuRJzKKW31L_r9kEeyW7e3F8&fp=chrome&sni=black-moai.com&sid=1ac2a2dde288&spx=/# NL | 199.247.28.17
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638942397698496885.dublin-drc-tusacaf.info:8880?encryption=none&type=grpc&mode=gun&security=none# NL | 45.12.142.96
+vless://ffbb609e-6c2e-4acc-9300-e6170ad5bd52@amsterdam.fonixapp.org:44180?security=reality&encryption=none&pbk=3SqRgzwkPnY8VPAXlaPLD5iWSIVDP2SjAunOfg36ITI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=canva.com&sid=aab454b749# NL | 89.39.70.58
+vless://40d7798a-6c76-4298-a9d4-9e6181cd2dd7@nld26.luckernld.org:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cybo.com&fp=chrome&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&spx=/&type=tcp&headerType=none# NL | 45.136.125.213
 vless://a04f1f54-0958-41cc-b76f-03338cf79ca3@81.22.132.254:443?encryption=none&security=tls&sni=cold-snow-07fa.mokhinmokhini.workers.dev&fp=chrome&type=ws&host=cold-snow-07fa.mokhinmokhini.workers.dev&path=/# NL | 81.22.132.254
 vless://a04f1f54-0958-41cc-b76f-03338cf79ca3@146.103.33.38:443?encryption=none&security=tls&sni=cold-snow-07fa.mokhinmokhini.workers.dev&fp=chrome&type=ws&host=cold-snow-07fa.mokhinmokhini.workers.dev&path=/# NL | 146.103.33.38
-vless://bccbecc9-c1d2-45d1-b3fa-771a19b9831c@nl.nodes.rocketnetwork.ru:443?security=reality&encryption=none&pbk=Mn0DIMKW6zu0_D3E1qKO7xMlIVZvB-rqO_-f7Le2vAs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nl.nodes.rocketnetwork.ru&sid=428ef87fd47a3a32# NL | 94.103.95.59
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@193.29.139.143:8080# NL | 193.29.139.143
+vless://a24481eb-0496-4ab9-9bd0-af1d530df91d@5.255.120.217:80?mode=auto&path=/pwp&security=reality&encryption=none&pbk=C4LNbOB3Ar0cntu528Jtn5ivsMZhyk9tkuAlU-jeCio&host=bleep.global.ssl.fastly.net&fp=chrome&spx=/&type=xhttp&sni=journalofbigdata.springeropen.com&sid=8c# NL | 5.255.120.217
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5T0RMWFZMejJGV05URmVTU25nM0Zt@136.244.100.113:443# NL | 136.244.100.113
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@193.29.139.164:8080# NL | 193.29.139.164
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.179:8080# NL | 193.29.139.179
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WXpJNU1tTXhZV1ptTmpOaU5HRTVOR0k1WVdRd1pqUTRZemM1TXpGa01qYz06Wm1abVptWm1abVptWm1GbU5EY3hOMkUxWWpBM09EazRNbU00TWpCak1ERT0=@77.221.154.173:45090# NL | 77.221.154.173
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowTmVONXRhN0ZMYTVCOURMeXRVMHVt@212.34.140.184:443# NL | 212.34.140.184
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@switcher-nick-croquet.freesocks.work:443# NL | 92.112.126.90
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvSDhIand2SDFEazByM3Y5Z21acXRW@194.87.216.218:52571# NL | 194.87.216.218
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080# NL | 193.29.139.235
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowTmVONXRhN0ZMYTVCOURMeXRVMHVt@promo1o.bystrivpn.ru:443?type=tcp# NL | 212.34.140.184
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzREdEYktFNnl0Rzh0RHFDTmk0ZEx5@194.87.216.218:52571# NL | 194.87.216.218
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzREdEYktFNnl0Rzh0RHFDTmk0ZEx5@h110vpnnl.outlinekeys.net:52571# NL | 194.87.216.218
