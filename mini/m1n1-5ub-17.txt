@@ -1,3 +1,7 @@
+trojan://telegram-id-privatevpns@35.178.40.205:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@18.175.71.57:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S116)@MoftConfig
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.43.170.142:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[]t.me/ConfigsHub
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.26.5.157:2083?encryption=none&security=tls&sni=5-55sfjslf.ifenxiang.cfd&fp=chrome&type=ws&host=5-55sfjslf.ifenxiang.cfd&path=%2F#[]t.me/ConfigsHub
 vmess://eyJhZGQiOiIxOTMuMzEuMTE2LjE5OCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI2ZjRkMGY5Yi00MmRlLTRmZTAtZTljYy0wZmUyYjFjMDU4OGUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjI4MTI5IiwicHMiOiJb8J+HufCfh7dddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vless://39151573-a7b1-4e4c-829d-64ca71ec78d2@242232454.web-manage.com.tr:1521?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#[]t.me/MoftConfig
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206TkdFelpURTFObUUxTWprNE5EUTBObVptTlRRMllqRmtNMk15TjJVNU4yVT06TW1NNFl6UXhPREl0WXpsak1pMDBZak13TFdJeFlUTXRPR1EyTnprMk5qYz0@54.169.108.58:52678#[]t.me/MoftConfig
@@ -9994,7 +9998,3 @@ vless://telegram-id-Arfilter@172.66.40.99:443?encryption=none&security=tls&sni=r
 vmess://eyJhZGQiOiAiMjEyLjE4My44OC4yNCIsICJhaWQiOiAwLCAiaG9zdCI6ICJlMTMwOTE3Yy0xYjU4LTQxMzYtYjJkOS03NmRjOTIwZTBhZGQuYWRkOTdlZTgtMGYxNC00OGEzLWIyY2QtOTc5YzU2NzQyZTY0Lmxvc2V5b3VyaXAuY29tIiwgImlkIjogIjA1NjQxY2Y1LTU4ZDItNGJhNC1hOWYxLWIzY2RhMGIxZmIxZCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvb2JkaWkuY2ZkOjQ0My9saW5rd3MiLCAicG9ydCI6IDQ0MywgInBzIjogW/Cfj4FddC5tZS9Db25maWdzSHViIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.216.11.41:2222?type=tcp#[]t.me/ConfigsHub
 trojan://bpb-trojan@104.19.81.29:443?allowInsecure=0&sni=fcspring.ggff.net#[]t.me/ConfigsHub
-vmess://eyJhZGQiOiAiMTA0LjE2LjY4LjM4IiwgImFpZCI6IDAsICJob3N0IjogIjdoc3MtYnV0dGVyZmx5LWQ0YzMuZmlqZXRlbTQzMi53b3JrZXJzLmRldiIsICJpZCI6ICJhMTY1NWY1MS0xZTIwLTRhOTItOGExMS1iN2NhMzBhN2EzNTMiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2FmcmhtczA3LnhmaXhlZGZsb2F0LmNmZC9saW5rd3MiLCAicG9ydCI6IDIwNTIsICJwcyI6IFvwn4+BXXQubWUvQ29uZmlnc0h1YiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
-vless://c2b6c0b6-28c3-4b2d-ad78-3398276c1ed4@91.99.115.173:443?mode=gun&security=reality&alpn=h2&encryption=none&pbk=mEzwGx3LUXPR-sw8RFmlGM_ctzTwPlgq-mxku4wtBnc&fp=chrome&type=grpc&serviceName=t.me/entryNET&sni=snapp.ir&sid=c1#[]t.me/ConfigsHub
-ss://bm9uZTpiYWNjYWFiLWJjYWEtYmNhYS1iYWNkLWFjY2NjYmJiYmFhYQ==@127.0.0.1:8080#[]t.me/ConfigsHub
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@188.114.99.20:8880?encryption=none&security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#[]t.me/ConfigsHub
