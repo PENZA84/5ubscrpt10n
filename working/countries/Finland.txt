@@ -365,6 +365,8 @@ vless://3ced94cb-7df6-44e5-b0c9-2cb2d7ec1688@176.124.206.205:443?allowInsecure=0
 vless://d6d16b83-e7e3-486a-aa82-a649ef73cbfa@65.109.211.159:2053?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AB%F0%9F%87%AE%20FI-65.109.211.159%3A2053
 vless://99785b25-5b68-40c7-be5c-199cac21c838@65.109.211.159:2093?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AB%F0%9F%87%AE%20FI-65.109.211.159%3A2093
 vless://723eb4ef-b933-494e-8b6f-c4b4c580dcca@65.109.211.159:2096?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AB%F0%9F%87%AE%20FI-65.109.211.159%3A2096
+vless://de76b1cb-a2a0-43c0-8b8b-b3be2c0af830@157.180.29.25:42671?security=none&encryption=none&type=ws&path=%2fNT_Safe#%f0%9f%87%ab%f0%9f%87%ae%20FI%201
+vless://7baf5c49-7296-4ea8-bca8-8cd8adddb17b@hield.ru:4425?flow=xtls-rprx-vision&security=reality&encryption=none&sni=google.com&fp=chrome&pbk=I8C10gt92B_XeMMSsCIaePHYu2O1IE5hz0x2VKS7tzo&sid=e8&spx=%2f&type=tcp&path=%2f#%f0%9f%87%ab%f0%9f%87%ae%20FI%202
 vless://b35e1a7b-1248-406c-a35c-d417cd6c830e@fl.mizbanandata.com:443?security=reality&encryption=none&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&headerType=none&fp=firefox&type=tcp&sni=docker.com&sid=fd1dff03520d8f56#[openproxylist.com] vless-FI
 vless://8a49b57a-d02e-4965-a24f-b7f189cbb98d@m22a.vip784.com:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#[openproxylist.com] vless-FI
 vless://346a072d-36d8-427f-912c-8756c1c53e1b@m86a.vip784.com:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#[openproxylist.com] vless-FI
