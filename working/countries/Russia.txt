@@ -6,7 +6,6 @@ vless://6bb90b5a-db5b-401d-afa9-49667e75de1e@77.73.238.211:16109?security=realit
 trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_3
 trojan://d78d48df-b788-4a95-9e9f-77c9b2f69822@193.233.114.58:8443?allowInsecure=0&sni=joss.gpj1.web.id&ws=1&wspath=%2FFree-VPN-CF-Geo-Project%2F193.233.114.58%3D8443#%F0%9F%87%B7%F0%9F%87%BA%20_RU_%E4%BF%84%E7%BD%97%E6%96%AF
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxN1pET1JXSWxpUUh1TzZXUkdIQ2hYWU16ZFJ0QVlWUA@45.14.245.2:443#%F0%9F%87%B7%F0%9F%87%BA%20_RU_%E4%BF%84%E7%BD%97%E6%96%AF
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptYmhxc1N0bkZRVDFjVFpZQ2RzbWt1Z0dVQzZHVDZycA@213.159.67.124:443#%F0%9F%87%B7%F0%9F%87%BA%20RU%E4%BF%84%E7%BD%97%E6%96%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 trojan://Qzy7tgpRhu@37.18.14.33:443?allowInsecure=1&sni=m.vk.com#RU_speednode_0030
 vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@80.90.187.190:2053?allowInsecure=0&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=/?ed=2560security=tls#RU_speednode_0031
 vless://6184fcfb-52e0-40bb-a271-bbd097b70a8e@at.monkeyisland.xyz:443?allowInsecure=0&sni=at.monkeyisland.xyz&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#RU_speednode_0032
@@ -381,12 +380,10 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+Ht/Cfh7ogLeS/hOe9l+aWry1zc3J1LnYyLnJ1MDEuMnl1bi53
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Ht/Cfh7ogUlUtVEVTVCIsImFkZCI6IjE3Ni4xMTkuMTU5LjI0NSIsInBvcnQiOiIzNzY3MiIsInR5cGUiOiJub25lIiwiaWQiOiI4NmI0ZTM1Yy0xMDYxLTQ3YjMtOGM2Yy04MTFkMTg1M2E0NzciLCJhaWQiOiI2NCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiJ9
 vmess://eyJwcyI6ICLwn4em8J+Hti3luIzohYotYW9wLnNzZnJlZS5ydSIsICJhZGQiOiAiYW9wLnNzZnJlZS5ydSIsICJwb3J0IjogIjQ0MyIsICJ0eXBlIjogInZtZXNzIiwgImlkIjogImU0ODZjZDRhLTY2OTAtMTFlZC1hNzA0LTAwMDAxNzAyMjAwOCIsICJhaWQiOiAiNjQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2dldHdlYXRoZXIiLCAiaG9zdCI6ICJhb3Auc3NmcmVlLnJ1IiwgInRscyI6ICJ0bHMiLCAic2N5IjogImF1dG8ifQ==
 vmess://eyJwcyI6ICLwn4em8J+Hti3luIzohYotYW9wLnNzZnJlZS5ydSIsICJhZGQiOiAiYW9wLnNzZnJlZS5ydSIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICI0ZmNiMTBhOC02NjJjLTExZWQtOTgyYy0wMDAwMTcwMjIwMDgiLCAiYWlkIjogIjY0IiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogInZtZXNzIiwgImhvc3QiOiAiYW9wLnNzZnJlZS5ydSIsICJwYXRoIjogIi9nZXR3ZWF0aGVyIiwgInRscyI6ICJ0bHMiLCAic25pIjogIiIsICJhbHBuIjogIiJ9
-vless://258a5f07-d07e-4de4-90b6-69a0ca34bab7@cdn.cloudconvert.top:10012?security=reality&encryption=none&pbk=X8bSZA_Q-ReshpPEd17oMU7YfZlHWoOEGB7HM8ZSmXk&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cdn.cloudconvert.top&sid=abc82912# RU | 176.108.247.130
 vless://cbf1ec03-2cff-4b1f-9eb5-5929c13fc20c@wolfy.ufavpn.ru:27121?security=reality&encryption=none&pbk=QNLEBa5tV9JCrubA4hlAWhho06ddr2dtsT8LKZsGTgA&headerType=none&fp=chrome&type=tcp&sni=www.ok.ru&sid=fdc8125ea6f61323# RU | 62.113.42.65
 vless://80a7501b-8d1b-4e9d-bea5-903fb1053274@torless.duckdns.org:443?security=tls&sni=torless.duckdns.org&fp=random&type=ws&path=/getupdates&host=torless.duckdns.org&encryption=none# RU | 45.67.32.147
 vless://b82a8d33-9bb0-463a-a94d-53bb5e9b151d@45.11.93.133:70?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp# RU | 45.11.93.133
 vless://4a6de183-2ad3-456c-b420-feeac81f6257@51.250.28.39:443?mode=gun&security=reality&encryption=none&pbk=FCg2XiFJrpH-2XlELSSSyEC7zkeW29HOgp4rfrqXEAI&fp=chrome&type=grpc&serviceName=xyz&sni=cloudflare.com&sid=123abc# RU | 51.250.28.39
 vless://b4b8aa1f-77d2-4851-a5a4-f78886f3e997@138.124.186.201:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com# RU | 138.124.186.201
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWVmxBZmY3N0NuQVU0M0FvYzVqMTVZ@90.156.203.62:5112# RU | 90.156.203.62
+ss://YWVzLTI1Ni1nY206VE1JbjBibkdEczRKc1FxUytKbm5ZdGZSSmlBVWoya25yYkNzbWNkcjRpVT0@93.183.80.81:30015?note=--Telegram--@NetifyVPN--# RU | 93.183.80.81
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456# RU | 45.139.24.24
-ss://YWVzLTI1Ni1nY206VE1JbjBibkdEczRKc1FxUytKbm5ZdGZSSmlBVWoya25yYkNzbWNkcjRpVT0@93.183.80.81:30015?note=--Telegram--NetifyVPN--# RU | 93.183.80.81
