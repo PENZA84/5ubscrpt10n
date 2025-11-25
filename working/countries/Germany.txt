@@ -2311,7 +2311,6 @@ vless://b8be6118-0dd7-4402-ae1a-69b2816f3a7f@172.67.92.147:80?encryption=none&se
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@160.153.137.247:8880?encryption=none&security=none&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8%20%E4%B8%80%E5%85%83%E6%9C%BA%E5%9C%BA%3Assrsub.de%20%E7%BE%8E%E5%9B%BD%2007
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.176.213:8880?encryption=none&security=none&type=ws&host=jp.laoyoutiao.link&path=%2F#%F0%9F%87%A9%F0%9F%87%AADE_739_%40Surfboardv2ray
 vless://6f690965-3be3-43bb-9331-3ead6efb20aa@172.67.17.195:80?encryption=none&security=none&sni=sib.sibzamini.dpdns.org&type=ws&host=sib.sibzamini.dpdns.org&path=%2F#%F0%9F%87%B3%F0%9F%87%B1%20%E4%B8%80%E5%85%83%E6%9C%BA%E5%9C%BA%3Assrsub.de%20%E8%8D%B7%E5%85%B0%2003
-vless://cfe554a3-4cd5-4fe1-9951-e6b65fc52a74@91.107.139.110:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40orange_vpns%20%5B20%5D
 vless://Warpi-Free-Vpn-In-GooglePlay@78.47.80.152:443?security=none&path=%2f#%f0%9f%87%a9%f0%9f%87%aa%20DE%201
 vless://Warpi-Free-Vpn-In-GooglePlay@78.47.80.152:443?type=tcp&path=%2f#%f0%9f%87%a9%f0%9f%87%aa%20DE%202
 vless://30d2dacc-dd0b-4f98-abe6-5333bc1548ae@gm.bargainoxy.com:47193?security=reality&encryption=none&sni=www.pcmag.com&fp=firefox&pbk=Q9KrxctP_L5fT1sL_sQLejDpNn7KdH1b-wZ_GR0UtX4&sid=f414e49bc35be542&type=tcp&headerType=none&path=%2f#%f0%9f%87%a9%f0%9f%87%aa%20DE%203
@@ -2331,18 +2330,16 @@ vless://Warpi-Free-Vpn-In-GooglePlay@188.245.197.0:443?type=tcp&encryption=none&
 vless://43b20356-d68c-410b-abab-8ee2b8bd0be8@m92a.vip784.com:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#[openproxylist.com] vless-DE
 vless://f3f072d9-83a5-44b2-bc43-6cda1954a1ef@91.107.171.134:19904?security=reality&encryption=none&pbk=Alzk4K6KLIeAiW70YsFD6N3Z6u0mwfXFdqBbNI0veSo&headerType=none&fp=chrome&type=tcp&sni=www.tgju.org&sid=ab#[openproxylist.com] vless-DE
 vmess://eyJhZGQiOiJtY2kueWVrdGFuZXQuaW5mbyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJhNGI0MWRjOC1iNjg0LTQ5ZTQtYjNkYi1hZGUzODJjMTEzZDMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjU1NTU1IiwicHMiOiJcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWFbb3BlbnByb3h5bGlzdC5jb21dIHZtZXNzLURFIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
-vless://cfe554a3-4cd5-4fe1-9951-e6b65fc52a74@sea-daisy.unity4world.ir:8880?mode=gun&security=&encryption=none&type=grpc#[openproxylist.com] vless-DE
+vless://cfe554a3-4cd5-4fe1-9951-e6b65fc52a74@sea-daisy.unity4world.ir:8880?mode=gun&security=none&encryption=none&type=grpc#[openproxylist.com] vless-DE
 vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=/&security=tls&encryption=none&host=piaz.mrconfigur.site&type=ws&sni=piaz.mrconfigur.site#[openproxylist.com] vless-DE
 vless://006f752c-42fe-41dd-a224-e2f7c48b72a9@de.shvurgceo.online:14357?security=reality&encryption=none&pbk=DvKMFkm82Jkp6Jk_7pXYb0fMXq1MsLMNxDeQfcCSbEA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.com&sid=ab12cd34#[openproxylist.com] vless-DE
 vmess://eyJhZGQiOiI1LjIzMS41Ni45OCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1ZjJmMDc2NS1mMzMxLTRkMWUtODU2MC1kMmZiNTMzZGQ2ZmUiLCJuZXQiOiJ3cyIsInBhdGgiOiIiLCJwb3J0IjoiMzcyMSIsInBzIjoiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhW29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1ERSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
 vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=/&security=tls&encryption=none&host=kahoo.mrconfigur.site&type=ws&sni=kahoo.mrconfigur.site#[openproxylist.com] vless-DE
-vless://cfe554a3-4cd5-4fe1-9951-e6b65fc52a74@91.107.139.110:8880?mode=gun&security=&encryption=none&type=grpc#[openproxylist.com] vless-DE
-vless://Warpi-Free-Vpn-In-GooglePlay@78.47.80.152:443?security=none&encryption=none&headerType=none&type=tcp#[openproxylist.com] vless-DE
+vless://cfe554a3-4cd5-4fe1-9951-e6b65fc52a74@91.107.139.110:8880?mode=gun&security=none&encryption=none&type=grpc#[openproxylist.com] vless-DE
+vless://Warpi-Free-Vpn-In-GooglePlay@78.47.80.152:443?security=&encryption=none&headerType=none&type=tcp#[openproxylist.com] vless-DE
 vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=/&security=tls&encryption=none&host=holo.mrconfigur.site&type=ws&sni=holo.mrconfigur.site#[openproxylist.com] vless-DE
 vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=/&security=tls&encryption=none&host=nargil.mrconfigur.site&type=ws&sni=nargil.mrconfigur.site#[openproxylist.com] vless-DE
-vless://95b1344a-2b59-419f-ab7d-2ff7e5c6aa34@91.98.33.242:443?mode=gun&security=none&encryption=none&type=grpc#[openproxylist.com] vless-DE
-trojan://telegram-id-privatevpns@63.180.86.134:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40privatevpns%20%5B16%5D
-trojan://telegram-id-privatevpns@18.197.191.17:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40privatevpns%20%5B17%5D
+vless://95b1344a-2b59-419f-ab7d-2ff7e5c6aa34@91.98.33.242:443?mode=gun&security=none&encryption=none&authority=telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray&type=grpc#[openproxylist.com] vless-DE
 trojan://PiPSz(vVVKtO@3.64.178.27:14815?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#DE|GithubTrojanLinks
 trojan://Zl4TdxUTPBlb@3.122.237.170:14797?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#DE|GithubTrojanLinks
 trojan://qRaRSTEuwAy5@35.158.61.10:14813?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#DE|GithubTrojanLinks
@@ -2810,10 +2807,9 @@ vmess://eyJwcyI6ICLwn4e68J+HuC3nvo7lm70tdjY4LmlkY2xvdWRob3N0LmRlIiwgImFkZCI6ICJ2
 vmess://eyJwcyI6ICLwn4e68J+HuC3nvo7lm70tdjQ4LmlkY2xvdWRob3N0LmRlIiwgImFkZCI6ICJ2NDguaWRjbG91ZGhvc3QuZGUiLCAicG9ydCI6ICIxMDAwMCIsICJ0eXBlIjogInZtZXNzIiwgImlkIjogImRmNDFlMjNhLTc4YWItNDdhZC05ZTcxLTg5YzIyMWIwNmQwYyIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgImhvc3QiOiAidjQ4LmlkY2xvdWRob3N0LmRlIiwgInRscyI6ICIiLCAic2N5IjogImF1dG8ifQ==
 vmess://eyJhZGQiOiAidjY4LmlkY2xvdWRob3N0LmRlIiwgInBvcnQiOiAiMTAwMDAiLCAiaWQiOiAiZGY0MWUyM2EtNzhhYi00N2FkLTllNzEtODljMjIxYjA2ZDBjIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJwcyI6ICLwn4e68J+HuC3nvo7lm70tdjY4LmlkY2xvdWRob3N0LmRlIiwgImhvc3QiOiAidjY4LmlkY2xvdWRob3N0LmRlIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAidHlwZSI6ICJ2bWVzcyIsICJzZXJ2ZXJQb3J0IjogMCwgIm5hdGlvbiI6ICIifQ==
 vmess://eyJwcyI6ICLwn4e68J+HuC3nvo7lm70taGtoay5pZGNsb3VkaG9zdC5kZSIsICJhZGQiOiAiaGtoay5pZGNsb3VkaG9zdC5kZSIsICJwb3J0IjogIjgwIiwgInR5cGUiOiAidm1lc3MiLCAiaWQiOiAiYTFlOGY5YTYtZGVlNS00N2ZkLWJiYzktZTkzMDdlMGIwZWUxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICJoa2hrLmlkY2xvdWRob3N0LmRlIiwgInRscyI6ICIiLCAic2N5IjogImF1dG8ifQ==
-vless://2ee2a715-d541-416a-8713-d66567448c2e@91.98.168.173:443?mode=gun&security=none&encryption=none&type=grpc# DE | 91.98.168.173
 vless://c6251b2d-9031-45f9-8ddc-591993e264a2@91.98.237.237:42671?path=/NT_Safe&security=none&encryption=none&type=ws# DE | 91.98.237.237
-vless://e5badc02-f58f-46dd-8955-0fad475c82bb@Evay-vpn.octacityroleplay.ir:1122?encryption=none&type=xhttp&host=join-bede-evay_vpn.org&path=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=reality&fp=firefox&sni=www.slideshare.net&pbk=4iCkO1B_tdvJY7x_v9izvkoNDfdGIFiL2LQX2Nqv5RI&sid=4c7b0ea36fc7f0c4# DE | 51.77.70.198
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80?path=/http&security=none&encryption=none&type=ws# DE | 162.19.228.119
+vless://0d75b1eb-db44-4213-853c-9292361bbbc6@raeesfolnoh.rtpxc.com:2002?security=none&encryption=none&headerType=none&type=tcp# DE | 167.99.252.219
 vless://dfee545b-6087-4f13-b2a3-41cc9642d583@209.38.222.192:2096?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=# DE | 209.38.222.192
 vless://65cd9b4b-90a1-43f4-9682-3e33c8a29b0e@82.25.101.123:34712?type=tcp&security=none# DE | 82.25.101.123
 vless://636d3fe4-eb1f-49ee-9f70-2f4ec935015a@s1.aparat-movies-download.ir:4450?security=reality&encryption=none&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=zhaket.com# DE | 78.47.249.28
@@ -2825,6 +2821,7 @@ vless://cfe554a3-4cd5-4fe1-9951-e6b65fc52a74@91.107.139.110:8880?mode=gun&securi
 vless://2c165738-3a35-4549-ab59-eb37f7250ded@5.75.194.74:8443?security=&encryption=none&headerType=none&type=tcp&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---# DE | 5.75.194.74
 vless://7a3d2e42-3823-4b00-9818-293f7c6742ca@zonex.de.zopli.ir:33667?security=reality&encryption=none&pbk=urkddCRB1-01SWciigBk31sfccR6KZr4wX_BInUHu3o&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com&sid=382874842551202c# DE | 91.99.129.105
 vless://822fe21f-3839-4736-9866-4cc8cbc98cce@Evay-vpn.octacityroleplay.ir:1122?encryption=none&type=xhttp&host=join-bede-evay_vpn.org&path=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=reality&fp=firefox&sni=www.slideshare.net&pbk=4iCkO1B_tdvJY7x_v9izvkoNDfdGIFiL2LQX2Nqv5RI&sid=4c7b0ea36fc7f0c4# DE | 51.77.70.198
+vless://e5badc02-f58f-46dd-8955-0fad475c82bb@Evay-vpn.octacityroleplay.ir:1122?encryption=none&type=xhttp&host=join-bede-evay_vpn.org&path=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=reality&fp=firefox&sni=www.slideshare.net&pbk=4iCkO1B_tdvJY7x_v9izvkoNDfdGIFiL2LQX2Nqv5RI&sid=4c7b0ea36fc7f0c4# DE | 51.77.70.198
 vless://56dc390e-bfac-4642-9300-b3deb4c4644a@91.98.35.135:443?mode=auto&path=/sdf&security=reality&encryption=none&pbk=87I7aEBv0W9xl5LoEkJpd_wi6zBbVDUNDA-zZruC53g&fp=chrome&spx=/&type=xhttp&sni=store.steampowered.com# DE | 91.98.35.135
 vless://d6c32036-2968-4c0a-91e2-2c93f563a236@142.132.227.65:34560?encryption=none&security=none&type=tcp&headerType=none# DE | 142.132.227.65
 vless://f07cb7d9-36d3-4b65-b4dd-186be58218dd@windrunner.fonixapp.org:27274/?security=reality&encryption=none&pbk=tK-R4w5CsF0DSBD0ycQcRQLKgYqOi0TBQFZCHmsaa1Q&host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ilovepdf.com&sid=992756930320c803# DE | 152.53.142.188
@@ -2842,7 +2839,6 @@ vless://5b9fb1fe-f918-426b-761c-55a5d9139e0e@khabar.motionbetter.ir:80?security=
 vless://cfe554a3-4cd5-4fe1-9951-e6b65fc52a74@91.107.139.110:8880?mode=gun&security=none&encryption=none&type=grpc# DE | 91.107.139.110
 vless://d42223ff-aace-4c18-bacf-18d6abb9314f@46.20.111.246:3035?encryption=none&security=none&type=tcp&headerType=none# DE | 46.20.111.246
 vless://db90f3d7-bd8f-4e2d-ae0b-f9510ff3f7b9@87.120.92.135:8080?encryption=none&security=none&type=tcp&headerType=http&host=box.ponisha.ir# DE | 87.120.92.135
-vless://0d75b1eb-db44-4213-853c-9292361bbbc6@raeesfolnoh.rtpxc.com:2002?security=none&encryption=none&headerType=none&type=tcp# DE | 167.99.252.219
 vless://cfe554a3-4cd5-4fe1-9951-e6b65fc52a74@sea-daisy.unity4world.ir:8880?mode=gun&security=none&encryption=none&type=grpc# DE | 91.107.183.142
 vless://4981b98f-4943-4083-83aa-00b028f57a18@57.129.92.155:36626?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON# DE | 57.129.92.155
 vless://68ae7cab-98b7-48ab-9211-f54487375712@r.optiping.ir:33450?security=reality&encryption=none&pbk=Y3h3cOAkz3j_CbseRzm3EAkVq9HMkqv-gnwcXI2TI0Q&headerType=none&fp=chrome&type=tcp&sni=p.optiping.ir# DE | 45.90.98.60
@@ -2861,6 +2857,8 @@ vless://73cc7084-a427-4193-8fe0-6dd72ac48265@80.240.23.101:47567?type=xhttp&path
 vless://7153877e-dab2-4525-fa40-7e3f71dca814@91.107.254.105:2053?security=none&encryption=none&host=fast.com&headerType=http&type=tcp# DE | 91.107.254.105
 vless://ad069756-c14b-4443-87af-4a503c5c08f5@m33a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp# DE | 91.107.159.132
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.110.119:8880?mode=gun&security=none&encryption=none&type=grpc# DE | 94.131.110.119
+vless://4ea48b95-9bf9-4f10-8e5f-2a7f17af15ce@g.483154796485125-babayaga.hosting-free-vip.ir:24993?security=reality&encryption=none&pbk=70dR0svogdNI-Xut1f9LP7OLUN-4eieAqo1hEKWyDxY&headerType=none&fp=chrome&spx=/&type=tcp&sni=google.com&sid=0be2# DE | 51.195.92.43
+vless://19f0e047-4647-40b3-b317-7d64315ef831@91.107.173.254:8443?security=&encryption=none&headerType=&type=tcp# DE | 91.107.173.254
 vless://19f0e047-4647-40b3-b317-7d64315ef831@91.107.173.254:8880?security=none&encryption=none&headerType=none&type=tcp# DE | 91.107.173.254
 vless://91b77af9-6f06-4c22-9c0e-bdd8f63de158@51.77.91.192:8081?security=reality&encryption=none&pbk=KdvX1bbHtA4Y16IukcDsNiEJ9iKYk4BLlI7LDsV0iFU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=d5bfd6c4# DE | 51.77.91.192
 vless://6967a7f2-e8a7-497e-f72e-c989e9f896d7@91.98.203.226:443?mode=gun&security=none&encryption=none&type=grpc# DE | 91.98.203.226
@@ -2876,7 +2874,9 @@ vless://3bba9a08-157f-442b-b814-jjxjxjxn313e3ec7f350@54.36.117.130:25369?type=gr
 vless://Warpi-Free-Vpn-In-GooglePlay@78.47.80.152:443?security=&encryption=none&headerType=none&type=tcp# DE | 78.47.80.152
 vless://939000be-4a9e-4e25-8a89-22c2ff2e531a@mci-irancel.ir.pmgdrs.site:11125?type=tcp&encryption=none&security=none# DE | 2a01:4f8:c012:9f93::1
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.160.145:443?security=none&encryption=none&host=zula.ir/?TELEGRAM@JOKERRVPN&headerType=http&type=tcp# DE | 91.99.160.145
+vless://2ee2a715-d541-416a-8713-d66567448c2e@91.98.168.173:443?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---&mode=gun&security=none&encryption=none&type=grpc# DE | 91.98.168.173
 vless://c6ead936-20fd-4f84-980f-a7541ea0e324@account.userd44cd315b0a1274e.Analytics.lonup.org:10700?security=none&encryption=none&type=tcp&host=zowe.ir&path=/&headerType=http# DE | 188.245.126.149
+vless://cd57c492-5765-40ec-a139-931fbae8f436@77.110.101.240:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=mynode.nodesecure.ru&fp=chrome&pbk=4Y3V5AIralE3HIAYXCe3beUGsUiBei0mCmbhPXGAgHg&sid=2fc1abafec7cb87b&spx=/&type=tcp&headerType=none# DE | 77.110.101.240
 vless://61c290d0-9a91-4233-a4eb-e1936a176ddf@116.203.127.84:443?security=tls&encryption=none&headerType=none&type=tcp&sni=nr.app-browser.org# DE | 116.203.127.84
 vless://b4f3041b-e939-4c1a-8f1d-70e8369b25eb@185.213.240.86:4655?security=none&encryption=none&headerType=none&type=tcp# DE | 185.213.240.86
 trojan://telegram-id-directvpn@18.197.191.17:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# DE | 18.197.191.17
@@ -2885,6 +2885,7 @@ trojan://bpb-trojan@45.80.111.9:443/?type=tcp&security=tls&sni=bpb.my79801.com&a
 trojan://telegram-id-v2rayvpnchannel@18.197.191.17:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# DE | 18.197.191.17
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKUkpHbVF1UkxiUEVkb2VZSDZ5bEJu@81.19.141.45:443# DE | 81.19.141.45
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKTks3Q3Z1dldUcEYyWlkzZDl5Z3Qx@109.122.197.192:443# DE | 109.122.197.192
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2bW01eUc4R0l0aTVBTzFscFMxVkxC@81.19.141.45:443# DE | 81.19.141.45
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWRVVzQ2VTc0d1ZnhoUlB2ZWNpSnZD@81.19.141.45:443/?outline=1# DE | 81.19.141.45
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJWDRwSnVSQTV0TlBjRURjWDd4d0x1@80.71.157.175:38211# DE | 80.71.157.175
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozVG5RZGdtMm1WSlFidVNDWG1SNVZj@81.19.141.45:443# DE | 81.19.141.45
