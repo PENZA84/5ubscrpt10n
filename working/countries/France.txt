@@ -81,7 +81,6 @@ vmess://ewogICAgImFkZCI6ICIxNDYuNTkuODUuMjI2IiwKICAgICJhaWQiOiAwLAogICAgImhvc3Qi
 vmess://ewogICAgImFkZCI6ICI5MS4xMzQuOC45MyIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogInBlbGFuZy5vcmciLAogICAgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+Hq/Cfh7dGUi05MS4xMzQuOC45My0wMTc3IiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 vmess://ewogICAgImFkZCI6ICI1Ny4xMjguMTg5LjI0MCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4er8J+Ht0ZSLTU3LjEyOC4xODkuMjQwLTAxNjEiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplbUYxNW9TSWg3SU8ycVV0d3ZER2Rx@62.210.88.22:443#Paris,%20IDF,%20France
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpudThNVUJSeWNtbGd5bUUzQ29JUGx4@62.210.88.22:443#Paris,%20IDF,%20France
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.181.172.34:443#%F0%9F%87%AB%F0%9F%87%B7FR-35.181.172.34-0332
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@195.154.200.150:2376#%F0%9F%87%AB%F0%9F%87%B7FR-195.154.200.150-0358
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@149.202.82.172:6697#%F0%9F%87%AB%F0%9F%87%B7FR-149.202.82.172-0362
@@ -1031,11 +1030,13 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpudThNVUJSeWNtbGd5bUUzQ29JUGx4@62.210.88.22:4
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.179.217.208:8880?type=grpc&path=%2f#%f0%9f%87%ab%f0%9f%87%b7%20FR%204
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@195.154.185.174:989#%f0%9f%87%ab%f0%9f%87%b7%20FR%205
 vless://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?encryption=none&type=tcp&headerType=none&path=%2f#%f0%9f%87%ab%f0%9f%87%b7%20FR%206
-vless://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?security=none&encryption=none&headerType=none&type=tcp#[openproxylist.com] vless-FR
+trojan://eDHWaPzxcl@145.223.70.115:25365?security=reality&sni=cloudflare.com&fp=chrome&pbk=YaP997bVbPWOkNwZ-aKWVNHSdzQkZLzhTGjVRVC1u3I&sid=d9&spx=/&allowInsecure=1&type=grpc&note=@freeOnlineVPN#[openproxylist.com] trojan-FR
+vless://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?type=tcp&encryption=none&security=none#[openproxylist.com] vless-FR
 vless://8062ddd7-fdee-485d-8948-c6e5df168fe9@173.212.209.56:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=aws.amazon.com&pbk=ks1Ud3HgMftMPFrUpu7dJboFGyFXB74d4EaXaO4283Q&fp=chrome#[openproxylist.com] vless-FR
 vless://f956952d-dde1-4bc6-861e-22a9dc4554c4@cosmin.ns.cloudflare.com:443?encryption=none&security=tls&sni=638996506447943078.soul-amsih.info&type=ws&host=638996506447943078.soul-amsih.info&path=/xjfclmws#[openproxylist.com] vless-FR
 vless://44830663-914e-4127-a9b3-412406f59cbe@185.193.17.80:2066?security=reality&encryption=none&pbk=-Z0BnqW2MHBXjDsB2a8-KPfg8GqTO1uIPXriHQAMhSY&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=6b245ab1#[openproxylist.com] vless-FR
 vless://65a9530f-4a4e-4db1-9689-9213385e9dfb@brenna.ns.cloudflare.com:443?encryption=none&security=tls&sni=638996620466180706.passat-amsih.info&type=ws&host=638996620466180706.passat-amsih.info&path=/dweubbws#[openproxylist.com] vless-FR
+vless://405ec164-7923-4d76-8be5-7ae96e444f4e@62.60.246.188:443?security=reality&encryption=none&pbk=o3H8CUivdt6lbFH6S7CQZ6dua7nUg5rYtPdSyXpjpx0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=6104c5e9613ea56c#[openproxylist.com] vless-FR
 trojan://telegram-id-privatevpns@13.39.186.144:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[openproxylist.com] trojan-FR```
 trojan://telegram-id-privatevpns@51.44.152.34:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[openproxylist.com] trojan-FR```
 trojan://eDHWaPzxcl@145.223.70.115:25365?security=reality&pbk=YaP997bVbPWOkNwZ-aKWVNHSdzQkZLzhTGjVRVC1u3I&fp=chrome&type=grpc&sni=cloudflare.com&sid=d9#[openproxylist.com] trojan-FR```
