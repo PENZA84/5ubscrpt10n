@@ -1,3 +1,14 @@
+trojan://telegram-id-privatevpns@3.70.149.109:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[]t.me/ConfigsHub
+vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.16:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#[]t.me/ConfigsHub
+trojan://4db82bff-0889-4320-8944-7b8d8ee66ff5@89.213.40.225:2333?security=tls&sni=www&allowInsecure=1&type=tcp#Telegram:@IP_CF
+vless://2c128910-c617-479e-8ba0-6029ef243e32@2.144.6.60:9652?security=&encryption=none&host=speedtest.net&headerType=http&type=tcp#[]t.me/ConfigsHub
+vless://2c128910-c617-479e-8ba0-6029ef243e32@2.144.6.60:9652?security=&encryption=none&host=speedtest.net&headerType=http&type=tcp#[]t.me/MoftConfig
+ss://1c86a177-d7ff-4a5f-8255-cfeb4e051305@188.245.251.47:8080?security=none&encryption=none&host=sso.farhang.gov.ir&headerType=http&type=tcp#Telegram:@IP_CF
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk%3D@51.77.53.200:9102#[]t.me/MoftConfig
+vless://0fc793ae-08ea-4827-bdef-c98b8266f8ff@104.21.69.44:443?security=tls&sni=ez.happyground.ir&type=grpc&serviceName=%28TG%3A%40free_v2ray0%29%28TG%3A%40free_v2ray0%29%28TG%3A%40free_v2ray0%29%28TG%3A%40free_v2ray0%29_gxZKH0Rc9ol%28TG%3A%40free_v2ray0%29%28TG%3A%40free_v2ray0%29%28TG%3A%40free_v2ray0%29%28TG%3A%40free_v2ray0%29_WwpW3iPFUm5&fp=chrome&alpn=h2#[]t.me/MoftConfig
+vless://797fb47e-ec76-42c3-a124-88ffb144d1a0@172.66.44.205:8443?security=tls&sni=mAHDiSeRVeR-GAj.pAGes.dEV&type=ws&host=mahdiserver-gaj.pages.dev&path=%2FyDt2yJzaT5iF7VEc%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#[]t.me/MoftConfig
+trojan://telegram-id-v2rayvpnchannel@35.158.238.143:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[]t.me/MoftConfig
+vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.27:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#[]t.me/MoftConfig
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.115:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#[]t.me/ConfigsHub
 vless://1e5a27da-408e-4bcb-a72a-6bd7f945b5dd@lon5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#%20United Kingdom
 vless://f29c498c-1213-4af9-bf81-bebef6abfe03@sto5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#%20Sweden
@@ -9987,14 +9998,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4bXVhZUZ0Tm94RWNmQ2tBUnkyMXNz@92.118.112.111
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@204.136.10.115:1866# @MoftConfigSwitzerland
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPRE13WldJeg%3D%3D@89.221.224.166:8388# @MoftConfigIceland
 trojan://telegram-id-directvpn@13.51.179.249:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.30:8880?encryption=none&security=none&type=grpc#[]t.me/MoftConfig
-trojan://telegram-id-privatevpns@18.135.34.55:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[]t.me/ConfigsHub
-vless://fab25e32-f136-43b8-9697-01ff97620ca6@172.67.210.56:443?path=%2Fvless&security=tls&encryption=none&host=uk1-vless.greenssh.org&type=ws&sni=uk1-vless.greenssh.org# @MoftConfigCanada
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.92:8880?mode=gun&security=none&encryption=none&type=grpc#[]t.me/MoftConfig
-trojan://telegram-id-directvpn@13.51.179.249:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# @MoftConfigSweden
-vless://8f69b4a6-f8cd-4d11-8248-fde97b250d3b@sea.hopebook75zulawu.online:2095?path=%2Fed%3D2082&security=none&encryption=none&host=Da8.speedtest.hopeserver1.tech.&type=ws# @MoftConfigGermany
-vless://telegram-id-ArV2ray15@www.speedtest.net:443?path=%2Ftelegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray%3Fed%3D2048&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=m.mashti.link&fp=firefox&type=ws&sni=m.mashti.link#TLS2-Hamrah-ArV2ray
-vless://fab25e32-f136-43b8-9697-01ff97620ca6@172.67.210.56:443?path=%2Fvless&security=tls&encryption=none&host=uk1-vless.greenssh.org&type=ws&sni=uk1-vless.greenssh.org#[]t.me/MoftConfig
-vless://e47bf3e3-5b20-4a2a-a12e-13241d56b232@hajlab.ucdavis.edu:80?type=xhttp&mode=auto&host=joinV2rayArgoN.ir&path=/@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN?ed%3D2048&security=none# @MoftConfigUnited States
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.197:8880?mode=gun&security=none&encryption=none&type=grpc# @MoftConfigUnited States
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.92:8880?mode=gun&security=none&encryption=none&type=grpc# @MoftConfigUnited States
