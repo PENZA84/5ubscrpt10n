@@ -1,3 +1,6 @@
+trojan://telegram-id-privatevpns@3.70.149.109:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[]t.me/MoftConfig
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.252.50.14:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram:@IP_CF
+vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.16:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#[]t.me/MoftConfig
 trojan://telegram-id-privatevpns@3.70.149.109:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[]t.me/ConfigsHub
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.16:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#[]t.me/ConfigsHub
 trojan://4db82bff-0889-4320-8944-7b8d8ee66ff5@89.213.40.225:2333?security=tls&sni=www&allowInsecure=1&type=tcp#Telegram:@IP_CF
@@ -9995,6 +9998,3 @@ trojan://telegram-id-directvpn@13.51.179.249:22222?security=tls&alpn=http/1.1&he
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4bXVhZUZ0Tm94RWNmQ2tBUnkyMXNz@92.118.112.111:18622# @MoftConfigUnited States
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.46:8880?encryption=none&security=none&type=grpc#[]t.me/MoftConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4bXVhZUZ0Tm94RWNmQ2tBUnkyMXNz@92.118.112.111:18622#[]t.me/MoftConfig
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@204.136.10.115:1866# @MoftConfigSwitzerland
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPRE13WldJeg%3D%3D@89.221.224.166:8388# @MoftConfigIceland
-trojan://telegram-id-directvpn@13.51.179.249:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
