@@ -1,6 +1,3 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.147.74:8880?security=&encryption=none&type=grpc#[]t.me/ConfigsHub
-vmess://eyJhZGQiOiIxMDMuMzAuNzYuMjUxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjU2NmQ0YmY0LWIwYmUtNGIzOC1iNzNiLTBiZjE4ZDg2ZjJlZSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjE4NzIiLCJwcyI6Ilvwn4+BXXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@193.151.135.21:44443?security=reality&encryption=none&pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net#[]t.me/ConfigsHub
 vmess://eyJhZGQiOiJjbG91ZGdldHNlcnZpY2UubWNsb3Vkc2VydmljZS5zaXRlIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJGckEtdnAtMTIzLmJsYVpFQ0xvVWQuc0l0RSIsImlkIjoiMGQxMWRhOGEtMTY1Ni00YzE3LTk0YTUtNDY4MmJlNzQ0ODk2IiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2a3dzIiwicG9ydCI6IjQ0MyIsInBzIjoiW/Cfh6jwn4emXXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiJGckEtdnAtMTIzLmJsYVpFQ0xvVWQuc0l0RSIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 vless://8f0120f1-ba26-e137-5e06-a99b844741aa@188.132.183.15:2589?security=reality&encryption=none&pbk=2hoQE6WBJlr4DHrp7TxqPOT8i24iodEaCQp-qugbD3U&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=tgju.org&sid=e41865e506628f44#[]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930359207602168.dublin-drc-dcrabj.info:8880?security=&encryption=none&type=grpc#[]t.me/ConfigsHub
@@ -9998,3 +9995,6 @@ vless://ef7b6c34-037a-40ad-b387-053160be24d9@162.159.135.42:8443?security=tls&sn
 vless://54c06c38-a570-4ba0-9ae2-405eb24e8627@193.233.19.241:9090?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=shop.smnsoft.com#[]t.me/ConfigsHub
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.45.18.222:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.110:11014?security=tls&headerType=none&fp=chrome&type=tcp&sni=wus04.weyaf9sdoh2h.space#[]t.me/ConfigsHub
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.108:11012?security=tls&headerType=none&fp=chrome&type=tcp&sni=wus02.weyaf9sdoh2h.space#[]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3YldFMU1nY01ORWtRSFZIbEpacTdH@81.90.29.169:58080#[]t.me/ConfigsHub
+trojan://telegram-id-directvpn@51.45.18.222:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
