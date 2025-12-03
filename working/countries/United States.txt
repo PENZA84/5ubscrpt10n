@@ -4631,7 +4631,7 @@ vless://669be00c-67b4-4b87-b08f-311c45abced2@nl-3.atlanta-internet.ru:8443?secur
 vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@137.184.218.169:36925?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=www.cloudflare.com&pbk=lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0&fp=chrome#[openproxylist.com] vless-US
 vless://ffb5a850-edbc-4831-ad0b-e29483949ea8@139.144.199.41:33873?security=reality&encryption=none&pbk=RV6FhlbDmMyc_qCuuTbUZt3QMUsKZU7EjyjGkYxHS34&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.nokia.com&sid=de550428#[openproxylist.com] vless-US
 vmess://eyJhZGQiOiIxNS4yMDQuMTAzLjciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImxhbW1hbGFuZC5vcmciLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImluc2VjdXJlIjoiMSIsIm5ldCI6IndzIiwicGF0aCI6Imxpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiJcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjhbb3BlbnByb3h5bGlzdC5jb21dIHZtZXNzLVVTIiwic2N5IjoiYXV0byIsInNuaSI6ImxhbW1hbGFuZC5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
-vless://4df10efe-824a-4579-ab85-50f088f456d4@lovetea.dastur-amuzesh.ir:3002?allowInsecure=0&sni=Zula.ir#[openproxylist.com] vless-US
+vless://4df10efe-824a-4579-ab85-50f088f456d4@lovetea.dastur-amuzesh.ir:3002?security=&encryption=none&headerType=&type=tcp&sni=Zula.ir#[openproxylist.com] vless-US
 vless://60510065-6006-44df-a6e0-6c75968d739c@us-003.shopping-1688.com:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&path=/detailsws&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=us-003.shopping-1688.com#[openproxylist.com] vless-US
 vless://f61d9aee-63b8-439e-bebf-afaa53c015fd@64.227.93.102:28899?security=reality&encryption=none&pbk=UcJ-s55xl9msAtzJcBghDUTSnyilzB6d7NpUfkHoQmY&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=s0.awsstatic.com#[openproxylist.com] vless-US
 vless://18805ff3-b420-45de-af18-93be14024ae8@47.251.25.74:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=www.amazon.com&pbk=H56cOJhw0xw76lDEpt7IuJJmVGemK6_CK34KtHwDMX8&fp=chrome#[openproxylist.com] vless-US
@@ -16649,13 +16649,14 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@167.82.97.49:443?path=/GGPPfZ3NKyOo
 vless://669be00c-67b4-4b87-b08f-311c45abced2@us.atlanta-internet.ru:443?security=reality&encryption=none&pbk=FscaEWx0paNBzL7GWHj4Fll7Xc-KxdhKgTthBAnByWI&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=pingless.com# US | 78.153.155.106
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638938755008244100.vienna-drc-tusacaf.info:8880?encryption=none&type=grpc&mode=gun&security=none# US | 85.209.195.174
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.114:8880/?type=grpc&encryption=none# US | 45.82.251.114
-vless://40e07aa0-665e-4d77-ab88-2aa02fca83b7@62.60.179.68:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.latimes.com&fp=chrome&pbk=e3dW-3-dYEVMkTUNOlqVZY2RuSXK-DxhvmdVn1lijxY&sid=8c0bcf&spx=/&type=tcp&headerType=none# US | 62.60.179.68
-vless://669be00c-67b4-4b87-b08f-311c45abced2@us.atlanta-internet.ru:443?security=reality&encryption=none&pbk=FscaEWx0paNBzL7GWHj4Fll7Xc-KxdhKgTthBAnByWI&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=pingless.com# US | 185.168.208.130
 vless://e570b673-4abd-4606-cd35-e639383f4c8c@usaa.fastlynew.hosting-ip.com:80?path=/&security=none&encryption=none&host=mojhsjd.global.ssl.fastly.net&type=ws# US | 151.101.169.242
+vless://40e07aa0-665e-4d77-ab88-2aa02fca83b7@62.60.179.68:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.latimes.com&fp=chrome&pbk=e3dW-3-dYEVMkTUNOlqVZY2RuSXK-DxhvmdVn1lijxY&sid=8c0bcf&spx=/&type=tcp&headerType=none# US | 62.60.179.68
+vless://669be00c-67b4-4b87-b08f-311c45abced2@us.atlanta-internet.ru:443?security=reality&encryption=none&pbk=FscaEWx0paNBzL7GWHj4Fll7Xc-KxdhKgTthBAnByWI&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=pingless.com# US | 185.168.208.86
+vless://3ec3d97f-7442-4a14-ffab-eabb5eadadca@usaa.fastlynew.hosting-ip.com:80?path=/&security=none&encryption=none&host=mojhsjd.global.ssl.fastly.net&type=ws# US | 151.101.25.242
 vless://e7be1334-6a1d-47c0-8c9a-c7a5b8575499@147.182.183.207:443?mode=auto&path=/@Grizzlyvpn&security=reality&encryption=none&pbk=z--KbBlQtkBgTcrtdBJeGeCymIrLdaUDwkb44pAp6nY&fp=chrome&spx=/&type=xhttp&sni=yahoo.com&sid=4c# US | 147.182.183.207
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.209.195.133:8880?mode=gun&security=none&encryption=none&type=grpc# US | 85.209.195.133
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.58:8880?security=&fp=chrome&type=grpc&encryption=none# US | 45.82.251.58
-vless://9b0c1d6e-7f6e-4b06-96ba-b8a397a69166@usa29.unlockmatrix.org:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.bing.com&fp=chrome&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&type=tcp&headerType=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI# US | 23.152.200.180
+vless://9b0c1d6e-7f6e-4b06-96ba-b8a397a69166@usa29.unlockmatrix.org:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.bing.com&fp=chrome&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&type=tcp&headerType=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI# US | 23.152.200.202
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@159.246.55.253:2096?encryption=none&type=ws&host=gaosir.unfeeling.sbs&security=tls&fp=chrome&sni=gaosir.unfeeling.sbs&alpn=h2# US | 159.246.55.253
 vless://0f0c8014-6c01-46b6-b0cc-2f76d6bae7f6@104.21.32.1:443?path=/vpghRaDdORhcsIFV/MzUuMTU3LjI0MC4yMzcsMTguMTk4LjIyNy4xNjE=?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=fqjedaza7b2vofj9ihemx319rmo41l7b.pages.dev&fp=randomized&type=ws&sni=FqJEDazA7b2VofJ9iHeMX319rmO41l7b.paGEs.DeV# US | 104.21.32.1
 vless://53bea386-912e-4fe3-9eff-59c2285a176c@192.200.160.14:2053?path=/admins?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=9.neshaan.org&fp=chrome&type=ws&sni=9.neshaan.org# US | 192.200.160.14
@@ -16669,12 +16670,13 @@ vless://401374e6-df77-41fb-f638-dad8184f175b@45.82.251.250:80?mode=gun&security=
 vless://83d9d7fa-ee17-4d28-a147-9c24981aabe8@172.67.174.89:443?type=ws&encryption=none&path=/wolf_vpn02&host=section1.plugchat.ir&security=tls&fp=chrome&alpn=h2&sni=section1.plugchat.ir# US | 172.67.174.89
 vless://dfe195d3-58d2-4829-8fcf-5bef58175170@172.67.174.89:443?type=ws&encryption=none&path=/wolf_vpn02&host=section1.plugchat.ir&security=tls&fp=chrome&alpn=h2&sni=section1.plugchat.ir# US | 172.67.174.89
 vless://7556317c-dff6-46e8-ad29-b408f2a6456e@45.40.144.253:2096?security=tls&encryption=none&insecure=0&host=vless.muzheng.top&type=ws&allowInsecure=0&sni=vless.muzheng.top# US | 45.40.144.253
+vless://669be00c-67b4-4b87-b08f-311c45abced2@us.atlanta-internet.ru:443?security=reality&encryption=none&pbk=FscaEWx0paNBzL7GWHj4Fll7Xc-KxdhKgTthBAnByWI&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=pingless.com# US | 185.168.208.130
 vless://ac51ad36-5052-460a-842a-e13455d30cb8@141.101.114.197:2083?path=/assets?ed=2560&security=tls&encryption=none&host=RR-FF.pages.DEV&fp=chrome&type=ws&sni=RR-FF.pages.DEV# US | 141.101.114.197
 trojan://034299f4-a5d4-4bdd-a6b0-a2a308ffe6be@192.227.138.249:8443?path=/Free-VPN-CF-Geo-Project/192.227.138.249=8443&security=tls&host=joss.gpj4.web.id&fp=randomized&type=ws&sni=joss.gpj4.web.id# US | 192.227.138.249
 trojan://FodSUXysuS@180.131.145.161:23274/?type=grpc&serviceName=&authority=&security=reality&pbk=iX_s_-F07vtmJa8t81J6OBiVksCy0ZHRmXUMyw3l4Vw&fp=chrome&sni=cloudflare.com&sid=14&spx=/# US | 180.131.145.161
 trojan://NISHIKUITAN111@104.17.244.30:443/?type=tcp&security=tls&sni=104.17.244.30&allowInsecure=1# US | 104.17.244.30
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.175:8080# US | 45.87.175.175
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyUWpNUWpVcmpKTTNST1cxa0lNcGZN@92.118.112.101:9483?note=--Telegram--@Argo_VPN1--# US | 92.118.112.101
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.110.1.46:7001# US | 38.110.1.46
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.157:8080# US | 45.87.175.157
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTczhDd2F1MUFMdDNRU2JjR0VvZ0FE@104.192.227.162:443/?outline=1&prefix=# US | 104.192.227.162
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.177:8080# US | 45.87.175.177
