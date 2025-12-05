@@ -1,7 +1,7 @@
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?mode=gun&security=none&encryption=none&type=grpc#TR
-vless://7b379ab3-6402-4d32-84e1-3abe074ed1c4@89.144.20.173:12146?security=none&encryption=none&headerType=none&type=tcp#TR%20VLESS-08%20%7C%20free-nodes
+vless://7b379ab3-6402-4d32-84e1-3abe074ed1c4@89.144.20.173:12146?security=none&encryption=none&headerType=none&type=tcp#TR%20VLESS-10%20%7C%20free-nodes
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiU2xnQ29HaEFwT2I1NXRJTUQwenhZ@185.39.204.161:33563#TR%20SS-57%20%7C%20free-nodes
-vless://0a97c5f3-68de-4d5e-bac2-c6bd94551fb6@178.171.122.65:443?security=reality&encryption=none&pbk=I0fwGRiSwcXazqFy0qmyhMzaN3JOOBafmvDM6A-AaUs&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=msk.capybara.press&sid=9c2378562188c3cb#TR%20VLESS-69%20%7C%20free-nodes
+vless://0a97c5f3-68de-4d5e-bac2-c6bd94551fb6@178.171.122.65:443?security=reality&encryption=none&pbk=I0fwGRiSwcXazqFy0qmyhMzaN3JOOBafmvDM6A-AaUs&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=msk.capybara.press&sid=9c2378562188c3cb#TR%20VLESS-71%20%7C%20free-nodes
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiU2xnQ29HaEFwT2I1NXRJTUQwenhZ@185.39.204.161:33563?note=@freeOnlineVPN# - TR - @freeOnlineVPN
 vless://0f24429c-bcf6-4011-8a1b-a3e5eda7452a@77.83.245.194:32690?security=reality&encryption=none&pbk=5C6bZsJKoDICwBbNH4VFlOk2uW1YYoR1vrPHgNURcns&headerType=none&fp=chrome&spx=/&type=tcp&sni=yandex.ru&sid=6b5c55d3bfc0356f#TR  @tik7net_vpn  
 vless://7b379ab3-6402-4d32-84e1-3abe074ed1c4@89.144.20.173:12146?security=none&encryption=none&headerType=none&type=tcp#[openproxylist.com] vless-TR
@@ -1320,6 +1320,8 @@ trojan://telegram-id-privatevpns@13.36.134.198:22222?security=tls&sni=trojan.bur
 trojan://qj1Dz1CJmFQRhWr1SP80aA@172.67.204.84:443?security=tls&sni=cdn-21.gsmxreality.com&type=grpc&serviceName=443trojan&mode=gun#%F0%9F%94%92%20TR-GRPC-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-172.67.204.84%3A443
 trojan://984e400bf5d541b7b0815913fe0c432a@104.19.171.7:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=6b777a91#%F0%9F%94%92%20TR-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.19.171.7%3A443
 trojan://vpn@2.59.162.145:2025?security=tls&type=ws&host=dns.google.com&path=%2F#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20-%20Vilnius%20%F0%9F%8C%8D%20TR-WS-NONE%204%E2%83%A3
+vless://7b379ab3-6402-4d32-84e1-3abe074ed1c4@89.144.20.173:12146?security=none&encryption=none&headerType=none&type=tcp#TR%20VLESS-08%20%7C%20free-nodes
+vless://0a97c5f3-68de-4d5e-bac2-c6bd94551fb6@178.171.122.65:443?security=reality&encryption=none&pbk=I0fwGRiSwcXazqFy0qmyhMzaN3JOOBafmvDM6A-AaUs&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=msk.capybara.press&sid=9c2378562188c3cb#TR%20VLESS-69%20%7C%20free-nodes
 vless://0a97c5f3-68de-4d5e-bac2-c6bd94551fb6@178.171.122.65:443?security=reality&encryption=none&pbk=I0fwGRiSwcXazqFy0qmyhMzaN3JOOBafmvDM6A-AaUs&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=msk.capybara.press&sid=9c2378562188c3cb#[openproxylist.com] vless-TR
 trojan://BxceQaOe@58.152.30.175:443?allowInsecure=1&sni=t.me%2Fripaojiedian#%5Baiboboxx%2Fv2rayfree%5DTR%20TROJAN-82%20%7C%20free-nodes
 trojan://BxceQaOe@58.152.25.20:443?allowInsecure=1&sni=t.me%2Fripaojiedian#%5Baiboboxx%2Fv2rayfree%5DTR%20TROJAN-83%20%7C%20free-nodes
