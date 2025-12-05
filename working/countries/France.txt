@@ -921,7 +921,8 @@ vless://be72cd92-92d2-4543-9bef-1673fcd03b45@137.74.53.176:35789?security=none&p
 trojan://telegram-id-privatevpns@35.181.161.94:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[openproxylist.com] trojan-FR
 trojan://telegram-id-privatevpns@13.37.103.10:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[openproxylist.com] trojan-FR
 vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@norman.ns.cloudflare.com:443?path=%2Fcahttingws&security=tls&encryption=none&host=639001966536690941.prius-amsiq.info&type=ws&sni=639001966536690941.prius-amsiq.info#[openproxylist.com] vless-FR
-vless://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?encryption=none&security=none&type=tcp&headerType=none#[openproxylist.com] vless-FR
+vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@brenna.ns.cloudflare.com:443?path=/cahttingws&security=tls&encryption=none&insecure=0&host=639000411272225027.swift-amsin.info&fp=chrome&type=ws&allowInsecure=0&sni=639000411272225027.swift-amsin.info#[openproxylist.com] vless-FR
+vless://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?security=none&encryption=none&headerType=none&type=tcp#[openproxylist.com] vless-FR
 vless://8062ddd7-fdee-485d-8948-c6e5df168fe9@173.212.209.56:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=aws.amazon.com&pbk=ks1Ud3HgMftMPFrUpu7dJboFGyFXB74d4EaXaO4283Q&fp=chrome#[openproxylist.com] vless-FR
 trojan://eDHWaPzxcl@145.223.70.115:25365?mode=gun&security=reality&pbk=YaP997bVbPWOkNwZ-aKWVNHSdzQkZLzhTGjVRVC1u3I&fp=chrome&type=grpc&sni=cloudflare.com&sid=d9#[openproxylist.com] trojan-FR```
 trojan://eDHWaPzxcl@145.223.70.115:25365?security=reality&pbk=YaP997bVbPWOkNwZ-aKWVNHSdzQkZLzhTGjVRVC1u3I&fp=chrome&type=grpc&sni=cloudflare.com&sid=d9#[openproxylist.com] trojan-FR```
@@ -1113,16 +1114,14 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.4:8880?mode=gun&security=&
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.179.217.208:8880?mode=gun&security=none&encryption=none&type=grpc# FR | 95.179.217.208
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638959783653647289.lahijan-blkaft-aaao.info:8880?encryption=none&type=grpc&mode=gun&security=none# FR | 185.231.205.109
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638931272656134408.malayer-drc-tusabu.info:8880?mode=gun&security=none&encryption=none&type=grpc# FR | 194.4.49.4
-vless://b2084cf4-972e-4f38-b06f-1615e7551d06@62.60.248.14:46395?encryption=none&type=grpc&mode=gun&serviceName=/@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN&security=reality&fp=chrome&sni=www.latimes.com&pbk=R7rQRf2vm_y2RYIFDZcS5ucks0gNKgKthRT-bUtyymo&sid=96973faa2f0bf0&spx=/# FR | 62.60.248.14
+vless://1e8da77c-91d7-4046-80a3-ca6cd525d875@62.60.248.14:46395?encryption=none&type=grpc&mode=gun&serviceName=/@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN&security=reality&fp=chrome&sni=www.latimes.com&pbk=R7rQRf2vm_y2RYIFDZcS5ucks0gNKgKthRT-bUtyymo&sid=96973faa2f0bf0&spx=/# FR | 62.60.248.14
 vless://91b77af9-6f06-4c22-9c0e-bdd8f63de158@51.77.91.192:8081?security=reality&encryption=none&pbk=KdvX1bbHtA4Y16IukcDsNiEJ9iKYk4BLlI7LDsV0iFU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=d5bfd6c4# FR | 51.77.91.192
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.161.94:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk# FR | 35.181.161.94
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.44.112:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk# FR | 13.36.44.112
 vless://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?security=&encryption=none&headerType=none&type=tcp# FR | 137.74.53.176
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.179.217.208:8880/?type=grpc&encryption=none&flow=# FR | 95.179.217.208
 vless://7d31065b-980c-4295-83f0-23bde0eee9cc@185.234.64.228:443?path=/qnbufdws&security=tls&encryption=none&type=ws# FR | 185.234.64.228
 vless://40e65a0d-df16-4759-a126-76fa359f51f5@51.159.96.121:443?security=tls&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ns3.turkeyone.org# FR | 51.159.96.121
-trojan://telegram-id-directvpn@35.181.161.94:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# FR | 35.181.161.94
-trojan://telegram-id-privatevpns@35.181.161.94:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# FR | 35.181.161.94
+trojan://telegram-id-directvpn@13.36.44.112:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# FR | 13.36.44.112
+trojan://telegram-id-privatevpns@13.36.44.112:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# FR | 13.36.44.112
 trojan://eDHWaPzxcl@145.223.70.115:25365/?type=grpc&serviceName=&authority=&security=reality&pbk=YaP997bVbPWOkNwZ-aKWVNHSdzQkZLzhTGjVRVC1u3I&fp=chrome&sni=cloudflare.com&sid=d9&spx=/# FR | 145.223.70.115
-trojan://telegram-id-v2rayvpnchannel@13.37.103.10:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# FR | 13.37.103.10
-trojan://telegram-id-v2rayvpnchannel@35.181.161.94:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# FR | 35.181.161.94
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxajZieWIzUHFIZ1B1ZXRhaHI4eXZX@62.210.88.22:443/?outline=1&prefix=# FR | 62.210.88.22
