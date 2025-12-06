@@ -171,25 +171,28 @@ vless://9cc7e16a-d681-49a2-a94a-de4cb084089e@51.195.101.222:443?security=tls&sni
 vmess://ewogICAgImFkZCI6ICI1Ny4xMjkuMjQuMTI1IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAid3JtZWxtd3hsZi5na3RldmxycXpud3Fxb3p5LmZhYnBmczY2Z2l6bW5vamhjdnF4d2wua3l0cmNmenFsYTg3Z3ZndnM2Yzdram5ydWJ1aC5jYyIsCiAgICAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2xpbmt2d3MiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HqfCfh6pERS01Ny4xMjkuMjQuMTI1LTk2MjUiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKR3Y2MTZoTVdkamZ1WjAwallmcTdYa0JISlpyT0JyZw==@87.121.162.249:443#%F0%9F%87%A9%F0%9F%87%AADE-87.121.162.249-0432
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@78.47.141.72:8880?encryption=none&security=none&type=grpc#%F0%9F%94%92%20VL-GRPC-NONE%20%F0%9F%87%A9%F0%9F%87%AA%20DE-78.47.141.72%3A8880
-trojan://telegram-id-privatevpns@18.193.90.253:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#DE%20TROJAN-14%20%7C%20free-nodes
-trojan://telegram-id-privatevpns@3.65.244.233:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#DE%20TROJAN-15%20%7C%20free-nodes
-ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@57.128.214.100:12000#DE%20SS-16%20%7C%20free-nodes
-vless://13c72182-9869-4956-83bb-f8ec486e0a1b@usaa.fastlynew.hosting-ip.com:80?path=%2F&security=none&encryption=none&host=mojhsjd.global.ssl.fastly.net&type=ws#DE%20VLESS-18%20%7C%20free-nodes
-vless://dfac7622-66ca-4efe-9976-76f04f4e5d8b@m65a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#DE%20VLESS-20%20%7C%20free-nodes
-vless://e50fa46f-20c6-4c0d-fa0e-d9ffd92df36f@91.107.130.76:41647?mode=gun&security=none&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc&serviceName=#DE%20VLESS-25%20%7C%20free-nodes
-vless://71a712db-3843-4d24-b4c4-724ee0813044@V2ngnet.heloisfood.ir:4488?mode=gun&security=&encryption=none&type=grpc&serviceName=@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet#DE%20VLESS-40%20%7C%20free-nodes
-vless://2ee2a715-d541-416a-8713-d66567448c2e@91.99.27.92:443?type=grpc&encryption=none&serviceName=&authority=&security=none#DE%20VLESS-41%20%7C%20free-nodes
-vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=%2F&security=tls&encryption=none&host=kalam.mrconfigur.site&type=ws&sni=kalam.mrconfigur.site#DE%20VLESS-74%20%7C%20free-nodes
-vless://95b1344a-2b59-419f-ab7d-2ff7e5c6aa34@91.99.190.62:443?type=grpc&encryption=none&serviceName=&authority=&security=none#DE%20VLESS-75%20%7C%20free-nodes
-vless://8cde876d-7628-4587-bbb7-0535a7d177ce@45.150.32.240:37007?security=&encryption=none&headerType=&type=tcp#DE%20VLESS-78%20%7C%20free-nodes
-vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.184.180:80?encryption=none&security=none&type=ws&host=cdn.ir&path=%2Fnews#DE%20VLESS-83%20%7C%20free-nodes
-vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.186.241:80?path=/news&security=none&encryption=none&host=cdn.ir&type=ws#DE%20VLESS-86%20%7C%20free-nodes
-vless://2ee2a715-d541-416a-8713-d66567448c2e@91.99.113.207:443?mode=gun&security=&encryption=none&type=grpc#DE%20VLESS-90%20%7C%20free-nodes
-vless://c99262ae-ee77-4dac-8437-2d7f68fd3938@m39a.vip784.com:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#DE%20VLESS-105%20%7C%20free-nodes
-vless://fabc8a38-76c5-48fe-ada7-a9e52dd16225@179.61.251.78:443?security=reality&encryption=none&pbk=esHsu3-Fj0aZ0xuNBV6qW1zu1hLbas8YDn7AO0QGsBw&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=0ff58d687a4c6c#DE%20VLESS-112%20%7C%20free-nodes
-vless://d82baa81-c138-49fc-b81e-7ef0eb7ff063@us1.candyfans.win:443?encryption=none&security=tls&sni=us1.candyfans.win&type=ws&host=us1.candyfans.win&path=/cgunws#DE%20VLESS-113%20%7C%20free-nodes
-vless://2ee2a715-d541-416a-8713-d66567448c2e@91.98.38.116:443?type=grpc&encryption=none&serviceName=&authority=&security=none#DE%20VLESS-115%20%7C%20free-nodes
-vless://2ee2a715-d541-416a-8713-d66567448c2e@91.98.168.173:443?encryption=none&security=none&type=grpc#DE%20VLESS-133%20%7C%20free-nodes
+ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@57.128.214.100:12000#DE%20SS-09%20%7C%20free-nodes
+trojan://telegram-id-privatevpns@18.193.90.253:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#DE%20TROJAN-23%20%7C%20free-nodes
+trojan://telegram-id-privatevpns@3.65.244.233:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#DE%20TROJAN-24%20%7C%20free-nodes
+ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@57.128.214.100:12000#DE%20SS-25%20%7C%20free-nodes
+vless://13c72182-9869-4956-83bb-f8ec486e0a1b@usaa.fastlynew.hosting-ip.com:80?path=%2F&security=none&encryption=none&host=mojhsjd.global.ssl.fastly.net&type=ws#DE%20VLESS-27%20%7C%20free-nodes
+vless://71a712db-3843-4d24-b4c4-724ee0813044@V2ngfast.heloisfood.ir:2718?mode=gun&security=&encryption=none&type=grpc&serviceName=@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast#DE%20VLESS-44%20%7C%20free-nodes
+vless://2ee2a715-d541-416a-8713-d66567448c2e@91.99.27.92:443?type=grpc&encryption=none&serviceName=&authority=&security=none#DE%20VLESS-45%20%7C%20free-nodes
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKR3Y2MTZoTVdkamZ1WjAwallmcTdYa0JISlpyT0JyZw@87.121.162.249:443#DE%20SS-56%20%7C%20free-nodes
+vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=%2F&security=tls&encryption=none&host=kalam.mrconfigur.site&type=ws&sni=kalam.mrconfigur.site#DE%20VLESS-78%20%7C%20free-nodes
+vless://95b1344a-2b59-419f-ab7d-2ff7e5c6aa34@91.99.190.62:443?type=grpc&encryption=none&serviceName=&authority=&security=none#DE%20VLESS-79%20%7C%20free-nodes
+vless://2ee2a715-d541-416a-8713-d66567448c2e@91.98.155.240:443?mode=gun&security=none&encryption=none&type=grpc#DE%20VLESS-81%20%7C%20free-nodes
+vless://8cde876d-7628-4587-bbb7-0535a7d177ce@45.150.32.240:37007?security=&encryption=none&headerType=&type=tcp#DE%20VLESS-84%20%7C%20free-nodes
+vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.184.180:80?encryption=none&security=none&type=ws&host=cdn.ir&path=%2Fnews#DE%20VLESS-89%20%7C%20free-nodes
+vless://a91e64f0-9295-499d-bf4a-661ad99d4938@2-germany.geodema.network:8443?security=reality&encryption=none&pbk=8OsJx6xuHcpL_5e1w0U4bMBa-icevDgvvzNwPwZbORQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=5540e44a53c3d01c#DE%20VLESS-92%20%7C%20free-nodes
+vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.186.241:80?path=/news&security=none&encryption=none&host=cdn.ir&type=ws#DE%20VLESS-93%20%7C%20free-nodes
+vless://6dd91b61-96b8-403c-856e-9b873405c3bf@m43a.vip784.com:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#DE%20VLESS-95%20%7C%20free-nodes
+vless://2ee2a715-d541-416a-8713-d66567448c2e@91.99.113.207:443?mode=gun&security=&encryption=none&type=grpc#DE%20VLESS-100%20%7C%20free-nodes
+vless://c99262ae-ee77-4dac-8437-2d7f68fd3938@m39a.vip784.com:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#DE%20VLESS-118%20%7C%20free-nodes
+vless://fabc8a38-76c5-48fe-ada7-a9e52dd16225@179.61.251.78:443?security=reality&encryption=none&pbk=esHsu3-Fj0aZ0xuNBV6qW1zu1hLbas8YDn7AO0QGsBw&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=0ff58d687a4c6c#DE%20VLESS-120%20%7C%20free-nodes
+vless://d82baa81-c138-49fc-b81e-7ef0eb7ff063@us1.candyfans.win:443?encryption=none&security=tls&sni=us1.candyfans.win&type=ws&host=us1.candyfans.win&path=/cgunws#DE%20VLESS-121%20%7C%20free-nodes
+vless://2ee2a715-d541-416a-8713-d66567448c2e@91.98.38.116:443?type=grpc&encryption=none&serviceName=&authority=&security=none#DE%20VLESS-123%20%7C%20free-nodes
+vless://2ee2a715-d541-416a-8713-d66567448c2e@91.98.168.173:443?encryption=none&security=none&type=grpc#DE%20VLESS-134%20%7C%20free-nodes
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@178.250.191.11:34045?security=reality&encryption=none&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&headerType=none&fp=chrome&spx=/--@V2RAYNPLUS--@V2RAYNPLUS--@V2RAYNPLUS&type=tcp&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&sid=e8ab71d0#DE%20VLESS-137%20%7C%20free-nodes
 vmess://ewogICAgImFkZCI6ICI1Ny4xMjkuMjQuMTI1IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAid3JtZWxtd3hsZi5na3RldmxycXpud3Fxb3p5LmZhYnBmczY2Z2l6bW5vamhjdnF4d2wua3l0cmNmenFsYTg3Z3ZndnM2Yzdram5ydWJ1aC5jYyIsCiAgICAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2xpbmt2d3MiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HqfCfh6pERS01Ny4xMjkuMjQuMTI1LTk2NTYiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKR3Y2MTZoTVdkamZ1WjAwallmcTdYa0JISlpyT0JyZw==@87.121.162.249:443#%F0%9F%87%A9%F0%9F%87%AADE-87.121.162.249-0394
@@ -2613,7 +2616,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkRG5XWXNHN2tCTTZWWGN1c1UyTG5R@81.19.141.45:4
 trojan://telegram-id-privatevpns@18.193.90.253:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[openproxylist.com] trojan-DE
 trojan://telegram-id-privatevpns@3.65.244.233:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[openproxylist.com] trojan-DE
 vless://13c72182-9869-4956-83bb-f8ec486e0a1b@usaa.fastlynew.hosting-ip.com:80?path=%2F&security=none&encryption=none&host=mojhsjd.global.ssl.fastly.net&type=ws#[openproxylist.com] vless-DE
-vless://71a712db-3843-4d24-b4c4-724ee0813044@V2ngfast.heloisfood.ir:2718?mode=gun&security=&encryption=none&type=grpc&serviceName=@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast#[openproxylist.com] vless-DE
+vless://e50fa46f-20c6-4c0d-fa0e-d9ffd92df36f@91.107.130.76:41647?mode=gun&security=none&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc&serviceName=#[openproxylist.com] vless-DE
 vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=%2F&security=tls&encryption=none&host=kalam.mrconfigur.site&type=ws&sni=kalam.mrconfigur.site#[openproxylist.com] vless-DE
 vless://95b1344a-2b59-419f-ab7d-2ff7e5c6aa34@91.99.190.62:443?type=grpc&encryption=none&serviceName=&authority=&security=none#[openproxylist.com] vless-DE
 vless://2ee2a715-d541-416a-8713-d66567448c2e@91.98.155.240:443?mode=gun&security=none&encryption=none&type=grpc#[openproxylist.com] vless-DE
@@ -2627,7 +2630,7 @@ vless://c99262ae-ee77-4dac-8437-2d7f68fd3938@m39a.vip784.com:33801?security=none
 vless://fabc8a38-76c5-48fe-ada7-a9e52dd16225@179.61.251.78:443?security=reality&encryption=none&pbk=esHsu3-Fj0aZ0xuNBV6qW1zu1hLbas8YDn7AO0QGsBw&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=0ff58d687a4c6c#[openproxylist.com] vless-DE
 vless://d82baa81-c138-49fc-b81e-7ef0eb7ff063@us1.candyfans.win:443?encryption=none&security=tls&sni=us1.candyfans.win&type=ws&host=us1.candyfans.win&path=/cgunws#[openproxylist.com] vless-DE
 vless://2ee2a715-d541-416a-8713-d66567448c2e@91.98.38.116:443?type=grpc&encryption=none&serviceName=&authority=&security=none#[openproxylist.com] vless-DE
-vless://2ee2a715-d541-416a-8713-d66567448c2e@91.98.168.173:443?encryption=none&security=none&type=grpc#[openproxylist.com] vless-DE
+vless://2ee2a715-d541-416a-8713-d66567448c2e@91.98.168.173:443?type=grpc&encryption=none&serviceName=&authority=&security=none#[openproxylist.com] vless-DE
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@178.250.191.11:34045?security=reality&encryption=none&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&headerType=none&fp=chrome&spx=/--@V2RAYNPLUS--@V2RAYNPLUS--@V2RAYNPLUS&type=tcp&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&sid=e8ab71d0#[openproxylist.com] vless-DE
 trojan://telegram-id-privatevpns@18.193.90.253:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40privatevpns%20%5B12%5D
 vless://c99262ae-ee77-4dac-8437-2d7f68fd3938@m39a.vip784.com:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#[openproxylist.com] vless-DE```
@@ -3100,6 +3103,7 @@ vmess://eyJwcyI6ICLwn4e68J+HuC3nvo7lm70taGtoay5pZGNsb3VkaG9zdC5kZSIsICJhZGQiOiAi
 vless://c8e85b36-1f7a-4574-b48e-d2099372ce3c@Tst.speed1.space:8443?security=none&encryption=none&headerType=none&type=tcp# DE | 91.107.155.145
 vless://fabc8a38-76c5-48fe-ada7-a9e52dd16225@179.61.251.78:443?security=reality&encryption=none&pbk=esHsu3-Fj0aZ0xuNBV6qW1zu1hLbas8YDn7AO0QGsBw&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=0ff58d687a4c6c# DE | 179.61.251.78
 vless://e4403569-466a-4000-ad65-d6b95cf0ba10@209.38.114.82:443?path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=none&encryption=none&host=jigarnanas.global.ssl.fastly.net&type=ws# DE | 209.38.114.82
+vless://7bfca5ab-4ef9-4c84-8888-e19d3995a2a0@91.107.157.29:49507?security=&encryption=none&host=telewebion.com&headerType=http&type=tcp# DE | 91.107.157.29
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80?path=/http&security=none&encryption=none&type=ws# DE | 162.19.228.119
 vless://4a0ced83-c4f2-4946-aa90-d9ce633d43a7@152.53.142.189:11487?security=reality&encryption=none&pbk=Vjc6Pniq5ueH7Ue6b3V7nf5oWm89rh113zK1wxm5CFA&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=medicalnewstoday.com&sid=5d# DE | 152.53.142.189
 vless://0d75b1eb-db44-4213-853c-9292361bbbc6@raeesfolnoh.rtpxc.com:2002?security=none&encryption=none&headerType=none&type=tcp# DE | 167.99.252.219
@@ -3141,7 +3145,8 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.176.213:8880?security=none&
 vless://2ee2a715-d541-416a-8713-d66567448c2e@91.98.168.173:443?mode=gun&security=none&encryption=none&type=grpc# DE | 91.98.168.173
 vless://2ee2a715-d541-416a-8713-d66567448c2e@91.98.38.116:443?mode=gun&security=none&encryption=none&type=grpc# DE | 91.98.38.116
 vless://4912de02-b4fd-48e6-b1d3-4465e4f614c5@138.199.173.1:30000?type=tcp&encryption=none&security=none# DE | 138.199.173.1
-vless://4fbf976a-ecff-42e6-a100-0436ef96ee46@lovetea.parsianboton.ir:3002?security=none&encryption=none&headerType=none&type=tcp# DE | 91.107.143.214
+vless://4fbf976a-ecff-42e6-a100-0436ef96ee46@lovetea.dastur-amuzesh.ir:3002?security=none&encryption=none&host=Zula.ir&headerType=none&type=tcp# DE | 91.107.143.214
+vless://4fbf976a-ecff-42e6-a100-0436ef96ee46@lovetea.parsianboton.ir:3002?security=none&encryption=none&headerType=none&type=tcp# DE | 5.75.201.237
 vless://6e961410-077d-4978-98d7-aba54e633257@91.107.254.134:8443?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp# DE | 91.107.254.134
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.47.44.60:2020?encryption=none&security=none&type=tcp&headerType=none# DE | 78.47.44.60
 vless://07ee909e-7227-4e75-92c2-316f16355585@Evay-vpn.octacityroleplay.ir:1122?mode=auto&path=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=reality&encryption=none&pbk=4iCkO1B_tdvJY7x_v9izvkoNDfdGIFiL2LQX2Nqv5RI&fp=firefox&type=xhttp&sni=www.slideshare.net&sid=4c7b0ea36fc7f0c4# DE | 51.77.70.198
@@ -3162,10 +3167,11 @@ vless://2e655095-7f4e-428d-9c7e-eb2278e153a8@91.99.148.251:3184?encryption=none&
 vless://3bba9a08-157f-442b-b814-jjxjxjxn313e3ec7f350@54.36.117.130:25369?type=grpc&mode=gun&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none# DE | 54.36.117.130
 vless://0a8b4f3f-e527-4abd-be6b-2e6e7ed15abf@mci-irancel.ir.pmgdrs.site:11125?type=tcp&encryption=none&security=none# DE | 2a01:4f8:c012:9f93::1
 vless://4a0ced83-c4f2-4946-aa90-d9ce633d43a7@152.53.142.189:11487?security=reality&encryption=none&pbk=Vjc6Pniq5ueH7Ue6b3V7nf5oWm89rh113zK1wxm5CFA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=medicalnewstoday.com&sid=5d# DE | 152.53.142.189
-vless://78658cea-4771-4c2d-bbb8-d224bfb9ebbe@m40a.vip784.com:33801?security=&encryption=none&host=varzesh3.ir&headerType=http&type=tcp# DE | 91.107.168.24
+vless://f11958e3-f1ca-4e46-9a7a-1ae5994455b9@94.16.106.118:443?security=reality&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&host=/---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=live.com# DE | 94.16.106.118
 vless://c6ead936-20fd-4f84-980f-a7541ea0e324@account.userd44cd315b0a1274e.Analytics.lonup.org:10700?security=none&encryption=none&type=tcp&host=zowe.ir&path=/&headerType=http# DE | 188.245.126.149
 vless://61c290d0-9a91-4233-a4eb-e1936a176ddf@116.203.127.84:443?security=tls&encryption=none&headerType=none&type=tcp&sni=nr.app-browser.org# DE | 116.203.127.84
 vless://4a0ced83-c4f2-4946-aa90-d9ce633d43a7@tormentedsoul.fonixapp.org:11487?security=reality&encryption=none&pbk=Vjc6Pniq5ueH7Ue6b3V7nf5oWm89rh113zK1wxm5CFA&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=medicalnewstoday.com&sid=5d# DE | 152.53.142.189
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKTks3Q3Z1dldUcEYyWlkzZDl5Z3Qx@109.122.197.192:443# DE | 109.122.197.192
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowSmFWZXF5c3N3V29qTkZtSjBQeE0z@81.19.141.45:443# DE | 81.19.141.45
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozVG5RZGdtMm1WSlFidVNDWG1SNVZj@81.19.141.45:443# DE | 81.19.141.45
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWZVVKajZIV0N5RFplU2FxcG1mOEFN@162.19.175.40:7425# DE | 162.19.175.40
