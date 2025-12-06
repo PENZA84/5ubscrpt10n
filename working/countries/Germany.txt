@@ -2603,10 +2603,9 @@ vless://2ee2a715-d541-416a-8713-d66567448c2e@91.99.82.11:443?type=grpc&path=%2f#
 vless://2ee2a715-d541-416a-8713-d66567448c2e@91.99.113.207:443?type=grpc&path=%2f#%f0%9f%87%a9%f0%9f%87%aa%20DE%207
 vless://c8e85b36-1f7a-4574-b48e-d2099372ce3c@91.107.155.145:8885?security=none&encryption=none&headerType=none&type=tcp#[openproxylist.com] vless-DE
 vless://b77ce9ea-feed-40f6-8cd0-3da007208050@progr.soreanapanel.com:443?security=reality&encryption=none&pbk=UqOnYKBtVUADBnjVw1rS2ZYcMa0vsCFFe6c1OkFXzGM&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=ce83bcae62c7c148#[openproxylist.com] vless-DE
-trojan://telegram-id-privatevpns@63.181.113.103:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[openproxylist.com] trojan-DE
 vless://5f81ae57-1b77-45df-9ba1-a774c040bc5e@meg.ns.cloudflare.com:443?encryption=none&security=tls&sni=key-nimejam.info&type=ws&alpn=&host=key-nimejam.info&path=/perform#[openproxylist.com] vless-DE
 vless://5f81ae57-1b77-45df-9ba1-a774c040bc5e@meg.ns.cloudflare.com:443?encryption=none&security=tls&sni=hub-nimejam.info&type=ws&alpn=&host=hub-nimejam.info&path=/perform#[openproxylist.com] vless-DE
-vless://78658cea-4771-4c2d-bbb8-d224bfb9ebbe@m40a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#[openproxylist.com] vless-DE
+vless://78658cea-4771-4c2d-bbb8-d224bfb9ebbe@m40a.vip784.com:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#[openproxylist.com] vless-DE
 vless://33a69ad0-4d00-47b8-a200-69d37578eb9c@m11a.vip784.com:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#[openproxylist.com] vless-DE
 vmess://eyJhZGQiOiI1Ny4xMjkuNjQuMTYzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ5aWNodWVuZy5vcmciLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImluc2VjdXJlIjoiMSIsIm5ldCI6IndzIiwicGF0aCI6Imxpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiJcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWFbb3BlbnByb3h5bGlzdC5jb21dIHZtZXNzLURFIiwic2N5IjoiYXV0byIsInNuaSI6InlpY2h1ZW5nLm9yZyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
 vless://dfac7622-66ca-4efe-9976-76f04f4e5d8b@m65a.vip784.com:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#[openproxylist.com] vless-DE
@@ -2616,12 +2615,11 @@ vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=%2F&secu
 vless://95b1344a-2b59-419f-ab7d-2ff7e5c6aa34@91.99.190.62:443?type=grpc&encryption=none&serviceName=&authority=&security=none#[openproxylist.com] vless-DE
 vless://2ee2a715-d541-416a-8713-d66567448c2e@91.98.155.240:443?mode=gun&security=none&encryption=none&type=grpc#[openproxylist.com] vless-DE
 vless://8cde876d-7628-4587-bbb7-0535a7d177ce@45.150.32.240:37007?security=&encryption=none&headerType=&type=tcp#[openproxylist.com] vless-DE
-vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.184.180:80?encryption=none&security=none&type=ws&host=cdn.ir&path=%2Fnews#[openproxylist.com] vless-DE
+vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.184.180:80?path=%2Fnews&security=&encryption=none&host=cdn.ir&type=ws#[openproxylist.com] vless-DE
 vless://a91e64f0-9295-499d-bf4a-661ad99d4938@2-germany.geodema.network:8443?security=reality&encryption=none&pbk=8OsJx6xuHcpL_5e1w0U4bMBa-icevDgvvzNwPwZbORQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=5540e44a53c3d01c#[openproxylist.com] vless-DE
-vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.186.241:80?path=/news&security=none&encryption=none&host=cdn.ir&type=ws#[openproxylist.com] vless-DE
+vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.186.241:80?path=%2Fnews&security=&encryption=none&host=cdn.ir&type=ws#[openproxylist.com] vless-DE
 vless://6dd91b61-96b8-403c-856e-9b873405c3bf@m43a.vip784.com:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#[openproxylist.com] vless-DE
 vless://2ee2a715-d541-416a-8713-d66567448c2e@91.99.113.207:443?mode=gun&security=&encryption=none&type=grpc#[openproxylist.com] vless-DE
-vless://c99262ae-ee77-4dac-8437-2d7f68fd3938@m39a.vip784.com:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#[openproxylist.com] vless-DE
 trojan://PiPSz(vVVKtO@3.64.178.27:14815?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#DE|GithubTrojanLinks
 trojan://Zl4TdxUTPBlb@3.122.237.170:14797?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#DE|GithubTrojanLinks
 trojan://qRaRSTEuwAy5@35.158.61.10:14813?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#DE|GithubTrojanLinks
