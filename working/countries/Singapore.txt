@@ -631,8 +631,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwSnRERlhNZmRXOVZOZEpwYWY0ZTJMZkZrWGRXZ3hyeg=
 vless://a19fd311-c343-4b54-9ca3-fe6dcd84c0fc@38.47.176.134:59967?type=tcp&path=%2f#%f0%9f%87%b8%f0%9f%87%ac%20SG%206
 vless://4c768c7d-2f84-47bf-a8cf-8db2a3683b32@aws.sahanwickramasinghevip.shop:443?security=tls&path=%2f#%f0%9f%87%b8%f0%9f%87%ac%20SG%207
 trojan://79314e99f0a473fe86efc7827942ad00@68.183.231.236:443?allowInsecure=0&sni=www.nintendogames.net#[openproxylist.com] trojan-SG
-trojan://79314e99f0a473fe86efc7827942ad00@153.121.44.99:507?allowInsecure=0&sni=www.nintendogames.net#[openproxylist.com] trojan-SG
-trojan://79314e99f0a473fe86efc7827942ad00@160.16.150.76:1596?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#[openproxylist.com] trojan-SG
+trojan://79314e99f0a473fe86efc7827942ad00@153.121.44.99:507?security=tls&sni=www.nintendogames.net#[openproxylist.com] trojan-SG
+trojan://79314e99f0a473fe86efc7827942ad00@160.16.150.76:1596?security=tls&sni=www.nintendogames.net#[openproxylist.com] trojan-SG
 trojan://79314e99f0a473fe86efc7827942ad00@160.16.144.208:3145?security=tls&sni=www.nintendogames.net#[openproxylist.com] trojan-SG
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.89.142.56:990#SG%20SS-96%20%7C%20free-nodes
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206WmpabVlqaGhNVE0zTVRZd1l6azRaUT09Ok5tSmhNbVF4TVRVdE9UQXlOeTAwTUE9PQ@103.82.20.59:22001?# @v2ray_configs_pool  SG  1.0MB/s
