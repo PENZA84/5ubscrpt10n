@@ -1087,11 +1087,11 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7cgLeazleWbvS1mcjAxLnBhb3Bhb2Nsb3VkLmN5b3Ui
 vmess://eyJhZGQiOiAiZnIwMS5wYW9wYW9jbG91ZC5jeW91IiwgInBvcnQiOiAiNDQzIiwgImlkIjogImQ2MmExMTZlLWMwMTQtMzNlNS05NDU4LWQxYjZlMjcxZTdhNSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAicHMiOiAi8J+Hq/Cfh7ct5rOV5Zu9LWZyMDEucGFvcGFvY2xvdWQuY3lvdSIsICJob3N0IjogImZyMDEuMnl1bi53aW4iLCAicGF0aCI6ICIvdjJyYXkiLCAidGxzIjogInRscyIsICJzbmkiOiAiIiwgInR5cGUiOiAidm1lc3MiLCAic2VydmVyUG9ydCI6IDAsICJuYXRpb24iOiAiIn0=
 vmess://eyJhZGQiOiAiZnIwMS5wYW9wYW9jbG91ZC5jeW91IiwgInBvcnQiOiAiNDQzIiwgImlkIjogIjBmZWI0ZWE5LWJjYWEtMzJjMi1iYmRkLWIzZDEzZGRkYjYxMiIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAicHMiOiAi8J+Hq/Cfh7ct5rOV5Zu9LWZyMDEucGFvcGFvY2xvdWQuY3lvdSIsICJob3N0IjogImZyMDEuMnl1bi53aW4iLCAicGF0aCI6ICIvdjJyYXkiLCAidGxzIjogInRscyIsICJzbmkiOiAiIiwgInR5cGUiOiAidm1lc3MiLCAic2VydmVyUG9ydCI6IDAsICJuYXRpb24iOiAiIn0=
 vless://b77ce9ea-feed-40f6-8cd0-3da007208050@staticfr.soreanapanel.com:443?security=reality&encryption=none&pbk=UqOnYKBtVUADBnjVw1rS2ZYcMa0vsCFFe6c1OkFXzGM&headerType=none&fp=firefox&spx=/&type=tcp&flow=xtls-rprx-vision&sni=tgju.org&sid=ce83bcae62c7c148# FR | 51.77.180.127
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.212.231:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk# FR | 13.39.212.231
 vless://fe48773b-df06-409a-bc61-117cd8fb1eb7@172.232.33.18:443?security=reality&encryption=none&pbk=PTlW40u-tHGDlObhSKFN4tntrfHLgNPlHqg1oYqyY1o&headerType=http&fp=chrome&spx=/&type=tcp&sni=ftp.debian.org&sid=b5ecd44d# FR | 172.232.33.18
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638971626453013983.gorgan-blkaft-aaax.info:8880?mode=gun&security=none&encryption=none&type=grpc# FR | 185.231.205.155
 vless://2df97e78-5a88-4186-bac6-9685b781becf@45.77.62.215:2052?type=tcp&path=/&host=zula.ir&headerType=http&security=none# FR | 45.77.62.215
 vless://cbe67b2f-e766-403e-851a-6ac3e8c4aece@45.13.119.77:2024?mode=gun&security=reality&encryption=none&pbk=hMvv9d1PfBXI7ow9PqaUJYqo9_uHTKQYWt0go0enwzQ&fp=chrome&type=grpc&serviceName=yourServiceName&sni=cloudflare.com&sid=650bbd4b5cae0713# FR | 45.13.119.77
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@2.56.126.190:8443?path=/&security=tls&encryption=none&type=ws# FR | 2.56.126.190
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.4:8880?mode=gun&security=&encryption=none&type=grpc# FR | 194.4.49.4
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.179.217.208:8880?mode=gun&security=none&encryption=none&type=grpc# FR | 95.179.217.208
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638959783653647289.lahijan-blkaft-aaao.info:8880?encryption=none&type=grpc&mode=gun&security=none# FR | 185.231.205.109
@@ -1103,7 +1103,8 @@ vless://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?security=&e
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.179.217.208:8880/?type=grpc&encryption=none&flow=# FR | 95.179.217.208
 vless://7d31065b-980c-4295-83f0-23bde0eee9cc@185.234.64.228:443?path=/qnbufdws&security=tls&encryption=none&type=ws# FR | 185.234.64.228
 vless://40e65a0d-df16-4759-a126-76fa359f51f5@51.159.96.121:443?security=tls&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ns3.turkeyone.org# FR | 51.159.96.121
-trojan://5fbEkKmVOdAY+8_-@217.69.10.156:16288/?type=tcp&security=tls&sni=megafon.ru# FR | 217.69.10.156
+trojan://telegram-id-directvpn@13.39.212.231:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# FR | 13.39.212.231
+trojan://telegram-id-privatevpns@13.39.212.231:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# FR | 13.39.212.231
 trojan://eDHWaPzxcl@145.223.70.115:25365/?type=grpc&serviceName=&authority=&security=reality&pbk=YaP997bVbPWOkNwZ-aKWVNHSdzQkZLzhTGjVRVC1u3I&fp=chrome&sni=cloudflare.com&sid=d9&spx=/# FR | 145.223.70.115
 trojan://telegram-id-v2rayvpnchannel@15.236.214.251:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# FR | 15.236.214.251
 trojan://telegram-id-v2rayvpnchannel@13.37.144.126:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# FR | 13.37.144.126
