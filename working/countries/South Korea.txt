@@ -86,7 +86,6 @@ vmess://ewogICAgImFkZCI6ICIxNTguMTgwLjkxLjIwNiIsCiAgICAiYWlkIjogMCwKICAgICJob3N0
 ss://YWVzLTI1Ni1jZmI6ZG91Yi5pbw==@43.202.49.222:2333#%F0%9F%87%B0%F0%9F%87%B7KR-43.202.49.222-11039
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.201.108.109:443#%F0%9F%87%B0%F0%9F%87%B7KR-43.201.108.109-11040
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@125.141.26.5:2003#%F0%9F%87%B0%F0%9F%87%B7KR-125.141.26.5-11638
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@p141.panda001.net:4652#%F0%9F%87%B0%F0%9F%87%B7_KR_%E9%9F%A9%E5%9B%BD
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQEAyMjEuMTUwLjEwOS44MTo0Mjk3OA==#%F0%9F%87%B0%F0%9F%87%B7_KR_%E9%9F%A9%E5%9B%BD_10
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@218.237.185.230:4652#KR%20%20ROSE21
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMjI0Mg@115.161.136.145:10099#KR%20%20ROSE29
@@ -218,6 +217,7 @@ vless://f61a4285-7264-4d07-9408-7b9ba1922c26@211.229.77.184:27443?encryption=non
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@123.143.9.5:14041?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=X%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F%3Fed%3D2560#KR%E9%9F%A9%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@211.57.90.42:50000?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=%2FTelegram%40freecodes%2F%3Fed%3D2560#KR%E9%9F%A9%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@182.208.209.54:50000?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#KR%E9%9F%A9%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@p141.panda001.net:4652#%F0%9F%87%B0%F0%9F%87%B7_KR_%E9%9F%A9%E5%9B%BD
 vless://6931c31c-4dca-b047-9fd3-196f0e6c7c2b@121.145.153.217:50001?encryption=none&security=tls&sni=act13.sni565.netlib.re&fp=chrome&alpn=h3&insecure=0&allowInsecure=0&type=ws&host=act13.sni565.netlib.re&path=/proxyip=tw.sni2025.netlib.re# @v2ray_configs_pool  KR  1.7MB/s
 vless://6932aea6-ddb8-724b-92b6-cd16b24d72ae@115.94.122.118:50001?encryption=none&security=tls&sni=s3.sni2010.netlib.re&fp=chrome&alpn=h3&insecure=0&allowInsecure=0&type=ws&host=s3.sni2010.netlib.re&path=/proxyip=tw.sni2025.netlib.re# @v2ray_configs_pool  KR  1.0MB/s
 vless://6932aea6-ddb8-724b-92b6-cd16b24d72ae@119.64.242.60:60002?encryption=none&security=tls&sni=s3.sni2010.netlib.re&fp=chrome&alpn=h3&insecure=0&allowInsecure=0&type=ws&host=s3.sni2010.netlib.re&path=/proxyip=tw.sni2025.netlib.re# @v2ray_configs_pool  KR  1.7MB/s
