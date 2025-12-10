@@ -577,6 +577,12 @@ vmess://eyJhZGQiOiIxNzIuNjYuNDAuOTkiLCJhaWQiOiIwIiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwi
 vless://4a6de183-2ad3-456c-b420-feeac81f6257@51.250.24.245:4249?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru#[]t.me/ConfigsHub
 vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@norman.ns.cloudflare.com:443?path=%2Fyhowcws&security=tls&encryption=none&insecure=1&host=azizoarjmand.info&type=ws&allowInsecure=1&sni=azizoarjmand.info#[]t.me/ConfigsHub
 vless://02e46039-200d-4ae4-ac90-b0d619f72034@172.64.33.91:443?path=%2Faafeuws&security=tls&encryption=none&host=redlabell.info&type=ws&sni=redlabell.info#[]t.me/ConfigsHub
+vless://24285832-c456-47f8-9e2f-520e84e33612@82.153.217.154:2566?security=none&type=tcp&headerType=http&path=%2F---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&host=#[]t.me/ConfigsHub
+vless://24285832-c456-47f8-9e2f-520e84e33612@82.153.217.154:2565?security=none&encryption=none&headerType=http&type=tcp#[]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.206:8080#Telegram:@IP_CF
+vmess://eyJhZGQiOiJhLmNvbmZpZ25vci5zaXRlIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjUyZDA4N2JmLWVjNTAtNDM5My1iNzQxLTE0M2M0MmY2N2U3ZiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNzQ0MyIsInBzIjoiW/Cfh6nwn4eqXXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+vless://24285832-c456-47f8-9e2f-520e84e33612@82.153.217.154:2566?security=none&encryption=none&headerType=http&type=tcp#[]t.me/ConfigsHub
+vless://7270612b-49f6-4b04-999c-34d8263da767@108.162.195.45:443?path=%2Faymdlws&security=tls&encryption=none&host=picassoo.info&fp=chrome&type=ws&sni=picassoo.info#[]t.me/ConfigsHub
 vless://e497da22-d020-40fb-a1fa-bc294066a2d2@66.235.200.30:80/?type=ws&encryption=none&host=pormang.webhost99.workers.dev&path=%2F#[]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.27.132:8880?mode=gun&security=none&encryption=none&type=grpc#[]t.me/MoftConfig
 vless://384d86c0-2f2c-5156-98b5-27bbc14f4315@join.mosiv2.fastly80-3.hosting-ip.com:80/?type=ws&encryption=none&host=Join-Bede-MOSiv2.IR&path=%2F#[]t.me/ConfigsHub
@@ -9992,9 +9998,3 @@ vless://00da4e80-454a-4c96-a1f2-86989110f87a@173.245.59.100:2052?type=httpupgrad
 vless://faaaf16e-188e-42f2-bcc1-17feadc84fad@151.236.18.176:444?security=reality&encryption=none&pbk=FOSoac3DIrSrCUcBtQA-BdHMxCtqe2CYCpdvGxKMiUw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=opensuse.org&sid=82b9ca5d8d39ba72#[]t.me/MoftConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OTA1YTMyYi0wMTJjLTQ3MTEtODllMi03M2I2NzEzZWNhNzU=@5.187.51.212:40030#@MoftConfigPolandGdask (Letnica)ping:41.26ms
 vless://f7d55b42-9c71-4e53-ade3-8932dc0fe950@wolf512.api-tel.xyz:22695?security=none&encryption=none&type=ws#@MoftConfigIranMashhadping:111.12ms
-trojan://telegram-id-directvpn@18.195.228.194:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@MoftConfigGermanyFrankfurt am Mainping:25.45ms
-vless://31242903-b05f-4795-a845-cb434eb57c03@marzban.panelmarzban.com:4040?security=reality&encryption=none&pbk=GqpLuqbGhZ3N1oIlSMfuLnpKCNZOoK8JWwHPmqSNxgk&headerType=none&fp=firefox&type=tcp&sni=refersion.com#[]t.me/MoftConfig
-vless://753fa8e8-a3e8-442e-abf7-875ed776eacb@104.17.213.241:443?security=tls&sni=is.oldcloud.online&type=ws&host=is.oldcloud.online&path=/#@MoftConfigCanadaTorontoping:8.4ms
-trojan://telegram-id-privatevpns@18.195.228.194:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@MoftConfigGermanyFrankfurt am Mainping:25.35ms
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.195.228.194:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@MoftConfigGermanyFrankfurt am Mainping:25.65ms
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@185.16.110.111:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=vb.ylks0033.dpdns.org&type=ws&sni=vb.ylks0033.dpdns.org#@MoftConfigFranceParisping:8.26ms
