@@ -1,3 +1,4 @@
+vless://a4cb890e-8251-488e-9439-3403c9a58e55@free-server.techsonic.cloud:443?security=tls&type=tcp&sni=free-server.techsonic.cloud&fp=chrome#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B8%F0%9F%87%ACSG%20%F0%9F%A7%AD%202.3MB%2Fs#_
 vless://0deb6f9d-9ad9-4b73-ac33-f3176e7ec1f2@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
 vless://e85ce618-50cd-42e0-a8ba-5052e6be9498@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
 ss://ef4d7a6a-a7f0-48e1-8c77-cd305fdca732@38.134.189.186:443?encryption=none&security=reality&sni=www.microsoft.com&fp=safari&pbk=F4KWtAmQsQrJ0AyVED81hZQq5GQL64pXHG2SWBEpfFg&sid=b2580c3d0fae6019&type=grpc&serviceName=8959780c31813fd40c6beecf#Singapore%2065%20dailyv2ry
@@ -273,6 +274,7 @@ vless://a4cb890e-8251-488e-9439-3403c9a58e55@free-server.techsonic.cloud:443?sec
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.8.211.142:2053?path=/&security=tls&encryption=none&host=dl1-fr-cdn.easy-upload.org&type=ws&sni=dl1-fr-cdn.easy-upload.org#SG_6240_@Surfboardv2ray
 vless://f64bdc57-0f54-4705-bf75-cfd646d98c06@101.32.168.155:28443?path=/?ed=2048&security=tls&encryption=none&host=snippets.nneko.netlib.re&fp=chrome&type=ws&sni=snippets.nneko.netlib.re#SG_6447_@Surfboardv2ray
 vless://fe7d9497-c04b-4462-900d-333abc79a90f@46.250.237.164:55076?security=none&encryption=none&headerType=none&type=tcp#SG_6609_@Surfboardv2ray
+vless://a4cb890e-8251-488e-9439-3403c9a58e55@free-server.techsonic.cloud:443?security=tls&type=tcp&sni=free-server.techsonic.cloud&fp=chrome#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B8%F0%9F%87%ACSG%20%F0%9F%A7%AD%202.0MB%2Fs#_
 vless://df0a4f92-0201-469e-ae2a-7eb733edfc51@sin5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#%20Singapore
 vless://6e17f4e9-e44f-496e-a22d-759bdb3358cb@sin5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#%20Singapore
 vless://d78cb85a-57d2-43d0-a2d2-0fe979a33d3c@sin5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#%20Singapore
@@ -632,6 +634,7 @@ vless://ef4d7a6a-a7f0-48e1-8c77-cd305fdca732@38.134.189.186:443?encryption=none&
 vless://ff831988-b64a-4bc3-93dd-58389c91a03a@sg.fluxcommunity.my.id:2082?&type=ws&headerType=none&host=sg.fluxcommunity.my.id&path=%2Fvless#[openproxylist.com] vless-SG
 vless://ef4d7a6a-a7f0-48e1-8c77-cd305fdca732@38.134.189.186:443?encryption=none&security=reality&sni=www.microsoft.com&fp=safari&pbk=F4KWtAmQsQrJ0AyVED81hZQq5GQL64pXHG2SWBEpfFg&sid=b2580c3d0fae6019&type=grpc&serviceName=8959780c31813fd40c6beecf#[openproxylist.com] vless-SG
 trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.233.76:507?security=tls&sni=www.nintendogames.net#[openproxylist.com] trojan-SG
+trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.153.13:3145?allowInsecure=0&sni=www.nintendogames.net#[openproxylist.com] trojan-SG
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1QTFyTFA1bTBtTU9ROEZjeFJYeGdy@209.74.82.227:26515#SG%20SS-23%20%7C%20free-nodes
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxOTJNcnJQOW9KM2xNRXpiUUZweXVV@209.74.81.149:21166#SG%20SS-29%20%7C%20free-nodes
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4SWo0c2VpZjg1UVFIZkxtUjB6WWtR@209.74.82.196:48918#SG%20SS-31%20%7C%20free-nodes

@@ -84,7 +84,6 @@ trojan://telegram-id-privatevpns@13.49.46.49:22222?security=tls&sni=trj.rollingn
 trojan://telegram-id-directvpn@13.49.224.224:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%B8%F0%9F%87%AASE-13.49.224.224-11413
 trojan://telegram-id-privatevpns@13.48.45.205:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%B8%F0%9F%87%AASE-13.48.45.205-11418
 trojan://telegram-id-directvpn@13.48.105.114:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%B8%F0%9F%87%AASE-13.48.105.114-11422
-vless://465f35d5-897c-4ce0-811c-24ac58711f45@70.34.220.70:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Sweden%2011%20dailyv2ry
 vless://65e2772e-915a-4306-e3c7-e7bfa71e83fd@70.34.207.145:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Sweden%2020%20dailyv2ry
 vless://e0106b16-1d2d-45bc-c306-e31f422d9221@70.34.198.188:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Sweden%2082%20dailyv2ry
 vless://e0106b16-1d2d-45bc-c306-e31f422d9221@70.34.207.221:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Sweden%2063%20dailyv2ry
@@ -166,8 +165,6 @@ vless://895bcc7e-59c4-4872-d1b7-7fa19a8ec2ce@70.34.214.246:443?type=grpc&encrypt
 vless://465f35d5-897c-4ce0-811c-24ac58711f45@70.34.212.30:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Sweden%2080%20dailyv2ry
 vless://c1beaf03-ea91-552e-a914-694d35060b3d@185.146.173.42:80?security=none&type=ws&host=Nl2.vless.site.&path=%2Fvless#%F0%9F%87%B8%F0%9F%87%AA_SE_%E7%91%9E%E5%85%B8
 vless://9c92dd71-acac-422b-b23e-e764f8cba0de@185.146.173.58:8080?security=none&type=ws&host=lc72.lebasnoo.ir.&path=%2Fservernett#%F0%9F%87%B8%F0%9F%87%AA_SE_%E7%91%9E%E5%85%B8
-ss://465f35d5-897c-4ce0-811c-24ac58711f45@70.34.220.70:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Sweden%2011%20dailyv2ry
-ss://65e2772e-915a-4306-e3c7-e7bfa71e83fd@70.34.222.243:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Sweden%2088%20dailyv2ry
 ss://65e2772e-915a-4306-e3c7-e7bfa71e83fd@70.34.207.145:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Sweden%2020%20dailyv2ry
 ss://e0106b16-1d2d-45bc-c306-e31f422d9221@70.34.198.188:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Sweden%2082%20dailyv2ry
 ss://e0106b16-1d2d-45bc-c306-e31f422d9221@70.34.207.221:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Sweden%2063%20dailyv2ry

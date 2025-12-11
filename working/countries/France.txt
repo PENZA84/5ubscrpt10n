@@ -436,6 +436,7 @@ vless://f5f69b70-d6b9-4b5c-8389-d0d992ac75b1@62.60.248.14:28485?encryption=none&
 vless://f6ab4c87-990f-49a2-9a86-ddd8b012cb1c@france18.clearorbitllc.com:443?security=reality&encryption=none&pbk=oV1AkWgsWXKrDF1KLj1-qdzn87iamZq754qI_CoDrgs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=france18.clearorbitllc.com&sid=6724d5c47a#FR_6462_@Surfboardv2ray
 vless://f7140d34-dcc0-440c-bb51-bbd8ed7d8b11@paris.fonixapp.org:16607?security=reality&encryption=none&pbk=MIDSDaDAnyD3LPtHE8oLcGJjQP2Qj1RVJR853N1T924&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=expedia.com&sid=78#FR_6485_@Surfboardv2ray
 vless://f7df6c83-e527-4bb2-bae1-ea743edaffcd@141.227.132.199:42817?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#FR_6495_@Surfboardv2ray
+vmess://eyJ2IjoiMiIsInBzIjoi8J+RifCfhpQgQHYycmF5X2NvbmZpZ3NfcG9vbCDwn5OhIPCfh6vwn4e3RlIg8J+nrSAyLjhNQi9zIiwiYWRkIjoiMTg1LjI0OC4zMy4xNzMiLCJwb3J0IjoiMTY0OTUiLCJpZCI6IjI3MTA0ZmFlLWYwNDctNDk5My05MDJhLTkzNjhkOGEzZTliYyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoidGxzIiwic25pIjoiaW1hZmFrZS5sb2NrZXIiLCJwYXRoIjoiL3NwZWVkdGVzdCIsImhvc3QiOiJpbWFmYWtlLmxvY2tlciJ9
 trojan://telegram-id-directvpn@35.181.213.231:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&type=tcp&headerType=none# @MoftConfigFrance
 trojan://telegram-id-privatevpns@15.236.188.154:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# @MoftConfigFrance
 trojan://telegram-id-privatevpns@15.236.192.112:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# @MoftConfigFrance
@@ -713,7 +714,7 @@ vless://355648ef-e752-4e8a-be99-e003d1327a3d@51.91.98.254:4655?security=none&enc
 vless://9f4b9824-df02-49c3-a976-d4f9a31f81fe@38.54.122.118:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=dash.cloudflare.com&fp=chrome&security=reality&pbk=21MNt-O8tq9gP9o7yeT9iVQslHPdNVHtqI9Kg5p-lHo&sid=#%3E%3E%40oneclickvpnkeys%3A%3AFR
 vless://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40V2RAY_VMESS_free%3A%3AFR
 vless://be72cd92-92d2-4543-9bef-1673fcd03b45@137.74.53.176:35789?security=none&path=%2f#%f0%9f%87%ab%f0%9f%87%b7%20FR%201
-trojan://telegram-id-privatevpns@13.39.187.138:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[openproxylist.com] trojan-FR
+trojan://telegram-id-privatevpns@13.39.187.138:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[openproxylist.com] trojan-FR
 trojan://telegram-id-privatevpns@15.237.153.133:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[openproxylist.com] trojan-FR
 vless://24285832-c456-47f8-9e2f-520e84e33612@82.153.217.154:2565?security=none&type=tcp&headerType=http&path=%2F---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&host=#[openproxylist.com] vless-FR
 vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@norman.ns.cloudflare.com:443?path=%2Fcahttingws&security=tls&encryption=none&host=639004957474582477.tiguan-amsit.info&type=ws&sni=639004957474582477.tiguan-amsit.info#[openproxylist.com] vless-FR
