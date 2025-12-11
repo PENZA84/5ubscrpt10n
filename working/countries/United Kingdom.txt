@@ -1076,11 +1076,11 @@ vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@norman.ns.cloudflare.com:443?path=/
 vless://197092b3-e995-48b7-a34b-d32eb75b62e1@194.150.166.134:17166?security=none&path=%2f#%f0%9f%87%ac%f0%9f%87%a7%20GB%201
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzdVNhZFJUT0E5YUNUT1M5TGpYdjc4@89.185.84.185:443#%f0%9f%87%ac%f0%9f%87%a7%20GB%202
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEa0g3dU83dDkwVXc0RDk1emdaVmRW@89.185.84.185:443#%f0%9f%87%ac%f0%9f%87%a7%20GB%203
-vless://f5d7d068-3325-43d8-85bd-e8ed665abcd5@94.72.99.160:443?encryption=none&security=reality&sni=www.microsoft.com&fp=safari&pbk=CsPJilX_bL4eatrPYHcBbnDEERssJU-2Igrnm8mir0Q&sid=8f79818e36afd892&type=grpc&serviceName=846fa1b373f6d179e30631f7#[openproxylist.com] vless-GB
+vless://f5d7d068-3325-43d8-85bd-e8ed665abcd5@94.72.99.160:8443?encryption=none&security=reality&sni=www.microsoft.com&fp=safari&pbk=CsPJilX_bL4eatrPYHcBbnDEERssJU-2Igrnm8mir0Q&sid=8f79818e36afd892&type=tcp&flow=xtls-rprx-vision#[openproxylist.com] vless-GB
 vless://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@84.8.145.58:443?&security=tls&fp=random&sni=ak.suoni.nyc.mn&type=ws&headerType=none&host=ak.suoni.nyc.mn&path=%2Fproxyip%3Dsjc.o00o.ooo#[openproxylist.com] vless-GB
 vless://aab74025-0737-410c-b048-bcbde3bc1852@141.227.174.26:32418?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#[openproxylist.com] vless-GB
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=%2Fsghiyws&security=tls&encryption=none&host=terazhedi.info&type=ws&sni=terazhedi.info#[openproxylist.com] vless-GB
-vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@norman.ns.cloudflare.com:443?path=/yhowcws&security=tls&encryption=none&insecure=0&host=azizoarjmand.info&type=ws&allowInsecure=0&sni=azizoarjmand.info#[openproxylist.com] vless-GB
+vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@norman.ns.cloudflare.com:443?path=/yhowcws&security=tls&encryption=none&host=azizoarjmand.info&type=ws&sni=azizoarjmand.info#[openproxylist.com] vless-GB
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=%2Fsghiyws&security=tls&encryption=none&insecure=1&host=terazhedi.info&type=ws&allowInsecure=1&sni=terazhedi.info#[openproxylist.com] vless-GB
 vless://7270612b-49f6-4b04-999c-34d8263da767@108.162.195.45:443?path=/aymdlws&security=tls&encryption=none&host=picassoo.info&type=ws&sni=picassoo.info#[openproxylist.com] vless-GB
 vless://7270612b-49f6-4b04-999c-34d8263da767@108.162.195.45:443?path=%2Faymdlws&security=tls&encryption=none&host=picassoo.info&type=ws&sni=picassoo.info#[openproxylist.com] vless-GB
@@ -1435,19 +1435,18 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6ogLeeRnuWFuC11azAxLnBhb3Bhb2Nsb3VkLmN5b3Ui
 vless://aab74025-0737-410c-b048-bcbde3bc1852@141.227.174.26:32418?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON# GB | 141.227.174.26
 vless://65cd9b4b-90a1-43f4-9682-3e33c8a29b0e@82.25.101.123:34712?type=tcp&security=none# GB | 82.25.101.123
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@25.25.25.253:2096?path=/&security=tls&encryption=none&host=gaosir.unfeeling.sbs&type=ws&sni=gaosir.unfeeling.sbs# GB | 25.25.25.253
-vless://b0e5da32-8bb4-4e65-94f1-99ddeefeaa5e@ium3uojslvj2shb1yh8zu7etc34vmyfb.z8f5hmu0ue.workers.dev:443?security=tls&encryption=none&fp=chrome&type=ws&sni=PmlMyazd.pagEs.Dev# GB | 2a06:98c1:3121::
 vless://7b1c5bee-19f1-422f-8be2-e03175fabe4a@104.248.168.91:80?path=/?ed=2048&security=none&encryption=none&type=ws# GB | 104.248.168.91
 vless://2f6756c6-10ea-4c24-b8ac-c5bb4883f3d6@104.248.168.91:8443?mode=gun&security=none&encryption=none&type=grpc# GB | 104.248.168.91
 vless://2be20bd2-d376-433e-9259-99983cac98e9@134.209.23.173:15580?path=/&security=&encryption=none&type=ws# GB | 134.209.23.173
+vless://94daa8ad-75ed-4dbf-a6de-d05036d98df5@betty.ns.cloudflare.com:443?path=/tixvuws&security=tls&encryption=none&host=vangoghh.info&type=ws&sni=vangoghh.info# GB | 2a06:98c1:50::ac40:204b
 vless://7d27c544-135d-41a2-bd84-713b8af4f3c2@51.89.230.196:7035?path=/&security=none&encryption=none&host=filimo.com&type=ws# GB | 51.89.230.196
 vless://2a325803-9458-455d-ad20-e51fab100145@51.68.198.51:8080?path=/YUYETrenyklxeoyemeWFCrneerV&security=none&encryption=none&type=ws# GB | 51.68.198.51
 vless://50d266a9-e139-419f-a0a3-6bf5c91d9b20@51.68.198.51:8080?path=/YUYETrenyklxeoyemeWFCrneerV&security=none&encryption=none&type=ws# GB | 51.68.198.51
-vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=/sghiyws&security=tls&encryption=none&type=ws&sni=terazhedi.info# GB | 2a06:98c1:50::ac40:22b0
 vless://b0265ca8-98dd-46b2-adec-4705b5e7eb48@102.177.189.28:80/?type=ws&path=/@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot?ed=2048&host=psi.misvn.ir&security=none# GB | 102.177.189.28
 vless://turboo-server@sub.turboo-server.com.co:80?type=ws&encryption=none&path=/&host=&security=none# GB | 158.177.96.122
 vless://fc363de7-5d11-42e0-b9c0-79d59274882a@fi.podpiska.vip:443?security=reality&encryption=none&pbk=L-7MZ5IB5uSmLn34BQsBOF8XaDN3B2as4ye-nWkJEzI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=uspehudacha.com&sid=056d3a8e5b410ee9# GB | 185.93.105.130
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@25.25.25.253:2096?security=tls&encryption=none&host=gaosir.unfeeling.sbs&fp=chrome&type=ws&sni=gaosir.unfeeling.sbs# GB | 25.25.25.253
-vless://7fb9813a-e15d-4c40-a78b-882ff80d1efb@brenna.ns.cloudflare.com:443?path=/ztznofws&security=tls&encryption=none&host=639009462851028680.passat-amsiy.info&type=ws&sni=639009462851028680.passat-amsiy.info# GB | 2a06:98c1:50::ac40:22b0
+vless://f028a8c0-6763-4558-aee3-2563db9d7825@serena.ns.cloudflare.com:443?path=/xxvclws&security=tls&encryption=none&fp=chrome&type=ws&sni=freudd.info# GB | 2a06:98c1:50::ac40:20dc
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.208:8080# GB | 82.38.31.208
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJZUxibXlUUjY1dWV5aU1wVjhtXzVB@51.195.200.77:443# GB | 51.195.200.77
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNN0NLY1NuT0hWUTdmYmZDUzN6OHRs@78.129.140.11:443/?outline=1&prefix=# GB | 78.129.140.11
