@@ -1,5 +1,4 @@
 vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@77.37.33.39:443?path=/api/v1&security=tls&encryption=none&host=gb-8981.shenzogmbh.com&fp=chrome&type=ws&sni=gb-8981.shenzogmbh.com#CY
-vless://281d153a-2fae-4725-84ed-602fb3627ca6@5.180.45.176:4443?security=reality&type=tcp&sni=github.com&fp=chrome&flow=xtls-rprx-vision&sid=aa7e96542880027a&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&encryption=none# @v2ray_configs_pool  CY  2.7MB/s
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnNVJRb3hRdVZ0bkZ2M1h4c2E4ZWRQaXNYTlBueVdLeQ==@45.83.20.206:443#%F0%9F%87%A8%F0%9F%87%BECY-45.83.20.206-0310
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.255.210.49:990#%F0%9F%87%A8%F0%9F%87%BECY-134.255.210.49-0413
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.114:8880?encryption=none&security=none&sni=pqh25v1.vetdomok.shop&type=grpc#%F0%9F%94%92%20VL-GRPC-NONE%20%F0%9F%87%A8%F0%9F%87%BE%20CY-45.82.251.114%3A8880
@@ -12,10 +11,9 @@ vmess://ewogICAgImFkZCI6ICIxNzEuMjIuMTM0LjEyIiwKICAgICJhaWQiOiA2NCwKICAgICJob3N0
 vmess://ewogICAgImFkZCI6ICIxNzEuMjIuMTM0LjEyIiwKICAgICJhaWQiOiA2NCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL3BhdGgvMTY4OTkzNTI0MzAyNyIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4eo8J+HvkNZLTE3MS4yMi4xMzQuMTItMTA3MDciLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.255.210.49:990#CY%20%20ROSE251
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@91.148.135.31:990#CY%20%20ROSE263
-vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@77.37.33.39:443?path=/api/v1&security=tls&encryption=none&host=gb-8981.shenzogmbh.com&fp=chrome&type=ws&sni=gb-8981.shenzogmbh.com#CY_2538_@Surfboardv2ray
-vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.46:443?path=/Javid-SHAH-KingRezaPahlavi/?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=simorgh.hpcode.ir&fp=chrome&type=ws&sni=simorgh.hpcode.ir#CY_6163_@Surfboardv2ray
-vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.46:443?path=/Javid-SHAH-KingRezaPahlavi/?ed=2560&security=tls&encryption=none&host=simorgh.hpcode.ir&fp=chrome&type=ws&sni=simorgh.hpcode.ir#CY_6164_@Surfboardv2ray
-vless://ed191ac2-7bcd-489e-86af-26fb885acaf6@cy.snowfalls.top:443?security=reality&encryption=none&pbk=dhTXgiFZvZPJSNc33EqNvn_CRor_RKeiMxSkHsEdDic&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=cy.snowfalls.top&sid=0441f3e34348cb45#CY_6171_@Surfboardv2ray
+vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.46:443?path=/Javid-SHAH-KingRezaPahlavi/?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=simorgh.hpcode.ir&fp=chrome&type=ws&sni=simorgh.hpcode.ir#CY_6172_@Surfboardv2ray
+vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.46:443?path=/Javid-SHAH-KingRezaPahlavi/?ed=2560&security=tls&encryption=none&host=simorgh.hpcode.ir&fp=chrome&type=ws&sni=simorgh.hpcode.ir#CY_6173_@Surfboardv2ray
+vless://ed191ac2-7bcd-489e-86af-26fb885acaf6@cy.snowfalls.top:443?security=reality&encryption=none&pbk=dhTXgiFZvZPJSNc33EqNvn_CRor_RKeiMxSkHsEdDic&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=cy.snowfalls.top&sid=0441f3e34348cb45#CY_6180_@Surfboardv2ray
 vless://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@195.85.59.155:8880/?type=ws&encryption=none&host=photographipictureai.ir&path=%2FTelegram%40Azarbayjab1%40Azarbayjab1%40Azarbayjab1# @MoftConfigCyprus
 vless://dbf403f4-b871-4446-8712-675562dbbb7b@195.85.59.161:8080?type=ws&host=0221.enedrehd.workers.dev&path=%2F%3Fed%3D2560# @MoftConfigCyprus
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.255.210.49:990# @MoftConfigCyprus
@@ -24,6 +22,7 @@ trojan://Aimer@45.67.214.41:2083?path=%2F&security=tls&alpn=http%2F1.1&host=epcc
 vless://d32e19c3-9928-4811-b3b5-b1ce6b3792ea@154.92.9.1:2096?path=%2F2096%2F%40VRayyNGvpn&security=tls&encryption=none&type=ws&sni=bEAt.MIRaclETaxbiTS.Top.# @MoftConfigCyprus
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@213.169.137.221:989#%F0%9F%87%A8%F0%9F%87%BECY-213.169.137.221-0756
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwM0AyMTMuMTY5LjEzNy4yMjE6OTg5#CY_40
+vless://281d153a-2fae-4725-84ed-602fb3627ca6@5.180.45.176:4443?security=reality&type=tcp&sni=github.com&fp=chrome&flow=xtls-rprx-vision&sid=aa7e96542880027a&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&encryption=none# @v2ray_configs_pool  CY  2.7MB/s
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.255.210.49:990#%f0%9f%87%a8%f0%9f%87%be%20CY%201
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.255.210.49:990?#%F0%9F%87%A8%F0%9F%87%BE%20Limassol%2C%2002%2C%20Cyprus
 vmess://eyJ2IjogIjIiLCAicHMiOiAiUmVsYXlf8J+HqPCfh75DWS3wn4er8J+Ht0ZSXzM1MyIsICJhZGQiOiAiMjAzLjI0LjEwOC4yIiwgInBvcnQiOiA4MCwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiMTdiMmEzMTMtMzdhMC00OTQ1LWE4ZTQtZTYzMzc1NTA2YjRhIiwgInNuaSI6ICJmci52MnJheTEueHl6IiwgInBhdGgiOiAiLyJ9
