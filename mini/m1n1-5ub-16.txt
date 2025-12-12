@@ -1,3 +1,5 @@
+trojan://telegram-id-directvpn@35.181.241.245:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[]t.me/ConfigsHub
+vmess://eyJhZGQiOiAiMTcyLjY3LjE3OS4xOTkiLCAiYWlkIjogMCwgImhvc3QiOiAibGluZGUwNi5pbmRpYXZpZGVvLnNicyIsICJpZCI6ICJlZGJiMTA1OS0xNjMzLTQyNzEtYjY2ZS1lZDRmYmE0N2ExYmYiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2xpbmt3cyIsICJwb3J0IjogNDQzLCAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
 vless://ededba14-8107-4289-9ff5-c44973e84bfe@209.38.42.122:2027?type=tcp&security=none#[]t.me/ConfigsHub
 vless://4d388def-074d-4cf6-997d-6144c75a6da8@185.177.238.18:443?security=reality&encryption=none&pbk=jrpL94cShQQzeMnCRGQlfiRctXb17NOI6JgUPPcG2XI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=84ba23f147ad6a56#[]t.me/ConfigsHub
 vmess://eyJ2IjoiMiIsImFkZCI6ImdzMDMtMS5ndW9zaGkxNTIwLmNvbSIsInBvcnQiOjQ0MywiaWQiOiI4MmZmNmQzMC0yOTIwLTRlYmQtYjk1Yy1iMDE2ZWRlMWE4NDEiLCJ0eXBlIjoiIiwiYWlkIjowLCJuZXQiOiJ3cyIsInRscyI6InRscyIsInNuaSI6ImdzMDMtMS5ndW9zaGkxNTIwLmNvbSIsInBhdGgiOiJcLzgyZmY2ZDMwIiwiaG9zdCI6ImdzMDMtMS5ndW9zaGkxNTIwLmNvbSIsInBzIjoiW/Cfj4FddC5tZS9Db25maWdzSHViOiJ0Lm1lXC9lbnRyeU5FVCJ9
@@ -9996,5 +9998,3 @@ vless://ad66adf8-cc79-43b9-bc93-ab5bbc9aa04f@65.109.220.74:55432?type=ws&encrypt
 vless://bacf59bb-901a-4050-b239-f392e6f00310@104.20.22.46:443?security=tls&sni=hiddifyreplace1.freeairlaines.com&type=ws&host=hiddifyreplace1.freeairlaines.com&path=%2Fbacf59bb-901a-4050-b239-f392e6f00310&fp=randomized&alpn=h2,http/1.1#[]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.19:8880?security=&type=grpc&encryption=none#[]t.me/ConfigsHub
 vless://2fb2e81c-c94b-435b-af61-1ba0ba60bcc7@94.131.9.155:443?encryption=none&security=tls&type=ws&path=%2Fhyjtppws#[]t.me/ConfigsHub
-vless://97fc44dd-c88c-4470-8d66-1752089c0183@104.16.53.11:2053?path=%2F%3Fed&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=ws&sni=frAgeU2.cpI2HIdd.eu.ORG#[]t.me/ConfigsHub
-vless://89bf7903-b90d-4c8a-aad7-bea7a276654c@de.vip-get.ru:443?security=reality&encryption=none&pbk=d4nrz5jZn6OcMGmRr4H-2v6hKexlwe4hKaDMgMqSV3A&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=305b25f707eb#[]t.me/ConfigsHub
