@@ -606,8 +606,8 @@ trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.153.13:3145?allowInsecure=0&sni
 trojan://trojan@www.visa.com.sg:8443?security=tls&sni=pangpi.pages.dev&type=ws&path=/?ed=2560&Host=pangpi.pages.dev#SG%20TROJAN-1800%20%7C%20free-nodes
 ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.36.91.23:8388#%f0%9f%87%b8%f0%9f%87%ac%20SG%201
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwSnRERlhNZmRXOVZOZEpwYWY0ZTJMZkZrWGRXZ3hyeg==@167.150.100.115:443#%f0%9f%87%b8%f0%9f%87%ac%20SG%202
-vless://ef4d7a6a-a7f0-48e1-8c77-cd305fdca732@38.134.189.186:443?security=reality&encryption=none&pbk=F4KWtAmQsQrJ0AyVED81hZQq5GQL64pXHG2SWBEpfFg&fp=safari&type=grpc&serviceName=8959780c31813fd40c6beecf&sni=www.microsoft.com&sid=b2580c3d0fae6019#[openproxylist.com] vless-SG
-trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.153.13:3145?security=tls&sni=www.nintendogames.net#[openproxylist.com] trojan-SG
+vless://ef4d7a6a-a7f0-48e1-8c77-cd305fdca732@38.134.189.186:443?encryption=none&security=reality&sni=www.microsoft.com&fp=safari&pbk=F4KWtAmQsQrJ0AyVED81hZQq5GQL64pXHG2SWBEpfFg&sid=b2580c3d0fae6019&type=grpc&serviceName=8959780c31813fd40c6beecf#[openproxylist.com] vless-SG
+trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.153.13:3145?allowInsecure=0&sni=www.nintendogames.net#[openproxylist.com] trojan-SG
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.45:8080# @v2ray_configs_pool  SG  2.2MB/s
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4SWo0c2VpZjg1UVFIZkxtUjB6WWtR@209.74.82.196:48918#%3E%3E%40oneclickvpnkeys%3A%3ASG
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1QTFyTFA1bTBtTU9ROEZjeFJYeGdy@209.74.82.227:26515#%3E%3E%40oneclickvpnkeys%3A%3ASG
