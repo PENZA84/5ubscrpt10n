@@ -1,3 +1,4 @@
+vless://bb6e0719-3d1a-4896-bddc-ddc86d682609@support.zoom.us:8080?security=none&type=ws&path=%2F&host=support.sslzoom.us&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B8%F0%9F%87%ACSG_2%20%F0%9F%A7%AD%203.8MB%2Fs#_
 vless://0deb6f9d-9ad9-4b73-ac33-f3176e7ec1f2@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
 vless://e85ce618-50cd-42e0-a8ba-5052e6be9498@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
 trojan://8bf6e7d7-23e8-4655-8f07-c3827e2d6ebf@51.38.226.4:2053?sni=joss.dus.biz.id#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
@@ -603,7 +604,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4SWo0c2VpZjg1UVFIZkxtUjB6WWtR@209.74.82.196:
 vless://ff831988-b64a-4bc3-93dd-58389c91a03a@sg.fluxcommunity.my.id:2082?&type=ws&headerType=none&host=sg.fluxcommunity.my.id&path=%2Fvless#SG%20VLESS-34%20%7C%20free-nodes
 trojan://trojan@www.visa.com.sg:8443?security=tls&sni=pangpi.pages.dev&type=ws&path=/?ed=2560&Host=pangpi.pages.dev#SG%20TROJAN-1338%20%7C%20free-nodes
 vless://39eb8c33-ee7f-4980-b3e5-684aaf390f56@ev.zoom.us:8443?security=tls&type=ws&path=/&host=darknet-free.alexid.org&alpn=h2,http/1.1&sni=darknet-free.alexid.org&fp=chrome&encryption=none# @v2ray_configs_pool  SG  3.0MB/s
-vless://a4cb890e-8251-488e-9439-3403c9a58e55@free-server.techsonic.cloud:443?encryption=none&security=tls&sni=free-server.techsonic.cloud&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#[openproxylist.com] vless-SG
+vless://a4cb890e-8251-488e-9439-3403c9a58e55@free-server.techsonic.cloud:443?security=tls&type=tcp&sni=free-server.techsonic.cloud&fp=chrome&encryption=none#[openproxylist.com] vless-SG
 trojan://BxceQaOe@16.162.21.116:804?allowInsecure=1&sni=t.me%252Fripaojiedian#[openproxylist.com] trojan-SG
 vless://ef4d7a6a-a7f0-48e1-8c77-cd305fdca732@38.134.189.186:443?security=reality&encryption=none&pbk=F4KWtAmQsQrJ0AyVED81hZQq5GQL64pXHG2SWBEpfFg&fp=safari&type=grpc&serviceName=8959780c31813fd40c6beecf&sni=www.microsoft.com&sid=b2580c3d0fae6019#[openproxylist.com] vless-SG
 trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.153.13:3145?security=tls&sni=www.nintendogames.net#[openproxylist.com] trojan-SG
