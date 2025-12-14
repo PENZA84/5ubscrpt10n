@@ -258,6 +258,7 @@ vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.8.211.142:2053?path=/&security=t
 vless://ef4d7a6a-a7f0-48e1-8c77-cd305fdca732@38.134.189.186:443/?type=grpc&encryption=none&flow=&serviceName=8959780c31813fd40c6beecf&sni=www.microsoft.com&fp=chrome&security=reality&pbk=F4KWtAmQsQrJ0AyVED81hZQq5GQL64pXHG2SWBEpfFg&sid=b2580c3d0fae6019#SG_6493_@Surfboardv2ray
 vless://f64bdc57-0f54-4705-bf75-cfd646d98c06@101.32.168.155:28443?path=/?ed=2048&security=tls&encryption=none&host=snippets.nneko.netlib.re&fp=chrome&type=ws&sni=snippets.nneko.netlib.re#SG_6639_@Surfboardv2ray
 vless://fe7d9497-c04b-4462-900d-333abc79a90f@46.250.237.164:55076?security=none&encryption=none&headerType=none&type=tcp#SG_6811_@Surfboardv2ray
+vless://bb6e0719-3d1a-4896-bddc-ddc86d682609@104.16.122.4:8080?security=none&type=ws&path=%2F&host=support.sslzoom.us&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B8%F0%9F%87%ACSG_1%20%F0%9F%A7%AD%203.3MB%2Fs#_
 vless://df0a4f92-0201-469e-ae2a-7eb733edfc51@sin5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#%20Singapore
 vless://6e17f4e9-e44f-496e-a22d-759bdb3358cb@sin5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#%20Singapore
 vless://d78cb85a-57d2-43d0-a2d2-0fe979a33d3c@sin5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#%20Singapore
@@ -1302,3 +1303,4 @@ vless://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@20.247.137.183:443?encryption=none&
 vless://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@20.247.137.183:443?path=/proxyip=sjc.o00o.ooo&security=tls&encryption=none&host=ak.suoni.nyc.mn&fp=chrome&type=ws&sni=ak.suoni.nyc.mn# SG | 20.247.137.183
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYb2Z2SVBrUVI2RzZNdUpKcEs5QkJm@sg.outlinekeys.net:52252# SG | 174.138.17.254
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNFdrMk5Tc3pyZkhuMjJ6ZW0xbFlW@188.166.220.70:37708# SG | 188.166.220.70
+vless://bb6e0719-3d1a-4896-bddc-ddc86d682609@support.zoom.us:8080?security=none&type=ws&path=%2F&host=support.sslzoom.us&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B8%F0%9F%87%ACSG_2%20%F0%9F%A7%AD%203.8MB%2Fs#_
