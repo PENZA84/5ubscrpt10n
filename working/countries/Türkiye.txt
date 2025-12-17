@@ -1,4 +1,5 @@
 vless://a0e804c3-55e2-4d51-82c7-33976d6748cb@31.57.225.233:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=google.com&pbk=qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU&sid=9eb31eb7572c0882&spx=/sinavm#TR
+vless://f342dad4-457e-45dd-8acd-56441fc55fa5@217.60.244.234:8085?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40pusyvpn%20%5B8%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozSUpqM1BGZ2x2N1VKTmtYOXVnUjU5@94.131.123.236:5223#%3E%3E%40FreakConfig%3A%3ATR
 vless://4ea236b3-c40b-42df-9cd4-f9b76dca5ab4@ns1.cloudflare.com:443?security=tls&type=ws&path=%2Fws&host=rAyAn-cOnFiG-tr-1.pArSa.dPdNs.oRg&sni=rAyAn-cOnFiG-tr-1.pArSa.dPdNs.oRg&fp=chrome&encryption=none#%3E%3E%40v2ray_configs_pool%3A%3ATR
 vless://4ea236b3-c40b-42df-9cd4-f9b76dca5ab4@bitpay.com:443/?type=ws&encryption=none&flow=&host=rAyAn-cOnFiG-tr-1.pAriSa.dPdNs.oRg&path=%2Fws&security=tls&sni=rAyAn-cOnFiG-tr-1.pAriSa.dPdNs.oRg&allowInsecure=1&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3ATR
@@ -1266,7 +1267,6 @@ trojan://telegram-id-privatevpns@13.36.134.198:22222?security=tls&sni=trojan.bur
 trojan://qj1Dz1CJmFQRhWr1SP80aA@172.67.204.84:443?security=tls&sni=cdn-21.gsmxreality.com&type=grpc&serviceName=443trojan&mode=gun#%F0%9F%94%92%20TR-GRPC-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-172.67.204.84%3A443
 trojan://984e400bf5d541b7b0815913fe0c432a@104.19.171.7:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=6b777a91#%F0%9F%94%92%20TR-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.19.171.7%3A443
 trojan://vpn@2.59.162.145:2025?security=tls&type=ws&host=dns.google.com&path=%2F#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20-%20Vilnius%20%F0%9F%8C%8D%20TR-WS-NONE%204%E2%83%A3
-vless://f342dad4-457e-45dd-8acd-56441fc55fa5@217.60.244.234:8085?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40pusyvpn%20%5B8%5D
 vless://a0e804c3-55e2-4d51-82c7-33976d6748cb@31.57.225.233:443?security=reality&encryption=none&pbk=qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=9eb31eb7572c0882#[openproxylist.com] vless-TR
 trojan://BxceQaOe@219.79.214.159:443?sni=t.me%25252Fripaojiedian#TR%20TROJAN-48%20%7C%20free-nodes
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozSUpqM1BGZ2x2N1VKTmtYOXVnUjU5@94.131.123.236:5223#TR%20SS-85%20%7C%20free-nodes
@@ -1321,5 +1321,4 @@ vless://684ead3d-43b1-4707-904a-24e3e9e91fb1@198.105.123.182:2080?mode=gun&secur
 vless://ff0e767c-747e-4a6d-b3c9-ba0d602ec939@tu.a.speedgloobalontop.ir:2088?security=none&type=tcp&headerType=&path=&host=# TR | 213.142.156.169
 vless://0b7286d8-0216-4a73-bc5a-197a4d7c6fcb@vip3.seniorrnet.info:34568?mode=gun&security=none&encryption=none&type=grpc&serviceName=@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING# TR | 195.244.41.104
 vless://a0e804c3-55e2-4d51-82c7-33976d6748cb@31.57.225.233:443?security=reality&encryption=none&pbk=qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU&headerType=&fp=chrome&spx=/sinavm&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=9eb31eb7572c0882# TR | 31.57.225.233
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvRkNCamdTd05HcTVLXzRRa01tMm9xNXBHWjhDV1dTTQ@185.39.204.27:1080# TR | 185.39.204.27
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEMmRMZVZ0TFpFdjc3YTZKSnl6dFBa@62.133.63.21:65262# TR | 62.133.63.21
