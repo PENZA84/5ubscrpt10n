@@ -75,7 +75,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxN1pET1JXSWxpUUh1TzZXUkdIQ2hYWU16ZFJ0QVlWUA=
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#%F0%9F%87%AC%F0%9F%87%A7GB-141.98.101.178-0280
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.205-0364
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.187:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.187-0372
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.199-0368
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@45.66.134.176:803#%F0%9F%87%AC%F0%9F%87%A7GB-45.66.134.176-0169
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@45.66.134.176:805#%F0%9F%87%AC%F0%9F%87%A7GB-45.66.134.176-0166
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@45.66.134.176:801#%F0%9F%87%AC%F0%9F%87%A7GB-45.66.134.176-0165
@@ -83,10 +82,11 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@45.66.134.176:807#%F0%9F%8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@45.66.134.176:802#%F0%9F%87%AC%F0%9F%87%A7GB-45.66.134.176-0162
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@45.66.134.176:811#%F0%9F%87%AC%F0%9F%87%A7GB-45.66.134.176-0161
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@45.66.134.176:810#%F0%9F%87%AC%F0%9F%87%A7GB-45.66.134.176-0159
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.179:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.179-0375
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@45.66.134.176:806#%F0%9F%87%AC%F0%9F%87%A7GB-45.66.134.176-0155
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@45.66.134.176:809#%F0%9F%87%AC%F0%9F%87%A7GB-45.66.134.176-0154
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.194:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.194-0131
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.199-0368
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.179:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.179-0375
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@78.129.253.9:809#%F0%9F%87%AC%F0%9F%87%A7GB-78.129.253.9-0449
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@172.99.190.39:5500#%F0%9F%87%AC%F0%9F%87%A7GB-172.99.190.39-0470
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@172.99.190.39:5003#%F0%9F%87%AC%F0%9F%87%A7GB-172.99.190.39-0472
@@ -837,6 +837,8 @@ vless://c32e86eb-293d-468b-b449-30facbb26029@165.232.47.238:443?path=%2Frnugdhws
 vless://8a78786c-e045-4148-8201-48eab202f1bf@134.209.188.31:443?path=%2Fsybolkws&security=tls&encryption=none&type=ws&sni=wikiportal.ru#[openproxylist.com] vless-GB
 vless://f85e7cc8-82c9-4b84-b1bf-25011697b6dd@167.172.59.135:443?path=%2Fafrphkws&security=tls&encryption=none&type=ws&sni=io.ozone.ru#[openproxylist.com] vless-GB
 vless://9e7a7c17-21c2-4119-bb45-e4154e893aaf@46.101.88.198:443?path=%2Fbpuuxxws&security=tls&encryption=none&type=ws&sni=api.avito.ru#[openproxylist.com] vless-GB
+vless://4f031e10-8eb8-4b03-bc14-27d7ddb401d6@104.248.161.181:443?path=%2Fdgnagmws&security=tls&encryption=none&type=ws&sni=io.ozone.ru#[openproxylist.com] vless-GB
+vless://d0c0be4b-7c56-4f3a-b779-7a7f4d91d170@209.97.138.185:443?path=%2Fegnyfcws&security=tls&encryption=none&type=ws&sni=github.com#[openproxylist.com] vless-GB
 vless://6f9d30a9-5b6e-4d17-b6b2-1bcab16222e5@165.227.228.57:443?path=%2Fyueggdws&security=tls&encryption=none&type=ws&sni=fuck.rkn#[openproxylist.com] vless-GB
 vless://0bc2724b-1d00-41ad-8ef8-c23c7114596c@138.68.133.248:443?path=%2Fpqncvhws&security=tls&encryption=none&type=ws&sni=github.com#[openproxylist.com] vless-GB
 vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.138.164.157:443?path=%2Fhormoz&security=tls&encryption=none&type=ws&sni=github.com#[openproxylist.com] vless-GB
@@ -854,17 +856,15 @@ vless://ca78d2ae-e837-467e-bd89-91b98968f987@143.110.172.232:443?path=%2Flafnojw
 vless://1980c52e-f8b8-4ea6-92de-dd3ff65e658e@138.68.190.39:443?path=%2Fevdvmqws&security=tls&encryption=none&type=ws&sni=wikiportal.ru#[openproxylist.com] vless-GB
 vless://08be5d08-de17-4bac-939d-d57a91028a60@139.59.168.171:443?path=%2Fuirexwws&security=tls&encryption=none&type=ws&sni=api.avito.ru#[openproxylist.com] vless-GB
 vless://c6210540-defd-4649-9d88-d21e75f4274d@165.227.225.236:443?path=%2Fgbksanws&security=tls&encryption=none&type=ws&sni=io.ozone.ru#[openproxylist.com] vless-GB
-vless://921290a9-6e24-4661-82fb-844d88164b74@167.99.91.171:443?path=%2Fsbqbfows&security=tls&encryption=none&type=ws&sni=api.avito.ru#[openproxylist.com] vless-GB
+vless://921290a9-6e24-4661-82fb-844d88164b74@167.99.91.171:443?encryption=none&security=tls&sni=api.avito.ru&allowInsecure=true&type=ws&path=/sbqbfows&packetEncoding=xudp#[openproxylist.com] vless-GB
 vless://918d1882-5fab-4442-aa6a-98a0cd6708d3@134.209.28.121:443?path=%2Fkcsoihws&security=tls&encryption=none&type=ws&sni=github.com#[openproxylist.com] vless-GB
 vless://5fb84306-16c0-42ce-997f-55b79a356522@138.68.159.32:443?path=%2Fcbgvtxws&security=tls&encryption=none&type=ws&sni=github.com#[openproxylist.com] vless-GB
 vless://5815b555-9907-45ae-94f2-e0c0af7860e3@134.209.31.137:443?path=%2Fnyslkrws&security=tls&encryption=none&type=ws&sni=www.vk.com#[openproxylist.com] vless-GB
 vless://1ea1970b-f310-409e-b7d7-1a06a4c4509f@144.126.206.161:443?path=%2Ftoeiblws&security=tls&encryption=none&type=ws&sni=github.com#[openproxylist.com] vless-GB
-vless://197092b3-e995-48b7-a34b-d32eb75b62e1@194.150.166.134:17166?security=&encryption=none&headerType=none&type=tcp#[openproxylist.com] vless-GB
-vless://69239696-f17e-4eb2-a337-7ce07d65d23d@209.38.168.122:21250?mode=gun&security=&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#[openproxylist.com] vless-GB
+vless://69239696-f17e-4eb2-a337-7ce07d65d23d@209.38.168.122:21250?encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&packetEncoding=xudp#[openproxylist.com] vless-GB
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=%2Fsghiyws&security=tls&encryption=none&host=terazhedi.info&type=ws&sni=terazhedi.info#[openproxylist.com] vless-GB
-vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@173.245.59.217:443?path=%2Fyhowcws&security=tls&encryption=none&host=azizoarjmand.info&fp=chrome&type=ws&sni=azizoarjmand.info#[openproxylist.com] vless-GB
-vless://cd94bc5e-3a8b-4b12-9651-8b7ef803c52c@134.209.25.162:443?path=%2Faxtdgmws&security=tls&encryption=none&type=ws&sni=io.ozone.ru#[openproxylist.com] vless-GB```
-vless://9e5646ba-c661-41cd-8321-a164139b12cf@209.97.183.92:443?path=%2Fwwkmrkws&security=tls&encryption=none&type=ws&sni=fuck.rkn#[openproxylist.com] vless-GB```
+vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@norman.ns.cloudflare.com:443?path=%2Fyhowcws&security=tls&encryption=none&host=azizoarjmand.info&type=ws&sni=azizoarjmand.info#[openproxylist.com] vless-GB
+vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=%2Fsghiyws&security=tls&encryption=none&insecure=1&host=terazhedi.info&type=ws&allowInsecure=1&sni=terazhedi.info#[openproxylist.com] vless-GB
 vless://912eacc1-42b4-4d0f-a8ba-abb825c1d468@64.227.47.120:443?path=%2Fulptgqws&security=tls&encryption=none&type=ws&sni=api.avito.ru#[openproxylist.com] vless-GB```
 vless://914ad96a-fb9b-4c42-9696-4fd33f6a1f06@138.68.170.140:443?path=%2Fwrvrwpws&security=tls&encryption=none&type=ws&sni=github.com#[openproxylist.com] vless-GB```
 vless://3739354c-6971-4e73-abac-bb2534fc9ed8@104.248.161.198:443?path=%2Fiqkrmwws&security=tls&encryption=none&type=ws&sni=yandex.com#[openproxylist.com] vless-GB```
@@ -894,6 +894,8 @@ vless://b9cade73-6c60-437f-8e99-631cc3560ca7@64.227.47.224:443?path=%2Fevvixzws&
 vless://e4b8df56-b680-4a34-ab47-5bf5738ed718@5.181.21.72:443?security=reality&type=tcp&sni=www.google.com&fp=chrome&flow=xtls-rprx-vision&sid=85225c27630d023f&pbk=v9CxKfIPtkKH1cTGKEer-1i-3JL31vZPpPl2Ujnbjh8&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%AC%F0%9F%87%A7GB_1%20%F0%9F%A7%AD%207.4MB%2Fs`
 vless://e4b8df56-b680-4a34-ab47-5bf5738ed718@5.181.21.72:443?security=reality&type=tcp&sni=www.google.com&fp=chrome&flow=xtls-rprx-vision&sid=85225c27630d023f&pbk=v9CxKfIPtkKH1cTGKEer-1i-3JL31vZPpPl2Ujnbjh8&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%AC%F0%9F%87%A7GB_1%20%F0%9F%A7%AD%206.8MB%2Fs`
 vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@45.89.111.103:443?path=%2Fhormoz&security=tls&encryption=none&type=ws&sni=github.com#[openproxylist.com] vless-GB```
+vless://cd94bc5e-3a8b-4b12-9651-8b7ef803c52c@134.209.25.162:443?path=%2Faxtdgmws&security=tls&encryption=none&type=ws&sni=io.ozone.ru#[openproxylist.com] vless-GB```
+vless://9e5646ba-c661-41cd-8321-a164139b12cf@209.97.183.92:443?path=%2Fwwkmrkws&security=tls&encryption=none&type=ws&sni=fuck.rkn#[openproxylist.com] vless-GB```
 vless://401d3213-a02d-4bd2-b1b2-2812f5ce0203@geteway-UK.nub-shop.ir:5050?security=reality&type=tcp&sni=refersion.com&fp=firefox&sid=a1026d5c5267b93c&pbk=KsEDjZQUx2H9PVZMyYnlJcT9ZIHVXA3sEZwhUXyrbmc&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%AC%F0%9F%87%A7GB_1%20%F0%9F%A7%AD%205.0MB%2Fs`
 vless://e4b8df56-b680-4a34-ab47-5bf5738ed718@5.181.21.72:443?security=reality&type=tcp&sni=www.google.com&fp=chrome&flow=xtls-rprx-vision&sid=85225c27630d023f&pbk=v9CxKfIPtkKH1cTGKEer-1i-3JL31vZPpPl2Ujnbjh8&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%AC%F0%9F%87%A7GB_2%20%F0%9F%A7%AD%204.5MB%2Fs`
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5OTMwMWQ1NS1hNDFmLTQ5MTktOTg2Yi0xNDM1OTk2NTMzYWE@120.238.122.208:50002#UK%2F1|Github%E6%90%9C%E7%B4%A2TrojanLinks
