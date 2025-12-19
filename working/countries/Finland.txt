@@ -3,7 +3,7 @@ ss://638c1918-f6f0-4ecc-85e6-a3ac50ed9c02@157.180.123.25:443?path=%2Flinkws%3Fed
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo=@141.98.4.67:52952#%F0%9F%87%AB%F0%9F%87%AEFinland+-%3E+%F0%9F%87%AB%F0%9F%87%AEFinland+%E2%9A%A1@DeamNet_Proxy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo=@exchange.gameaurela.click:52952#%F0%9F%87%AB%F0%9F%87%AEFinland+-%3E+%F0%9F%87%AB%F0%9F%87%AEFinland+%E2%9A%A1@DeamNet_Proxy
 vless://638c1918-f6f0-4ecc-85e6-a3ac50ed9c02@157.180.123.25:443?path=%2Flinkws%3Fed&security=&encryption=none&host=157.180.123.25&type=ws#Finland%20Hetzner
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTVnQ2WmlXelJJMVl4ZWlnNHhCWndpSk90NmNlWHdHYQ@95.111.222.113:443#%F0%9F%87%AB%F0%9F%87%AE%20_FI_%E8%8A%AC%E5%85%B0
+vless://6de54778-9eb7-4072-87bd-d7bf2f909758@axe.soyet2j.ir:443?security=tls&type=ws&path=%2F77d76f3d-5da8-4198-b5d2-9634d3059ad0&host=menu.gejeh683bm.ir&alpn=h2&sni=menu.gejeh683bm.ir&fp=chrome&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%AB%F0%9F%87%AEFI_2%20%F0%9F%A7%AD%204.8MB%2Fs#_
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@38.244.136.233:443?note=@freeOnlineVPN# - FI - @freeOnlineVPN
 trojan://ZblhWr0mqMakCPg.N@212.193.18.144:36158/?type=tcp&security=tls&sni=ya.ru&allowInsecure=1&note=@freeOnlineVPN# - FI - @freeOnlineVPN
 vless://19ae54a4-716b-4b08-914f-c9c1556c4380@94.131.100.163:443/?type=ws&encryption=none&flow=&path=/pyzrgqws&security=tls&sni=api.avito.ru&allowInsecure=1&note=@freeOnlineVPN# - FI - @freeOnlineVPN
@@ -362,23 +362,17 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTVnQ2WmlXelJJMVl4ZWlnNHhCWndpSk90NmNlWHdHYQ=
 vless://d6d16b83-e7e3-486a-aa82-a649ef73cbfa@65.109.211.159:2053?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AB%F0%9F%87%AE%20FI-65.109.211.159%3A2053
 vless://99785b25-5b68-40c7-be5c-199cac21c838@65.109.211.159:2093?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AB%F0%9F%87%AE%20FI-65.109.211.159%3A2093
 vless://723eb4ef-b933-494e-8b6f-c4b4c580dcca@65.109.211.159:2096?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AB%F0%9F%87%AE%20FI-65.109.211.159%3A2096
-vless://47867494-9509-4c32-a90a-e9253b033279@fn11.irsbv2.ir:443?security=none&type=ws&path=%2F&host=cloudflare.com&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%AB%F0%9F%87%AEFI_1%20%F0%9F%A7%AD%204.5MB%2Fs#_
-vless://15f64399-ebb4-4b82-9b9f-33b09638bc7f@65.109.209.95:443?path=/@freeOnlineVPN&security=&encryption=none&host=65.109.209.95&type=xhttp&note=@freeOnlineVPN# - FI - @freeOnlineVPN
-vless://82f9beee-a609-47f2-9142-14c25258dc0b@85.9.216.145:4655?security=none&type=tcp&encryption=none# @v2ray_configs_pool  FI_4  7.8MB/s
+trojan://ZblhWr0mqMakCPg.N@212.193.18.144:36158?security=tls&sni=ya.ru&allowInsecure=true#[openproxylist.com] trojan-FI
 vless://33f4ca29-6404-42de-8ca7-18846dbf5dcc@141.98.169.94:443?path=%2Fpuzoscws&security=tls&encryption=none&type=ws#[openproxylist.com] vless-FI
-vless://47867494-9509-4c32-a90a-e9253b033279@fn11.irsbv2.ir:443?path=%2F&security=none&encryption=none&host=cloudflare.com&type=ws#[openproxylist.com] vless-FI
 vless://ca14b15a-50d5-4e2c-9ebd-85b2d0dd1651@dedi.netbazchanell.ir:2087?security=tls&encryption=none&insecure=1&type=grpc&allowInsecure=1&sni=api-yandex.maps.ru#[openproxylist.com] vless-FI
 vless://50343a81-a35e-44b9-a6a6-0b7dd6711ed4@141.98.169.101:443?path=%2Fufkipews&security=tls&encryption=none&type=ws#[openproxylist.com] vless-FI
 vless://19ae54a4-716b-4b08-914f-c9c1556c4380@94.131.100.163:443?path=%2Fpyzrgqws&security=tls&encryption=none&type=ws&sni=api.avito.ru#[openproxylist.com] vless-FI
 vless://bef46be4-a5f3-4e4c-b6fb-c4d38b3dba50@141.98.169.96:443?path=%2Fiixmriws&security=tls&encryption=none&type=ws&sni=api.avito.ru#[openproxylist.com] vless-FI
+vless://47867494-9509-4c32-a90a-e9253b033279@fn11.irsbv2.ir:443?path=%2F&security=none&encryption=none&host=cloudflare.com&type=ws#[openproxylist.com] vless-FI
 vless://f4e6e061-2a5b-41c4-b244-2f9202f05b43@141.98.169.102:443?path=%2Ftmvocqws&security=tls&encryption=none&type=ws&sni=www.vk.com#[openproxylist.com] vless-FI
 vless://0a0d846f-8f54-4db4-940b-b373b1b02e4c@94.131.100.173:443?path=%2Fcoxzfsws&security=tls&encryption=none&host=639010645287857140.accord-lmnxa.info&type=ws&sni=www.vk.com#[openproxylist.com] vless-FI
 vless://eea96ff1-ce17-4c8c-964c-fa774ecb84f2@94.131.100.164:443?path=%2Fgfvfgzws&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=www.vk.com#[openproxylist.com] vless-FI
-vless://3d617588-ae06-4379-bed9-60b6bac8dbdc@141.98.169.100:443?path=%2Foyoelzws&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=www.vk.com#[openproxylist.com] vless-FI
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@38.244.136.233:443# @v2ray_configs_pool  FI_3  4.3MB/s
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptWkdVRldNQWxmV3FJNHZQNTh6dzlEQUh4UjhUWkxuZEtrdlJnSEhGYTllcVdkbng@65.21.243.22:31348#%3E%3E%40v2rayNG_Matsuri%3A%3AFI
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.143.129.230:989#%F0%9F%87%AB%F0%9F%87%AEFI-37.143.129.230-0278
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptWkdVRldNQWxmV3FJNHZQNTh6dzlEQUh4UjhUWkxuZEtrdlJnSEhGYTllcVdkbng=@65.21.243.22:31348#%F0%9F%87%AB%F0%9F%87%AEFI-65.21.243.22-0298
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTVnQ2WmlXelJJMVl4ZWlnNHhCWndpSk90NmNlWHdHYQ@95.111.222.113:443#%F0%9F%87%AB%F0%9F%87%AE%20_FI_%E8%8A%AC%E5%85%B0
 vless://96cbe797-00f6-453a-911a-6da355a8b4f5@axe.soyet2j.ir:443?security=tls&type=ws&path=%2F77d76f3d-5da8-4198-b5d2-9634d3059ad0&host=menu.gejeh683bm.ir&alpn=h2&sni=menu.gejeh683bm.ir&fp=chrome&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%AB%F0%9F%87%AEFI_1%20%F0%9F%A7%AD%204.7MB%2Fs`
 vless://d58ced87-bd9e-4ef3-aecd-107a66a4cf9b@axe.soyet2j.ir:443?security=tls&type=ws&path=%2F77d76f3d-5da8-4198-b5d2-9634d3059ad0&host=menu.gejeh683bm.ir&alpn=h2&sni=menu.gejeh683bm.ir&fp=chrome&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%AB%F0%9F%87%AEFI_1%20%F0%9F%A7%AD%204.7MB%2Fs`
 vless://b43a412e-9d1d-4c51-8c4c-b71287bed703@axe.soyet2j.ir:443?security=tls&type=ws&path=%2F77d76f3d-5da8-4198-b5d2-9634d3059ad0&host=menu.gejeh683bm.ir&alpn=h2&sni=menu.gejeh683bm.ir&fp=chrome&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%AB%F0%9F%87%AEFI_1%20%F0%9F%A7%AD%204.8MB%2Fs`
@@ -430,4 +424,3 @@ vless://02d89938-6dcc-40ac-91d9-51bdff3d3c7b@95.217.214.252:51169?type=tcp&secur
 vless://95b0f8b6-8373-4398-893f-782af287e2fe@static.50.146.62.46.clients.your-server.de:443?hiddify=1&sni=www.speedtest.net&type=grpc&alpn=h2&muxtype=smux&muxmaxc=4&mux=4&muxsmax=0&muxpad=False&path=0VTuTCdLL8WUYSwaz2OnC5y&serviceName=0VTuTCdLL8WUYSwaz2OnC5y&mode=gun&encryption=none&fp=chrome&headerType=None&security=reality&pbk=L4ja73hdU_P-euK_ikOs623oM4u3PpDS5IwzXOrCjnE&sid=15cf0914947a4379# FI | 46.62.146.50
 vless://21071ee3-ad74-f168-9db7-8fd716c44fa6@46.62.241.106:122?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=Cloudflare.com&pbk=b87VY4gZ48z7tHI3mkzpQIKg_IgenzkBvB4gD5qz2ww&sid=cedc7d97e0a02690# FI | 46.62.241.106
 vless://33f4ca29-6404-42de-8ca7-18846dbf5dcc@141.98.169.94:443?path=/puzoscws&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1# FI | 141.98.169.94
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5WG9pRURGTVZvckdVZUtsYTc3azdzRVhDZVNFNXIyQQ==@45.15.127.49:443# FI | 45.15.127.49
