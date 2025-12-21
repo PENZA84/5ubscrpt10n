@@ -316,7 +316,7 @@ vless://a730dc53-5ff7-4dfc-9a90-a58dca829ab0@94.131.100.162:443?path=%2Fvirwsmws
 vless://4d7a559b-6379-41a7-9e51-41ef759846aa@158.160.197.118:443?security=reality&encryption=none&pbk=TrAxIFIhSCc4C5IWnGvvAs2cSD_mVag1MlTCJPeLkGg&headerType=none&fp=chrome&spx=%2F---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&type=tcp&flow=xtls-rprx-vision&sni=ya.ru&sid=b9ceed646f470d2d#[openproxylist.com] vless-FI
 vless://9efbff33-0318-4914-b78d-f47188b58875@141.98.169.104:443?path=%2Flwcnhxws&security=tls&encryption=none&type=ws&sni=ads.x5.ru#[openproxylist.com] vless-FI
 vless://47867494-9509-4c32-a90a-e9253b033279@fn11.irsbv2.ir:443?path=%2F&security=none&encryption=none&host=cloudflare.com&type=ws#[openproxylist.com] vless-FI
-trojan://ZblhWr0mqMakCPg.N@212.193.18.144:36158?security=tls&headerType=none&type=tcp&sni=ya.ru#[openproxylist.com] trojan-FI
+trojan://ZblhWr0mqMakCPg.N@212.193.18.144:36158?security=tls&sni=ya.ru&allowInsecure=true&fp=chrome#[openproxylist.com] trojan-FI
 vless://33f4ca29-6404-42de-8ca7-18846dbf5dcc@141.98.169.94:443?path=%2Fpuzoscws&security=tls&encryption=none&type=ws#[openproxylist.com] vless-FI
 vless://50343a81-a35e-44b9-a6a6-0b7dd6711ed4@141.98.169.101:443?path=%2Fufkipews&security=tls&encryption=none&insecure=1&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=ws&allowInsecure=1#[openproxylist.com] vless-FI
 vless://19ae54a4-716b-4b08-914f-c9c1556c4380@94.131.100.163:443?path=%2Fpyzrgqws&security=tls&encryption=none&type=ws&sni=api.avito.ru#[openproxylist.com] vless-FI
