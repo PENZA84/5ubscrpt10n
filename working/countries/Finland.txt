@@ -260,10 +260,8 @@ vless://d6d16b83-e7e3-486a-aa82-a649ef73cbfa@65.109.211.159:2053?encryption=none
 vless://99785b25-5b68-40c7-be5c-199cac21c838@65.109.211.159:2093?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AB%F0%9F%87%AE%20FI-65.109.211.159%3A2093
 vless://723eb4ef-b933-494e-8b6f-c4b4c580dcca@65.109.211.159:2096?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AB%F0%9F%87%AE%20FI-65.109.211.159%3A2096
 ss://YWVzLTI1Ni1nY206MTcyOTViOTItNGU1MC00MjVjLWFmOTUtZWU0NGM0MmJjMDNl@38.244.209.215:443#%f0%9f%87%ab%f0%9f%87%ae%20FI%201
-vless://be8ef73a-8de1-42d3-bd23-8af5136965dc@betty.ns.cloudflare.com:443?&security=tls&sni=639019658846913233.insight-amsjk.info&type=ws&headerType=none&host=639019658846913233.insight-amsjk.info&path=%2Fflmigjws#[openproxylist.com] vless-FI
-vless://14be96d8-843c-45f9-935d-aeabeb44a663@65.109.198.23:53330?path=%2F&security=none&encryption=none&type=ws#[openproxylist.com] vless-FI
-vless://a888c6da-33b0-480c-a40a-0e94f4eb9c48@85.192.49.156:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&fp=chrome&spx=/sinavm-sinavm&type=tcp&flow=xtls-rprx-vision&sni=findmypackets.com&sid=d1579a8745398e34#[openproxylist.com] vless-FI
-vless://80c19783-5c4f-4794-ae0b-6efd11fd27ab@157.180.120.194:40200?type=tcp&encryption=none&security=none#[openproxylist.com] vless-FI
+vless://e79c5771-9940-4907-b1c7-6388ee75a08a@85.192.49.156:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=findmypackets.com&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&sid=d1579a8745398e34&spx=/sinavm#[openproxylist.com] vless-FI
+vless://80c19783-5c4f-4794-ae0b-6efd11fd27ab@157.180.120.194:40200?security=&encryption=none&headerType=none&type=tcp#[openproxylist.com] vless-FI
 vless://309fa273-6579-4cb2-9143-7cad50401eba@46.62.128.207:443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#[openproxylist.com] vless-FI
 vless://9efbff33-0318-4914-b78d-f47188b58875@141.98.169.104:443?path=%2Flwcnhxws&security=tls&encryption=none&type=ws&sni=ads.x5.ru#[openproxylist.com] vless-FI
 vless://47867494-9509-4c32-a90a-e9253b033279@fn11.irsbv2.ir:443?path=%2F&security=none&encryption=none&host=cloudflare.com&type=ws#[openproxylist.com] vless-FI
@@ -330,16 +328,13 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+Hq/Cfh65GSS05NS4yMTcuMTUzLjk4LTE2MzM4IiwgImFk
 vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+Hq/Cfh65GSS0zNy4xNDMuMTI5LjIzOC0xMTU1MiIsICJhZGQiOiAiMzcuMTQzLjEyOS4yMzgiLCAicG9ydCI6IDY2MTYsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjQ1OWQyM2Y0LWRjZmQtNGZlZi05YmEzLWVmMGFkMTBmYzMzNiIsICJzbmkiOiAiIiwgInBhdGgiOiAiLyJ9
 vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+Hq/Cfh65GSS05NS4yMTYuMjA3LjIxLTIzNTM1LVdvLi4uIiwgImFkZCI6ICIxMDQuMTkuMTQ1Ljk1IiwgInBvcnQiOiA0NDMsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAidGxzIiwgImlkIjogImFiY2RlZjAxLTFkZjAtNGViYS1hNTExLWZlMDEyMzQ1Njc4OSIsICJzbmkiOiAibWlsYWQyLnN1ZGl6bzc3NDgud29ya2Vycy5kZXYiLCAicGF0aCI6ICIvbXl3b3JkcHJlc3Mud29yZHByZXNzLXNob3Aud2Vic2l0ZTo0NDMvIn0=
 vless://969695f5-6a06-4297-86a8-2d464e4cb356@vv.vipirvcip.sbs:2082?mode=auto&security=none&encryption=none&type=xhttp# FI | 65.109.217.0
-vless://a650d3e6-550b-4ae8-b7bc-f7223abba5e4@65.109.198.23:53330?path=/&security=none&encryption=none&type=ws# FI | 65.109.198.23
-vless://14be96d8-843c-45f9-935d-aeabeb44a663@65.109.198.23:53330?path=/&security=none&encryption=none&type=ws# FI | 65.109.198.23
 vless://80c19783-5c4f-4794-ae0b-6efd11fd27ab@157.180.120.194:40200?security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp# FI | 157.180.120.194
-vless://a650d3e6-550b-4ae8-b7bc-f7223abba5e4@65.109.198.23:53330?encryption=none&security=none&type=ws&path=/# FI | 65.109.198.23
 vless://0a67c1bc-4d33-4713-c711-6bd1ad07e633@65.109.178.29:443?type=tcp&encryption=none&security=reality&pbk=dnQjj0veNVgsQNC_tkbU3XKj4L3pqkS3LmVeyKuRa1Q&fp=chrome&sni=microsoft.com&sid=&spx=/&flow=xtls-rprx-vision# FI | 65.109.178.29
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.29.19:8880?mode=gun&security=none&encryption=none&type=grpc# FI | 157.180.29.19
-vless://e79c5771-9940-4907-b1c7-6388ee75a08a@85.192.49.156:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&fp=chrome&spx=/sinavm&type=tcp&flow=xtls-rprx-vision&sni=findmypackets.com&sid=d1579a8745398e34# FI | 85.192.49.156
 vless://33f4ca29-6404-42de-8ca7-18846dbf5dcc@141.98.169.94:443?path=/puzoscws&security=tls&encryption=none&type=ws# FI | 141.98.169.94
 vless://3d617588-ae06-4379-bed9-60b6bac8dbdc@141.98.169.100:443?encryption=none&type=ws&path=/oyoelzws&security=tls&sni=www.vk.com# FI | 141.98.169.100
 vless://19ae54a4-716b-4b08-914f-c9c1556c4380@94.131.100.163:443?path=/pyzrgqws&security=tls&encryption=none&type=ws&sni=api.avito.ru# FI | 94.131.100.163
+vless://14be96d8-843c-45f9-935d-aeabeb44a663@65.109.198.23:53330?path=/&security=none&encryption=none&type=ws# FI | 65.109.198.23
 vless://80c19783-5c4f-4794-ae0b-6efd11fd27ab@157.180.120.194:40200?security=none&encryption=none&headerType=none&type=tcp# FI | 157.180.120.194
 vless://95b0f8b6-8373-4398-893f-782af287e2fe@static.50.146.62.46.clients.your-server.de:443?hiddify=1&sni=www.speedtest.net&type=grpc&alpn=h2&muxtype=smux&muxmaxc=4&mux=4&muxsmax=0&muxpad=False&path=0VTuTCdLL8WUYSwaz2OnC5y&serviceName=0VTuTCdLL8WUYSwaz2OnC5y&mode=gun&encryption=none&fp=chrome&headerType=None&security=reality&pbk=L4ja73hdU_P-euK_ikOs623oM4u3PpDS5IwzXOrCjnE&sid=15cf0914947a4379# FI | 46.62.146.50
 vless://21071ee3-ad74-f168-9db7-8fd716c44fa6@46.62.241.106:122?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=Cloudflare.com&pbk=b87VY4gZ48z7tHI3mkzpQIKg_IgenzkBvB4gD5qz2ww&sid=cedc7d97e0a02690# FI | 46.62.241.106
