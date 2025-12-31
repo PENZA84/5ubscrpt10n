@@ -368,7 +368,7 @@ vless://d6d16b83-e7e3-486a-aa82-a649ef73cbfa@65.109.211.159:2053?encryption=none
 vless://99785b25-5b68-40c7-be5c-199cac21c838@65.109.211.159:2093?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AB%F0%9F%87%AE%20FI-65.109.211.159%3A2093
 vless://723eb4ef-b933-494e-8b6f-c4b4c580dcca@65.109.211.159:2096?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AB%F0%9F%87%AE%20FI-65.109.211.159%3A2096
 vless://e5835209-52e9-429e-8ebb-e87113293236@212.233.89.104:443?security=reality&encryption=none&pbk=MZz-39gknMNeg4P6vTV3zKLrbIzf87oxtKB1T-Vu-SQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tunnel.vk-apps.com&sid=491db313#[openproxylist.com] vless-FI
-vless://47867494-9509-4c32-a90a-e9253b033279@fn11.irsbv2.ir:443?path=%2F&security=&encryption=none&host=cloudflare.com&type=ws#[openproxylist.com] vless-FI
+vless://47867494-9509-4c32-a90a-e9253b033279@fn11.irsbv2.ir:443?path=%2F&security=none&encryption=none&host=cloudflare.com&type=ws#[openproxylist.com] vless-FI
 vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@185.92.183.112:443?security=reality&encryption=none&pbk=aCIjONksX6QbTfFBxN1eFqf5caspiR7QyttJ3kDH9yY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vkru.outlinekeys.net#[openproxylist.com] vless-FI
 vless://a41550c8-daee-4f2c-b5a8-e66b314c99b1@45.144.53.166:443?mode=gun&security=reality&encryption=none&pbk=XnSTGadTQ3R3qGd5lk7l8gZMuZUQH7fu1tItRmH6CEY&fp=chrome&type=grpc&sni=hel1.hitori.cloud&sid=e9d19fd1ca5ca23c#[openproxylist.com] vless-FI
 vless://3133029f-ef2b-456b-83b5-c5fdcb5edd4c@185.109.21.54:17718?security=reality&encryption=none&pbk=J1HIxQSniHBlaSUXTLTWyUUpiaeyE8MWmA2evyFZbFQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yastatic.net&sid=9d32c1#[openproxylist.com] vless-FI
@@ -399,6 +399,7 @@ vless://6caf585f-ae05-4c4e-9c97-a48728ca0885@37.27.81.159:46704?security=reality
 vless://4685d838-99e1-4dc7-bc26-d8589d41f2a1@fi9.tunnely.ru:443?encryption=none&type=xhttp&mode=packet-up&path=/xhttp/&security=tls&fp=chrome&sni=fi9.tunnely.ru&alpn=h2,http/1.1# FI | 38.244.136.196
 vless://0a67c1bc-4d33-4713-c711-6bd1ad07e633@65.109.178.29:443?type=tcp&encryption=none&security=reality&pbk=dnQjj0veNVgsQNC_tkbU3XKj4L3pqkS3LmVeyKuRa1Q&fp=chrome&sni=microsoft.com&sid=&spx=/&flow=xtls-rprx-vision# FI | 65.109.178.29
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.29.19:8880?mode=gun&security=none&encryption=none&type=grpc# FI | 157.180.29.19
+vless://16927d2d-4a5a-4321-b15e-15a8b29ec5c9@65.109.198.23:53330?type=ws&encryption=none&path=/&host=&security=none# FI | 65.109.198.23
 vless://015e6f7b-c6df-470a-a22d-62b8b9947a4d@135.181.145.173:32323?type=tcp&encryption=none&security=none# FI | 135.181.145.173
 vless://3d617588-ae06-4379-bed9-60b6bac8dbdc@141.98.169.100:443?encryption=none&type=ws&path=/oyoelzws&security=tls&sni=www.vk.com# FI | 141.98.169.100
 vless://82f73aee-8d26-4d45-80f9-c4c1f97f922a@fiand-vipbig12oolpfon.mongral.ir:7936?security=none&encryption=none&host=speedtest.net&headerType=none&type=tcp# FI | 37.27.182.31

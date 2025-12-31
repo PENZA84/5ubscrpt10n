@@ -756,15 +756,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638931272656134408.malayer-drc-tusa
 vless://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?security=none&encryption=none&headerType=none&type=tcp# FR | 137.74.53.176
 vless://91b77af9-6f06-4c22-9c0e-bdd8f63de158@51.77.91.192:8081?security=reality&encryption=none&pbk=KdvX1bbHtA4Y16IukcDsNiEJ9iKYk4BLlI7LDsV0iFU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=d5bfd6c4# FR | 51.77.91.192
 vless://8df32d73-62e6-4049-abd3-2c645bc34853@fr.imsoon.net:8080?type=xhttp&encryption=none&path=/AB_841&host=fr.imsoon.net.&mode=auto&security=reality&pbk=L0yLacVepLuJT5BBA0FHzt2x7uBd8Dmdqdf9x-AZomA&fp=chrome&sni=fr.imsoon.net&sid=78a64d7d34b4ca&spx=/# FR | 168.231.86.22
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.142.37:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk# FR | 15.188.142.37
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.138.247:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk# FR | 13.39.138.247
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.161:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc# FR | 185.231.205.161
 vless://7d31065b-980c-4295-83f0-23bde0eee9cc@185.234.64.228:443?path=/qnbufdws&security=tls&encryption=none&type=ws# FR | 185.234.64.228
 vless://40e65a0d-df16-4759-a126-76fa359f51f5@51.159.96.121:443?security=tls&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ns3.turkeyone.org# FR | 51.159.96.121
-trojan://telegram-id-privatevpns@15.237.69.63:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# FR | 15.237.69.63
-trojan://telegram-id-directvpn@15.188.142.37:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# FR | 15.188.142.37
-trojan://telegram-id-directvpn@13.39.138.247:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# FR | 13.39.138.247
-trojan://telegram-id-privatevpns@15.188.142.37:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# FR | 15.188.142.37
-trojan://telegram-id-privatevpns@13.39.138.247:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# FR | 13.39.138.247
-trojan://telegram-id-v2rayvpnchannel@15.188.142.37:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# FR | 15.188.142.37
-trojan://telegram-id-v2rayvpnchannel@13.39.138.247:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# FR | 13.39.138.247
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTODRWb0ZtTndTN3I4eEdCYzVodzNt@62.210.88.22:443/?outline=1&prefix=# FR | 62.210.88.22
