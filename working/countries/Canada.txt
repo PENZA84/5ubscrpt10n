@@ -253,6 +253,9 @@ vmess://ewogICAgImFkZCI6ICIxMzQuMTk1LjE5OC45MiIsCiAgICAiYWlkIjogMSwKICAgICJob3N0
 trojan://telegram-id-directvpn@35.182.28.167:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%A8%F0%9F%87%A6CA-35.182.28.167-8487
 trojan://telegram-id-directvpn@3.96.217.9:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%A8%F0%9F%87%A6CA-3.96.217.9-8513
 vless://55975415-43c0-461c-8752-d5b8013364e3@167.17.70.16:8443?security=reality&type=tcp&sni=www.microsoft.com&fp=chrome&flow=xtls-rprx-vision&sid=84f70f1177981563&pbk=8W9r2aXGhKNtvPxnL6EiPpQuSm9OJT17x2xyxwxIo30&encryption=none#%F0%9F%87%A8%F0%9F%87%A6_CA_%E5%8A%A0%E6%8B%BF%E5%A4%A7
+trojan://smart%40-PhVxMdT5OVnjtTecU-kZoej@z-us2.2513142.xyz:10001?allowInsecure=1&sni=www.cloudflare.com#%23159%20CA1
+trojan://smart%40-PhVxMdT5OVnjtTecU-kZoej@starlink-tor.2513142.xyz:443?allowInsecure=1&sni=www.cloudflare.com#%23161%20CA3
+trojan://smart%40-PhVxMdT5OVnjtTecU-kZoej@z-us2.2513142.xyz:10002?allowInsecure=1&sni=www.cloudflare.com#%23164%20CA4
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.154.136.176:8118#%F0%9F%87%A8%F0%9F%87%A6_CA_%E5%8A%A0%E6%8B%BF%E5%A4%A7
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@23.154.136.176:9101#%F0%9F%87%A8%F0%9F%87%A6_CA_%E5%8A%A0%E6%8B%BF%E5%A4%A7
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVlAMjMuMTU0LjEzNi4xNzY6OTEwMg==#%F0%9F%87%A8%F0%9F%87%A6_CA_%E5%8A%A0%E6%8B%BF%E5%A4%A7
@@ -1806,7 +1809,6 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@79.127.233.170:989#%f0%9f%87%a8%f0
 vmess://eyJ2IjpudWxsLCJwcyI6IvCfh6jwn4emIENBIDgiLCJhZGQiOiI1MS43OS4xMDMuNzYiLCJwb3J0Ijo4MCwiaWQiOiI1OGZlMTU0Mi01MjkwLTQwYWQtODE1YS03NzcwN2E4MWFmZTUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6IndybWVsbXd4bGYuZ2t0ZXZscnF6bndxcW96eS5mYWJwZnM2Nmdpem1ub2poY3ZxeHdsLmt5dHJjZnpxbGE4N2d2Z3ZzNmM3a2pucnVidWguY2MiLCJhbHBuIjpudWxsLCJwYXRoIjoiL0lPZWJoTE1obDFDVGJGSGJMOTVteWZSWDIiLCJ0bHMiOm51bGwsInNuaSI6bnVsbCwiZnAiOm51bGx9
 vless://c5b129d7-f133-4b34-a9c6-68c9a8f70248@www.perplexity.ai:80?path=%2F&security=&encryption=none&host=EMotioNaL-peRMIsSiONf1bs65u5f4.EcOTOuRISs.Co.uK&type=ws#[openproxylist.com] vless-CA
 vless://e2be0db4-4110-42eb-bca1-ba8df0897319@198.50.119.86:8080?path=%2F39427%2FNextlife&security=&encryption=none&host=telewebion.com&type=ws#[openproxylist.com] vless-CA
-vless://309fa273-6579-4cb2-9143-7cad50401eba@85.208.108.136:8443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#[openproxylist.com] vless-CA
 ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@144.217.164.29:12000#%F0%9F%87%A8%F0%9F%87%A6CA%E5%8A%A0%E6%8B%BF%E5%A4%A7%20116.2KB%2Fs
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@79.127.233.170:990#%F0%9F%87%A8%F0%9F%87%A6CA%E5%8A%A0%E6%8B%BF%E5%A4%A72%2053.8MB%2Fs
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@137.184.174.93:8080#%F0%9F%87%A8%F0%9F%87%A6CA-137.184.174.93-5111
