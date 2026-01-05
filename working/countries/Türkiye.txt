@@ -1254,22 +1254,11 @@ trojan://telegram-id-privatevpns@13.36.134.198:22222?security=tls&sni=trojan.bur
 trojan://qj1Dz1CJmFQRhWr1SP80aA@172.67.204.84:443?security=tls&sni=cdn-21.gsmxreality.com&type=grpc&serviceName=443trojan&mode=gun#%F0%9F%94%92%20TR-GRPC-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-172.67.204.84%3A443
 trojan://984e400bf5d541b7b0815913fe0c432a@104.19.171.7:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=6b777a91#%F0%9F%94%92%20TR-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.19.171.7%3A443
 trojan://vpn@2.59.162.145:2025?security=tls&type=ws&host=dns.google.com&path=%2F#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20-%20Vilnius%20%F0%9F%8C%8D%20TR-WS-NONE%204%E2%83%A3
-vless://125ea501-6bbe-453a-ab42-352789be8154@45.81.113.60:4656?encryption=none&packetEncoding=xudp&note=@freeOnlineVPN# - TR - @freeOnlineVPN
-vless://125ea501-6bbe-453a-ab42-352789be8154@45.81.113.60:4656?security=none&encryption=none&headerType=none&type=tcp&note=@freeOnlineVPN# - TR - @freeOnlineVPN
-vless://125ea501-6bbe-453a-ab42-352789be8154@45.81.113.60:4656?security=none&type=tcp&encryption=none# @v2ray_configs_pool  TR_1  4.9MB/s
-vless://125ea501-6bbe-453a-ab42-352789be8154@45.81.113.60:4656?security=none&type=tcp&encryption=none&note=@freeOnlineVPN# - TR - @freeOnlineVPN
-vless://1b07b61e-7c71-75fa-f97d-f4a82c66cfb5@151.241.226.194:2039?security=tls&encryption=none&sni=de9.mediakit-ozon.ru&type=ws&path=%2f#%f0%9f%87%b9%f0%9f%87%b7%20TR%201
-trojan://nYzYreUpD4dDjzjFcgf6Fe3oaw4QFN@trunker.cc:8080?security=reality&sni=wikipedia.org&fp=chrome&pbk=BNDEyo7JzKrJ1xPgFNJv5P-emcPIoiUkGZ6OUmlctU4&sid=20b8da6c1f3a9ed7&type=tcp&path=%2f#%f0%9f%87%b9%f0%9f%87%b7%20TR%202
-trojan://nYzYreUpD4dDjzjFcgf6Fe3oaw4QFN@trunker.cc:8080?security=reality&sni=wikipedia.org&fp=chrome&pbk=BNDEyo7JzKrJ1xPgFNJv5P-emcPIoiUkGZ6OUmlctU4&sid=20b8da6c1f3a9ed7&type=tcp&headerType=none&host=Join---AKLISvpn---Join---AKLISvpn---Join---AKLISvpn&path=%2f#%f0%9f%87%b9%f0%9f%87%b7%20TR%203
-trojan://nYzYreUpD4dDjzjFcgf6Fe3oaw4QFN@trunker.cc:8080?security=reality&sni=wikipedia.org&fp=chrome&pbk=BNDEyo7JzKrJ1xPgFNJv5P-emcPIoiUkGZ6OUmlctU4&sid=20b8da6c1f3a9ed7&type=tcp&headerType=none&path=%2f#%f0%9f%87%b9%f0%9f%87%b7%20TR%204
-trojan://nYzYreUpD4dDjzjFcgf6Fe3oaw4QFN@trunker.cc:8080?security=reality&sni=wikipedia.org&fp=chrome&pbk=BNDEyo7JzKrJ1xPgFNJv5P-emcPIoiUkGZ6OUmlctU4&sid=20b8da6c1f3a9ed7&type=tcp&headerType=none&host=Join---V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz&path=%2f#%f0%9f%87%b9%f0%9f%87%b7%20TR%205
-vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@mailru.ookcdn.ru:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=mailru.ookcdn.ru&fp=chrome&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&type=tcp&path=%2f#%f0%9f%87%b9%f0%9f%87%b7%20TR%206
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwUW1uQzAzSk9iYlBoZGg1RkJKSGdENmpuVExjaHNSQQ==@95.164.116.33:443#%f0%9f%87%b9%f0%9f%87%b7%20TR%201
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@185.123.101.64:2376#%f0%9f%87%b9%f0%9f%87%b7%20TR%202
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.113.194:8119#%f0%9f%87%b9%f0%9f%87%b7%20TR%203
 vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@mailru.ookcdn.ru:443?security=reality&encryption=none&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mailru.ookcdn.ru#[openproxylist.com] vless-TR
 vless://1602a406-a38e-4211-bbdc-3f75c890303d@45.81.113.60:4656?security=&encryption=none&headerType=none&type=tcp#[openproxylist.com] vless-TR
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuWVJoVENaZFFMRXhLNmV3VkhnSFMybWx2NEZDeXNLeWV5VFRmaFJkRWdkZWVSTjA=@5.188.36.93:31348?note=@freeOnlineVPN# - TR - @freeOnlineVPN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZ3ZMWlVmczhzaXZvQjlBN3drWWRt@83.217.9.17:25232#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20SS%20%7C%20%40orange_vpns
-trojan://nYzYreUpD4dDjzjFcgf6Fe3oaw4QFN@trunker.cc:8080?security=reality&pbk=BNDEyo7JzKrJ1xPgFNJv5P-emcPIoiUkGZ6OUmlctU4&host=Join---V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz&headerType=none&fp=chrome&type=tcp&sni=wikipedia.org&sid=20b8da6c1f3a9ed7&note=@freeOnlineVPN# - TR - @freeOnlineVPN
-trojan://nYzYreUpD4dDjzjFcgf6Fe3oaw4QFN@trunker.cc:8080?type=tcp&headerType=none&host=Join---AKLISvpn---Join---AKLISvpn---Join---AKLISvpn&security=reality&fp=chrome&sni=wikipedia.org&pbk=BNDEyo7JzKrJ1xPgFNJv5P-emcPIoiUkGZ6OUmlctU4&sid=20b8da6c1f3a9ed7&note=@freeOnlineVPN# - TR - @freeOnlineVPN
 trojan://kuGDUhAYqXnvIomV0Kdljfor@167.17.70.117:27234?security=tls&headerType=none&type=tcp#TR%20TROJAN-126%20%7C%20free-nodes
 trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&headerType=none&type=tcp&sni=api.avito.ru#TR%20TROJAN-113%20%7C%20free-nodes
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@185.123.101.64:2376#TR%20SS-89%20%7C%20free-nodes
