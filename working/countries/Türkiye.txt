@@ -1259,7 +1259,8 @@ trojan://vpn@2.59.162.145:2025?security=tls&type=ws&host=dns.google.com&path=%2F
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwUW1uQzAzSk9iYlBoZGg1RkJKSGdENmpuVExjaHNSQQ==@95.164.116.33:443#%f0%9f%87%b9%f0%9f%87%b7%20TR%201
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@185.123.101.64:2376#%f0%9f%87%b9%f0%9f%87%b7%20TR%202
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.113.194:8119#%f0%9f%87%b9%f0%9f%87%b7%20TR%203
-vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@mailru.ookcdn.ru:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&security=reality&type=tcp&sni=mailru.ookcdn.ru&fp=chrome&flow=xtls-rprx-vision&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&encryption=none#[openproxylist.com] vless-TR
+vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@mailru.ookcdn.ru:443?security=reality&encryption=none&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mailru.ookcdn.ru#[openproxylist.com] vless-TR
+vless://1602a406-a38e-4211-bbdc-3f75c890303d@45.81.113.60:4656?security=&encryption=none&headerType=none&type=tcp#[openproxylist.com] vless-TR
 vless://056d677f-00ed-47ec-bbda-fcc8d1d1284f@america.armanstore2.sbs:7044?security=tls&type=ws&headerType=&path=%2F%40armanstore2----%40armanstore2----%40armanstore2----%40armanstore2&host=telewebion.com&sni=marzban852.kharmanblackchurchcat.com&fp=#[openproxylist.com] vless-TR```
 vless://056d677f-00ed-47ec-bbda-fcc8d1d1284f@turkye.armanstore2.sbs:7044?security=tls&type=ws&headerType=&path=%2F%40armanstore2----%40armanstore2----%40armanstore2----%40armanstore2&host=telewebion.com&sni=marzban852.kharmanblackchurchcat.com&fp=#[openproxylist.com] vless-TR```
 trojan://BxceQaOe@58.152.25.86:443?allowInsecure=1&sni=t.me%2Fripaojiedian#TR%20TROJAN-103%20%7C%20free-nodes
