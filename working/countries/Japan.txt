@@ -265,14 +265,13 @@ vless://ebd8539d-e249-4a39-8f90-e8585e8cc35e@116.80.44.144:27724?security=realit
 vless://1112352c-3a6d-3581-8260-24e8d8104bba@s591.okgfwbackxyz.xyz:443?encryption=none&type=tcp&headerType=none&fp=random&host=s591.okgfwbackxyz.xyz&path=&flow=xtls-rprx-vision&security=tls&sni=u709014ubd8fs591.okgfwbackxyz.xyz&serviceName=&mode=&alpn=#JP%20VLESS-148%20%7C%20free-nodes
 vless://1112352c-3a6d-3581-8260-24e8d8104bba@s589.okgfwbackxyz.xyz:443?encryption=none&type=tcp&headerType=none&fp=random&host=s589.okgfwbackxyz.xyz&path=&flow=xtls-rprx-vision&security=tls&sni=u709014u4063s589.okgfwbackxyz.xyz&serviceName=&mode=&alpn=#JP%20VLESS-160%20%7C%20free-nodes
 vless://1112352c-3a6d-3581-8260-24e8d8104bba@s588.okgfwbackxyz.xyz:443?encryption=none&type=tcp&headerType=none&fp=random&host=s588.okgfwbackxyz.xyz&path=&flow=xtls-rprx-vision&security=tls&sni=u709014u39b8s588.okgfwbackxyz.xyz&serviceName=&mode=&alpn=#JP%20VLESS-190%20%7C%20free-nodes
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#%f0%9f%87%af%f0%9f%87%b5%20JP%201
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#%f0%9f%87%af%f0%9f%87%b5%20JP%202
-trojan://381f2e86233720eacda26d50e9aa26da@202.181.103.246:4006?security=tls&sni=www.nintendogames.net&type=tcp&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%203
-trojan://381f2e86233720eacda26d50e9aa26da@202.181.103.246:1933?security=tls&sni=www.nintendogames.net&type=tcp&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%204
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@172.105.199.111:8080#%f0%9f%87%af%f0%9f%87%b5%20JP%205
-trojan://381f2e86233720eacda26d50e9aa26da@202.181.103.246:1281?security=tls&sni=www.nintendogames.net&type=tcp&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%206
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYTE9ydkxXa0NCQkJ4THFTRWU5UzhsbkM1UExzTmZSaA==@103.75.118.125:443#%f0%9f%87%af%f0%9f%87%b5%20JP%207
-trojan://381f2e86233720eacda26d50e9aa26da@202.181.103.246:3901?security=tls&sni=www.nintendogames.net&type=tcp&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%208
+trojan://381f2e86233720eacda26d50e9aa26da@160.16.196.59:4006?security=tls&sni=www.nintendogames.net&type=tcp&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%201
+ss://YWVzLTI1Ni1nY206YzY5Mzc0ZGEtMjIwOC00Y2JkLWI4MWUtY2RmODhiNWU3ZjUz@ss.026.node-for-bigairport.win:15099#%f0%9f%87%af%f0%9f%87%b5%20JP%202
+trojan://381f2e86233720eacda26d50e9aa26da@160.16.196.59:1933?security=tls&sni=www.nintendogames.net&type=tcp&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%203
+trojan://381f2e86233720eacda26d50e9aa26da@160.16.196.59:1281?security=tls&sni=www.nintendogames.net&type=tcp&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%204
+trojan://381f2e86233720eacda26d50e9aa26da@160.16.63.16:1281?security=tls&sni=www.nintendogames.net&type=tcp&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%205
+trojan://381f2e86233720eacda26d50e9aa26da@160.16.196.59:3901?security=tls&sni=www.nintendogames.net&type=tcp&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%206
+trojan://381f2e86233720eacda26d50e9aa26da@160.16.63.16:3901?security=tls&sni=www.nintendogames.net&type=tcp&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%207
 vmess://eyJhZGQiOiJuMTc1MzU5ODQ1MS43NHF4di50b3AiLCJhaWQiOjAsImhvc3QiOiJuMTc1MzU5ODQ1MS43NHF4di50b3AiLCJpZCI6Ijk3OTg2NzhmLTViOGMtNGZmMS1iYmRkLWI5YjVjMTUzOWRlMCIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicG9ydCI6NDQzLCJwcyI6Ilx1ZDgzY1x1ZGRlZlx1ZDgzY1x1ZGRmNVtvcGVucHJveHlsaXN0LmNvbV0gdm1lc3MtSlAiLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiJuMTc1MzU5ODQ1MS43NHF4di50b3AiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byJ9
 vmess://eyJhZGQiOiJuMTc1MzU5ODQ0OC43NHF4di50b3AiLCJhaWQiOjAsImhvc3QiOiJuMTc1MzU5ODQ0OC43NHF4di50b3AiLCJpZCI6IjNjZDZmODQ5LTA3OGUtNGRhOS04MDgwLWEyNzkxYjUxYjc2NiIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicG9ydCI6NDQzLCJwcyI6Ilx1ZDgzY1x1ZGRlZlx1ZDgzY1x1ZGRmNVtvcGVucHJveHlsaXN0LmNvbV0gdm1lc3MtSlAiLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiJuMTc1MzU5ODQ0OC43NHF4di50b3AiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byJ9
 trojan://381f2e86233720eacda26d50e9aa26da@202.181.103.246:1933?security=tls&sni=www.nintendogames.net#[openproxylist.com] trojan-JP
