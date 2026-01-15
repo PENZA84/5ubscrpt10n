@@ -489,15 +489,15 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638931272656134408.malayer-drc-tusa
 vless://298a5e17-6af7-43ec-8582-c6f7312e3592@fr-gt-01.com:8443?security=reality&encryption=none&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=364994a6f61fc955# FR | 216.106.189.166
 vless://91b77af9-6f06-4c22-9c0e-bdd8f63de158@51.77.91.192:8081?security=reality&encryption=none&pbk=KdvX1bbHtA4Y16IukcDsNiEJ9iKYk4BLlI7LDsV0iFU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=d5bfd6c4# FR | 51.77.91.192
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.180.175.3:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk# FR | 35.180.175.3
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.45.55.248:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk# FR | 51.45.55.248
 vless://e16a35ea-6715-4e75-9845-d20358bd0876@94.232.247.168:41360?security=reality&encryption=none&pbk=TY6w1zP-qUFKVCAQdQT2ZEJsZBrPO4hZjZYBSS6h6DU&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=1aab45# FR | 94.232.247.168
-vless://2917d821-9327-4c76-bf7f-1b7857b38811@51.91.173.52:7852?security=reality&encryption=none&pbk=rBXjuQ9eGNAUtELw1KFOMH7Aq0Q2t3RqcbdPcddYyTk&headerType=none&fp=random&type=tcp&sni=www.speedtest.net&sid=69# FR | 51.91.173.52
 vless://7d31065b-980c-4295-83f0-23bde0eee9cc@185.234.64.228:443?path=/qnbufdws&security=tls&encryption=none&type=ws# FR | 185.234.64.228
 trojan://telegram-id-directvpn@35.180.175.3:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# FR | 35.180.175.3
+trojan://telegram-id-directvpn@51.45.55.248:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# FR | 51.45.55.248
 trojan://telegram-id-privatevpns@35.180.175.3:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# FR | 35.180.175.3
+trojan://telegram-id-privatevpns@51.45.55.248:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# FR | 51.45.55.248
 trojan://telegram-id-v2rayvpnchannel@35.181.131.135:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# FR | 35.181.131.135
 trojan://telegram-id-v2rayvpnchannel@35.181.130.191:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# FR | 35.181.130.191
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NDkxOGJjODAxZDUzYTRi@57.130.28.148:11201# FR | 57.130.28.148
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIVDNmMkNUNkpRVlFKQmRvZ2Y1czNZ@62.210.88.22:443/?outline=1&prefix=# FR | 62.210.88.22
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1YmJlN2JmN2EyODJhZDhi@51.178.114.93:11201# FR | 51.178.114.93
 vless://4f55ad4a-286f-46ab-8971-0a35aea2c537@51.68.93.212:10126?encryption=none&security=none&type=grpc&authority=&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&mode=gun#%F0%9F%87%AB%F0%9F%87%B7%5Bopenproxylist.com%5D%20vless-FR
 vless://5695e906-fd40-45e7-b261-7bc605af614c@45.67.139.19:51065?encryption=none&security=reality&sni=tgju.org&fp=firefox&pbk=WXFRU0P2nkI5AcYIdCWZmxonsqm9aD07wnFYWp7O4SY&sid=0bc95177&spx=%2F&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%B7%5Bopenproxylist.com%5D%20vless-FR
