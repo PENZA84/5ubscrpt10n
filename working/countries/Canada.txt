@@ -233,6 +233,7 @@ vmess://ewogICAgImFkZCI6ICIxMzQuMTk1LjE5OC45MiIsCiAgICAiYWlkIjogMSwKICAgICJob3N0
 trojan://telegram-id-directvpn@35.182.28.167:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%A8%F0%9F%87%A6CA-35.182.28.167-8550
 trojan://telegram-id-directvpn@3.96.217.9:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%A8%F0%9F%87%A6CA-3.96.217.9-8576
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@85.208.108.59:8008#%F0%9F%87%A8%F0%9F%87%A6CA-85.208.108.59-5855
+vless://adf05193-be02-4c6e-85e5-1f8683302bdb@mg1.kunlun01.com:18000?&security=reality&flow=xtls-rprx-vision&pbk=hlRqquCI6AiCSbifwaNIlf_fVoHols95S2A1OG8xnVk&fp=chrome&sni=s0.awsstatic.com&type=tcp&headerType=none&host=s0.awsstatic.com&path=%2F#%F0%9F%87%A8%F0%9F%87%A6_CA_%E5%8A%A0%E6%8B%BF%E5%A4%A7
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.154.136.176:8118#%F0%9F%87%A8%F0%9F%87%A6_CA_%E5%8A%A0%E6%8B%BF%E5%A4%A7
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@23.154.136.176:9101#%F0%9F%87%A8%F0%9F%87%A6_CA_%E5%8A%A0%E6%8B%BF%E5%A4%A7
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVlAMjMuMTU0LjEzNi4xNzY6OTEwMg==#%F0%9F%87%A8%F0%9F%87%A6_CA_%E5%8A%A0%E6%8B%BF%E5%A4%A7
@@ -559,11 +560,10 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dU1xa0dJeDZJYTBAMTM4LjE5Ny4xNzQuMjQ1OjU2NDQ
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh6jwn4emQ0HliqDmi7/lpKcoeW91dHViZemYv+S8n+enkeaKgCkiLA0KICAiYWRkIjogIjUxLjc5LjI4LjI1MCIsDQogICJwb3J0IjogIjgwIiwNCiAgImlkIjogIjU4ZmUxNTQyLTUyOTAtNDBhZC04MTVhLTc3NzA3YTgxYWZlNSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAiaHR0cCIsDQogICJob3N0IjogInNwZWVkdGVzdC5uZXQiLA0KICAicGF0aCI6ICIvSU9lYmhMTWhsMUNZcGtWbTIzVUNPS1lobW0iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIg0KfQ==
 vmess://ewogICJ2IjogMiwKICAicHMiOiAiUmVsYXlf8J+HqPCfh6ZDQS3wn4eo8J+HpkNBXzEyOCIsCiAgImFkZCI6ICIxOTIuMTg2LjEyOS42NiIsCiAgInBvcnQiOiA0NDMsCiAgImlkIjogImFiYTUwZGQ0LTU0ODQtM2IwNS1iMTRhLTQ2NjFjYWY4NjJkNSIsCiAgImFpZCI6IDQsCiAgIm5ldCI6ICJ3cyIsCiAgImhvc3QiOiAidXNhLWJ1ZmZhbG8ubHZ1ZnQuY29tIiwKICAicGF0aCI6ICIvd3MiLAogICJ0eXBlIjogIiIsCiAgInRscyI6ICJ0bHMiLAogICJzbmkiOiAidXNhLWJ1ZmZhbG8ubHZ1ZnQuY29tIiwKICAic2N5IjogImF1dG8iCn0=
 vmess://ewogICJ2IjogMiwKICAicHMiOiAiUmVsYXlf8J+HqPCfh6ZDQS3wn4eo8J+HpkNBXzEyNyIsCiAgImFkZCI6ICJ1c2EtYnVmZmFsby5sdnVmdC5jb20iLAogICJwb3J0IjogNDQzLAogICJpZCI6ICJhYmE1MGRkNC01NDg0LTNiMDUtYjE0YS00NjYxY2FmODYyZDUiLAogICJhaWQiOiA0LAogICJuZXQiOiAid3MiLAogICJob3N0IjogInVzYS1idWZmYWxvLmx2dWZ0LmNvbSIsCiAgInBhdGgiOiAiL3dzIiwKICAidHlwZSI6ICIiLAogICJ0bHMiOiAidGxzIiwKICAic25pIjogInVzYS1idWZmYWxvLmx2dWZ0LmNvbSIsCiAgInNjeSI6ICJhdXRvIgp9
-vless://3e2e3c21-3fc8-468f-9ab5-e782bdf5bf97@104.21.227.134:443?encryption=none&security=tls&sni=l.ayovo.netlib.re&type=ws&host=l.ayovo.netlib.re&path=%2F%3Fed%3D2560#CA%E5%8A%A0%E6%8B%BF%E5%A4%A7%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-vless://3e2e3c21-3fc8-468f-9ab5-e782bdf5bf97@162.159.44.142:443?encryption=none&security=tls&sni=l.ayovo.netlib.re&type=ws&host=l.ayovo.netlib.re&path=%2F%3Fed%3D2560#CA%E5%8A%A0%E6%8B%BF%E5%A4%A7%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-trojan://469c8135-8aea-4c7f-8ec2-c5fdfa980b48@tuntro006.instconn.com:443?security=tls&sni=torontorm1.686911.xyz#CA%20TROJAN-08%20%7C%20free-nodes
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMjdiYzBiNGZhZDMzZTQ2@148.113.138.47:48704#CA%20SS-85%20%7C%20free-nodes
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4ZDkwMDA5ZmE1MDIzY2Zh@148.113.143.102:11201#CA%20SS-106%20%7C%20free-nodes
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMjdiYzBiNGZhZDMzZTQ2@148.113.138.47:48704#CA%20SS-63%20%7C%20free-nodes
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4ZDkwMDA5ZmE1MDIzY2Zh@148.113.143.102:11201#CA%20SS-84%20%7C%20free-nodes
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5Zjk5MTgwZmM5MjExYzQw@51.161.80.138:27797#CA%20SS-126%20%7C%20free-nodes
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmNmM0NjAwZDRkNTEzODU3@51.161.33.111:11202#CA%20SS-133%20%7C%20free-nodes
 vless://55975415-43c0-461c-8752-d5b8013364e3@167.17.70.16:8443?security=reality&type=tcp&sni=www.microsoft.com&fp=chrome&flow=xtls-rprx-vision&sid=84f70f1177981563&pbk=8W9r2aXGhKNtvPxnL6EiPpQuSm9OJT17x2xyxwxIo30&encryption=none#%F0%9F%87%A8%F0%9F%87%A6_CA_%E5%8A%A0%E6%8B%BF%E5%A4%A7
 vless://c54dd620-fa5f-46de-82c2-9d1492ee74e4@103.98.215.248:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=tor2.jarviskit.com&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-TLS%20%F0%9F%87%A8%F0%9F%87%A6%20CA-103.98.215.248%3A443
 vless://65aba5d9-bf3d-4ee3-cdbc-d3854d580263@99.199.73.53:23877?encryption=none&security=none&type=tcp&headerType=http&host=www.speedtest.net#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%A8%F0%9F%87%A6%20CA-99.199.73.53%3A23877
@@ -576,6 +576,7 @@ vless://542f694b-e8bd-4b9e-858c-ccb1c46a3316@www.speedmeter.life:80?encryption=n
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1RERFOFx1RDgzQ1x1RERFNkNBXzlfQFN1cmZib2FyZHYycmF5IiwNCiAgImFkZCI6ICIxMDQuMTcuMTc2LjE3MSIsDQogICJwb3J0IjogIjgwODAiLA0KICAiaWQiOiAiNmNiYzljNzgtMWNiMS01N2Q0LWE5OTktZTJmNGUzNGMxZTAzIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIi0tLSIsDQogICJob3N0IjogImtlN2h6MzZld3otNDUxNTAxNzQ3My5tYXNoYWxsYWhiZXQuY29tIiwNCiAgInBhdGgiOiAiL25hc25ldC9jZG4iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNzk5YjkwM2EzMmZjMWZl@51.161.32.44:13026#%f0%9f%87%a8%f0%9f%87%a6%20CA%201
 vmess://eyJ2IjpudWxsLCJwcyI6IvCfh6jwn4emIENBIDIiLCJhZGQiOiI1MS43OS4xMDIuMjUzIiwicG9ydCI6ODAsImlkIjoiNThmZTE1NDItNTI5MC00MGFkLTgxNWEtNzc3MDdhODFhZmU1IiwiYWlkIjoiMCIsInNjeSI6bnVsbCwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjoiIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii9JT2ViaExNaGwxQ1RiRkhiTDk1bXlmUlgyIiwidGxzIjoiIiwic25pIjpudWxsLCJmcCI6bnVsbH0=
+vless://e2be0db4-4110-42eb-bca1-ba8df0897319@198.50.119.86:8080?path=%2F39427%2FNextlife&security=none&encryption=none&host=telewebion.com&type=ws#[openproxylist.com] vless-CA
 trojan://2qmYr0p4X63t@15.223.118.153:14826?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#CA|GithubTrojanLinks
 trojan://v1eV4PsyDTXI@35.183.17.108:14807?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#CA|GithubTrojanLinks
 trojan://HxQUta02eVg8@3.96.211.215:14787?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#CA|GithubTrojanLinks
@@ -591,10 +592,10 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkNBIiwNCiAgImFkZCI6ICIxNDMuMTk4LjM3LjE3
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkNBIiwNCiAgImFkZCI6ICIxODUuMTk2LjYxLjYyIiwNCiAgInBvcnQiOiAiODA4MCIsDQogICJpZCI6ICJiZGQyMjg0MS1jNGQyLTRhYTgtYWNmMi05NWFhOTEyNWYxNTkiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImNhdG8tMS50cm9sbGZ1bm55Lm5ldCIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJjYXRvLTEudHJvbGxmdW5ueS5uZXQiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiY2hyb21lIg0KfQ==
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkNBIiwNCiAgImFkZCI6ICIxMzguMTk3LjE1OS4xMzkiLA0KICAicG9ydCI6ICI4MDgwIiwNCiAgImlkIjogImJkZDIyODQxLWM0ZDItNGFhOC1hY2YyLTk1YWE5MTI1ZjE1OSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAidG9yMS0yLnRyb2xsZnVubnkubmV0IiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogInRvcjEtMi50cm9sbGZ1bm55Lm5ldCIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICJjaHJvbWUiDQp9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@23.95.76.59:990?#%F0%9F%87%A8%F0%9F%87%A6%20Montreal%2C%20QC%2C%20Canada%20%282%29
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMjdiYzBiNGZhZDMzZTQ2@148.113.138.47:48704#CA%20SS-60%20%7C%20free-nodes
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4ZDkwMDA5ZmE1MDIzY2Zh@148.113.143.102:11201#CA%20SS-81%20%7C%20free-nodes
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmNmM0NjAwZDRkNTEzODU3@51.161.33.111:11202#CA%20SS-132%20%7C%20free-nodes
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5Zjk5MTgwZmM5MjExYzQw@51.161.80.138:27797#CA%20SS-124%20%7C%20free-nodes
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmNmM0NjAwZDRkNTEzODU3@51.161.33.111:11202#CA%20SS-138%20%7C%20free-nodes
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5Zjk5MTgwZmM5MjExYzQw@51.161.80.138:27797#CA%20SS-130%20%7C%20free-nodes
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMjdiYzBiNGZhZDMzZTQ2@148.113.138.47:48704#CA%20SS-67%20%7C%20free-nodes
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4ZDkwMDA5ZmE1MDIzY2Zh@148.113.143.102:11201#CA%20SS-88%20%7C%20free-nodes
 vless://0e777e3e-a3ee-5b31-abd6-e9c61f657b7e@www.parspack.com:2052?encryption=none&host=Rubika.ir.join.ELiV2.no1.vless.Sitespeedtest.net.&path=%2FTel--%40ELiV2--%40ELiV2--%40ELiV2-%2F%3Fed%3D1024&security=none&type=ws# | VLESS | @EliV2ray | CA | 01
 vless://0e777e3e-a3ee-5b31-abd6-e9c61f657b7e@www.speedtest.net:2095?encryption=none&host=Rubika.ir.join.ELiV2.no1.vless.Sitespeedtest.net.&path=%2FTel--%40ELiV2--%40ELiV2--%40ELiV2-%2F%3Fed%3D1024&security=none&type=ws# | VLESS | @EliV2ray | CA | 02
 vless://9a0a7112-14db-48ab-815d-8b90a5ac18ae@www.speedtest.net:8880?encryption=none&host=splUs.Ir.DigIcYBer.CLIck.&path=%2Fnazan%2Fpedar%2Fsag&security=none&type=httpupgrade# | VLESS | @EliV2ray | CA | 03
