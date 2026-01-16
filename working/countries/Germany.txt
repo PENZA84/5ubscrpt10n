@@ -864,9 +864,9 @@ vless://63f92f3c-447c-4283-80b9-0af8e164cdad@dfg.octopusss.net:22955?security=re
 vless://7b148add-4438-426e-a583-50f11e7bd0e4@91.107.148.79:443?mode=gun&security=none&encryption=none&type=grpc#[openproxylist.com] vless-DE
 vless://14fe2c89-af11-4b7d-cc08-9641f0f2d8ee@doprax.fxgoldensignals.com:58153?mode=gun&security=none&encryption=none&type=grpc#[openproxylist.com] vless-DE
 vless://c9b0932d-8d1c-43c5-b64b-e9a74719c76d@rohin.ns.cloudflare.com:443?path=/hsdgsws&security=tls&alpn=http/1.1&encryption=none&insecure=1&host=forreest.info&fp=chrome&type=ws&allowInsecure=1&sni=forreest.info#[openproxylist.com] vless-DE
-vless://087d8602-503b-4091-9f05-44c20792083c@oon.visaups.ir:80?&type=ws&headerType=none&host=oon.visaups.ir&path=%2F#[openproxylist.com] vless-DE
+vless://087d8602-503b-4091-9f05-44c20792083c@oon.visaups.ir:80?path=%2F&security=none&encryption=none&host=oon.visaups.ir&type=ws#[openproxylist.com] vless-DE
 vless://e50fa46f-20c6-4c0d-fa0e-d9ffd92df36f@91.107.173.252:41647?mode=gun&security=none&encryption=none&authority=%3Fed%3D2048HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN&type=grpc#[openproxylist.com] vless-DE
-vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@api.dark-coffe.com:2087?path=%2F&security=tls&encryption=none&insecure=0&host=5JxGp6VrFh.SmArTtEcHzAaL.iNfO&type=ws&allowInsecure=0&sni=5JxGp6VrFh.SmArTtEcHzAaL.iNfO#[openproxylist.com] vless-DE
+vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@api.dark-coffe.com:2096?path=/&security=tls&encryption=none&host=TzS7v35LfD.sMaRtTeChZaAl.InFo&fp=chrome&type=ws&sni=TzS7v35LfD.sMaRtTeChZaAl.InFo#[openproxylist.com] vless-DE
 vless://95fd8ed6-0c48-41be-ae26-dfea82fa67ad@188.114.98.224:443?path=%2Fdar&security=tls&encryption=none&host=hetzner.rahedarro.com&type=ws&sni=hetzner.rahedarro.com#[openproxylist.com] vless-DE
 vless://7d12bf9a-63d6-4989-a27b-c9ddb2d6c0b6@de23.ariyanln.com:7945?security=none&encryption=none&host=mmg.whatsapp.net&headerType=http&type=tcp#[openproxylist.com] vless-DE```
 trojan://PiPSz(vVVKtO@3.64.178.27:14815?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#DE|GithubTrojanLinks
