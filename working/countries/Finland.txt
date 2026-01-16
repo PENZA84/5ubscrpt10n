@@ -119,4 +119,3 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.29.19:8880?mode=gun&securit
 vless://7508df45-196f-436c-a0f0-d11918566456@62.60.229.31:8880?path=/&security=&encryption=none&host=s-test.hyberserver.ir&type=ws# FI | 62.60.229.31
 vless://1a99307d-7dfb-4f0c-dcc5-8098f94033f8@95.216.154.119:37265?path=/&security=none&encryption=none&type=ws# FI | 95.216.154.119
 vless://21071ee3-ad74-f168-9db7-8fd716c44fa6@46.62.241.106:122?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=Cloudflare.com&pbk=b87VY4gZ48z7tHI3mkzpQIKg_IgenzkBvB4gD5qz2ww&sid=cedc7d97e0a02690# FI | 46.62.241.106
-vless://14e4cf26-44e1-4888-ba87-e5e6ba3a6b0f@65.108.1.249:443?security=tls&alpn=h3,h2,http/1.1&encryption=none&headerType=none&type=tcp&sni=cdn.chandplus.com# FI | 65.108.1.249
