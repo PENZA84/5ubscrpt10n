@@ -1142,14 +1142,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MTgwNzcxOGY1OTNkM2U2@154.205.148.202:11201#
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.113.194:8119#TR%20SS-132%20%7C%20free-nodes
 vless://7ea4c8e3-0f76-3231-b5c8-27fed8bbe326@s459.okgg.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s459.okgg.top&path=&flow=xtls-rprx-vision&security=tls&sni=u726759ucfb5s459.okgg.top&serviceName=&mode=&alpn=#TR%20VLESS-175%20%7C%20free-nodes
 vless://7ea4c8e3-0f76-3231-b5c8-27fed8bbe326@s460.okgg.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s460.okgg.top&path=&flow=xtls-rprx-vision&security=tls&sni=u726759u6422s460.okgg.top&serviceName=&mode=&alpn=#TR%20VLESS-176%20%7C%20free-nodes
-vless://08c7f096-d057-4d53-82fd-c739d372887b@92.60.70.36:2053?&type=tcp&headerType=none&path=%2F#TR%20VLESS-08%20%7C%20free-nodes
-trojan://BxceQaOe@58.152.53.219:443?allowInsecure=1&sni=t.me%2Fripaojiedian#TR%20TROJAN-10%20%7C%20free-nodes
-trojan://61d8077bfb174e171b8283f155a555ad@160.16.106.99:544?security=tls&sni=www.nintendogames.net#TR%20TROJAN-17%20%7C%20free-nodes
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZWQ2MWY1MWRmZWM5NjFh@93.114.98.102:11201#TR%20SS-74%20%7C%20free-nodes
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MTgwNzcxOGY1OTNkM2U2@154.205.148.202:11201#TR%20SS-98%20%7C%20free-nodes
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.113.194:8119#TR%20SS-128%20%7C%20free-nodes
-vless://7ea4c8e3-0f76-3231-b5c8-27fed8bbe326@s459.okgg.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s459.okgg.top&path=&flow=xtls-rprx-vision&security=tls&sni=u726759ucfb5s459.okgg.top&serviceName=&mode=&alpn=#TR%20VLESS-174%20%7C%20free-nodes
-vless://7ea4c8e3-0f76-3231-b5c8-27fed8bbe326@s460.okgg.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s460.okgg.top&path=&flow=xtls-rprx-vision&security=tls&sni=u726759u6422s460.okgg.top&serviceName=&mode=&alpn=#TR%20VLESS-175%20%7C%20free-nodes
 trojan://984e400bf5d541b7b0815913fe0c432a@104.16.159.5:443?security=tls&sni=bangladeshipatri.com&type=ws&host=bangladeshipatri.com&path=6b777a91#%F0%9F%94%92%20TR-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.16.159.5%3A443
 trojan://71409d3e488548e8bb076d229778f008@104.17.147.77:443?security=tls&sni=bangladeshipatri.com&type=ws&host=bangladeshipatri.com&path=6b777a91#%F0%9F%94%92%20TR-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.17.147.77%3A443
 trojan://telegram-id-privatevpns@16.16.248.150:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&type=tcp&headerType=none#%F0%9F%94%92%20TR-TCP-TLS%20%F0%9F%87%B8%F0%9F%87%AA%20SE-16.16.248.150%3A22222
@@ -1214,4 +1206,5 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggLee+juWbvS10ci50ZWppZXdtLmNvbSIsImFkZCI6
 vmess://eyJhZGQiOiAidHIwMS5wYW9wYW9jbG91ZC5jeW91IiwgInBvcnQiOiAiNDQzIiwgImlkIjogIjBmZWI0ZWE5LWJjYWEtMzJjMi1iYmRkLWIzZDEzZGRkYjYxMiIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAicHMiOiAi8J+HpvCfh7Yt5Zyf6ICz5YW2LXRyMDEucGFvcGFvY2xvdWQuY3lvdSIsICJob3N0IjogInRyMDEuc3NydTQuZnVuIiwgInBhdGgiOiAiL3YycmF5IiwgInRscyI6ICJ0bHMiLCAic25pIjogIiIsICJ0eXBlIjogInZtZXNzIiwgInNlcnZlclBvcnQiOiAwLCAibmF0aW9uIjogIiJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggLee+juWbvS10cjAxLmNmLnBhb3Bhb2Nsb3VkLmN5b3UiLCJhZGQiOiJ0cjAxLmNmLnBhb3Bhb2Nsb3VkLmN5b3UiLCJwb3J0IjoiNDQzIiwidHlwZSI6Im5vbmUiLCJpZCI6IjBmZWI0ZWE5LWJjYWEtMzJjMi1iYmRkLWIzZDEzZGRkYjYxMiIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6InRyMDEuc3NydTQuZnVuIiwidGxzIjoidGxzIn0=
 vless://ff0e767c-747e-4a6d-b3c9-ba0d602ec939@tu.a.speedgloobalontop.ir:2088?security=none&type=tcp&headerType=&path=&host=# TR | 213.142.156.169
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowRDktU3hWN2czQU4tSGVLc201akg0YkZxYzRqRE51TA==@185.39.204.27:1080# TR | 185.39.204.27
+vless://7f2a80e2-a132-497a-94ff-0eaa83833702@185.39.204.27:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sun1-90.userapi.com&fp=&pbk=fsQFwBuDqsc-AylhF85Yu4jI81hn7LkYtNQCT5FFyiw&sid=# TR | 185.39.204.27
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.113.194:8119# TR | 38.180.113.194
