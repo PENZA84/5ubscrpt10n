@@ -15,9 +15,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYMzZUSWk0QzNOSDZPbG4zVGRHeWpn@fl3.cowjuice.m
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080#Netherlands%20Greenhost
 ss://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001?security=none&encryption=none&headerType=none&type=tcp#Netherlands%20Clodo%20Cloud
 vless://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001?security=none&encryption=none&headerType=none&type=tcp#Netherlands%20Clodo%20Cloud
-vless://46c4bca1-3899-496c-9fd5-358fc5b08d01@85.158.110.62:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=sOjlAEcrubT3nuRzox3bAkQSptuLhelt7CykvSZXW3I&sni=google.com#VPNKEY-Netherlands
-vless://86be7d6e-9dda-433b-8ea8-0c44a7dfcfbd@85.158.110.62:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=sOjlAEcrubT3nuRzox3bAkQSptuLhelt7CykvSZXW3I&sni=google.com#VPNKEY-Netherlands
-vless://f4d8b865-a620-4e1d-802a-6bcf5a48c49e@85.158.110.62:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=sOjlAEcrubT3nuRzox3bAkQSptuLhelt7CykvSZXW3I&sni=google.com#VPNKEY-Netherlands
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.151:8080#The+Netherlands
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.150:8080#The+Netherlands
 vless://031363ca-f733-4ba2-a67d-05590c619d0a@77.221.155.141:11773?security=none&type=tcp&headerType=http&path=/static/index.html&host=Excoino.com#NL .
@@ -467,7 +464,7 @@ vless://cb33f36c-b531-4318-9be3-568e8d6c56c7@149.115.110.173:443?encryption=none
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.19:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#[openproxylist.com] vless-NL
 vless://45e3b7ad-03b6-42fc-b616-1e92bdd0a5b3@94.228.213.240:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=86e999a2cdc2#[openproxylist.com] vless-NL
 vless://45e3b7ad-03b6-42fc-b616-1e92bdd0a5b3@94.228.213.239:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=86e999a2cdc2#[openproxylist.com] vless-NL
-trojan://humanity@104.18.32.47:443?allowInsecure=0&fp=chrome&host=www.multiplydose.com&insecure=0&path=%2Fassignment&security=tls&sni=www.multiplydose.com&type=ws#[openproxylist.com] trojan-NL
+trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&host=www.multiplydose.com&fp=chrome&type=ws&sni=www.multiplydose.com#[openproxylist.com] trojan-NL
 vless://b0a555eb-2f29-48bb-bf3d-e66cde922f91@regh.radte.sbs:17142?security=&encryption=none&host=myket.ir&headerType=http&type=tcp#[openproxylist.com] vless-NL```
 vless://3bd011c9-c5ec-4024-8aaa-6d79db4e97d3@ndt.fasti.win:443?security=reality&encryption=none&pbk=XBBVeMURFu7jmYJ9MZwjEWgfQlGTnRs0B5So5Fy7jWs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ndt.fasti.win&sid=992f3294e2336744#[openproxylist.com] vless-NL```
 vless://fd172037-5098-1245-7859-58a5c57e993c@mouse4.1lil1.de:443?security=reality&encryption=none&pbk=LaGTRJ1CJnnYV7FnyqQnU28I0xFTPFKI8xmUFwig5ic&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=c410508e9721512b#[openproxylist.com] vless-NL```
@@ -871,12 +868,10 @@ vmess://eyJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJwcyI6ICJcdWQ4M2NcdWRkZjNcdWQ4M2Nc
 vmess://eyJ2IjoiMiIsInBzIjoiTkxfOTUuMjExLjU4LjU1XzExMjEyMDIyZGE1OC05MCIsImFkZCI6Ijk1LjIxMS41OC41NSIsInBvcnQiOiIxNjQxOCIsInR5cGUiOiJub25lIiwiaWQiOiI5NzU2YzdkMC00YTg2LTQyMTAtZmFkMS0xM2Q1Y2JkODZiMDMiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hs/Cfh7EgTkwgNTcgVk1TIiwiYWRkIjoiOTUuMjExLjU4LjU1IiwicG9ydCI6IjE2NDE4IiwidHlwZSI6Im5vbmUiLCJpZCI6Ijk3NTZjN2QwLTRhODYtNDIxMC1mYWQxLTEzZDVjYmQ4NmIwMyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZ2RnSEc1NXRodCIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
 vmess://eyJwcyI6ICJcdWQ4M2NcdWRkZjNcdWQ4M2NcdWRkZjEtXHU4Mzc3XHU1MTcwLW5sMS52MnJheXNlcnYuY29tIiwgIlx1NTE0ZFx1OGQzOVx1OGJhMlx1OTYwNVx1NWMzZFx1NTcyOGh0dHBzIjogIiIsICJhZGQiOiAibmwxLnYycmF5c2Vydi5jb20iLCAicG9ydCI6ICI4MCIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiZTcyN2Y2ZTMtZDIwNi00ZjA0LTgwZjgtMzBkYWZkNTJmYmUyIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgInRscyI6ICJmYWxzZSIsICJza2lwLWNlcnQtdmVyaWZ5IjogInRydWUiLCAibmV0IjogIndzIiwgIndzLW9wdHMiOiAiIiwgInBhdGgiOiAiL3NzaG9jZWFuIiwgImhlYWRlcnMiOiAiIiwgImhvc3QiOiAibmwxLnYycmF5c2Vydi5jb20iLCAidWRwIjogInRydWUifQ==
+vless://50edb4d7-e29e-4fb1-9ce0-d0b0b9d8872c@regh.radte.sbs:51148?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp# NL | 194.26.192.156
 vless://2ad04efa-d18a-442b-875f-48d12e11d822@u1.mizulina.top:22231?security=tls&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=u1.mizulina.top# NL | 185.172.88.4
 vless://28ef7769-b7a8-478f-bac7-052494312c01@ne.zerogravitypineapple.ir:9828/?encryption=none&host=speedtest.net&type=tcp&headerType=http# NL | 45.67.35.224
 vless://49b8d2a1-b44f-4f0f-909d-28ea0f5c1f48@5.255.121.39:8009?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=firefox&type=tcp&sni=refersion.com# NL | 5.255.121.39
-vless://74be5a30-e7ca-47fa-9e6a-8d602739ec6c@test.country-8.eu-ffast.com:443?security=reality&encryption=none&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ams.eu-ffast.com&sid=50# NL | 64.188.77.139
-vless://8dd118f1-b10a-4519-bc58-5902b5a4e82a@nleuroaccess.amirconfigpaanelllll.com:2126?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp# NL | 5.255.125.34
-vless://28fc8329-aae6-431c-8f37-96dfae3f77e3@82.192.72.244:443?mode=auto&path=/cloudapi&security=none&encryption=none&host=excoino.com&type=xhttp# NL | 82.192.72.244
 vless://e258977b-e413-4718-a3af-02d75492c349@154.194.0.159:443?path=/?ed=2560&security=tls&encryption=none&host=sg.aniua.qzz.io&fp=chrome&type=ws&sni=sg.aniua.qzz.io# NL | 154.194.0.159
 vless://8285eef0-147d-4bb6-9d12-0e4601a36e78@151.101.204.190:80?encryption=none&security=none&type=xhttp&host=minovpnch.net&path=/awduhiawad?ed=2560&mode=auto# NL | 151.101.204.190
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.19:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01# NL | 51.158.206.19
@@ -886,14 +881,12 @@ vless://1d547b7b-1dce-4c3c-ab62-c23235b383e2@151.101.205.194:80?mode=auto&path=/
 vless://78a9bf4f-3bec-48b2-b98f-a3f8151506ac@europeless.duckdns.org:443?security=tls&sni=europeless.duckdns.org&fp=random&type=ws&path=/getupdates&host=europeless.duckdns.org&encryption=none# NL | 64.188.97.173
 vless://6ee350f0-84a6-40ef-80ab-99485c90fd84@88.210.10.54:8081?security=&encryption=none&host=cafebazzar.ir&headerType=http&type=tcp# NL | 88.210.10.54
 vless://49b8d2a1-b44f-4f0f-909d-28ea0f5c1f48@5.255.105.235:8009?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=firefox&type=tcp&sni=refersion.com# NL | 5.255.105.235
-vless://198b3de2-6f17-4b75-b1cb-a5e6c300bd28@nleuroaccess.amirconfigpaanelllll.com:2126?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp# NL | 5.255.125.34
-vless://8dd118f1-b10a-4519-bc58-5902b5a4e82a@nleuroaccess.amirconfigpaanelllll.com:2126?encryption=none&security=none&type=tcp&headerType=http&host=varzesh3.com# NL | 5.255.125.34
+vless://50edb4d7-e29e-4fb1-9ce0-d0b0b9d8872c@regh.radte.sbs:51148?encryption=none&security=none&type=tcp&headerType=http&host=myket.ir# NL | 194.26.192.156
 vless://49b8d2a1-b44f-4f0f-909d-28ea0f5c1f48@connect-4.kb-1.sbs:7790?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=firefox&type=tcp&sni=refersion.com# NL | 5.255.121.39
 vless://7b93491b-d1c0-4679-938d-56f0abec50b2@199.247.28.17:44914?type=xhttp&path=/&host=&mode=auto&security=reality&pbk=o1n1Qj_IBvl3xGDkMPzmuRJzKKW31L_r9kEeyW7e3F8&fp=chrome&sni=black-moai.com&sid=1ac2a2dde288&spx=/# NL | 199.247.28.17
-vless://1e1b9a1f-47cd-4cb2-a0dc-103a09e253ba@nl.iccgame.site:3000?encryption=none&type=tcp&headerType=http&host=chess.com&path=/&security=none# NL | 85.17.162.13
-vless://160e9c18-c548-42bf-9c00-905aed8ef96f@subscribe.getvlessvpn.com:49000?mode=gun&security=reality&encryption=none&pbk=2K2NO2jXF45pA0-eUobqo-gnur61TadbWD4B93Zl_Vc&fp=chrome&type=grpc&serviceName=dropbox.com&sni=google.com&sid=170f8a2036# NL | 43.250.54.155
 vless://TMG_119293995@89.23.107.188:443?mode=auto&path=/hGg1lC42IGRTGob&security=reality&encryption=none&pbk=_fLNb14FxS25F7oKOOeLGi4W0VV7FZoJyAPAOw2mqQc&host=amazon.com&fp=chrome&spx=/&type=xhttp&sni=www.amazon.com&sid=c7196c06b2# NL | 89.23.107.188
 vless://bc1cfd52-fddf-4c94-affd-cdc9f47eafde@194.60.133.108:2095?path=/vless&security=none&encryption=none&type=ws# NL | 194.60.133.108
 vless://161f6660-1e6b-44a6-8a3b-e2cbd0eb4dfa@212.34.137.193:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tradingview.com&fp=chrome&pbk=Cxvc5bVMKln6RxPs5MtviUZNDsmpfuYUK8UFBlcBaS0&sid=331a8c3fe668c1ee&type=tcp&headerType=none# NL | 212.34.137.193
-ss://74be5a30-e7ca-47fa-9e6a-8d602739ec6c@test.country-8.eu-ffast.com:443?security=reality&encryption=none&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ams.eu-ffast.com&sid=50# NL | 64.188.77.139
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.206:8080# NL | 193.29.139.206
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.89:8080# NL | 82.38.31.89
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080# NL | 193.29.139.235
