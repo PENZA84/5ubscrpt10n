@@ -95,7 +95,7 @@ vless://a7a9f670-44c0-45a9-8047-69db0203c142@45.144.53.118:443?security=tls&encr
 vless://a7a9f670-44c0-45a9-8047-69db0203c142@ficdn4.suio.me:443?security=tls&encryption=none&sni=ficdn4.suio.me&type=tcp&path=%2f#%f0%9f%87%ab%f0%9f%87%ae%20FI%2010
 vless://ba9ddd0d-5ffd-4d40-b76d-df32ecb092a1@45.144.52.229:443?security=tls&encryption=none&sni=ficdn2.suio.me&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=1#%f0%9f%87%ab%f0%9f%87%ae%20FI%2011
 vless://745d8b0e-1bf2-4921-8058-4d67dd3dbc13@45.144.52.229:443?security=tls&encryption=none&sni=ficdn2.suio.me&fp=chrome&type=tcp&path=%2f#%f0%9f%87%ab%f0%9f%87%ae%20FI%2012
-vless://c805b05e-339d-40e0-8787-432d97a27345@FASTLY.COM:80?path=%2F&security=none&encryption=none&host=mihan-germar2.global.ssl.fastly.net&type=ws#[openproxylist.com] vless-FI
+vless://c805b05e-339d-40e0-8787-432d97a27345@FASTLY.COM:80?path=/&security=&encryption=none&host=mihan-germar2.global.ssl.fastly.net&type=ws#[openproxylist.com] vless-FI
 vless://b16e18a9-6363-4af5-9144-7fba011c1f25@65.109.219.76:19854?security=none&encryption=none&headerType=none&type=tcp#[openproxylist.com] vless-FI
 vless://feaf1d64-b44c-4cc8-b114-4001478c1fd0@65.108.108.151:443?security=reality&encryption=none&pbk=u26A516I3BCfUMPOo6rw0-XYt0C2sCWaPNP2pNdtxzw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fit.jojack.ru&sid=f8865ecbb9bc11a3#[openproxylist.com] vless-FI
 vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.18.32.47:443?path=%2F&security=tls&encryption=none&host=dev.twistsparrow.xyz&type=ws&sni=dev.twistsparrow.xyz#[openproxylist.com] vless-FI
