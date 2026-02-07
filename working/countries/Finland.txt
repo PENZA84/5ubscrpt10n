@@ -101,7 +101,6 @@ vless://99785b25-5b68-40c7-be5c-199cac21c838@65.109.211.159:2093?encryption=none
 vless://723eb4ef-b933-494e-8b6f-c4b4c580dcca@65.109.211.159:2096?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AB%F0%9F%87%AE%20FI-65.109.211.159%3A2096
 vless://ee603510-52e4-29f9-00b0-9a051ad424fb@65.109.179.221:26261?type=tcp&path=%2f#%f0%9f%87%ab%f0%9f%87%ae%20FI%201
 vless://5a1d2c0c-abfa-4050-918f-bfab3eaee62a@151.101.9.80:80?type=ws&security=none&host=adspeedx23.global.ssl.fastly.net&path=/?ed%3D1049#[openproxylist.com] vless-FI
-vless://afbff11a-7db7-41de-9026-cb8cf2626d21@109.122.255.62:8083?security=&encryption=none&host=excoino.com&headerType=http&type=tcp#[openproxylist.com] vless-FI
 vless://ee603510-52e4-29f9-00b0-9a051ad424fb@65.109.179.221:26261?security=none&encryption=none&headerType=none&type=tcp#[openproxylist.com] vless-FI
 vless://373a56eb-aaa9-4a92-b209-503dd916900f@fn.takovpn.ru:443?security=reality&encryption=none&pbk=3cj5R-TwL-wjkLvwMcVW-DJXbm6xOyIIJEP1cC8AhgI&headerType=none&fp=chrome&type=tcp&sni=www.vk.com&sid=286e2d#[openproxylist.com] vless-FI
 vless://09748875-9da3-440e-9809-9752e1dda1e4@38.244.137.198:443?security=reality&encryption=none&pbk=QXGsw1KqljvUiarkvFdBs3T1TeUQq4skwHFlsmbj31o&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=google.com&sid=365c07ed#[openproxylist.com] vless-FI
@@ -127,9 +126,7 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+Hq/Cfh65GSS05NS4yMTcuMTUzLjk4LTE2MzM4IiwgImFk
 vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+Hq/Cfh65GSS0zNy4xNDMuMTI5LjIzOC0xMTU1MiIsICJhZGQiOiAiMzcuMTQzLjEyOS4yMzgiLCAicG9ydCI6IDY2MTYsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjQ1OWQyM2Y0LWRjZmQtNGZlZi05YmEzLWVmMGFkMTBmYzMzNiIsICJzbmkiOiAiIiwgInBhdGgiOiAiLyJ9
 vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+Hq/Cfh65GSS05NS4yMTYuMjA3LjIxLTIzNTM1LVdvLi4uIiwgImFkZCI6ICIxMDQuMTkuMTQ1Ljk1IiwgInBvcnQiOiA0NDMsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAidGxzIiwgImlkIjogImFiY2RlZjAxLTFkZjAtNGViYS1hNTExLWZlMDEyMzQ1Njc4OSIsICJzbmkiOiAibWlsYWQyLnN1ZGl6bzc3NDgud29ya2Vycy5kZXYiLCAicGF0aCI6ICIvbXl3b3JkcHJlc3Mud29yZHByZXNzLXNob3Aud2Vic2l0ZTo0NDMvIn0=
 vless://09748875-9da3-440e-9809-9752e1dda1e4@38.244.137.198:443?security=reality&encryption=none&pbk=QXGsw1KqljvUiarkvFdBs3T1TeUQq4skwHFlsmbj31o&headerType=none&fp=chrome&spx=/&type=tcp&sni=google.com&sid=365c07ed# FI | 38.244.137.198
-vless://feaf1d64-b44c-4cc8-b114-4001478c1fd0@fit.jojack.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=fit.jojack.ru&pbk=u26A516I3BCfUMPOo6rw0-XYt0C2sCWaPNP2pNdtxzw&sid=f8865ecbb9bc11a3# FI | 65.108.108.151
 vless://dcc97071-3c70-4eb2-83f0-6a0b12690213@f8.lalash.click:27732?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp# FI | 94.237.16.129
-vless://638c1918-f6f0-4ecc-85e6-a3ac50ed9c02@157.180.123.25:443?path=/linkws?ed&security=none&encryption=none&host=157.180.123.25&type=ws# FI | 157.180.123.25
 vless://feaf1d64-b44c-4cc8-b114-4001478c1fd0@65.108.108.151:443?security=reality&encryption=none&pbk=u26A516I3BCfUMPOo6rw0-XYt0C2sCWaPNP2pNdtxzw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fit.jojack.ru&sid=f8865ecbb9bc11a3# FI | 65.108.108.151
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHOVp1TE41REU5cXFvdVRad1lVY3ZZc0RKeDhneUwxbkN1M043eVJaRmpQbVlLaHpTaThHa3BWdWV4bVRIQXoydXZjRXJLa2V4MUsyY2VSMkdIM0w0NDRIUk5uTjFZcFA=@107.181.151.241:49917# FI | 107.181.151.241
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzSHJlUENVUG56UnFFZjNNMjlNejU5a0EtcC1jRlY0Wg==@138.124.118.94:8080# FI | 138.124.118.94
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0M2ZYZjF1TUtiSUtreG9OWUdRTXR0@38.244.137.202:45380# FI | 38.244.137.202
