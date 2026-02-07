@@ -89,9 +89,8 @@ vless://0dd1887b-a1e8-4271-aaf0-b2d5b97b2862@141.227.160.17:7005?encryption=none
 vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vlse.g2ray.com:443?encryption=none&security=tls&type=tcp&headerType=none#TLS-N-Sweden
 vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vlse.g2ray.com:443?encryption=none&flow=xtls-rprx-direct&security=xtls&type=tcp&headerType=none#XTLS-N-Sweden
 vless://telegram-turboo-server@server.ultra-irancell.com:80?host=jone-turboo-server.com&path=%2Fed%3D2056&type=ws#%F0%9F%87%B8%F0%9F%87%AA_SE_%E7%91%9E%E5%85%B8
-vless://31701b5d-ca95-92f9-d684-dae3706161ea@dd.openaccessnode.com:504?mode=gun&security=reality&encryption=none&pbk=aNLPNNyjIC7QYLe7MpF4nxxHhO421dBSZaQgsDd1szs&fp=chrome&type=grpc&serviceName=JNIR&sni=nobitex.ir&sid=1d64e9805b4f9ae3#[openproxylist.com] vless-SE
 vless://671c0340-77dc-402f-8bc1-60558bc46540@de-05.anotherboring.top:443?security=reality&encryption=none&pbk=ilirquLZWLZKAKHq6A80AT-ixdR4Nho6vmOfSPF3iS4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de-05.anotherboring.top&sid=9d21bea37f7da010#[openproxylist.com] vless-SE
-trojan://T9BpZIVMNv@v2.dabache.top:8443?path=/amd&security=tls&host=sweden.vmaxpanel.com&type=ws&sni=sweden.vmaxpanel.com#[openproxylist.com] trojan-SE
+trojan://T9BpZIVMNv@vip1.kaixincloud.top:8443?allowInsecure=1&host=sweden.vmaxpanel.com&path=/amd&security=tls&sni=sweden.vmaxpanel.com&type=ws#[openproxylist.com] trojan-SE
 vless://Parsashonam-49@185.146.173.39:8880?encryption=none&host=Search.DigiKala.CYoU.&path=%2F&security=none&type=httpupgrade# | VLESS | @Parsashonam | SE | 01
 vless://Parsashonam-48@185.146.173.39:8880?encryption=none&host=Search.DigiKala.CYoU.&path=%2F&security=none&type=httpupgrade# | VLESS | @Parsashonam | SE | 02
 vless://Parsashonam-47@185.146.173.39:8880?encryption=none&host=Search.DigiKala.CYoU.&path=%2F&security=none&type=httpupgrade# | VLESS | @Parsashonam | SE | 03
