@@ -1,7 +1,4 @@
 vless://8e6acce9-8b56-7190-d491-7d84f8189e26@5.181.171.2:443?security=reality&encryption=none&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20X
-vless://ad5d8d51-18f4-451b-9c01-7baff1d9b244@51.250.73.139:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=0a3d38cwnQfUM7EqjEinf1XUZyKdzgiuRMayO3LcYl0&security=reality&sni=tele2.ru&type=tcp#RU
-vless://ad5d8d51-18f4-451b-9c01-7baff1d9b244@51.250.73.139:12001?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=0a3d38cwnQfUM7EqjEinf1XUZyKdzgiuRMayO3LcYl0&security=reality&sni=api-maps.yandex.ru&type=tcp#RU
-vless://a8214f18-5d5b-409f-a98a-458a85bce22b@ru.funvideorus.net:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=vnjp7zIK2H3CGdjSis_79KXqS6IG-opmpbETPUD-EC8&sid=&sni=ru.funvideorus.net&path=&host=#RU
 trojan://trojan@109.234.211.66:8443?sni=store.timimi.dpdns.org#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNlpDSGVhYlVTZktqZlFFdko0SERW@185.242.86.156:54170#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF2
 trojan://ZblhWr0mqMakCPg.N@212.193.18.144:36158?security=tls&sni=ya.ru#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF3
@@ -183,7 +180,7 @@ vless://eb071647-72a6-46be-8e89-ff3d228d52f6@81.200.151.14:443?type=tcp&security
 vmess://eyJhZGQiOiIyMTMuMTgzLjU0LjI0MyIsImFpZCI6IjAiLCJpZCI6ImQ3ZjU2Njg4LTU2YTAtNDQ4Yy1iYzA0LWZkODNjNmFjMTdkMCIsIm5hbWUiOiJcdWQ4M2NcdWRkZjdcdWQ4M2NcdWRkZmEgV1MtTm9uZSB8IEBFeHByZXNzX2FsYWtpIHwgc3JjIEBEZWFtTmV0X3Byb3h5IiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0Ijo0NDMsInBzIjoiXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhW29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1SVSIsInNjeSI6ImF1dG8iLCJ0bHMiOiJub25lIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
 vless://88e148ba-1e39-45e9-8aef-6b207411435a@193.163.203.36:18570?encryption=none&security=tls&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=%2F#[openproxylist.com] vless-RU
 vless://7bc30425-1c2f-4823-b629-90f599a4cbfe@89.208.230.173:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru#[openproxylist.com] vless-RU
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNlpDSGVhYlVTZktqZlFFdko0SERW@185.242.86.156:54170#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF
+vless://875cb468-a847-489e-bd16-7993a013a73c@belnn.appleseraj.ir:2053?security=tls&type=ws&path=%2F%3Fed%3D2048&host=rau.mastermarly.ir&sni=rau.mastermarly.ir&fp=chrome&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B7%F0%9F%87%BARU_1%7C2.6MB%2Fs`
 vmess://eyJhZGQiOiIyMTMuMTgzLjU0LjI0MyIsImFpZCI6IjAiLCJpZCI6ImQ3ZjU2Njg4LTU2YTAtNDQ4Yy1iYzA0LWZkODNjNmFjMTdkMCIsIm5hbWUiOiJcdWQ4M2NcdWRkZjdcdWQ4M2NcdWRkZmEgV1MtTm9uZSB8IEBFeHByZXNzX2FsYWtpIHwgc3JjIEBEZWFtTmV0X3Byb3h5IiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0Ijo0NDMsInBzIjoiXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhW29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1SVSIsInNjeSI6ImF1dG8iLCJ0bHMiOiJub25lIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ== 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoeWVSc2xXaHlCYW5SRFc2UHlUaVND@212.192.14.73:65330#RU%20SS-21%20%7C%20free-nodes
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1eTVjd3JDUjhJdW41bmxNU0ZTOHVK@95.142.47.40:62238#RU%20SS-03%20%7C%20free-nodes
