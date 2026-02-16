@@ -63,9 +63,10 @@ vless://0dd1887b-a1e8-4271-aaf0-b2d5b97b2862@141.227.160.17:7005?encryption=none
 vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vlse.g2ray.com:443?encryption=none&security=tls&type=tcp&headerType=none#TLS-N-Sweden
 vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vlse.g2ray.com:443?encryption=none&flow=xtls-rprx-direct&security=xtls&type=tcp&headerType=none#XTLS-N-Sweden
 vless://telegram-turboo-server@server.ultra-irancell.com:80?host=jone-turboo-server.com&path=%2Fed%3D2056&type=ws#%F0%9F%87%B8%F0%9F%87%AA_SE_%E7%91%9E%E5%85%B8
-vless://99032f24-649d-47fe-91b4-1b2299abaea8@u.ssl.fastly.net:80?security=none&type=ws&path=%2F&host=swedenjji.global.ssl.fastly.net&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B8%F0%9F%87%AASE_1%7C7.3MB%2Fs`
 vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:50?security=none&encryption=none&type=tcp&path=%2f#%f0%9f%87%b8%f0%9f%87%aa%20SE%201
+vless://b8ecd8ed-31a1-4a6a-853e-4a739e130791@185.96.163.15:843?security=reality&sni=yahoo.com&type=tcp&fp=chrome&pbk=z9b-IBdLSPMrMtRaToQtl92GobAYygfJRJ0ymOK6m0U&sid=7a810118da#[openproxylist.com] vless-SE
 vless://18f72be7-0651-4037-928b-8a309d685796@usa2.pineappled.org:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU&sid=9eb31eb7572c0882&sni=google.com#[openproxylist.com] vless-SE
+vless://99032f24-649d-47fe-91b4-1b2299abaea8@u.ssl.fastly.net:80?security=none&type=ws&path=%2F&host=swedenjji.global.ssl.fastly.net&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B8%F0%9F%87%AASE_1%7C7.3MB%2Fs`
 vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:50?security=none&type=tcp&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B8%F0%9F%87%AASE_1%7C5.0MB%2Fs`
 vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:50?security=none&type=tcp&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B8%F0%9F%87%AASE_1%7C5.2MB%2Fs`
 vless://Parsashonam-49@185.146.173.39:8880?encryption=none&host=Search.DigiKala.CYoU.&path=%2F&security=none&type=httpupgrade# | VLESS | @Parsashonam | SE | 01
