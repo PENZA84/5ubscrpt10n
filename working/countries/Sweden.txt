@@ -34,6 +34,7 @@ trojan://telegram-id-privatevpns@13.48.45.205:22222?security=tls&sni=trj.rolling
 trojan://telegram-id-directvpn@13.48.105.114:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%B8%F0%9F%87%AASE-13.48.105.114-8798
 trojan://telegram-id-directvpn@13.48.105.114:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%B8%F0%9F%87%AASE-13.48.105.114-8800
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@121.127.46.147:989#%F0%9F%87%B8%F0%9F%87%AASE-121.127.46.147-8811
+trojan://T9BpZIVMNv@vip3.kaixincloud.top:8443?allowInsecure=1&sni=sweden.vmaxpanel.com&type=ws&host=sweden.vmaxpanel.com&path=%2Famd#SE1%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
 vless://c1beaf03-ea91-552e-a914-694d35060b3d@185.146.173.42:80?security=none&type=ws&host=Nl2.vless.site.&path=%2Fvless#%F0%9F%87%B8%F0%9F%87%AA_SE_%E7%91%9E%E5%85%B8
 vless://9c92dd71-acac-422b-b23e-e764f8cba0de@185.146.173.58:8080?security=none&type=ws&host=lc72.lebasnoo.ir.&path=%2Fservernett#%F0%9F%87%B8%F0%9F%87%AA_SE_%E7%91%9E%E5%85%B8
 ss://c1beaf03-ea91-552e-a914-694d35060b3d@185.146.173.42:80?security=none&type=ws&host=Nl2.vless.site.&path=%2Fvless#%F0%9F%87%B8%F0%9F%87%AA_SE_%E7%91%9E%E5%85%B8
@@ -97,7 +98,6 @@ vless://0dd1887b-a1e8-4271-aaf0-b2d5b97b2862@141.227.160.17:7005?encryption=none
 vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vlse.g2ray.com:443?encryption=none&security=tls&type=tcp&headerType=none#TLS-N-Sweden
 vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vlse.g2ray.com:443?encryption=none&flow=xtls-rprx-direct&security=xtls&type=tcp&headerType=none#XTLS-N-Sweden
 vless://telegram-turboo-server@server.ultra-irancell.com:80?host=jone-turboo-server.com&path=%2Fed%3D2056&type=ws#%F0%9F%87%B8%F0%9F%87%AA_SE_%E7%91%9E%E5%85%B8
-vless://79623191-ec26-4c9a-8021-50713c67dfe2@host.snapfood.org:443?security=tls&type=ws&path=%2Fukspeed&host=snapfood.org&alpn=http%2F1.1&sni=snapfood.org&fp=chrome&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B8%F0%9F%87%AASE_1%7C3.4MB%2Fs#__
 vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:50?security=none&encryption=none&type=tcp&path=%2f#%f0%9f%87%b8%f0%9f%87%aa%20SE%201
 vless://99032f24-649d-47fe-91b4-1b2299abaea8@u.ssl.fastly.net:80?security=none&type=ws&path=%2F&host=swedenjji.global.ssl.fastly.net&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B8%F0%9F%87%AASE_1%7C7.3MB%2Fs`
 vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:50?security=none&type=tcp&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B8%F0%9F%87%AASE_1%7C5.0MB%2Fs`
@@ -106,6 +106,10 @@ vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:50?security=n
 vless://b8ecd8ed-31a1-4a6a-853e-4a739e130791@185.96.163.15:843?security=reality&sni=yahoo.com&type=tcp&fp=chrome&pbk=z9b-IBdLSPMrMtRaToQtl92GobAYygfJRJ0ymOK6m0U&sid=7a810118da#[openproxylist.com] vless-SE```
 vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:2197?security=reality&encryption=none&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&headerType=none&fp=chrome&type=tcp&sni=api.push.apple.com&sid=a62d513cd709744a#[openproxylist.com] vless-SE```
 vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:50?security=none&type=tcp&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B8%F0%9F%87%AASE_2%7C5.0MB%2Fs`
+vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:50?security=none&type=tcp&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B8%F0%9F%87%AASE_2%7C3.4MB%2Fs`
+vless://79623191-ec26-4c9a-8021-50713c67dfe2@host.snapfood.org:443?security=tls&type=ws&path=%2Fukspeed&host=snapfood.org&alpn=http%2F1.1&sni=snapfood.org&fp=chrome&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B8%F0%9F%87%AASE_1%7C4.9MB%2Fs`
+vless://79623191-ec26-4c9a-8021-50713c67dfe2@host.snapfood.org:443?security=tls&type=ws&path=%2Fukspeed&host=snapfood.org&alpn=http%2F1.1&sni=snapfood.org&fp=chrome&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B8%F0%9F%87%AASE_1%7C3.2MB%2Fs`
+vless://79623191-ec26-4c9a-8021-50713c67dfe2@host.snapfood.org:443?security=tls&type=ws&path=%2Fukspeed&host=snapfood.org&alpn=http%2F1.1&sni=snapfood.org&fp=chrome&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B8%F0%9F%87%AASE_1%7C4.8MB%2Fs`
 vless://Parsashonam-49@185.146.173.39:8880?encryption=none&host=Search.DigiKala.CYoU.&path=%2F&security=none&type=httpupgrade# | VLESS | @Parsashonam | SE | 01
 vless://Parsashonam-48@185.146.173.39:8880?encryption=none&host=Search.DigiKala.CYoU.&path=%2F&security=none&type=httpupgrade# | VLESS | @Parsashonam | SE | 02
 vless://Parsashonam-47@185.146.173.39:8880?encryption=none&host=Search.DigiKala.CYoU.&path=%2F&security=none&type=httpupgrade# | VLESS | @Parsashonam | SE | 03
