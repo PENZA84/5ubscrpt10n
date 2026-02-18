@@ -92,6 +92,7 @@ trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&fp
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#tgea-%40Fr33C0nfig%20%2F%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20
 trojan://humanity@104.18.32.37:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#%3E%3E%40proxy_kafee%3A%3AFR
 trojan://humanity@chatgpt.com:443/?type=ws&host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com&fp=chrome#8tpr-%40Fr33C0nfig%20%2F%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20
+vless://8db31176-aed6-402d-aa1b-a8b04b5c3b48@193.242.125.18:80?security=none&type=tcp%40freenettir&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%AB%F0%9F%87%B7FR_1%7C1.4MB%2Fs#__
 trojan://humanity@104.18.32.37:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#>>@proxy_kafee::FR
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.52.135:22224/?type=ws&encryption=none&flow=&path=/telegram-channel-vlessconfig&security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1&note=@FreeOnlineVPN# - FR - @FreeOnlineVPN
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.180.167.247:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#[openproxylist.com] vless-FR
@@ -524,14 +525,11 @@ vless://add14a5b-f648-4423-8a1f-8b8f54c0daef@195.154.200.13:17401?encryption=non
 vless://d6b1327d-2bec-4366-a3a1-9b1284f95841@138.124.79.8:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sun6-21.userapi.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#FR%20VLESS-107%20%7C%20free-nodes
 vless://f55d25a5-3bb5-4209-a10f-729eb5482d95@maxb10.server1home.ir:8080?security=reality&encryption=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=b7b70c104ad267b8#FR%20VLESS-119%20%7C%20free-nodes
 vless://f7ddcea8-95e3-48de-909f-bb5d3c47696b@45.132.185.227:889?security=none&encryption=none&headerType=none&type=tcp#FR%20VLESS-120%20%7C%20free-nodes
-vless://8db31176-aed6-402d-aa1b-a8b04b5c3b48@193.242.125.18:80?security=none&type=tcp&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%AB%F0%9F%87%B7FR_1%7C921KB%2Fs#__
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.219.11:22224?type=ws&amp%3Bsecurity=tls&amp%3Bpath=/telegram-channel-vlessconfig&amp%3Bsni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20VLESS%20%7C%20%40vlessconfig%20%231
 vless://add14a5b-f648-4423-8a1f-8b8f54c0daef@195.154.200.13:17401?security=reality&encryption=none&sni=itunes.apple.com&fp=chrome&pbk=IXcXrT_Y0ATTZlGOhPnSmKo-cuGr4yMKV9Rz4-nA3yU&sid=8ef4455ba637425b&type=tcp&path=%2f#%f0%9f%87%ab%f0%9f%87%b7%20FR%201
 vless://0e90f352-e9bc-4834-8ff6-49ba887eded4@fr.1323.world:443?security=tls&encryption=none&sni=b12a6eea4807ca4e.1323.world&alpn=h2&type=tcp&path=%2f#%f0%9f%87%ab%f0%9f%87%b7%20FR%202
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.180.167.247:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#[openproxylist.com] vless-FR
 vless://0e90f352-e9bc-4834-8ff6-49ba887eded4@fr.1323.world:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=b12a6eea4807ca4e.1323.world#[openproxylist.com] vless-FR
 vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@fran.scroogethebest.com:443?security=reality&encryption=none&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=fran.scroogethebest.com&sid=4fa44664f6a566d3#[openproxylist.com] vless-FR
-trojan://telegram-id-privatevpns@35.181.219.11:22222?security=tls&amp%3Balpn=http/1.1&amp%3BheaderType=none&amp%3Btype=tcp&amp%3Bsni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20TROJAN%20%7C%20%40privatevpns%20%231
 trojan://(VuRWFIPsAhP@13.38.109.97:14828?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#FR|GithubTrojanLinks
 trojan://jESPFD2DoPwn@13.38.44.244:14796?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#FR|GithubTrojanLinks
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NTVjMTViYzE3NWI0ZDc0@37.60.250.243:20558#FR%20SS-01%20%7C%20free-nodes
