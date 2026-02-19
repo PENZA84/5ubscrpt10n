@@ -275,9 +275,6 @@ trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.236.32:1281?security=tls&sni=ww
 trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@153.121.38.213:1281?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none&path=%2f&allow_insecure=0#%f0%9f%87%af%f0%9f%87%b5%20JP%2013
 trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.124.17:3423?security=tls&sni=www.nintendogames.net&type=tcp&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%2014
 vless://5c183802-747d-4d2f-a6f1-aff2d5d78401@47.74.6.60:443?security=reality&encryption=none&pbk=DNdTBHyztOVJOBJQX91YXEhNkWbSAntqUoTFBHc6Clw&headerType=none&fp=chrome&type=tcp&sni=cdn77.api.userway.org&sid=6ba85179e30d4fc2#[openproxylist.com] vless-JP
-trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.124.17:3423?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC
-trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@18.181.199.98:3423?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC2
-trojan://BxceQaOe@13.158.130.64:2595?sni=t.me%2Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5OTMwMWQ1NS1hNDFmLTQ5MTktOTg2Yi0xNDM1OTk2NTMzYWE@120.238.122.207:50004#JP%2F1|Github%E6%90%9C%E7%B4%A2TrojanLinks
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5OTMwMWQ1NS1hNDFmLTQ5MTktOTg2Yi0xNDM1OTk2NTMzYWE@120.238.122.207:50005#JP%2F2|Github%E6%90%9C%E7%B4%A2TrojanLinks
 vmess://eyJ2IjoiMiIsInBzIjoiW3BlYXNvZnQvTm9Nb3JlV2FsbHNdSlAy772c5py65oi/772c5L2O6aOO6ZmpIiwiYWRkIjoidjYuaGRhY2QuY29tIiwicG9ydCI6IjMwODA2IiwiYWlkIjoyLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiIiLCJpZCI6ImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCJ9
@@ -953,6 +950,7 @@ vmess://eyJhZGQiOiAicGFvcGFvLnYyLmpwMDUucGFvcGFvY2xvdWQuY3lvdSIsICJwb3J0IjogIjMz
 vmess://eyJwcyI6ICLwn4ev8J+HtS3ml6XmnKwtanAwNC12bTAuZW50cnkuc3J0aGR3LmFydCIsICLlhY3otLnorqLpmIXlsL3lnKhodHRwcyI6ICIiLCAiYWRkIjogImpwMDQtdm0wLmVudHJ5LnNydGhkdy5hcnQiLCAicG9ydCI6ICI0NDgiLCAidHlwZSI6ICJ2bWVzcyIsICJpZCI6ICIyMDU5ZTAyNS0wYmU4LTM0OWMtYWIxZi05MGZhMGU2NmMwNzQiLCAiYWlkIjogIjEiLCAic2N5IjogImF1dG8iLCAidGxzIjogImZhbHNlIiwgInNraXAtY2VydC12ZXJpZnkiOiAidHJ1ZSIsICJuZXQiOiAid3MiLCAid3Mtb3B0cyI6ICIiLCAicGF0aCI6ICIvaGxzL2NjdHY1cGhkLm0zdTgiLCAiaGVhZGVycyI6ICIiLCAiaG9zdCI6ICJiZjQxOWQ1ZjU5ZjdkMC53aW5kb3dzdXBkYXRlLmNvbSIsICJ1ZHAiOiAidHJ1ZSJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hr/Cfh7UgLeaXpeacrC1wYW9wYW8udjIuanAwNS5wYW9wYW9jbG91ZC5jeW91IiwiYWRkIjoicGFvcGFvLnYyLmpwMDUucGFvcGFvY2xvdWQuY3lvdSIsInBvcnQiOiIzMzA3IiwidHlwZSI6Im5vbmUiLCJpZCI6IjBmZWI0ZWE5LWJjYWEtMzJjMi1iYmRkLWIzZDEzZGRkYjYxMiIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6ImpwMDUuc3NydTQuZnVuIiwidGxzIjoidGxzIn0=
 vmess://eyJwcyI6ICLwn4ev8J+HtS3ml6XmnKwtanAwNS12bTAuZW50cnkuc3J0aGR3LmFydCIsICJhZGQiOiAianAwNS12bTAuZW50cnkuc3J0aGR3LmFydCIsICJwb3J0IjogIjQ0OSIsICJ0eXBlIjogInZtZXNzIiwgImlkIjogIjEyMjM5MmI2LTJhNWEtMzQyYy1iYmZhLWUzMzAxY2I1ZTdlMCIsICJhaWQiOiAiMSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvaGxzL2NjdHY1cGhkLm0zdTgiLCAiaG9zdCI6ICJqcDA1LXZtMC5lbnRyeS5zcnRoZHcuYXJ0IiwgInRscyI6ICIiLCAic2N5IjogImF1dG8ifQ==
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@168.138.192.16:54584?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&Telegram+@WangCai2# JP | 168.138.192.16
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8316# JP | 3.112.130.53
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8313# JP | 3.112.130.53
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@172.105.199.111:8080# JP | 172.105.199.111
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8316# JP | 3.112.130.53
