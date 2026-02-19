@@ -22,6 +22,8 @@ vless://af048307-527c-4178-8d56-271ac082870b@31.56.205.56:32480?security=none&en
 vless://c72cb7cb-136f-4958-bd18-bbd476a92ede@31.56.205.56:18771?security=none&encryption=none&headerType=http&type=tcp#IP_CF
 vless://abffeed5-2e99-47cd-96c1-bcfb4a21e648@31.56.205.56:27463?security=none&encryption=none&headerType=http&type=tcp#IP_CF
 vless://3af5f9c4-9128-41f2-bc56-a927788d12f8@31.56.205.56:57124?path=%2Fdownload&security=none&encryption=none&type=ws#IP_CF
+vless://af048307-527c-4178-8d56-271ac082870b@31.56.205.56:32480?security=none&encryption=none&headerType=none&type=tcp# TCP-None | @Express_alaki | src @iP_CF
+vless://c72cb7cb-136f-4958-bd18-bbd476a92ede@31.56.205.56:18771?security=none&encryption=none&headerType=http&type=tcp# TCP-None | @Express_alaki | src @iP_CF
 vmess://eyJhZGQiOiJjZi1sdC5zaGFyZWNlbnRyZS5vbmxpbmUiLCJhaWQiOjAsImhvc3QiOiJ1cy1zdC0yLnNoYXJlY2VudHJlLm9ubGluZSIsImlkIjoiMjBlOTI4ODEtNWZiNC00YjA1LWJjNzctNTc5Mjk0NzZkYzY5IiwibmV0Ijoid3MiLCJwYXRoIjoiL3NoaXJrZXIiLCJwb3J0Ijo0NDMsInBzIjoi44CMU0NQ44CNVVMtQ0YyIiwic2N5IjoiYWVzLTEyOC1nY20iLCJzbmkiOiJ1cy1zdC0yLnNoYXJlY2VudHJlLm9ubGluZSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6Mn0= @V2ray_Custom
 trojan://humanity@104.18.32.37:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.gossipglove.com#%3E%3E%40ip_cf%3A%3AFR
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.84.111.44:8443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#%3E%3E%40ip_cf%3A%3ANL
