@@ -372,13 +372,17 @@ vless://add14a5b-f648-4423-8a1f-8b8f54c0daef@195.154.200.13:17401?encryption=non
 vless://d6b1327d-2bec-4366-a3a1-9b1284f95841@138.124.79.8:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sun6-21.userapi.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#FR%20VLESS-107%20%7C%20free-nodes
 vless://f55d25a5-3bb5-4209-a10f-729eb5482d95@maxb10.server1home.ir:8080?security=reality&encryption=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=b7b70c104ad267b8#FR%20VLESS-119%20%7C%20free-nodes
 vless://f7ddcea8-95e3-48de-909f-bb5d3c47696b@45.132.185.227:889?security=none&encryption=none&headerType=none&type=tcp#FR%20VLESS-120%20%7C%20free-nodes
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NmQ3Njc0YzI1Yzc1ZTAy@57.130.29.62:11201#%f0%9f%87%ab%f0%9f%87%b7%20FR%201
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZGU1MTFmZjVhMmQyMTA4@57.130.29.29:11202#%f0%9f%87%ab%f0%9f%87%b7%20FR%202
+ss://YWVzLTEyOC1nY206SGMyeW42VWpWQ2JhUE8zM1RROTNNVXRvZk9MUkhtN0E=@195.154.202.112:18292#%f0%9f%87%ab%f0%9f%87%b7%20FR%201
+vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@162.19.10.94:443?flow=xtls-rprx-vision&security=tls&encryption=none&sni=nasnet-162191094-direct.sharghdaily.co&type=tcp&headerType=none&path=%2f&allow_insecure=1#%f0%9f%87%ab%f0%9f%87%b7%20FR%202
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@51.159.106.175:989#%f0%9f%87%ab%f0%9f%87%b7%20FR%203
-ss://YWVzLTI1Ni1nY206QmJPVWdOTFV5VDZyZHJ4RQ==@95.111.250.4:80#%f0%9f%87%ab%f0%9f%87%b7%20FR%204
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZXQxc2doMWlRYVd6c3cyMDFKWDJlZXhOMUFpNlFtSUdjWklsdmxDNUw1ND0=@57.131.42.19:8389#%f0%9f%87%ab%f0%9f%87%b7%20FR%205
+vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@fran.scroogethebest.com:443?flow=xtls-rprx-vision&security=tls&encryption=none&sni=fran.scroogethebest.com&fp=chrome&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&sid=4fa44664f6a566d3&type=tcp&headerType=none&path=%2f&allow_insecure=0#%f0%9f%87%ab%f0%9f%87%b7%20FR%204
+vless://0e90f352-e9bc-4834-8ff6-49ba887eded4@fr.1323.world:443?security=tls&encryption=none&sni=b12a6eea4807ca4e.1323.world&alpn=h2&type=tcp&path=%2f#%f0%9f%87%ab%f0%9f%87%b7%20FR%205
+vless://0e90f352-e9bc-4834-8ff6-49ba887eded4@109.172.55.122:443?security=tls&encryption=none&sni=b12a6eea4807ca4e.1323.world&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=0#%f0%9f%87%ab%f0%9f%87%b7%20FR%206
+vless://0e90f352-e9bc-4834-8ff6-49ba887eded4@109.172.55.122:443?security=tls&encryption=none&sni=b12a6eea4807ca4e.1323.world&alpn=h2&type=tcp&path=%2f#%f0%9f%87%ab%f0%9f%87%b7%20FR%207
+vless://0e90f352-e9bc-4834-8ff6-49ba887eded4@fr.1323.world:443?security=tls&encryption=none&sni=b12a6eea4807ca4e.1323.world&alpn=h2&type=tcp&path=%2f#%f0%9f%87%ab%f0%9f%87%b7%20FR%208
+vless://70b49349-9c87-497e-818c-46006e1c3ce0@193.160.130.112:443?flow=xtls-rprx-vision&security=tls&encryption=none&sni=yimg.com&fp=chrome&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&type=tcp&headerType=none&path=%2f&allow_insecure=0#%f0%9f%87%ab%f0%9f%87%b7%20FR%209
+vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@185.171.202.55:443?flow=xtls-rprx-vision&security=tls&encryption=none&sni=fran.scroogethebest.com&fp=chrome&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&sid=4fa44664f6a566d3&type=tcp&headerType=none&path=%2f&allow_insecure=0#%f0%9f%87%ab%f0%9f%87%b7%20FR%2010
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.213.225:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#[openproxylist.com] vless-FR
-vless://3334d24a-4fd2-430f-884e-ffb74a23bb50@46.38.138.221:9090?encryption=none&security=none&type=tcp&headerType=none#[openproxylist.com] vless-FR
 vless://0e90f352-e9bc-4834-8ff6-49ba887eded4@fr.1323.world:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=b12a6eea4807ca4e.1323.world#[openproxylist.com] vless-FR
 vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@fran.scroogethebest.com:443?security=reality&encryption=none&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=fran.scroogethebest.com&sid=4fa44664f6a566d3#[openproxylist.com] vless-FR
 trojan://(VuRWFIPsAhP@13.38.109.97:14828?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#FR|GithubTrojanLinks
