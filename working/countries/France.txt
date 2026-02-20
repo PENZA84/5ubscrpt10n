@@ -606,9 +606,8 @@ vless://70b49349-9c87-497e-818c-46006e1c3ce0@193.160.130.112:443?flow=xtls-rprx-
 vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@185.171.202.55:443?flow=xtls-rprx-vision&security=tls&encryption=none&sni=fran.scroogethebest.com&fp=chrome&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&sid=4fa44664f6a566d3&type=tcp&headerType=none&path=%2f&allow_insecure=0#%f0%9f%87%ab%f0%9f%87%b7%20FR%2010
 trojan://telegram-id-privatevpns@13.37.184.19:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[openproxylist.com] trojan-FR
 trojan://telegram-id-privatevpns@15.188.233.114:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[openproxylist.com] trojan-FR
-vless://0e90f352-e9bc-4834-8ff6-49ba887eded4@109.172.55.122:443?security=tls&encryption=none&sni=b12a6eea4807ca4e.1323.world&alpn=h2&type=tcp&path=/#[openproxylist.com] vless-FR
+vless://0e90f352-e9bc-4834-8ff6-49ba887eded4@fr.1323.world:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=b12a6eea4807ca4e.1323.world#[openproxylist.com] vless-FR
 vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@fran.scroogethebest.com:443?security=reality&encryption=none&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=fran.scroogethebest.com&sid=4fa44664f6a566d3#[openproxylist.com] vless-FR
-vless://f557eadb-1715-4c0b-aaae-f9b9577d827d@185.156.72.124:52042?encryption=none&fp=chrome&pbk=Z23_1wSIy1CNUEB7YEJwPZzCEsMTmzTNGe_h5bzEMHY&security=reality&sid=8e8dcb9a67bf43f1&sni=yandex.ru&type=tcp#[openproxylist.com] vless-FR
 trojan://telegram-id-directvpn@15.188.233.114:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[openproxylist.com] trojan-FR```
 trojan://(VuRWFIPsAhP@13.38.109.97:14828?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#FR|GithubTrojanLinks
 trojan://jESPFD2DoPwn@13.38.44.244:14796?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#FR|GithubTrojanLinks
