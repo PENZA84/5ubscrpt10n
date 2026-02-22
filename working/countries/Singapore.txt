@@ -1,8 +1,8 @@
 vless://0deb6f9d-9ad9-4b73-ac33-f3176e7ec1f2@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
 vless://e85ce618-50cd-42e0-a8ba-5052e6be9498@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
 trojan://64a59181551b5773e390bd717a7b7c06@52.192.209.59:3419?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
-trojan://BxceQaOe@57.180.245.83:381?sni=t.me%2Fripaojiedian#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A12
-trojan://64a59181551b5773e390bd717a7b7c06@43.206.236.80:3901?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A13
+trojan://64a59181551b5773e390bd717a7b7c06@43.206.236.80:3901?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A12
+trojan://BxceQaOe@57.180.245.83:381?sni=t.me%2Fripaojiedian#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A13
 trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz#%F0%9F%87%B8%F0%9F%87%AC_SG_%E6%96%B0%E5%8A%A0%E5%9D%A1_5
 ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg@store.ubi.com:443/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bhost%3Dwoshinidie-et3.pages.dev%3Bpath%3D%2F79960b0b-7d31-4263-8915-6511b0e137a8%2F%3Fed%5C%3D2560%3Btls%3Bmux%3D0#%F0%9F%87%B8%F0%9F%87%AC%20SG
 ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg@cf.090227.xyz:443/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bhost%3Dwoshinidie-et3.pages.dev%3Bpath%3D%2F79960b0b-7d31-4263-8915-6511b0e137a8%2F%3Fed%5C%3D2560%3Btls%3Bmux%3D0#%F0%9F%87%B8%F0%9F%87%AC%20SG
@@ -222,6 +222,13 @@ vmess://eyJhZGQiOiI1LjM0LjE3Ni4xMTEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9z
 vmess://eyJhZGQiOiIxMjAuMjMyLjIzOS4yMyIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiIwNWQ4ZTY1Zi0wNzc1LTM2YTYtOTMzNi0xMTA2ZDllZDA0MWMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjEyMDE1IiwicHMiOiJOZWFyb3V0ZSBTaW5nYXBvcmUgXzwiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJBenVyZSBTRyIsCiAgImFkZCI6ICI0LjE5My42Ni45MyIsCiAgInBvcnQiOiA0NDMsCiAgImlkIjogIjk1ZDJhNTY3LWU4Y2QtNDc4Yy04MWE1LWZkZmFjNmYyMWMwMiIsCiAgImFpZCI6IDAsCiAgIm5ldCI6ICJ3cyIsCiAgInR5cGUiOiAibm9uZSIsCiAgImhvc3QiOiAiIiwKICAicGF0aCI6ICIvYXNkYXNkIiwKICAidGxzIjogIm5vbmUiCn0=
 vmess://eyJ2IjogIjIiLCAicHMiOiAiQHYycmF5MjQgXHUyNWI3IFNpbmdhcG9yZSBcdWQ4M2NcdWRkZjhcdWQ4M2NcdWRkZWMiLCAiYWRkIjogImllLmdldGZyZWU1LndvcmtlcnMuZGV2IiwgInBvcnQiOiAiNDQzIiwgImlkIjogIjBhYzYzMWIzLTU1YzQtNGYyZi05NDY4LWVjNmM3MmFhYTMzZSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiaWUuZ2V0ZnJlZTUud29ya2Vycy5kZXYiLCAicGF0aCI6ICIvaWUxLnYycmF5c2Vydi5jb20vdm1lc3MiLCAidGxzIjogInRscyIsICJzbmkiOiAiIiwgImFscG4iOiAiIiwgImZwIjogIiJ9
+vless://05dc09d5-5c56-454b-a34e-6ef743d91e1a@singapore.boot-lee.ru:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=chrome&security=reality&pbk=p-5bOdvOsKXJCSAkOKB1-L7eoxnNJ9kEpZGkqNhOAR4&sid=0ebf3afdd517b642#SG_475_@Surfboardv2ray
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@47.236.117.48:2083?encryption=none&security=tls&sni=xint.ylks.link&insecure=0&allowInsecure=0&type=ws&path=/blue#SG_2346_@Surfboardv2ray
+vless://486169a3-ce5f-4d93-8d01-f619d4443e5d@cp.so.rezzip.com:443?path=/V2ynpv-V2ynpv-V2ynpv-V2ynpv-V2ynpv&security=tls&alpn=h2&encryption=none&insecure=0&host=pandura.lat&fp=chrome&type=ws&allowInsecure=0&sni=pandura.lat#SG_2347_@Surfboardv2ray
+vless://5a11a29f-59c6-41eb-81d5-855d43822ad0@5.199.166.210:443?security=reality&encryption=none&pbk=VUiT7LrDSuUoPwDTrvpw6U7PeHUNfnFxPqH985EgRFc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=0b827cef#SG_2715_@Surfboardv2ray
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@138.2.95.61:1111?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&telegram+@wangcai2#SG_2860_@Surfboardv2ray
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@138.2.104.102:443?security=tls&sni=jpd.ylks01.eu.org&type=ws&path=/#SG_4465_@Surfboardv2ray
+vless://d29a7cee-acd1-4821-adbf-517f8681040e@47.82.6.36:51164?security=none&encryption=none&host=speedtest.net&headerType=none&type=tcp#SG_5483_@Surfboardv2ray
 vless://661ea549-3367-4c37-b307-253cfe8d2ee6@217.142.191.140:18443?security=reality&sni=www.tesla.com&type=tcp&fp=edge&pbk=dTE8QcX1B_9HRG5Uae47q0HtjhVvePvfPMxvfLyVUUA&sid=32ff656d# VL-TCP-RLT  SG-217.142.191.140:18443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@206.238.237.60:443?allowInsecure=0&sni=lw.ylka.us.kg&type=ws&host=lw.ylka.us.kg&path=/?ed=2560security=tls#15|SG_speednode_0045
 vmess://ewogICAgImFkZCI6ICIyMDYuMjM4LjIzNi4zNiIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIm15c2FuMi5qYXF1YXkyMi53b3JrZXJzLmRldiIsCiAgICAiaWQiOiAiZjU4NGRlMTUtMjAzNC00MTcwLWE3MjMtZjQ4YzJiYWU1ZTBmIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2FmcmhtczE2di5iZXN0eHJheS5idXp6L2xpbmt3cyIsCiAgICAicG9ydCI6IDIwNTIsCiAgICAicHMiOiAi8J+HuPCfh6xTRy0yMDYuMjM4LjIzNi4zNi04MjEzIiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwKICAgICJzbmkiOiAibXlzYW4yLmphcXVheTIyLndvcmtlcnMuZGV2Igp9
@@ -311,6 +318,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YWZhMzkwMTZkNWE0MDlj@194.233.73.51:48803#%f
 vless://d29a7cee-acd1-4821-adbf-517f8681040e@47.82.6.36:51164?host=speedtest.net&path=%2f#%f0%9f%87%b8%f0%9f%87%ac%20SG%2013
 vless://a7209c7e-b96f-4c95-8ff7-090f3d642d19@support.zoom.us:443?&security=tls&fp=chrome&sni=zero.seaseus.pp.ua&type=ws&headerType=none&host=zero.seaseus.pp.ua&path=%2Fseaseus#[openproxylist.com] vless-SG
 vless://d29a7cee-acd1-4821-adbf-517f8681040e@47.82.6.36:51164?security=none&encryption=none&headerType=none&type=tcp#[openproxylist.com] vless-SG
+trojan://BxceQaOe@57.180.245.83:381?sni=t.me%2Fripaojiedian#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A12
+trojan://64a59181551b5773e390bd717a7b7c06@43.206.236.80:3901?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A13
 trojan://eQlCz7DG3SDT@13.229.126.77:14822?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#SG|GithubTrojanLinks
 trojan://1JAuty9W)9FJ@13.213.30.41:14831?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#SG|GithubTrojanLinks
 trojan://iYmAGdiUow(p@47.129.43.6:14815?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#SG|GithubTrojanLinks
@@ -985,4 +994,6 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6wgLeaWsOWKoOWdoS1zZy5pZGNsb3VkaG9zdC5kZSIs
 vmess://eyJwcyI6ICLwn4e48J+HrC3mlrDliqDlnaEtc2cuaWRjbG91ZGhvc3QuZGUiLCAi5YWN6LS56K6i6ZiF5bC95ZyoaHR0cHMiOiAiIiwgImFkZCI6ICJzZy5pZGNsb3VkaG9zdC5kZSIsICJwb3J0IjogIjgwIiwgInR5cGUiOiAidm1lc3MiLCAiaWQiOiAiZGY0MWUyM2EtNzhhYi00N2FkLTllNzEtODljMjIxYjA2ZDBjIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgInRscyI6ICJmYWxzZSIsICJza2lwLWNlcnQtdmVyaWZ5IjogInRydWUiLCAibmV0IjogIndzIiwgIndzLW9wdHMiOiAiIiwgInBhdGgiOiAiLyIsICJoZWFkZXJzIjogIiIsICJob3N0IjogInNnLmlkY2xvdWRob3N0LmRlIiwgInVkcCI6ICJ0cnVlIn0=
 vmess://eyJhZGQiOiAic2czLmN6czEwMDAuY29tIiwgImFpZCI6IDAsICJpZCI6ICIwODQzMWVmNy00OTQ1LTRhNzEtYThjYS03YjBkMTNkZjEwZjIiLCAibmV0IjogInRjcCIsICJwb3J0IjogODg4MywgInBzIjogIvCfh7jwn4esLeaWsOWKoOWdoS1zZzMuY3pzMTAwMC5jb20iLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAidm1lc3MifQ==
 vless://d10b0612-2b05-47c2-99c1-53f0b109d07d@158.178.234.153:18757?encryption=none&security=none&type=ws# SG | 158.178.234.153
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8313# SG | 3.1.195.148
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NjRhNGQ4YzFjNzZlYjUw@194.233.73.51:14453# SG | 194.233.73.51
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8319# SG | 3.1.195.148
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNFdrMk5Tc3pyZkhuMjJ6ZW0xbFlW@188.166.220.70:37708# SG | 188.166.220.70
