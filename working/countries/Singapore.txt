@@ -214,18 +214,33 @@ vmess://eyJhZGQiOiI1LjM0LjE3Ni4xMTEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9z
 vmess://eyJhZGQiOiIxMjAuMjMyLjIzOS4yMyIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiIwNWQ4ZTY1Zi0wNzc1LTM2YTYtOTMzNi0xMTA2ZDllZDA0MWMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjEyMDE1IiwicHMiOiJOZWFyb3V0ZSBTaW5nYXBvcmUgXzwiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJBenVyZSBTRyIsCiAgImFkZCI6ICI0LjE5My42Ni45MyIsCiAgInBvcnQiOiA0NDMsCiAgImlkIjogIjk1ZDJhNTY3LWU4Y2QtNDc4Yy04MWE1LWZkZmFjNmYyMWMwMiIsCiAgImFpZCI6IDAsCiAgIm5ldCI6ICJ3cyIsCiAgInR5cGUiOiAibm9uZSIsCiAgImhvc3QiOiAiIiwKICAicGF0aCI6ICIvYXNkYXNkIiwKICAidGxzIjogIm5vbmUiCn0=
 vmess://eyJ2IjogIjIiLCAicHMiOiAiQHYycmF5MjQgXHUyNWI3IFNpbmdhcG9yZSBcdWQ4M2NcdWRkZjhcdWQ4M2NcdWRkZWMiLCAiYWRkIjogImllLmdldGZyZWU1LndvcmtlcnMuZGV2IiwgInBvcnQiOiAiNDQzIiwgImlkIjogIjBhYzYzMWIzLTU1YzQtNGYyZi05NDY4LWVjNmM3MmFhYTMzZSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiaWUuZ2V0ZnJlZTUud29ya2Vycy5kZXYiLCAicGF0aCI6ICIvaWUxLnYycmF5c2Vydi5jb20vdm1lc3MiLCAidGxzIjogInRscyIsICJzbmkiOiAiIiwgImFscG4iOiAiIiwgImZwIjogIiJ9
-vless://0a2ca46b-7557-432e-a31a-af39b9f9bddd@47.82.2.59:40070?security=none&encryption=none&host=check-host.net&headerType=none&type=tcp#SG_564_@Surfboardv2ray
-vless://486169a3-ce5f-4d93-8d01-f619d4443e5d@cp.so.rezzip.com:443?path=/V2ynpv-V2ynpv-V2ynpv-V2ynpv-V2ynpv&security=tls&alpn=h2&encryption=none&insecure=0&host=pandura.lat&fp=chrome&type=ws&allowInsecure=0&sni=pandura.lat#SG_2264_@Surfboardv2ray
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.194.12.238:2096?path=/?ed&security=tls&encryption=none&host=sni.jpmj.dev&type=ws&sni=sni.jpmj.dev#SG_2824_@Surfboardv2ray
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.194.12.238:2096?path=/?ed&security=tls&encryption=none&host=sni.jpmj.dev&type=ws&sni=sni.jpmj.dev#SG_2825_@Surfboardv2ray
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.194.12.238:2096?path=/?ed=2560&security=tls&encryption=none&host=sni.jpmj.dev&fp=chrome&type=ws&sni=sni.jpmj.dev#SG_2827_@Surfboardv2ray
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.194.12.238:2096?path=/?ed=2560&security=tls&encryption=none&host=sni.jpmj.dev&fp=chrome&type=ws&sni=sni.jpmj.dev#SG_2828_@Surfboardv2ray
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.194.12.238:2096?path=/?ed=2560&security=tls&encryption=none&host=sni.jpmj.dev&fp=chrome&type=ws&sni=sni.jpmj.dev#SG_2829_@Surfboardv2ray
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.194.12.238:2096?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&fp=chrome&type=ws&allowInsecure=0&sni=sni.jpmj.dev#SG_2830_@Surfboardv2ray
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.194.12.238:2096?path=/?ed=2560&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&fp=chrome&type=ws&allowInsecure=1&sni=sni.jpmj.dev#SG_2832_@Surfboardv2ray
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.194.12.238:2096?security=tls&allowInsecure=0&encryption=none&type=ws&host=sni.jpmj.dev&path=Telegram=@N3TWRK &sni=sni.jpmj.dev&fp=chrome#SG_2833_@Surfboardv2ray
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@206.238.236.170:443/?security=tls&sni=vb.ylks.link&type=ws&path=/#SG_3920_@Surfboardv2ray
-vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@66.42.54.48:22539/?type=tcp&encryption=none&flow=&security=tls&sni=node1.nanonet.host&allowInsecure=1#SG_5591_@Surfboardv2ray
+vless://08e279aa-0ff9-4986-bdfc-5c28cbec1d23@ultravpn.bestprovider.site:443?encryption=none&security=tls&sni=aka.ms&alpn=h2,http/1.1&fp=chrome&allowInsecure=1&type=tcp&headerType=tcp#SG_550_@Surfboardv2ray
+vless://0a2ca46b-7557-432e-a31a-af39b9f9bddd@47.82.2.59:40070?security=none&encryption=none&host=check-host.net&headerType=none&type=tcp#SG_565_@Surfboardv2ray
+vless://0f021ee3-772e-4e24-e0d1-415a2e4a61e1@165.22.49.27:2567?security=none&encryption=none&headerType=none&type=tcp#SG_642_@Surfboardv2ray
+vless://0f021ee3-772e-4e24-e0d1-415a2e4a61e1@165.22.49.27:2567?security=none&encryption=none&headerType=none&type=tcp#SG_643_@Surfboardv2ray
+vless://0f021ee3-772e-4e24-e0d1-415a2e4a61e1@165.22.49.27:2567?security=none&encryption=none&headerType=none&type=tcp#SG_644_@Surfboardv2ray
+vless://0f021ee3-772e-4e24-e0d1-415a2e4a61e1@165.22.49.27:2567?security=none&encryption=none&headerType=none&type=tcp#SG_645_@Surfboardv2ray
+vless://486169a3-ce5f-4d93-8d01-f619d4443e5d@cp.so.rezzip.com:443?path=/V2ynpv-V2ynpv-V2ynpv-V2ynpv-V2ynpv&security=tls&alpn=h2&encryption=none&insecure=0&host=pandura.lat&fp=chrome&type=ws&allowInsecure=0&sni=pandura.lat#SG_2212_@Surfboardv2ray
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.194.12.238:2096?path=/?ed&security=tls&encryption=none&host=sni.jpmj.dev&type=ws&sni=sni.jpmj.dev#SG_2793_@Surfboardv2ray
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.194.12.238:2096?path=/?ed&security=tls&encryption=none&host=sni.jpmj.dev&type=ws&sni=sni.jpmj.dev#SG_2794_@Surfboardv2ray
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.194.12.238:2096?path=/?ed&security=tls&encryption=none&host=sni.jpmj.dev&type=ws&sni=sni.jpmj.dev#SG_2795_@Surfboardv2ray
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.194.12.238:2096?path=/?ed&security=tls&encryption=none&host=sni.jpmj.dev&type=ws&sni=sni.jpmj.dev#SG_2796_@Surfboardv2ray
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.194.12.238:2096?path=/?ed&security=tls&encryption=none&host=sni.jpmj.dev&type=ws&sni=sni.jpmj.dev#SG_2797_@Surfboardv2ray
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.194.12.238:2096?path=/?ed&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&type=ws&allowInsecure=0&sni=sni.jpmj.dev#SG_2798_@Surfboardv2ray
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.194.12.238:2096?path=/?ed&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&type=ws&allowInsecure=0&sni=sni.jpmj.dev#SG_2799_@Surfboardv2ray
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.194.12.238:2096?path=/?ed&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&type=ws&allowInsecure=0&sni=sni.jpmj.dev#SG_2800_@Surfboardv2ray
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.194.12.238:2096?path=/?ed&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&type=ws&allowInsecure=0&sni=sni.jpmj.dev#SG_2801_@Surfboardv2ray
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.194.12.238:2096?path=/?ed&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&type=ws&allowInsecure=0&sni=sni.jpmj.dev#SG_2802_@Surfboardv2ray
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.194.12.238:2096?path=/?ed&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&type=ws&allowInsecure=0&sni=sni.jpmj.dev#SG_2803_@Surfboardv2ray
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.194.12.238:2096?path=/?ed=2560&security=tls&encryption=none&host=sni.jpmj.dev&fp=chrome&type=ws&sni=sni.jpmj.dev#SG_2804_@Surfboardv2ray
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.194.12.238:2096?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&fp=chrome&type=ws&allowInsecure=0&sni=sni.jpmj.dev#SG_2805_@Surfboardv2ray
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.194.12.238:2096?path=/?ed=2560&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&fp=chrome&type=ws&allowInsecure=1&sni=sni.jpmj.dev#SG_2806_@Surfboardv2ray
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.194.12.238:2096?path=/?ed=2560&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&fp=chrome&type=ws&allowInsecure=1&sni=sni.jpmj.dev#SG_2807_@Surfboardv2ray
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.194.12.238:2096?security=tls&allowInsecure=0&encryption=none&type=ws&host=sni.jpmj.dev&path=Telegram=@N3TWRK &sni=sni.jpmj.dev&fp=chrome#SG_2808_@Surfboardv2ray
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.79.158.58:2053?path=/?ed=2560&telegram+@wangcai2&security=tls&encryption=none&host=sni.111000.indevs.in&fp=chrome&type=ws&sni=sni.111000.indevs.in#SG_2999_@Surfboardv2ray
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@8.222.181.117:443?path=/pkms9hrhvbpq1ikg?ed&security=tls&encryption=none&type=ws&sni=v667.YlKS.LINK#SG_3831_@Surfboardv2ray
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@8.222.181.117:443?path=/pkms9hrhvbpq1ikg?ed&security=tls&encryption=none&type=ws&sni=v667.YlKS.LINK#SG_3832_@Surfboardv2ray
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@8.222.181.117:443?security=tls&sni=v667.YlKS.LINK&type=ws&path=/pkms9hrhvbpq1ikg?ed#SG_3833_@Surfboardv2ray
 vless://661ea549-3367-4c37-b307-253cfe8d2ee6@217.142.191.140:18443?security=reality&sni=www.tesla.com&type=tcp&fp=edge&pbk=dTE8QcX1B_9HRG5Uae47q0HtjhVvePvfPMxvfLyVUUA&sid=32ff656d# VL-TCP-RLT  SG-217.142.191.140:18443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@206.238.237.60:443?allowInsecure=0&sni=lw.ylka.us.kg&type=ws&host=lw.ylka.us.kg&path=/?ed=2560security=tls#15|SG_speednode_0045
 vmess://ewogICAgImFkZCI6ICIyMDYuMjM4LjIzNi4zNiIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIm15c2FuMi5qYXF1YXkyMi53b3JrZXJzLmRldiIsCiAgICAiaWQiOiAiZjU4NGRlMTUtMjAzNC00MTcwLWE3MjMtZjQ4YzJiYWU1ZTBmIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2FmcmhtczE2di5iZXN0eHJheS5idXp6L2xpbmt3cyIsCiAgICAicG9ydCI6IDIwNTIsCiAgICAicHMiOiAi8J+HuPCfh6xTRy0yMDYuMjM4LjIzNi4zNi04MjEzIiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwKICAgICJzbmkiOiAibXlzYW4yLmphcXVheTIyLndvcmtlcnMuZGV2Igp9
@@ -305,7 +320,7 @@ vless://d29a7cee-acd1-4821-adbf-517f8681040e@47.82.6.36:51164?security=none&encr
 vless://0a2ca46b-7557-432e-a31a-af39b9f9bddd@47.82.2.59:40070?security=none&path=%2f#%f0%9f%87%b8%f0%9f%87%ac%20SG%201
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZWQ3MThmY2IyYmIxN2I3@154.26.132.38:27882#%f0%9f%87%b8%f0%9f%87%ac%20SG%202
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZWQ3MThmY2IyYmIxN2I3@154.26.132.38:27884#%f0%9f%87%b8%f0%9f%87%ac%20SG%203
-trojan://64a59181551b5773e390bd717a7b7c06@160.16.132.38:3419?security=tls&sni=www.nintendogames.net#[openproxylist.com] trojan-SG
+trojan://64a59181551b5773e390bd717a7b7c06@160.16.132.38:3419?allowInsecure=1&sni=www.nintendogames.net#[openproxylist.com] trojan-SG
 vless://d29a7cee-acd1-4821-adbf-517f8681040e@47.82.6.36:51164?security=none&encryption=none&headerType=none&type=tcp#[openproxylist.com] vless-SG
 trojan://eQlCz7DG3SDT@13.229.126.77:14822?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#SG|GithubTrojanLinks
 trojan://1JAuty9W)9FJ@13.213.30.41:14831?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#SG|GithubTrojanLinks
