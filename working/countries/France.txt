@@ -471,7 +471,7 @@ vless://5fad3ad2-1a94-40d0-85bb-51eb83f5c7df@109.172.55.232:13760?security=reali
 vless://f9cdb2e1-939c-4470-b322-14b7313dec48@109.172.55.157:19547?security=reality&encryption=none&pbk=-zsPOGrZY1Dlb6eypa5V_OPaLBpT66FX3cSo0mNX8SI&headerType=none&fp=chrome&type=tcp&sni=yandex.ru&sid=47ee5c592c1672cf#[openproxylist.com] vless-FR
 vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@fran.scroogethebest.com:443?security=reality&encryption=none&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=fran.scroogethebest.com&sid=4fa44664f6a566d3#[openproxylist.com] vless-FR
 vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@OV-France1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#[openproxylist.com] vless-FR
-trojan://humanity@104.21.40.34:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#[openproxylist.com] trojan-FR
+trojan://humanity@104.21.40.34:443?security=tls&sni=www.gossipglove.com&allowInsecure=1&type=ws&host=www.gossipglove.com&path=%2Fassignment#[openproxylist.com] trojan-FR
 trojan://telegram-id-privatevpns@13.38.210.176:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[openproxylist.com] trojan-FR```
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.123.87:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#[openproxylist.com] vless-FR```
 trojan://(VuRWFIPsAhP@13.38.109.97:14828?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#FR|GithubTrojanLinks
