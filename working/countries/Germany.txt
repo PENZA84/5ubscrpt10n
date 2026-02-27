@@ -1306,10 +1306,8 @@ vless://a90f4742-2f30-47b5-9f17-b6ab04cc98e8@93.94.51.13:25451?security=reality&
 vless://cc9f7840-757a-430b-bddc-a73478bea434@deu469.unboundworld.org:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.t3n.de#[openproxylist.com] vless-DE
 vless://c1e66fa3-951b-436c-a95a-b2abbaecb195@93.94.51.11:53320?security=reality&encryption=none&pbk=xrzsSwm-PkWv-DgyaFCVd_QELA6YFBtvaDOlQCd7Sj8&headerType=none&fp=chrome&type=tcp&sni=yandex.ru&sid=e4656850eaed4e86#[openproxylist.com] vless-DE
 vless://ad2879c1-7f77-4a4c-ba50-c24dd5ceffa4@81.19.141.190:51529?encryption=none&security=reality&sni=yandex.ru&fp=chrome&pbk=9smFk5QZXifHGrtwDwhbROsLBh179bExNWABnvUCvSw&sid=b77a294515ecc200&type=tcp&headerType=none#[openproxylist.com] vless-DE
-vless://179ddf63-c263-40ff-98a1-f53708573059@188.40.210.8:1083?security=none&encryption=none&headerType=none&type=tcp#[openproxylist.com] vless-DE
-vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@172.66.47.45:2096?encryption=none&security=tls&sni=ca.adobe-connect.top&insecure=0&allowInsecure=0&type=ws&host=ca.adobe-connect.top&path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512#[openproxylist.com] vless-DE
-vless://eb071647-72a6-46be-8e89-ff3d228d52f6@nl.jojack.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nl.jojack.ru&fp=chrome&pbk=sxyxV0_y1o09gKJBL9AJJyRSEg6MiYK0j-kb5unzHh4&sid=6bb3c7f9f97b45b8&type=tcp&headerType=none#[openproxylist.com] vless-DE
-vless://853d23ee-38c6-41bb-a51c-8aea6a25b0bd@tes1.api-tel.xyz:50855?encryption=none&security=reality&sni=ea.com&fp=chrome&pbk=3iQ5QX52pIjouDXoPSfrQRvpqaOTqG26IJLctU7McAY&sid=02&spx=/&type=tcp&headerType=none#[openproxylist.com] vless-DE
+vless://179ddf63-c263-40ff-98a1-f53708573059@188.40.210.8:1083?security=&encryption=none&headerType=none&type=tcp#[openproxylist.com] vless-DE
+vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.16.250.22:2096?encryption=none&security=tls&sni=ca.adobe-connect.top&fp=chrome&type=ws&host=ca.adobe-connect.top&path=/#[openproxylist.com] vless-DE
 trojan://PiPSz(vVVKtO@3.64.178.27:14815?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#DE|GithubTrojanLinks
 trojan://Zl4TdxUTPBlb@3.122.237.170:14797?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#DE|GithubTrojanLinks
 trojan://qRaRSTEuwAy5@35.158.61.10:14813?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#DE|GithubTrojanLinks
