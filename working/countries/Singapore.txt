@@ -326,19 +326,18 @@ ss://YWVzLTI1Ni1nY206ak1vZ05YWGswOGwySkswTg@46.250.234.115:80#SG%20SS-25%20%7C%2
 ss://YWVzLTI1Ni1nY206cUt2Zlg3eVFuVDk5T011Mw@194.233.75.190:80#SG%20SS-27%20%7C%20free-nodes
 ss://YWVzLTI1Ni1nY206endqbFU5N3RCS3RQSlBCNQ@45.77.253.107:80#SG%20SS-28%20%7C%20free-nodes
 vless://ca0e8520-42cd-49db-cfec-1295834b9e21@47.82.1.12:59100?security=none&type=tcp&encryption=none#SG%20VLESS-105%20%7C%20free-nodes
-vless://0f021ee3-772e-4e24-e0d1-415a2e4a61e1@165.22.49.27:2567?path=%2f#%f0%9f%87%b8%f0%9f%87%ac%20SG%201
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZWQ3MThmY2IyYmIxN2I3@154.26.132.38:27883#%f0%9f%87%b8%f0%9f%87%ac%20SG%202
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YWZhMzkwMTZkNWE0MDlj@194.233.73.51:48803#%f0%9f%87%b8%f0%9f%87%ac%20SG%203
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YWZhMzkwMTZkNWE0MDlj@194.233.73.51:48801#%f0%9f%87%b8%f0%9f%87%ac%20SG%204
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NjRhNGQ4YzFjNzZlYjUw@194.233.73.51:14453#%f0%9f%87%b8%f0%9f%87%ac%20SG%205
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YWZhMzkwMTZkNWE0MDlj@194.233.73.51:48802#%f0%9f%87%b8%f0%9f%87%ac%20SG%206
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZWQ3MThmY2IyYmIxN2I3@154.26.132.38:27884#%f0%9f%87%b8%f0%9f%87%ac%20SG%207
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZWQ3MThmY2IyYmIxN2I3@154.26.132.38:27885#%f0%9f%87%b8%f0%9f%87%ac%20SG%208
+vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@66.42.54.48:22539?security=tls&encryption=none&sni=node1.nanonet.host&type=tcp&path=%2f#%f0%9f%87%b8%f0%9f%87%ac%20SG%201
+vless://684e779f-03cf-4a12-ad4d-e923cce20131@ai.darkvpn.site:443?security=tls&encryption=none&sni=ai.darkvpn.site&type=ws&host=ai.darkvpn.site&path=%2fvless#%f0%9f%87%b8%f0%9f%87%ac%20SG%202
+vmess://eyJ2IjpudWxsLCJwcyI6IvCfh7jwn4esIFNHIDMiLCJhZGQiOiJtem9vbS5ieXBhc3N2cG4uc2l0ZSIsInBvcnQiOjQ0MywiaWQiOiI4ZTU2NzNlMC0xOTc5LTRlZTEtYThjMS01YTI1N2QyY2JmNDgiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6Im16b29tLmJ5cGFzc3Zwbi5zaXRlIiwiYWxwbiI6Im5ldHdvcmxkX3Zwbi1jaGFubmVsQC5uZXR3b3JsZF92cG4tY2hhbm5lbEAubmV0d29ybGRfdnBuLWNoYW5uZWxALm5ldHdvcmxkX3Zwbi1jaGFubmVsQC5uZXR3b3JsZF92cG4tY2hhbm5lbEAubmV0d29ybGRfdnBuLWNoYW5uZWxALm5ldHdvcmxkX3Zwbi0iLCJwYXRoIjoiL3ZtZXNzIiwidGxzIjoidGxzIiwic25pIjoibXpvb20uYnlwYXNzdnBuLnNpdGUiLCJmcCI6IiJ9
+vless://ca73d911-29f4-42d8-ada5-81dee679e96a@vps.zakir.web.id:80?security=none&encryption=none&type=ws&host=vps.zakir.web.id&path=vless#%f0%9f%87%b8%f0%9f%87%ac%20SG%204
+vless://684e779f-03cf-4a12-ad4d-e923cce20131@ai.darkvpn.site:443?security=tls&encryption=none&sni=ai.darkvpn.site&type=ws&host=ai.darkvpn.site&path=%2fvless#%f0%9f%87%b8%f0%9f%87%ac%20SG%205
+vless://4f4a8022-0a8e-4f55-9883-777b6830802e@a.monohob.eu.org:443?security=tls&encryption=none&sni=a.monohob.eu.org&type=ws&host=a.monohob.eu.org&path=%2fvless#%f0%9f%87%b8%f0%9f%87%ac%20SG%206
+vless://4f4a8022-0a8e-4f55-9883-777b6830802e@a.monohob.eu.org:443?security=tls&encryption=none&sni=a.monohob.eu.org&type=ws&host=a.monohob.eu.org&path=%2fvless#%f0%9f%87%b8%f0%9f%87%ac%20SG%207
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.4:8080#%f0%9f%87%b8%f0%9f%87%ac%20SG%208
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZWQ3MThmY2IyYmIxN2I3@154.26.132.38:27882#%f0%9f%87%b8%f0%9f%87%ac%20SG%209
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YWZhMzkwMTZkNWE0MDlj@194.233.73.51:48804#%f0%9f%87%b8%f0%9f%87%ac%20SG%2010
-ss://YWVzLTI1Ni1nY206cUt2Zlg3eVFuVDk5T011Mw==@194.233.75.190:80#%f0%9f%87%b8%f0%9f%87%ac%20SG%2011
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZWQ3MThmY2IyYmIxN2I3@154.26.132.38:27884#%f0%9f%87%b8%f0%9f%87%ac%20SG%2010
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.89.142.56:990#%f0%9f%87%b8%f0%9f%87%ac%20SG%2011
 trojan://BxceQaOe@43.198.13.210:41973?allowInsecure=1&sni=t.me%252Fripaojiedian#[openproxylist.com] trojan-SG
-vless://0f021ee3-772e-4e24-e0d1-415a2e4a61e1@165.22.49.27:2567?security=none&encryption=none&headerType=none&type=tcp#[openproxylist.com] vless-SG
 trojan://262f1d150049457ac1d6e66b020fa980@153.121.65.107:3419?security=tls&sni=www.nintendogames.net#[openproxylist.com] trojan-SG
 trojan://eQlCz7DG3SDT@13.229.126.77:14822?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#SG|GithubTrojanLinks
 trojan://1JAuty9W)9FJ@13.213.30.41:14831?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#SG|GithubTrojanLinks
