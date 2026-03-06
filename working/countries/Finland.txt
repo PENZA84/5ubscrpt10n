@@ -108,7 +108,6 @@ vless://ec5796b3-678b-4b11-9c1d-a53171dfd897@195.20.17.182:443?flow=xtls-rprx-vi
 vless://d6d16b83-e7e3-486a-aa82-a649ef73cbfa@65.109.211.159:2053?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AB%F0%9F%87%AE%20FI-65.109.211.159%3A2053
 vless://99785b25-5b68-40c7-be5c-199cac21c838@65.109.211.159:2093?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AB%F0%9F%87%AE%20FI-65.109.211.159%3A2093
 vless://723eb4ef-b933-494e-8b6f-c4b4c580dcca@65.109.211.159:2096?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AB%F0%9F%87%AE%20FI-65.109.211.159%3A2096
-vless://3eb9f34d-56a9-3660-52ec-f9fcdb17a0f5@srv-s0.netmaster.cam:802?security=&encryption=none&type=ws&sni=1#EmKavpn  #Wi_Fi #irancell  @EmKavpn
 vless://63d4be35-a762-4bad-9185-d501fe5db7b4@65.109.185.170:8080?security=none&encryption=none&type=ws&host=188.114.96.7&path=%2f#%f0%9f%87%ab%f0%9f%87%ae%20FI%201
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@promo18v.bystrivpn.ru:443#%f0%9f%87%ab%f0%9f%87%ae%20FI%202
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxUzNza3dtb2xyUTcwcTg0MmlyUUQw@178.17.61.67:5790#%f0%9f%87%ab%f0%9f%87%ae%20FI%203
@@ -134,4 +133,4 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+Hq/Cfh65GSS05NS4yMTcuMTUzLjk4LTE2MzM4IiwgImFk
 vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+Hq/Cfh65GSS0zNy4xNDMuMTI5LjIzOC0xMTU1MiIsICJhZGQiOiAiMzcuMTQzLjEyOS4yMzgiLCAicG9ydCI6IDY2MTYsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjQ1OWQyM2Y0LWRjZmQtNGZlZi05YmEzLWVmMGFkMTBmYzMzNiIsICJzbmkiOiAiIiwgInBhdGgiOiAiLyJ9
 vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+Hq/Cfh65GSS05NS4yMTYuMjA3LjIxLTIzNTM1LVdvLi4uIiwgImFkZCI6ICIxMDQuMTkuMTQ1Ljk1IiwgInBvcnQiOiA0NDMsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAidGxzIiwgImlkIjogImFiY2RlZjAxLTFkZjAtNGViYS1hNTExLWZlMDEyMzQ1Njc4OSIsICJzbmkiOiAibWlsYWQyLnN1ZGl6bzc3NDgud29ya2Vycy5kZXYiLCAicGF0aCI6ICIvbXl3b3JkcHJlc3Mud29yZHByZXNzLXNob3Aud2Vic2l0ZTo0NDMvIn0=
 vless://dcc97071-3c70-4eb2-83f0-6a0b12690213@f8.lalash.click:27732?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp# FI | 94.237.16.129
-vless://978608ba-cac7-461e-af6a-d99d2b53155e@shop.onlineserver2.top:7320?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp# FI | 37.27.91.234
+vless://978608ba-cac7-461e-af6a-d99d2b53155e@shop.onlineserver2.top:7320?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp# FI | 37.27.82.68
