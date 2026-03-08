@@ -261,7 +261,7 @@ vless://84b5a48a-4c69-493c-87cb-09cbdfa7a450@103.213.249.62:8443?security=realit
 trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@153.121.65.107:34818?security=tls&sni=www.nintendogames.net#[openproxylist.com] trojan-JP
 trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@153.121.65.107:4937?security=tls&sni=www.nintendogames.net#[openproxylist.com] trojan-JP
 trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@160.16.214.104:2001?security=tls&sni=www.nintendogames.net#[openproxylist.com] trojan-JP
-vless://6ec42587-d79b-479e-984a-a2533eb457b2@8.216.21.75:20443?&security=reality&flow=xtls-rprx-vision&pbk=wIlDoplsuyFT7hzmd7y-gnRAlYTys99OU11k4v_Co0s&sid=abcd1234&fp=chrome&sni=www.microsoft.com&type=tcp&headerType=none&path=/#[openproxylist.com] vless-JP
+vless://6ec42587-d79b-479e-984a-a2533eb457b2@8.216.21.75:20443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=wIlDoplsuyFT7hzmd7y-gnRAlYTys99OU11k4v_Co0s&security=reality&sid=abcd1234&sni=www.microsoft.com&type=tcp#[openproxylist.com] vless-JP
 vmess://eyJhZGQiOiJuMTc1MTQ2ODA5Mi5saWU1ZC5jeW91IiwiYWlkIjoiMCIsImhvc3QiOiJuMTc1MTQ2ODA5Mi5saWU1ZC5jeW91IiwiaWQiOiI3YWNlMTg3My05ODIyLTQ2YWYtOTkyMC1iZDY0ZjcyNTIxMmMiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsInBvcnQiOiI0NDMiLCJwcyI6Ilx1ZDgzY1x1ZGRlZlx1ZDgzY1x1ZGRmNVtvcGVucHJveHlsaXN0LmNvbV0gdm1lc3MtSlAiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vless://84b5a48a-4c69-493c-87cb-09cbdfa7a450@103.213.249.62:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ign.dev&sid=6ba85179e30d4fc2#[openproxylist.com] vless-JP```
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5OTMwMWQ1NS1hNDFmLTQ5MTktOTg2Yi0xNDM1OTk2NTMzYWE@120.238.122.207:50004#JP%2F1|Github%E6%90%9C%E7%B4%A2TrojanLinks
