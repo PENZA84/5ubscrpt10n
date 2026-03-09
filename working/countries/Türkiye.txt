@@ -1326,13 +1326,11 @@ vmess://eyJwcyI6ICLwn4em8J+Hti3lnJ/ogLPlhbYtdHIwMS5wYW9wYW9jbG91ZC5jeW91IiwgImFk
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggLee+juWbvS10ci50ZWppZXdtLmNvbSIsImFkZCI6InRyLnRlamlld20uY29tIiwicG9ydCI6Ijg4NjciLCJ0eXBlIjoibm9uZSIsImlkIjoiODgyMTdmNTktZDk2ZS00NzhhLTgyYzktNDJjNDJjMjcyYmUwIiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6InJuY2YuaGRhZGEubWwiLCJ0bHMiOiIifQ==
 vmess://eyJhZGQiOiAidHIwMS5wYW9wYW9jbG91ZC5jeW91IiwgInBvcnQiOiAiNDQzIiwgImlkIjogIjBmZWI0ZWE5LWJjYWEtMzJjMi1iYmRkLWIzZDEzZGRkYjYxMiIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAicHMiOiAi8J+HpvCfh7Yt5Zyf6ICz5YW2LXRyMDEucGFvcGFvY2xvdWQuY3lvdSIsICJob3N0IjogInRyMDEuc3NydTQuZnVuIiwgInBhdGgiOiAiL3YycmF5IiwgInRscyI6ICJ0bHMiLCAic25pIjogIiIsICJ0eXBlIjogInZtZXNzIiwgInNlcnZlclBvcnQiOiAwLCAibmF0aW9uIjogIiJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggLee+juWbvS10cjAxLmNmLnBhb3Bhb2Nsb3VkLmN5b3UiLCJhZGQiOiJ0cjAxLmNmLnBhb3Bhb2Nsb3VkLmN5b3UiLCJwb3J0IjoiNDQzIiwidHlwZSI6Im5vbmUiLCJpZCI6IjBmZWI0ZWE5LWJjYWEtMzJjMi1iYmRkLWIzZDEzZGRkYjYxMiIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6InRyMDEuc3NydTQuZnVuIiwidGxzIjoidGxzIn0=
-vless://f75305e2-de53-4add-acc8-f9308394f5a4@emg3.saipasamandemg3.sbs:2003?security=none&allowInsecure=0&encryption=none&type=tcp&host=anten.ir&path=/&headerType=http# TR | 94.183.237.12
 vless://f75305e2-de53-4add-acc8-f9308394f5a4@emg3.saipasamandemg3.sbs:2003?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp# TR | 94.183.237.12
 vless://3f74f42d-b020-4c3b-89ff-8ec780fb8f12@emg1.saipasamandemg1.sbs:2001?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp# TR | 94.183.237.14
-vless://4c55e931-e33b-487c-806e-cb29b64a089c@94.183.241.159:22222?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none# TR | 94.183.241.159
 vless://ff0e767c-747e-4a6d-b3c9-ba0d602ec939@tu.a.speedgloobalontop.ir:2088?security=none&type=tcp&headerType=&path=&host=# TR | 213.142.156.169
 vless://8a516e94-2762-46d5-a1c5-6687bb6b81f8@emg4.saipasamandemg4.sbs:2004?encryption=none&security=none&type=tcp&headerType=http&host=anten.ir# TR | 94.183.237.11
 vless://d20d3881-03a0-457d-9c67-9ac480fa8d38@94.183.241.105:15254?type=grpc&serviceName=@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,&mode=multi&security=tls&# TR | 94.183.241.105
 vless://f8aa1288-08a6-4a73-9589-fa63a294a89f@emg5.saipasamandemg5.sbs:2005?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp# TR | 94.183.237.10
 vless://5e5d004d-b55b-4184-b3bb-7e99cd58b4da@de-1-tun-single.starping1.fun:8083?security=&encryption=none&host=www.speedtest.net&headerType=http&type=tcp# TR | 94.183.241.42
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMS2QwTlRrZ2tGWmpEYU5WcTc0ZWFQMjlQYl9GMXBFUQ==@185.39.204.27:1080# TR | 185.39.204.27
+vless://5976b860-e481-41e2-b2f2-9f8901bf84a2@94.183.241.159:22222?type=tcp&security=none# TR | 94.183.241.159
