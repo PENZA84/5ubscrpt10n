@@ -263,23 +263,19 @@ vless://6ec42587-d79b-479e-984a-a2533eb457b2@8.216.21.75:20443?&security=reality
 trojan://f389ed926e512e15f382dc3804029474@160.16.106.99:34818?allowInsecure=0&sni=www.nintendogames.net#JP%20TROJAN-21%20%7C%20free-nodes
 trojan://f389ed926e512e15f382dc3804029474@160.16.106.99:4937?allowInsecure=0&sni=www.nintendogames.net#JP%20TROJAN-23%20%7C%20free-nodes
 vless://6ec42587-d79b-479e-984a-a2533eb457b2@8.216.21.75:20443?&security=reality&flow=xtls-rprx-vision&pbk=wIlDoplsuyFT7hzmd7y-gnRAlYTys99OU11k4v_Co0s&sid=abcd1234&fp=chrome&sni=www.microsoft.com&type=tcp&headerType=none&path=/#JP%20VLESS-57%20%7C%20free-nodes
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@103.106.228.175:8009#%f0%9f%87%af%f0%9f%87%b5%20JP%201
-vmess://eyJ2IjpudWxsLCJwcyI6IvCfh6/wn4e1IEpQIDIiLCJhZGQiOiJuMTc1MzU5ODQ0Ni53cGcyNy54eXoiLCJwb3J0Ijo0NDMsImlkIjoiYTUwNDdkOTUtMjRiOC00NTFhLTkzZTMtZjJhMzg3YjkzZDVhIiwiYWlkIjoiMCIsInNjeSI6bnVsbCwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjoibjE3NTM1OTg0NDYud3BnMjcueHl6IiwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMiLCJzbmkiOiIiLCJmcCI6bnVsbH0=
+trojan://f389ed926e512e15f382dc3804029474@160.16.85.33:4937?security=tls&sni=www.nintendogames.net&type=tcp&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%201
+ss://YWVzLTI1Ni1nY206QmVkdWZnenRITzNCNUtxZQ==@46.250.254.170:80#%f0%9f%87%af%f0%9f%87%b5%20JP%202
 trojan://f389ed926e512e15f382dc3804029474@160.16.72.205:3057?sni=www.nintendogames.net&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%203
-trojan://f389ed926e512e15f382dc3804029474@160.16.106.99:4674?security=tls&sni=www.nintendogames.net&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%204
-trojan://f389ed926e512e15f382dc3804029474@160.16.106.99:4674?sni=www.nintendogames.net&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%205
-trojan://f389ed926e512e15f382dc3804029474@160.16.106.99:3057?security=tls&sni=www.nintendogames.net&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%206
-trojan://f389ed926e512e15f382dc3804029474@160.16.214.104:2001?sni=www.nintendogames.net&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%207
-trojan://f389ed926e512e15f382dc3804029474@160.16.106.99:4937?security=tls&sni=www.nintendogames.net&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%208
-trojan://f389ed926e512e15f382dc3804029474@160.16.106.99:34818?sni=www.nintendogames.net&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%209
-trojan://f389ed926e512e15f382dc3804029474@160.16.214.104:4674?sni=www.nintendogames.net&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%2010
-vmess://eyJ2IjpudWxsLCJwcyI6IvCfh6/wn4e1IEpQIDExIiwiYWRkIjoiNDcuNzQuNTIuMTk1IiwicG9ydCI6NDQzLCJpZCI6IjNjZDZmODQ5LTA3OGUtNGRhOS04MDgwLWEyNzkxYjUxYjc2NiIsImFpZCI6IjAiLCJzY3kiOm51bGwsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6IiIsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoidGxzIiwic25pIjoibjE3NTM1OTg0NDguNzRxeHYudG9wIiwiZnAiOm51bGx9
-trojan://f389ed926e512e15f382dc3804029474@160.16.214.104:2001?security=tls&sni=www.nintendogames.net&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%2012
-trojan://f389ed926e512e15f382dc3804029474@160.16.106.99:3057?sni=www.nintendogames.net&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%2013
-trojan://f389ed926e512e15f382dc3804029474@160.16.214.104:3057?sni=www.nintendogames.net&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%2014
-trojan://f389ed926e512e15f382dc3804029474@160.16.106.99:4937?sni=www.nintendogames.net&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%2015
+vmess://eyJ2IjpudWxsLCJwcyI6IvCfh6/wn4e1IEpQIDQiLCJhZGQiOiI0Ny43NC41Mi4xOTUiLCJwb3J0Ijo0NDMsImlkIjoiM2NkNmY4NDktMDc4ZS00ZGE5LTgwODAtYTI3OTFiNTFiNzY2IiwiYWlkIjoiMCIsInNjeSI6bnVsbCwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjoiIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJuMTc1MzU5ODQ0OC43NHF4di50b3AiLCJmcCI6bnVsbH0=
+trojan://f389ed926e512e15f382dc3804029474@160.16.106.99:4937?security=tls&sni=www.nintendogames.net&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%205
+trojan://f389ed926e512e15f382dc3804029474@153.121.45.139:3057?sni=www.nintendogames.net&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%206
+trojan://f389ed926e512e15f382dc3804029474@160.16.106.99:4937?sni=www.nintendogames.net&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%207
+trojan://f389ed926e512e15f382dc3804029474@153.121.45.139:34818?sni=www.nintendogames.net&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%208
+trojan://f389ed926e512e15f382dc3804029474@160.16.106.99:3057?sni=www.nintendogames.net&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%209
+trojan://f389ed926e512e15f382dc3804029474@160.16.106.99:4674?sni=www.nintendogames.net&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%2010
+trojan://f389ed926e512e15f382dc3804029474@153.121.45.139:4674?sni=www.nintendogames.net&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%2011
 trojan://f389ed926e512e15f382dc3804029474@153.121.45.139:34818?security=tls&sni=www.nintendogames.net#[openproxylist.com] trojan-JP
-trojan://f389ed926e512e15f382dc3804029474@160.16.214.104:4937?security=tls&sni=www.nintendogames.net#[openproxylist.com] trojan-JP
+trojan://f389ed926e512e15f382dc3804029474@160.16.85.33:4937?allowInsecure=0&sni=www.nintendogames.net#[openproxylist.com] trojan-JP
 vless://6ec42587-d79b-479e-984a-a2533eb457b2@8.216.21.75:20443?&security=reality&flow=xtls-rprx-vision&pbk=wIlDoplsuyFT7hzmd7y-gnRAlYTys99OU11k4v_Co0s&sid=abcd1234&fp=chrome&sni=www.microsoft.com&type=tcp&headerType=none&path=/#[openproxylist.com] vless-JP
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5OTMwMWQ1NS1hNDFmLTQ5MTktOTg2Yi0xNDM1OTk2NTMzYWE@120.238.122.207:50004#JP%2F1|Github%E6%90%9C%E7%B4%A2TrojanLinks
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5OTMwMWQ1NS1hNDFmLTQ5MTktOTg2Yi0xNDM1OTk2NTMzYWE@120.238.122.207:50005#JP%2F2|Github%E6%90%9C%E7%B4%A2TrojanLinks
