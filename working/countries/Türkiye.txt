@@ -4,7 +4,6 @@ vless://bc3d43b6-814c-4812-bbcf-1d7c5fd054a2@104.25.211.224:2052/?type=ws&encryp
 vless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@212.87.198.108:443?type=ws&amp%3Bencryption=none&amp%3Bpath=/&amp%3Bsecurity=none#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20VLESS%20%7C%20%40mtproxy22_v2ray%20%231
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MTgwNzcxOGY1OTNkM2U2@154.205.148.202:11201#%3E%3E%40vmess_iran%3A%3ATR
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBVkxiRVVFdEJENTlGc1JxY055RWli@203.202.232.78:60299#%3E%3E%40vmess_iran%3A%3ATR
-vless://77ea8d6c-1a96-11f1-be1f-1744d2a6f511@tr2.vpnjantit.com:10004?encryption=none&path=%2Fvpnjantit&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ATR
 vless://9bde09b3-09b5-4d7a-b5fd-3fae8dfeed5a@185.72.9.200:56126?encryption=none&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ATR
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBVkxiRVVFdEJENTlGc1JxY055RWli@203.202.232.78:60299#%F0%9F%87%B9%F0%9F%87%B7TR-203.202.232.78-0307
 vmess://ewogICAgImFkZCI6ICIyMDIuNzguMTYyLjUiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJpcnNvZnQuc3l0ZXMubmV0IiwKICAgICJpZCI6ICIyZmY5N2M2ZC04NTU3LTQyYTQtYjQzZi0xOWM3N2M1OTU5ZWEiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfh7nwn4e3VFItMjAyLjc4LjE2Mi41LTA5NzIiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
@@ -1226,9 +1225,11 @@ trojan://telegram-id-privatevpns@13.36.134.198:22222?security=tls&sni=trojan.bur
 trojan://qj1Dz1CJmFQRhWr1SP80aA@172.67.204.84:443?security=tls&sni=cdn-21.gsmxreality.com&type=grpc&serviceName=443trojan&mode=gun#%F0%9F%94%92%20TR-GRPC-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-172.67.204.84%3A443
 trojan://984e400bf5d541b7b0815913fe0c432a@104.19.171.7:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=6b777a91#%F0%9F%94%92%20TR-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.19.171.7%3A443
 trojan://vpn@2.59.162.145:2025?security=tls&type=ws&host=dns.google.com&path=%2F#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20-%20Vilnius%20%F0%9F%8C%8D%20TR-WS-NONE%204%E2%83%A3
+vless://77ea8d6c-1a96-11f1-be1f-1744d2a6f511@tr2.vpnjantit.com:10004?encryption=none&path=%2Fvpnjantit&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ATR
 vless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@212.87.198.108:443?type=ws&path=%2f#%f0%9f%87%b9%f0%9f%87%b7%20TR%201
 vless://a44e0875-210f-4941-9062-89b6361a14c6@94.131.123.167:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=i5a8i2AWUSMZ-rYA6hGBRCBBoe7W5ah33SCdF5JkMk4&security=reality&sid=8bcfe256cf216fd8&sni=apple.com&type=tcp#[openproxylist.com] vless-TR
 vless://9bde09b3-09b5-4d7a-b5fd-3fae8dfeed5a@185.72.9.200:56126?encryption=none&security=none&type=tcp#[openproxylist.com] vless-TR
+vless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@212.87.198.108:443?path=/&security=none&encryption=none&type=ws#[openproxylist.com] vless-TR```
 vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HufCfh7dUUi0yLjU5LjE4MS4zNy01MjQ3IiwgImFkZCI6ICJ0azAyLm5iMS5mciIsICJwb3J0IjogNDQzLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogInRscyIsICJpZCI6ICJjYjcwMDFjNy1lNDk1LTQxYWMtYjk0Mi1mMjVmNjA1MjM0MTQiLCAic25pIjogIiIsICJob3N0IjogInRrMDIubmIxLmZyIiwgInBhdGgiOiAiL2NsaWVudGFyZWEifQ==
 vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HufCfh7dUUihBemFkTmV0LnQubWUpXzEiLCAiYWRkIjogInRyMS5kaWdpc3BvcnQuc2hvcCIsICJwb3J0IjogIjIwNTM1IiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjUzYTg0ODE5LTRjODEtNDZjMS1kOTNlLThiMGIxMTI4N2FjMyIsICJzbmkiOiAiIn0=
 vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HufCfh7dUUi0xNTIuODkuMTkzLjIyNS0wMTQ3IiwgImFkZCI6ICIxNTIuODkuMTkzLjIyNSIsICJwb3J0IjogODAsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjhjNTU3YTUxLTgwYjktNDliZS1kNzRhLTE0NTBjM2UyYjc3ZiIsICJzbmkiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLyJ9
