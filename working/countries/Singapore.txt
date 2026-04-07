@@ -1,8 +1,8 @@
 vless://0deb6f9d-9ad9-4b73-ac33-f3176e7ec1f2@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
 vless://e85ce618-50cd-42e0-a8ba-5052e6be9498@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
-trojan://187dda4498be9ac4f28db939d5940185@13.115.237.4:4674?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
-trojan://187dda4498be9ac4f28db939d5940185@13.192.235.255:4674?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A12
-trojan://BxceQaOe@18.162.110.167:22045?sni=t.me%2Fripaojiedian#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A13
+trojan://BxceQaOe@43.199.209.208:12070?sni=t.me%2Fripaojiedian#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
+trojan://187dda4498be9ac4f28db939d5940185@54.249.79.149:4674?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A12
+trojan://187dda4498be9ac4f28db939d5940185@18.183.79.22:4674?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A13
 trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz#%F0%9F%87%B8%F0%9F%87%AC_SG_%E6%96%B0%E5%8A%A0%E5%9D%A1_5
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6wgU0fmlrDliqDlnaEobWliZWk3Ny5jb20g57Gz6LSd6IqC54K55YiG5LqrKSIsImFkZCI6InYxMi5oZGFjZC5jb20iLCJwb3J0IjoiMzA4MTIiLCJ0eXBlIjoibm9uZSIsImlkIjoiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0IiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6IjdiMWRiZGQxLXQ2bmdnMC10OTE3c2EtMTJhY2guaGszLnA1cHYuY29tIiwidGxzIjoiIn0=
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6wgU0fmlrDliqDlnaEobWliZWk3Ny5jb20g57Gz6LSd6IqC54K55YiG5LqrKSIsImFkZCI6InYxMi5oZGFjZC5jb20iLCJwb3J0IjoiMzA4MTIiLCJ0eXBlIjoibm9uZSIsImlkIjoiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0IiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvZ2l0aHViLmNvbS9BbHZpbjk5OTkiLCJob3N0Ijoid3d3LmJpbmcuY29tIiwidGxzIjoiIn0=
@@ -281,7 +281,7 @@ vmess://eyJhZGQiOiIxNTEuMjQyLjE4MC45MSIsImFpZCI6IjAiLCJob3N0IjoiMjAwMTpiYzg6MzJk
 vless://40afa553-1745-4f62-a380-4163c7bb4870@188.114.96.0:443?encryption=none&security=tls&sni=restless-dew-894b.amirhost4.workers.dev&fp=chrome&type=ws&host=restless-dew-894b.amirhost4.workers.dev&path=%2F#[openproxylist.com] vless-SG
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@bestcf.030101.xyz:443?allowInsecure=1&alpn=http/1.1&encryption=none&host=sni.111000.dynv6.net&path=/?proxyip=ip.111000.de5.net:443&security=tls&sni=sni.111000.dynv6.net&type=ws#[openproxylist.com] vless-SG
 vless://53342b53-157e-4475-9f3a-40439434e689@104.18.173.174:80?encryption=none&security=none&type=ws&host=c.iamdt.dpdns.org&path=%2F%3Fed%3D2048#[openproxylist.com] vless-SG
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.74.43:443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=%2F&security=tls&sni=sni.111000.v6.navy&type=ws#[openproxylist.com] vless-SG
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.59.5.238:2096?path=%2F%3Ftelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540wangcai2%3D&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&type=ws&allowInsecure=0&sni=sni.jpmj.dev#[openproxylist.com] vless-SG
 trojan://eQlCz7DG3SDT@13.229.126.77:14822?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#SG|GithubTrojanLinks
 trojan://1JAuty9W)9FJ@13.213.30.41:14831?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#SG|GithubTrojanLinks
 trojan://iYmAGdiUow(p@47.129.43.6:14815?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#SG|GithubTrojanLinks
@@ -958,4 +958,3 @@ vmess://eyJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJwcyI6ICJcdWQ4M2NcdWRkZjhcdWQ4M2Nc
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6wgLeaWsOWKoOWdoS1zZy5pZGNsb3VkaG9zdC5kZSIsImFkZCI6InNnLmlkY2xvdWRob3N0LmRlIiwicG9ydCI6IjgwIiwidHlwZSI6Im5vbmUiLCJpZCI6ImRmNDFlMjNhLTc4YWItNDdhZC05ZTcxLTg5YzIyMWIwNmQwYyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6InNnLmlkY2xvdWRob3N0LmRlIiwidGxzIjoiIn0=
 vmess://eyJwcyI6ICLwn4e48J+HrC3mlrDliqDlnaEtc2cuaWRjbG91ZGhvc3QuZGUiLCAi5YWN6LS56K6i6ZiF5bC95ZyoaHR0cHMiOiAiIiwgImFkZCI6ICJzZy5pZGNsb3VkaG9zdC5kZSIsICJwb3J0IjogIjgwIiwgInR5cGUiOiAidm1lc3MiLCAiaWQiOiAiZGY0MWUyM2EtNzhhYi00N2FkLTllNzEtODljMjIxYjA2ZDBjIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgInRscyI6ICJmYWxzZSIsICJza2lwLWNlcnQtdmVyaWZ5IjogInRydWUiLCAibmV0IjogIndzIiwgIndzLW9wdHMiOiAiIiwgInBhdGgiOiAiLyIsICJoZWFkZXJzIjogIiIsICJob3N0IjogInNnLmlkY2xvdWRob3N0LmRlIiwgInVkcCI6ICJ0cnVlIn0=
 vmess://eyJhZGQiOiAic2czLmN6czEwMDAuY29tIiwgImFpZCI6IDAsICJpZCI6ICIwODQzMWVmNy00OTQ1LTRhNzEtYThjYS03YjBkMTNkZjEwZjIiLCAibmV0IjogInRjcCIsICJwb3J0IjogODg4MywgInBzIjogIvCfh7jwn4esLeaWsOWKoOWdoS1zZzMuY3pzMTAwMC5jb20iLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAidm1lc3MifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNFdrMk5Tc3pyZkhuMjJ6ZW0xbFlW@188.166.220.70:37708# SG | 188.166.220.70
