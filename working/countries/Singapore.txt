@@ -1,8 +1,8 @@
 vless://0deb6f9d-9ad9-4b73-ac33-f3176e7ec1f2@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
 vless://e85ce618-50cd-42e0-a8ba-5052e6be9498@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
-trojan://868ecdaf6aed618ec98cf78585672b2b@54.249.109.55:4674?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
-trojan://868ecdaf6aed618ec98cf78585672b2b@13.115.146.132:4674?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A12
-trojan://BxceQaOe@95.40.68.160:12070?sni=t.me%2Fripaojiedian#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A13
+trojan://868ecdaf6aed618ec98cf78585672b2b@13.115.146.132:4674?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
+trojan://BxceQaOe@95.40.68.160:12070?sni=t.me%2Fripaojiedian#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A12
+trojan://868ecdaf6aed618ec98cf78585672b2b@54.249.109.55:4674?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A13
 trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz#%F0%9F%87%B8%F0%9F%87%AC_SG_%E6%96%B0%E5%8A%A0%E5%9D%A1_5
 vmess://ewogICAgImFkZCI6ICIyMDIuNzkuMTYxLjE4OCIsCiAgICAiYWlkIjogNjQsCiAgICAiaG9zdCI6ICJ3d3cuMzIyNzgxMTcueHl6IiwKICAgICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvcGF0aC8xNzA3MzMxMzIyMzMiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HuPCfh6xTRy0yMDIuNzkuMTYxLjE4OC0wOTk2IiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.89.142.56:990#%3E%3E%40v2ray_configs_pool%3A%3ASG
@@ -197,6 +197,7 @@ vmess://eyJhZGQiOiI1LjM0LjE3Ni4xMTEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9z
 vmess://eyJhZGQiOiIxMjAuMjMyLjIzOS4yMyIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiIwNWQ4ZTY1Zi0wNzc1LTM2YTYtOTMzNi0xMTA2ZDllZDA0MWMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjEyMDE1IiwicHMiOiJOZWFyb3V0ZSBTaW5nYXBvcmUgXzwiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJBenVyZSBTRyIsCiAgImFkZCI6ICI0LjE5My42Ni45MyIsCiAgInBvcnQiOiA0NDMsCiAgImlkIjogIjk1ZDJhNTY3LWU4Y2QtNDc4Yy04MWE1LWZkZmFjNmYyMWMwMiIsCiAgImFpZCI6IDAsCiAgIm5ldCI6ICJ3cyIsCiAgInR5cGUiOiAibm9uZSIsCiAgImhvc3QiOiAiIiwKICAicGF0aCI6ICIvYXNkYXNkIiwKICAidGxzIjogIm5vbmUiCn0=
 vmess://eyJ2IjogIjIiLCAicHMiOiAiQHYycmF5MjQgXHUyNWI3IFNpbmdhcG9yZSBcdWQ4M2NcdWRkZjhcdWQ4M2NcdWRkZWMiLCAiYWRkIjogImllLmdldGZyZWU1LndvcmtlcnMuZGV2IiwgInBvcnQiOiAiNDQzIiwgImlkIjogIjBhYzYzMWIzLTU1YzQtNGYyZi05NDY4LWVjNmM3MmFhYTMzZSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiaWUuZ2V0ZnJlZTUud29ya2Vycy5kZXYiLCAicGF0aCI6ICIvaWUxLnYycmF5c2Vydi5jb20vdm1lc3MiLCAidGxzIjogInRscyIsICJzbmkiOiAiIiwgImFscG4iOiAiIiwgImZwIjogIiJ9
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.81.141.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#SG_334_@Surfboardv2ray
 vless://661ea549-3367-4c37-b307-253cfe8d2ee6@217.142.191.140:18443?security=reality&sni=www.tesla.com&type=tcp&fp=edge&pbk=dTE8QcX1B_9HRG5Uae47q0HtjhVvePvfPMxvfLyVUUA&sid=32ff656d# VL-TCP-RLT  SG-217.142.191.140:18443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@206.238.237.60:443?allowInsecure=0&sni=lw.ylka.us.kg&type=ws&host=lw.ylka.us.kg&path=/?ed=2560security=tls#15|SG_speednode_0045
 vmess://ewogICAgImFkZCI6ICIyMDYuMjM4LjIzNi4zNiIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIm15c2FuMi5qYXF1YXkyMi53b3JrZXJzLmRldiIsCiAgICAiaWQiOiAiZjU4NGRlMTUtMjAzNC00MTcwLWE3MjMtZjQ4YzJiYWU1ZTBmIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2FmcmhtczE2di5iZXN0eHJheS5idXp6L2xpbmt3cyIsCiAgICAicG9ydCI6IDIwNTIsCiAgICAicHMiOiAi8J+HuPCfh6xTRy0yMDYuMjM4LjIzNi4zNi04MjEzIiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwKICAgICJzbmkiOiAibXlzYW4yLmphcXVheTIyLndvcmtlcnMuZGV2Igp9
@@ -272,13 +273,16 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZWQ3MThmY2IyYmIxN2I3@154.26.132.38:27883#%f
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZWQ3MThmY2IyYmIxN2I3@154.26.132.38:27882#%f0%9f%87%b8%f0%9f%87%ac%20SG%202
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZWQ3MThmY2IyYmIxN2I3@154.26.132.38:27884#%f0%9f%87%b8%f0%9f%87%ac%20SG%203
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZWQ3MThmY2IyYmIxN2I3@154.26.132.38:27885#%f0%9f%87%b8%f0%9f%87%ac%20SG%204
-trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@194.87.10.31:23357?security=tls&sni=sgp9.node-resource.click#[openproxylist.com] trojan-SG
+trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@194.87.10.31:23357?allowInsecure=0&sni=sgp9.node-resource.click#[openproxylist.com] trojan-SG
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjW29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1TRyIsImFkZCI6InYxMi5oZGFjZC5jb20iLCJwb3J0IjoiMzA4MTIiLCJpZCI6ImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsImFpZCI6MCwibmV0IjoidGNwIiwidHlwZSI6ImF1dG8iLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.149.54:8443?path=/?Telegram @WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.dynv6.net&type=ws&allowInsecure=0&sni=sni.111000.dynv6.net#[openproxylist.com] vless-SG
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:2053?path=/&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#[openproxylist.com] vless-SG
 vless://8c4604ef-749c-4b56-adf1-7da405002a21@render.com:2053?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=qyi.fqjd663.ggff.net&path=%2F&security=tls&sni=qyi.fqjd663.ggff.net&type=ws#[openproxylist.com] vless-SG
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.26.13.31:443?allowInsecure=1&alpn=http%2F1.1&encryption=none&host=sany.tara132.workers.dev&path=%2Fsni.111000.dynv6.net%2F&security=tls&sni=sany.tara132.workers.dev&type=ws#[openproxylist.com] vless-SG
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@bestcf.030101.xyz:443?allowInsecure=1&alpn=http%2F1.1&encryption=none&host=sni.111000.dynv6.net&path=%2F%3Fproxyip%3Dip.111000.de5.net%253A443&security=tls&sni=sni.111000.dynv6.net&type=ws#[openproxylist.com] vless-SG
+trojan://868ecdaf6aed618ec98cf78585672b2b@54.249.109.55:4674?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
+trojan://868ecdaf6aed618ec98cf78585672b2b@13.115.146.132:4674?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A12
+trojan://BxceQaOe@95.40.68.160:12070?sni=t.me%2Fripaojiedian#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A13
 trojan://eQlCz7DG3SDT@13.229.126.77:14822?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#SG|GithubTrojanLinks
 trojan://1JAuty9W)9FJ@13.213.30.41:14831?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#SG|GithubTrojanLinks
 trojan://iYmAGdiUow(p@47.129.43.6:14815?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#SG|GithubTrojanLinks
