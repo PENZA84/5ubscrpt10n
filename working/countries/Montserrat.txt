@@ -19,13 +19,11 @@ vless://62699a63-f16e-4c8c-bb86-40e3031bf7fc@arvancloud.ir:80?encryption=none&ho
 vless://69c363e4-2d88-4336-af5d-f48d689a338d@185.143.233.5:2083?path=/&security=tls&encryption=none&insecure=0&host=p1.sesrsa.com&fp=chrome&type=ws&allowInsecure=0&sni=sub.sesrsa.com#The Netherlands, Amsterdam |  IP: 45.252.181.54 | ping:694.68ms |  @NamazVPN
 vless://71d11816-51b5-4a79-95db-842272f83a70@snapp.ir:8080?encryption=none&security=none&type=ws&headerType=none&path=/&host=M2.snllshop.ir#Unknown |  IP: N/A | ping:8228.97ms |  @NamazVPN
 vless://75bb0d63-2b70-49d9-8b6a-952add3e21c5@snapp.ir:80?path=/&security=none&encryption=none&host=iranfuture.musicritmic.ir&type=ws#Unknown |  IP: N/A | ping:3114.17ms |  @NamazVPN
-vless://8c79b452-cd58-4f35-a1a7-b37fe798c821@185.143.233.5:2083?path=/&security=tls&encryption=none&host=p1.sesrsa.com&fp=chrome&type=ws&sni=sub.sesrsa.com#Unknown |  IP: N/A | ping:11061.77ms |  @NamazVPN
-vless://8c79b452-cd58-4f35-a1a7-b37fe798c821@185.143.233.5:2083?path=/&security=tls&encryption=none&host=p1.sesrsa.com&fp=chrome&type=ws&sni=sub.sesrsa.com#Germany, Falkenstein |  IP: 49.13.49.100 | ping:3702.06ms |  @NamazVPN
 vless://91a4b5e5-8000-436c-8c0b-201b1eac9974@185.50.38.194:51853?type=tcp&security=none&encryption=none#Unknown |  IP: N/A | ping:2410.14ms |  @NamazVPN
 vless://92e36f34-11f1-4312-9fda-af253712d09a@snapp.ir:8080?path=/&security=none&encryption=none&host=M2.snllshop.ir&type=ws#@v2ray_configs_poolIranTehrnping:92.39ms
-vless://92e36f34-11f1-4312-9fda-af253712d09a@snapp.ir:8080?path=/&security=none&encryption=none&host=M2.snllshop.ir&type=ws#@v2ray_configs_poolIranTehrnping:96.34ms
 vless://9ca03324-2619-47ed-bed8-72a466a4d382@snapp.ir:8080?path=/&security=&encryption=none&host=midas.starferi.ir&type=ws#Unknown |  IP: N/A | ping:6971.82ms |  @NamazVPN
 vless://a2d39a4e-88e0-4b2c-8e46-7b5f9407d689@snapp.ir:8080?path=/&security=&encryption=none&host=midas.starferi.ir&type=ws#@v2ray_configs_poolIranTehrnping:92.39ms
+vless://adb7b238-97d4-4843-9cd8-3e9bdcbdad72@185.143.233.5:2083?encryption=none&fp=chrome&host=p1.sesrsa.com&path=/&security=tls&sni=sub.sesrsa.com&type=ws#Germany, Falkenstein |  IP: 2a01:4f8:c014:8d11::1 | ping:1525.41ms |  @NamazVPN
 vless://b66aac77-8338-471e-a656-86e273c5b012@185.50.38.17:434?type=tcp&security=none&encryption=none#Unknown |  IP: N/A | ping:1538.33ms |  @NamazVPN
 vless://d7bd6165-fd37-4843-ad0a-3a1dbae0e5f0@185.143.233.5:2083?encryption=none&fp=chrome&host=p1.sesrsa.com&path=/&security=tls&sni=sub.sesrsa.com&type=ws#Unknown |  IP: N/A | ping:3438.68ms |  @NamazVPN
 vless://d7bd6165-fd37-4843-ad0a-3a1dbae0e5f0@185.143.233.5:2083?path=/&security=tls&encryption=none&insecure=0&host=p1.sesrsa.com&fp=chrome&type=ws&allowInsecure=0&sni=sub.sesrsa.com#The Netherlands, Amsterdam |  IP: 104.28.219.137 | ping:8148.51ms |  @NamazVPN
@@ -71,4 +69,6 @@ vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=%2F&securit
 vless://3e0f8249-3f4e-4368-b31a-23f6af0fdfe4@c1.3.site.azadsb.sbs:8443?path=%2Fazad74562&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&type=ws&sni=siNgle.lenalizmy0ve.ir#%F0%9F%8C%90%20%7C%20null%20%7C%2099999ms%20%7C%20%2A%2A%2A%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%2A%2A%2A-%40SPEEDS_VPN
 vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=ipv4.yasharteam.com&fp=chrome&type=ws&allowInsecure=0&sni=ipv4.yasharteam.com#%F0%9F%8C%90%20%7C%20null%20%7C%2099999ms%20%7C%20configraygan_19
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052/?type=xhttp&encryption=none#%F0%9F%8C%90%20%7C%20null%20%7C%2099999ms%20%7C%20
-vless://8c79b452-cd58-4f35-a1a7-b37fe798c821@185.143.233.5:2083?path=/&security=tls&encryption=none&host=p1.sesrsa.com&fp=chrome&type=ws&sni=sub.sesrsa.com#Germany, Falkenstein |  IP: 2a01:4f8:c014:8d11::1 | ping:2937.13ms |  @NamazVPN
+vless://8c79b452-cd58-4f35-a1a7-b37fe798c821@185.143.233.5:2083?path=/&security=tls&encryption=none&host=p1.sesrsa.com&fp=chrome&type=ws&sni=sub.sesrsa.com#Unknown |  IP: N/A | ping:11061.77ms |  @NamazVPN
+vless://8c79b452-cd58-4f35-a1a7-b37fe798c821@185.143.233.5:2083?path=/&security=tls&encryption=none&host=p1.sesrsa.com&fp=chrome&type=ws&sni=sub.sesrsa.com#Germany, Falkenstein |  IP: 49.13.49.100 | ping:3702.06ms |  @NamazVPN
+vless://92e36f34-11f1-4312-9fda-af253712d09a@snapp.ir:8080?path=/&security=none&encryption=none&host=M2.snllshop.ir&type=ws#@v2ray_configs_poolIranTehrnping:96.34ms
