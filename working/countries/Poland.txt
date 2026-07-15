@@ -256,7 +256,6 @@ ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@217.30.10.68:9001#%F0%9F%87%B5%F0%
 ss://YWVzLTI1Ni1jZmI6U241QjdqVHFyNzZhQ0pUOA==@217.30.10.68:9097#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-9061
 ss://YWVzLTI1Ni1jZmI6U0JNN1I4ODNqQm1ucWU2Qw==@217.30.10.68:9053#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-9062
 ss://YWVzLTI1Ni1jZmI6RkFkVXZNSlVxNXZEZ0tFcQ==@217.30.10.68:9006#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-9063
-vless://d4e1d555-0cd4-4cbd-98c2-1e2c0d6128cd@164.138.100.201:443?sni=api-maps.yandex.ru&type=grpc&serviceName=pl-br-yandex&fp=qq&security=tls#%F0%9F%87%B5%F0%9F%87%B1PL_1%7C3.2MB/s
 ss://YWVzLTI1Ni1jZmI6SmRtUks5Z01FcUZnczhuUA@217.30.10.70:9003#PL  ROSE32
 ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ@217.30.10.70:9011#PL  ROSE33
 ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ@217.30.10.70:9042#PL  ROSE34
@@ -288,7 +287,10 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@war.ssvpnapp.win:57456
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.58:57456#%F0%9F%87%B5%F0%9F%87%B1PL-45.144.48.58-0767
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.63:57456#%F0%9F%87%B5%F0%9F%87%B1PL-45.144.48.63-0386
 vless://f2d78dd4-ec5a-4720-be82-5df263fd5272@146.59.13.37:80?encryption=none&security=none&type=ws&host=pl1.v2vless.xyz&path=%2Fvless#Mahsa%2B%3A%2B%F0%9F%87%B5%F0%9F%87%B1%2BPoland
-trojan://PI36027154@upright-hamster.rooster465.autos:443?sni=upright-hamster.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%b5%f0%9f%87%b1%20PL%201
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@92.118.205.211:5600#%f0%9f%87%b5%f0%9f%87%b1%20PL%201
+trojan://PI36027154@upright-hamster.rooster465.autos:443?sni=upright-hamster.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%b5%f0%9f%87%b1%20PL%202
+trojan://PI36027154@62.112.222.26:443?sni=upright-hamster.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%b5%f0%9f%87%b1%20PL%203
+trojan://e0847a89a1664221ad7dbfa85619afc3@144.31.113.56:58371?security=reality&sni=ymail.com&fp=random&pbk=y_2T2eHweTAvMscT79ukT4yDLYyA7lLAOuSIhaxHNhI&sid=000cd4ed50cad4&spx=%2f&type=tcp&headerType=none&path=%2f#%f0%9f%87%b5%f0%9f%87%b1%20PL%204
 vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@144.31.0.100:443?security=reality&encryption=none&pbk=CxMPFpwhcR9Ocp-Xy_1J08mo-atdHKUf58WLOy_XlgM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=vaultivo-hgooe.ru&sid=d9662905#[openproxylist.com] vless-PL
 vless://3ef170be-05d0-479c-9753-aa2f860964ea@153.76.122.225:443?security=reality&encryption=none&pbk=C1hW1bTA9WOacIK-fHHg-HLkDZ3FY7FhEhAyldMSUEA&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cloudflare.com&sid=a1b2c3d4e5f6#[openproxylist.com] vless-PL
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlBMIiwNCiAgImFkZCI6ICI5Mi4xMTguMjA1LjIwNyIsDQogICJwb3J0IjogIjgwODAiLA0KICAiaWQiOiAiYmRkMjI4NDEtYzRkMi00YWE4LWFjZjItOTVhYTkxMjVmMTU5IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJwbC0yLnRyb2xsZnVubnkubmV0IiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogInBsLTIudHJvbGxmdW5ueS5uZXQiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiY2hyb21lIg0KfQ==
