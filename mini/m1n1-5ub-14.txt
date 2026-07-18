@@ -1,3 +1,5 @@
+trojan://CF68213490@alert-monster.rooster465.autos:443?sni=alert-monster.rooster465.autos&path=%2f# By EbraSha 
+trojan://CF68213490@alert-monster.rooster465.autos:443?sni=alert-monster.rooster465.autos&type=tcp&fp=chrome# By EbraSha 
 trojan://CF68213490@alert-redfish.rooster465.autos:443/?type=tcp&security=tls&sni=alert-redfish.rooster465.autos&fp=chrome# By EbraSha 
 trojan://CF68213490@alert-redfish.rooster465.autos:443?allowInsecure=0&sni=alert-redfish.rooster465.autos# By EbraSha 
 trojan://CF68213490@alert-redfish.rooster465.autos:443?security=tls&sni=alert-redfish.rooster465.autos# By EbraSha 
@@ -2270,6 +2272,7 @@ trojan://JA96378052@soskeynets-toucan.rooster465.autos:443?allowInsecure=0&sni=r
 trojan://JA96378052@square-skink.rooster465.autos:443?allowInsecure=1&sni=square-skink.rooster465.autos# By EbraSha 
 trojan://JA96378052@stable-racer.rooster465.autos:443?allowInsecure=0&sni=stable-racer.rooster465.autos# By EbraSha 
 trojan://JA96378052@stable-racer.rooster465.autos:443?allowInsecure=1&sni=stable-racer.rooster465.autos# By EbraSha 
+trojan://JA96378052@stable-racer.rooster465.autos:443?security=tls&headerType=none&type=tcp&sni=stable-racer.rooster465.autos# By EbraSha 
 trojan://JA96378052@tolerant-fowl.rooster465.autos:443?allowInsecure=1&sni=tolerant-fowl.rooster465.autos# By EbraSha 
 trojan://JA96378052@trusting-moccasin.rooster465.autos:443?allowInsecure=1&sni=trusting-moccasin.rooster465.autos# By EbraSha 
 trojan://JA96378052@upward-puma.rooster465.autos:443?allowInsecure=1&sni=upward-puma.rooster465.autos# By EbraSha 
@@ -9995,6 +9998,3 @@ trojan://O4O8.Ew%2BujFX6GJBQ%3DxQr.heGwux0GYHqk@45.61.58.89:443?security=tls&hea
 trojan://O4O8.Ew%2BujFX6GJBQ%3DxQr.heGwux0GYHqk@45.61.58.89:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0# By EbraSha 
 trojan://O4O8.Ew%2BujFX6GJBQ%3DxQr.heGwux0GYHqk@45.61.58.89:443?sni=45.61.58.89&peer=45.61.58.89&security=tls# By EbraSha 
 trojan://O4O8.Ew%2BujFX6GJBQ%3DxQr.heGwux0GYHqk@45.61.58.89:443?type=tcp&security=tls&headerType=none&sni=45.61.58.89&fp=chrome&insecure=1&allowInsecure=1# By EbraSha 
-trojan://O4O8.Ew+ujFX6GJBQ%3DxQr.heGwux0GYHqk@207.126.167.150:443/?type=tcp&security=tls# By EbraSha 
-trojan://O4O8.Ew+ujFX6GJBQ%3DxQr.heGwux0GYHqk@207.126.167.150:443/?type=tcp&security=tls&sni=207.126.167.150# By EbraSha 
-trojan://O4O8.Ew+ujFX6GJBQ%3DxQr.heGwux0GYHqk@207.126.167.150:443?type=tcp&security=tls# By EbraSha 
