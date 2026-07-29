@@ -92,4 +92,7 @@ https://raw.githubusercontent.com/PENZA84/5ubscrpt10n/main/mini/m1n1-5ub-71.txt
 https://raw.githubusercontent.com/PENZA84/5ubscrpt10n/main/mini/m1n1-5ub-72.txt
 https://raw.githubusercontent.com/PENZA84/5ubscrpt10n/main/mini/m1n1-5ub-73.txt
 https://raw.githubusercontent.com/PENZA84/5ubscrpt10n/main/mini/m1n1-5ub-74.txt
+https://raw.githubusercontent.com/PENZA84/5ubscrpt10n/main/mini/m1n1-5ub-75.txt
+https://raw.githubusercontent.com/PENZA84/5ubscrpt10n/main/mini/m1n1-5ub-76.txt
+https://raw.githubusercontent.com/PENZA84/5ubscrpt10n/main/mini/m1n1-5ub-77.txt
 ```
